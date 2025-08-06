@@ -1,0 +1,178 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+acute_inpatient_01_base	99221	"Initial hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and straightforward or low level medical decision making. When using total time on t"	2514404	CPT4	Procedure
+acute_inpatient_01_base	99223	"Initial hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making. When using total time on the date of the "	2514406	CPT4	Procedure
+acute_inpatient_01_base	99232	"Subsequent hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. When using total time on the date "	2514408	CPT4	Procedure
+acute_inpatient_01_base	99234	"Hospital inpatient or observation care, for the evaluation and management of a patient including admission and discharge on the same date, which requires a medically appropriate history and/or examination and straightforward or low level of medical decisi"	2514410	CPT4	Observation
+acute_inpatient_01_base	99236	"Hospital inpatient or observation care, for the evaluation and management of a patient including admission and discharge on the same date, which requires a medically appropriate history and/or examination and high level of medical decision making. When us"	2514412	CPT4	Observation
+acute_inpatient_01_base	99239	Hospital inpatient or observation discharge day management; more than 30 minutes on the date of the encounter	2514414	CPT4	Procedure
+acute_inpatient_01_base	99253	"Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and low level of medical decision making. When using total time on the date of the encounter for code selection, 45 m"	2514422	CPT4	Observation
+acute_inpatient_01_base	99255	"Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and high level of medical decision making. When using total time on the date of the encounter for code selection, 80 "	2514424	CPT4	Observation
+acute_inpatient_01_base	99222	"Initial hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. When using total time on the date of "	2514405	CPT4	Procedure
+acute_inpatient_01_base	99231	"Subsequent hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and straightforward or low level of medical decision making. When using total tim"	2514407	CPT4	Procedure
+acute_inpatient_01_base	99233	"Subsequent hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making. When using total time on the date of t"	2514409	CPT4	Procedure
+acute_inpatient_01_base	99235	"Hospital inpatient or observation care, for the evaluation and management of a patient including admission and discharge on the same date, which requires a medically appropriate history and/or examination and moderate level of medical decision making. Whe"	2514411	CPT4	Observation
+acute_inpatient_01_base	99238	Hospital inpatient or observation discharge day management; 30 minutes or less on the date of the encounter	2514413	CPT4	Procedure
+acute_inpatient_01_base	99252	"Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and straightforward medical decision making. When using total time on the date of the encounter for code selection, 3"	2514421	CPT4	Observation
+acute_inpatient_01_base	99254	"Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. When using total time on the date of the encounter for code selection,"	2514423	CPT4	Observation
+acute_inpatient_01_base	99291	"Critical care, evaluation and management of the critically ill or critically injured patient; first 30-74 minutes"	2514441	CPT4	Procedure
+acute_inpatient_01_base	305400006	Admission to psychiatry department	4138051	SNOMED	Observation
+acute_inpatient_01_base	305402003	Admission to forensic psychiatry department	4138946	SNOMED	Observation
+acute_inpatient_01_base	305405001	Admission to rehabilitation psychiatry department	4123945	SNOMED	Observation
+acute_inpatient_01_base	305407009	Admission to occupational health department	4138054	SNOMED	Observation
+acute_inpatient_01_base	305409007	Admission to breast surgery department	4138055	SNOMED	Observation
+acute_inpatient_01_base	305411003	Admission to thoracic surgery department	4138948	SNOMED	Observation
+acute_inpatient_01_base	305413000	Admission to dental surgery department	4123947	SNOMED	Observation
+acute_inpatient_01_base	305415007	Admission to pediatric dentistry department	4138951	SNOMED	Observation
+acute_inpatient_01_base	305417004	"Admission to ear, nose and throat department"	4138952	SNOMED	Observation
+acute_inpatient_01_base	305419001	Admission to gastrointestinal surgery department	4128740	SNOMED	Observation
+acute_inpatient_01_base	305421006	Admission to upper gastrointestinal surgery department	4123948	SNOMED	Observation
+acute_inpatient_01_base	305423009	Admission to general surgical department	4128742	SNOMED	Observation
+acute_inpatient_01_base	305425002	Admission to neurosurgical department	4138954	SNOMED	Observation
+acute_inpatient_01_base	305427005	Admission to oral surgery department	4128744	SNOMED	Observation
+acute_inpatient_01_base	305429008	Admission to pancreatic surgery department	4138058	SNOMED	Observation
+acute_inpatient_01_base	305431004	Admission to plastic surgery department	4138059	SNOMED	Observation
+acute_inpatient_01_base	305433001	Admission to trauma surgery department	4139065	SNOMED	Observation
+acute_inpatient_01_base	305435008	Admission to vascular surgery department	4124065	SNOMED	Observation
+acute_inpatient_01_base	306803007	Admission to stroke unit	4143576	SNOMED	Observation
+acute_inpatient_01_base	308251003	Admission to clinical oncology department	4202770	SNOMED	Observation
+acute_inpatient_01_base	308253000	Admission to diabetic department	4202017	SNOMED	Observation
+acute_inpatient_01_base	3241000175106	Hospital admission from non-health care facility	37016302	SNOMED	Observation
+acute_inpatient_01_base	373113001	Routine procedure	4158570	SNOMED	Procedure
+acute_inpatient_01_base	398162007	Admission to high dependency unit	4161811	SNOMED	Observation
+acute_inpatient_01_base	405614004	Unexpected hospital admission	4236739	SNOMED	Observation
+acute_inpatient_01_base	417005	Hospital re-admission	4213258	SNOMED	Observation
+acute_inpatient_01_base	442281000124108	Emergency hospital admission from observation unit	765866	SNOMED	Observation
+acute_inpatient_01_base	448421000124105	"Hospital admission, transfer from physician office"	763905	SNOMED	Observation
+acute_inpatient_01_base	448441000124103	"Hospital admission, transfer from intermediate care facility"	763906	SNOMED	Observation
+acute_inpatient_01_base	45702004	"Hospital admission, precertified by medical audit action"	4163995	SNOMED	Observation
+acute_inpatient_01_base	48183000	"Hospital admission, special"	4170197	SNOMED	Observation
+acute_inpatient_01_base	51032003	"Hospital admission, donor for transplant organ"	4180080	SNOMED	Observation
+acute_inpatient_01_base	5161006	Specialty clinic admission	4197818	SNOMED	Observation
+acute_inpatient_01_base	60059000	"Hospital admission, infant, for observation, delivered outside of hospital"	4243811	SNOMED	Observation
+acute_inpatient_01_base	699124006	Admission to substance misuse detoxification center	44783081	SNOMED	Observation
+acute_inpatient_01_base	71290004	"Hospital admission, limited to designated procedures"	4324944	SNOMED	Observation
+acute_inpatient_01_base	74857009	"Hospital admission, short-term, 24 hours"	4253640	SNOMED	Observation
+acute_inpatient_01_base	78680009	"Hospital admission, emergency, direct"	4301368	SNOMED	Observation
+acute_inpatient_01_base	82942009	"Hospital admission, blood donor"	4306925	SNOMED	Observation
+acute_inpatient_01_base	10378005	"Hospital admission, emergency, from emergency room, accidental injury"	4014030	SNOMED	Observation
+acute_inpatient_01_base	1505002	Hospital admission for isolation	4034691	SNOMED	Observation
+acute_inpatient_01_base	18083007	"Hospital admission, emergency, indirect"	4106253	SNOMED	Observation
+acute_inpatient_01_base	183452005	Emergency hospital admission	4079617	SNOMED	Observation
+acute_inpatient_01_base	183487005	Non-urgent medical admission	4080066	SNOMED	Observation
+acute_inpatient_01_base	183489008	Non-urgent psychiatric admission	4084671	SNOMED	Observation
+acute_inpatient_01_base	183492007	Non-urgent pediatric admission	4084342	SNOMED	Observation
+acute_inpatient_01_base	183494008	Non-urgent obstetric admission	4080067	SNOMED	Observation
+acute_inpatient_01_base	183496005	Non-urgent ENT admission	4084676	SNOMED	Observation
+acute_inpatient_01_base	183498006	Non-urgent ophthalmological admission	4084343	SNOMED	Observation
+acute_inpatient_01_base	183500007	Non-urgent dermatology admission	4084345	SNOMED	Observation
+acute_inpatient_01_base	183502004	Non-urgent urology admission	4084678	SNOMED	Observation
+acute_inpatient_01_base	183504003	Non-urgent hematology admission	4084346	SNOMED	Observation
+acute_inpatient_01_base	183506001	Non-urgent diabetic admission	4080072	SNOMED	Observation
+acute_inpatient_01_base	183508000	Non-urgent psychogeriatric admission	4084679	SNOMED	Observation
+acute_inpatient_01_base	183510003	Non-urgent neurosurgical admission	4084348	SNOMED	Observation
+acute_inpatient_01_base	183512006	Non-urgent oral surgical admission	4084680	SNOMED	Observation
+acute_inpatient_01_base	2252009	"Hospital admission, urgent, 48 hours"	4331002	SNOMED	Observation
+acute_inpatient_01_base	25986004	"Hospital admission, under police custody"	4094076	SNOMED	Observation
+acute_inpatient_01_base	305337004	Admission to community hospital	4137912	SNOMED	Observation
+acute_inpatient_01_base	305339001	Admission to private hospital	4138930	SNOMED	Observation
+acute_inpatient_01_base	305342007	Admission to ward	4138931	SNOMED	Observation
+acute_inpatient_01_base	305354007	Admission to medical department	4128598	SNOMED	Observation
+acute_inpatient_01_base	305356009	Admission to audiology department	4123935	SNOMED	Observation
+acute_inpatient_01_base	305360007	Admission to pulmonary medicine department	4138934	SNOMED	Observation
+acute_inpatient_01_base	305362004	Admission to clinical neurophysiology department	4137919	SNOMED	Observation
+acute_inpatient_01_base	305364003	Admission to clinical physiology department	4138936	SNOMED	Observation
+acute_inpatient_01_base	305366001	Admission to endocrinology department	4138038	SNOMED	Observation
+acute_inpatient_01_base	305368000	Admission to general medical department	4128599	SNOMED	Observation
+acute_inpatient_01_base	305370009	Admission to clinical genetics department	4123939	SNOMED	Observation
+acute_inpatient_01_base	305372001	Admission to clinical molecular genetics department	4128734	SNOMED	Observation
+acute_inpatient_01_base	305375004	Admission to care of the elderly department	4138938	SNOMED	Observation
+acute_inpatient_01_base	305377007	Admission to medical ophthalmology department	4138041	SNOMED	Observation
+acute_inpatient_01_base	305379005	Admission to neurology department	4138043	SNOMED	Observation
+acute_inpatient_01_base	305380008	Admission to nuclear medicine department	4138044	SNOMED	Observation
+acute_inpatient_01_base	305383005	Admission to rheumatology department	4123940	SNOMED	Observation
+acute_inpatient_01_base	305385003	Admission to gynecology department	4138047	SNOMED	Observation
+acute_inpatient_01_base	305387006	Admission to pediatric department	4138048	SNOMED	Observation
+acute_inpatient_01_base	305389009	Admission to pediatric neurology department	4123942	SNOMED	Observation
+acute_inpatient_01_base	305391001	Admission to pain management department	4138941	SNOMED	Observation
+acute_inpatient_01_base	305393003	Admission to blood transfusion department	4138942	SNOMED	Observation
+acute_inpatient_01_base	305395005	Admission to general pathology department	4138050	SNOMED	Observation
+acute_inpatient_01_base	305397002	Admission to medical microbiology department	4138944	SNOMED	Observation
+acute_inpatient_01_base	112689000	"Hospital admission, elective, with complete pre-admission work-up"	4010105	SNOMED	Observation
+acute_inpatient_01_base	15584006	"Hospital admission, elective, with partial pre-admission work-up"	4049607	SNOMED	Observation
+acute_inpatient_01_base	183450002	Admission to burn unit	4084216	SNOMED	Observation
+acute_inpatient_01_base	183481006	Non-urgent hospital admission	4084669	SNOMED	Observation
+acute_inpatient_01_base	183488000	Non-urgent surgical admission	4084670	SNOMED	Observation
+acute_inpatient_01_base	183491000	Non-urgent geriatric admission	4079629	SNOMED	Observation
+acute_inpatient_01_base	183493002	Non-urgent gynecological admission	4084674	SNOMED	Observation
+acute_inpatient_01_base	183495009	Non-urgent orthopedic admission	4084675	SNOMED	Observation
+acute_inpatient_01_base	183497001	Non-urgent trauma admission	4079630	SNOMED	Observation
+acute_inpatient_01_base	183499003	Non-urgent rheumatology admission	4084344	SNOMED	Observation
+acute_inpatient_01_base	183501006	Non-urgent neurology admission	4084677	SNOMED	Observation
+acute_inpatient_01_base	183503009	Non-urgent radiotherapy admission	4080070	SNOMED	Observation
+acute_inpatient_01_base	183505002	Non-urgent plastic surgery admission	4080071	SNOMED	Observation
+acute_inpatient_01_base	183507005	Non-urgent respiratory admission	4084347	SNOMED	Observation
+acute_inpatient_01_base	183509008	Non-urgent renal medicine admission	4079631	SNOMED	Observation
+acute_inpatient_01_base	183511004	Non-urgent cardiothoracic admission	4080073	SNOMED	Observation
+acute_inpatient_01_base	19951005	"Hospital admission, emergency, from emergency room, medical nature"	4063290	SNOMED	Observation
+acute_inpatient_01_base	235313004	Non-emergency appendectomy	4128726	SNOMED	Procedure
+acute_inpatient_01_base	304566005	Admission for treatment	4136774	SNOMED	Observation
+acute_inpatient_01_base	305338009	Admission to GP hospital	4123928	SNOMED	Observation
+acute_inpatient_01_base	305341000	Admission to tertiary referral hospital	4137913	SNOMED	Observation
+acute_inpatient_01_base	305350003	Admission to anesthetic department	4137916	SNOMED	Observation
+acute_inpatient_01_base	305355008	Admission to clinical allergy department	4123934	SNOMED	Observation
+acute_inpatient_01_base	305357000	Admission to cardiology department	4123936	SNOMED	Observation
+acute_inpatient_01_base	305361006	Admission to clinical immunology department	4138935	SNOMED	Observation
+acute_inpatient_01_base	305363009	Admission to clinical pharmacology department	4137920	SNOMED	Observation
+acute_inpatient_01_base	305365002	Admission to dermatology department	4138037	SNOMED	Observation
+acute_inpatient_01_base	305367005	Admission to gastroenterology department	4123938	SNOMED	Observation
+acute_inpatient_01_base	305369008	Admission to genetics department	4138039	SNOMED	Observation
+acute_inpatient_01_base	305371008	Admission to clinical cytogenetics department	4128733	SNOMED	Observation
+acute_inpatient_01_base	305374000	Admission to genitourinary medicine department	4138040	SNOMED	Observation
+acute_inpatient_01_base	305376003	Admission to infectious diseases department	4128735	SNOMED	Observation
+acute_inpatient_01_base	305378002	Admission to nephrology department	4138042	SNOMED	Observation
+acute_inpatient_01_base	305382000	Admission to rehabilitation department	4138939	SNOMED	Observation
+acute_inpatient_01_base	305384004	Admission to obstetrics and gynecology department	4138046	SNOMED	Observation
+acute_inpatient_01_base	305386002	Admission to obstetrics department	4128736	SNOMED	Observation
+acute_inpatient_01_base	305388001	Admission to special care baby unit	4123941	SNOMED	Observation
+acute_inpatient_01_base	305390000	Admission to pediatric oncology department	4138940	SNOMED	Observation
+acute_inpatient_01_base	305392008	Admission to pathology department	4138049	SNOMED	Observation
+acute_inpatient_01_base	305394009	Admission to chemical pathology department	4138943	SNOMED	Observation
+acute_inpatient_01_base	305396006	Admission to hematology department	4128737	SNOMED	Observation
+acute_inpatient_01_base	305399004	Admission to neuropathology department	4138945	SNOMED	Observation
+acute_inpatient_01_base	305401005	Admission to child and adolescent psychiatry department	4138052	SNOMED	Observation
+acute_inpatient_01_base	305403008	Admission to psychogeriatric department	4138947	SNOMED	Observation
+acute_inpatient_01_base	305406000	Admission to radiology department	4138053	SNOMED	Observation
+acute_inpatient_01_base	305408004	Admission to surgical department	4123946	SNOMED	Observation
+acute_inpatient_01_base	305410002	Admission to cardiothoracic surgery department	4128738	SNOMED	Observation
+acute_inpatient_01_base	305412005	Admission to cardiac surgery department	4138949	SNOMED	Observation
+acute_inpatient_01_base	305414006	Admission to orthodontics department	4138950	SNOMED	Observation
+acute_inpatient_01_base	305416008	Admission to restorative dentistry department	4128739	SNOMED	Observation
+acute_inpatient_01_base	305418009	Admission to endocrine surgery department	4138953	SNOMED	Observation
+acute_inpatient_01_base	305420007	Admission to general gastrointestinal surgery department	4128741	SNOMED	Observation
+acute_inpatient_01_base	305422004	Admission to colorectal surgery department	4138056	SNOMED	Observation
+acute_inpatient_01_base	305424003	Admission to hepatobiliary surgical department	4128743	SNOMED	Observation
+acute_inpatient_01_base	305426001	Admission to ophthalmology department	4138057	SNOMED	Observation
+acute_inpatient_01_base	305428000	Admission to orthopedic department	4139064	SNOMED	Observation
+acute_inpatient_01_base	305430003	Admission to pediatric surgical department	4123949	SNOMED	Observation
+acute_inpatient_01_base	305432006	Admission to surgical transplant department	4128745	SNOMED	Observation
+acute_inpatient_01_base	305434007	Admission to urology department	4123950	SNOMED	Observation
+acute_inpatient_01_base	306732000	Admission to general dental surgery department	4144494	SNOMED	Observation
+acute_inpatient_01_base	306967009	Admission to hand surgery department	4142315	SNOMED	Observation
+acute_inpatient_01_base	308252005	Admission to radiotherapy department	4202016	SNOMED	Observation
+acute_inpatient_01_base	310361003	Non-urgent cardiological admission	4151028	SNOMED	Observation
+acute_inpatient_01_base	32485007	Hospital admission	8715	SNOMED	Observation
+acute_inpatient_01_base	397769005	Unexpected admission to high dependency unit	4218192	SNOMED	Observation
+acute_inpatient_01_base	432621000124105	Hospital admission from dialysis facility	42535587	SNOMED	Observation
+acute_inpatient_01_base	447941000124106	Hospital admission of newborn	765400	SNOMED	Observation
+acute_inpatient_01_base	448431000124108	"Hospital admission, transfer from assisted living facility"	765836	SNOMED	Observation
+acute_inpatient_01_base	448851000124103	Hospital admission from observation unit	763943	SNOMED	Observation
+acute_inpatient_01_base	47348005	"Hospital admission, mother, for observation, delivered outside of hospital"	4167176	SNOMED	Observation
+acute_inpatient_01_base	50699000	"Hospital admission, short-term"	4177517	SNOMED	Observation
+acute_inpatient_01_base	51501005	"Hospital admission, parent, for in-hospital child care"	4197536	SNOMED	Observation
+acute_inpatient_01_base	52748007	Involuntary hospital admission	4202826	SNOMED	Observation
+acute_inpatient_01_base	63551005	"Hospital admission, from remote area, by means of special transportation"	4272954	SNOMED	Observation
+acute_inpatient_01_base	70755000	"Hospital admission, by legal authority (commitment)"	4323832	SNOMED	Observation
+acute_inpatient_01_base	73607007	"Hospital admission, emergency, from emergency room"	4248556	SNOMED	Observation
+acute_inpatient_01_base	76464004	"Hospital admission, for observation"	4295146	SNOMED	Observation
+acute_inpatient_01_base	81672003	"Hospital admission, elective, without pre-admission work-up"	4218092	SNOMED	Observation
+acute_inpatient_01_base	8715000	"Hospital admission, elective"	4314435	SNOMED	Observation

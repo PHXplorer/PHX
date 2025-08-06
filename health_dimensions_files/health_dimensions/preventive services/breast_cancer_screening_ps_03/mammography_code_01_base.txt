@@ -1,0 +1,28 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+mammography_code_01_base	87	Contrast radiogram of mammary ducts	ICD9Proc	NULL
+mammography_code_01_base	87	Other mammography	ICD9Proc	NULL
+mammography_code_01_base	24623002	Screening mammography	SNOMED	NULL
+mammography_code_01_base	241056007	Mammogram - localization	SNOMED	NULL
+mammography_code_01_base	18102001	Mammary ductogram	SNOMED	NULL
+mammography_code_01_base	43204002	Mammography of bilateral breasts	SNOMED	NULL
+mammography_code_01_base	71651007	Mammography	SNOMED	NULL
+mammography_code_01_base	572701000119102	Mammography of left breast	SNOMED	NULL
+mammography_code_01_base	566571000119105	Mammography of right breast	SNOMED	NULL
+mammography_code_01_base	V76.10	"Breast screening, unspecified"	ICD9CM	NULL
+mammography_code_01_base	V76.11	Screening mammogram for high-risk patient	ICD9CM	NULL
+mammography_code_01_base	V76.12	Other screening mammogram	ICD9CM	NULL
+mammography_code_01_base	V76.19	Other screening breast examination	ICD9CM	NULL
+mammography_code_01_base	R92.2	Inconclusive mammogram	ICD10CM	NULL
+mammography_code_01_base	77057	"Screening mammography, bilateral (2-view study of each breast)"	CPT4	NULL
+mammography_code_01_base	77056	Mammography; bilateral	CPT4	NULL
+mammography_code_01_base	77055	Mammography; unilateral	CPT4	NULL
+mammography_code_01_base	77052	"Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation, with or without digitization of film radiographic images; screening mammography (List separately in addition to code "	CPT4	NULL
+mammography_code_01_base	77051	"Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation, with or without digitization of film radiographic images; diagnostic mammography (List separately in addition to code"	CPT4	NULL
+mammography_code_01_base	77066	"Diagnostic mammography, including computer-aided detection (CAD) when performed; bilateral"	CPT4	NULL
+mammography_code_01_base	77065	"Diagnostic mammography, including computer-aided detection (CAD) when performed; unilateral"	CPT4	NULL
+mammography_code_01_base	f48fece7-e570-41ee-91fc-48a7cfdb61c9	"Retired SNOMED UK Drug extension concept, do not use, use concept indicated by the CONCEPT_RELATIONSHIP table, if any"	SNOMED	NULL
+mammography_code_01_base	77061	Diagnostic digital breast tomosynthesis; unilateral	CPT4	NULL
+mammography_code_01_base	77062	Diagnostic digital breast tomosynthesis; bilateral	CPT4	NULL
+mammography_code_01_base	77063	"Screening digital breast tomosynthesis, bilateral (List separately in addition to code for primary procedure)"	CPT4	NULL
+mammography_code_01_base	1015090	"Breast, Mammography"	CPT4	NULL
+mammography_code_01_base	1029705	"Diagnostic mammography, including computer-aided detection (CAD) when performed"	CPT4	NULL

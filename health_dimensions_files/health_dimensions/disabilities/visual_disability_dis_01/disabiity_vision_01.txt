@@ -1,0 +1,36 @@
+﻿disability_vision_01	H54.0X53	Blindness right eye category 5, blindness left eye category 3	1326545	ICD10CM
+disability_vision_01	H54.0	Blindness, both eyes	35207573	ICD10CM
+disability_vision_01	H54.0X	Blindness, both eyes, different category levels	1326535	ICD10CM
+disability_vision_01	H54.0X43	Blindness right eye category 4, blindness left eye category 3	1326541	ICD10CM
+disability_vision_01	H54.0X44	Blindness right eye category 4, blindness left eye category 4	1326542	ICD10CM
+disability_vision_01	H54.0X54	Blindness right eye category 5, blindness left eye category 4	1326546	ICD10CM
+disability_vision_01	H54.0X55	Blindness right eye category 5, blindness left eye category 5	1326547	ICD10CM
+disability_vision_01	H54.0X45	Blindness right eye category 4, blindness left eye category 5	1326543	ICD10CM
+disability_vision_01	H54.8	Legal blindness, as defined in USA	45576795	ICD10CM
+disability_vision_01	H54.52A1	Low vision left eye category 1, normal vision right eye	1326586	ICD10CM
+disability_vision_01	H54.52	Low vision, left eye, normal vision right eye	45600969	ICD10CM
+disability_vision_01	H54.52A2	Low vision left eye category 2, normal vision right eye	1326587	ICD10CM
+disability_vision_01	H47.619	Cortical blindness, unspecified side of brain	45572002	ICD10CM
+disability_vision_01	H47.61	Cortical blindness	45567085	ICD10CM
+disability_vision_01	369.25	Better eye: moderate vision impairment; lesser eye: moderate vision impairment	44830022	ICD9CM
+disability_vision_01	369.22	Better eye: severe vision impairment; lesser eye: severe vision impairment	44820803	ICD9CM
+disability_vision_01	369.01	Better eye: total vision impairment; lesser eye: total vision impairment	44835873	ICD9CM
+disability_vision_01	369.08	Better eye: profound vision impairment; lesser eye: profound vision impairment	44828924	ICD9CM
+disability_vision_01	369.04	Better eye: near-total vision impairment; lesser eye: near-total vision impairment	44833492	ICD9CM
+disability_vision_01	377.75	Cortical blindness	44835898	ICD9CM
+disability_vision_01	369.4	Legal blindness, as defined in U.S.A.	44833493	ICD9CM
+disability_vision_01	1172900005	Progressive microcephaly, seizures, cortical blindness, developmental delay syndrome	37161029	SNOMED
+disability_vision_01	15913031000119100	Bilateral cortical blindness of brain	37209376	SNOMED
+disability_vision_01	193699007	Blindness - both eyes	372906	SNOMED
+disability_vision_01	193709009	Bilateral acquired blindness of eyes	40386117	SNOMED
+disability_vision_01	193731001	Legal blindness USA	377290	SNOMED
+disability_vision_01	240311000000103	Loss of vision	44790784	SNOMED
+disability_vision_01	313165001	Functional visual loss	372634	SNOMED
+disability_vision_01	334311000119108	Low vision left eye, normal vision right eye	45757699	SNOMED
+disability_vision_01	36676002	Impairment level: profound impairment of both eyes	374930	SNOMED
+disability_vision_01	38465001	Impairment level: near-total impairment of both eyes	379821	SNOMED
+disability_vision_01	68574006	Cortical blindness	253482	SNOMED
+disability_vision_01	75133003	Impairment level: moderate impairment of both eyes	377289	SNOMED
+disability_vision_01	773548008	Early-onset epileptic encephalopathy, cortical blindness, intellectual disability, facial dysmorphism syndrome	36676621	SNOMED
+disability_vision_01	86643000	Impairment level: severe impairment of both eyes	376689	SNOMED
+disability_vision_01	88768004	Impairment level: total impairment of both eyes	377277	SNOMED

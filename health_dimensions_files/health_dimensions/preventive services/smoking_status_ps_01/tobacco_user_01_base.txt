@@ -1,0 +1,41 @@
+﻿tobacco_user_01_base	110483000	Tobacco user	4005823	SNOMED	Observation
+tobacco_user_01_base	1137691001	Trying to give up using electronic cigarette	605781	SNOMED	Observation
+tobacco_user_01_base	160603005	Light cigarette smoker (1-9 cigs/day)	4052029	SNOMED	Observation
+tobacco_user_01_base	160604004	Moderate cigarette smoker (10-19 cigs/day)	4052030	SNOMED	Observation
+tobacco_user_01_base	160605003	Heavy cigarette smoker (20-39 cigs/day)	4052947	SNOMED	Observation
+tobacco_user_01_base	160606002	Very heavy cigarette smoker (40+ cigs/day)	4058136	SNOMED	Observation
+tobacco_user_01_base	160619003	Rolls own cigarettes	4058138	SNOMED	Observation
+tobacco_user_01_base	228494002	Snuff user	4043053	SNOMED	Observation
+tobacco_user_01_base	228499007	Finding relating to moist tobacco use	4036088	SNOMED	Observation
+tobacco_user_01_base	228504007	User of moist powdered tobacco	4043056	SNOMED	Observation
+tobacco_user_01_base	228514003	Chews plug tobacco	4036091	SNOMED	Observation
+tobacco_user_01_base	228515002	Chews twist tobacco	4043060	SNOMED	Observation
+tobacco_user_01_base	228516001	Chews loose leaf tobacco	4038736	SNOMED	Observation
+tobacco_user_01_base	228517005	Chews fine cut tobacco	4038737	SNOMED	Observation
+tobacco_user_01_base	228518000	Chews products containing tobacco	4038738	SNOMED	Observation
+tobacco_user_01_base	230059006	Occasional cigarette smoker	4044775	SNOMED	Observation
+tobacco_user_01_base	230060001	Light cigarette smoker	4042037	SNOMED	Observation
+tobacco_user_01_base	230062009	Moderate cigarette smoker	4044776	SNOMED	Observation
+tobacco_user_01_base	230063004	Heavy cigarette smoker	4041511	SNOMED	Observation
+tobacco_user_01_base	230064005	Very heavy cigarette smoker	4044777	SNOMED	Observation
+tobacco_user_01_base	230065006	Chain smoker	4044778	SNOMED	Observation
+tobacco_user_01_base	266920004	Trivial cigarette smoker (less than one cigarette/day)	4144273	SNOMED	Observation
+tobacco_user_01_base	428041000124106	Occasional tobacco smoker	37395605	SNOMED	Observation
+tobacco_user_01_base	428061000124105	Light tobacco smoker	762498	SNOMED	Observation
+tobacco_user_01_base	428071000124103	Heavy tobacco smoker	762499	SNOMED	Observation
+tobacco_user_01_base	449867007	Uses moist tobacco occasionally	42709995	SNOMED	Observation
+tobacco_user_01_base	449868002	Smokes tobacco daily	42709996	SNOMED	Observation
+tobacco_user_01_base	449869005	Uses moist tobacco daily	42709997	SNOMED	Observation
+tobacco_user_01_base	450811000124104	Cigarette smoker (5-9 cigarettes/day)	764103	SNOMED	Observation
+tobacco_user_01_base	450821000124107	Cigarette smoker (1-4 cigarettes/day)	764104	SNOMED	Observation
+tobacco_user_01_base	56578002	Moderate smoker (20 or less per day)	4209585	SNOMED	Observation
+tobacco_user_01_base	56771006	Heavy smoker (over 20 per day)	4209006	SNOMED	Observation
+tobacco_user_01_base	59978006	Cigar smoker	4246415	SNOMED	Observation
+tobacco_user_01_base	65568007	Cigarette smoker	4276526	SNOMED	Observation
+tobacco_user_01_base	698289004	Hookah pipe smoker	44784248	SNOMED	Observation
+tobacco_user_01_base	713914004	User of smokeless tobacco	37017610	SNOMED	Observation
+tobacco_user_01_base	722499006	Electronic cigarette user	36716478	SNOMED	Observation
+tobacco_user_01_base	77176002	Smoker	4298794	SNOMED	Observation
+tobacco_user_01_base	785889008	Nicotine-filled electronic cigarette user	37203948	SNOMED	Observation
+tobacco_user_01_base	81703003	Chews tobacco	4218741	SNOMED	Observation
+tobacco_user_01_base	82302008	Pipe smoker	4218917	SNOMED	Observation

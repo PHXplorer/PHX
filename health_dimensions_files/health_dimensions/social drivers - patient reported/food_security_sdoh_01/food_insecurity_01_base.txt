@@ -1,0 +1,3 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+food_insecurity_01_base	88122-7	Within the past 12 months we worried whether our food would run out before we got money to buy more [U.S. FSS]	LOINC	NULL
+food_insecurity_01_base	88123-5	Within the past 12 months the food we bought just didnt last and we didnt have money to get more [U.S. FSS]	LOINC	NULL

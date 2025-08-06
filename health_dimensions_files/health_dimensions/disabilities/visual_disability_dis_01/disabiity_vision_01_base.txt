@@ -1,0 +1,15 @@
+﻿disability_vision_01_base	1172900005	Progressive microcephaly, seizures, cortical blindness, developmental delay syndrome	37161029	SNOMED	Condition
+disability_vision_01_base	15913031000119100	Bilateral cortical blindness of brain	37209376	SNOMED	Condition
+disability_vision_01_base	193699007	Blindness - both eyes	372906	SNOMED	Condition
+disability_vision_01_base	193709009	Bilateral acquired blindness of eyes	40386117	SNOMED	Condition
+disability_vision_01_base	193731001	Legal blindness USA	377290	SNOMED	Condition
+disability_vision_01_base	240311000000103	Loss of vision	44790784	SNOMED	Condition
+disability_vision_01_base	313165001	Functional visual loss	372634	SNOMED	Condition
+disability_vision_01_base	334311000119108	Low vision left eye, normal vision right eye	45757699	SNOMED	Condition
+disability_vision_01_base	36676002	Impairment level: profound impairment of both eyes	374930	SNOMED	Condition
+disability_vision_01_base	38465001	Impairment level: near-total impairment of both eyes	379821	SNOMED	Condition
+disability_vision_01_base	68574006	Cortical blindness	253482	SNOMED	Condition
+disability_vision_01_base	75133003	Impairment level: moderate impairment of both eyes	377289	SNOMED	Condition
+disability_vision_01_base	773548008	Early-onset epileptic encephalopathy, cortical blindness, intellectual disability, facial dysmorphism syndrome	36676621	SNOMED	Condition
+disability_vision_01_base	86643000	Impairment level: severe impairment of both eyes	376689	SNOMED	Condition
+disability_vision_01_base	88768004	Impairment level: total impairment of both eyes	377277	SNOMED	Condition

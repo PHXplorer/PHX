@@ -1,0 +1,164 @@
+﻿disability_hearing_01	H91.12	Presbycusis, left ear	45581756	ICD10CM
+disability_hearing_01	H91.1	Presbycusis	1569077	ICD10CM
+disability_hearing_01	H91.11	Presbycusis, right ear	45581755	ICD10CM
+disability_hearing_01	H91.13	Presbycusis, bilateral	45581757	ICD10CM
+disability_hearing_01	H91.10	Presbycusis, unspecified ear	45605767	ICD10CM
+disability_hearing_01	Q87.81	Alport syndrome	45548936	ICD10CM
+disability_hearing_01	H90.7	Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side	1569074	ICD10CM
+disability_hearing_01	H90.71	Mixed conductive and sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side	45557525	ICD10CM
+disability_hearing_01	H90.8	Mixed conductive and sensorineural hearing loss, unspecified	35207621	ICD10CM
+disability_hearing_01	H90.A31	Mixed conductive and sensorineural hearing loss, unilateral, right ear with restricted hearing on the contralateral side	37200480	ICD10CM
+disability_hearing_01	H90.72	Mixed conductive and sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side	45547995	ICD10CM
+disability_hearing_01	H90.A32	Mixed conductive and sensorineural hearing loss, unilateral, left ear with restricted hearing on the contralateral side	37200481	ICD10CM
+disability_hearing_01	H90.A3	Mixed conductive and sensorineural hearing loss, unilateral with restricted hearing on the contralateral side	37200479	ICD10CM
+disability_hearing_01	H91.8X3	Other specified hearing loss, bilateral	45605768	ICD10CM
+disability_hearing_01	H91.93	Unspecified hearing loss, bilateral	45567154	ICD10CM
+disability_hearing_01	A50.53	Hutchinson's triad	45581117	ICD10CM
+disability_hearing_01	389.02	Conductive hearing loss, tympanic membrane	44832362	ICD9CM
+disability_hearing_01	389.08	Conductive hearing loss of combined types	44835920	ICD9CM
+disability_hearing_01	389.04	Conductive hearing loss, inner ear	44831223	ICD9CM
+disability_hearing_01	389.16	Sensorineural hearing loss, asymmetrical	44827776	ICD9CM
+disability_hearing_01	389.11	Sensory hearing loss, bilateral	44821945	ICD9CM
+disability_hearing_01	388.01	Presbyacusis	44830071	ICD9CM
+disability_hearing_01	389.2	Mixed conductive and sensorineural hearing loss	44819688	ICD9CM
+disability_hearing_01	389.21	Mixed hearing loss, unilateral	44831224	ICD9CM
+disability_hearing_01	389.20	Mixed hearing loss, unspecified	44834713	ICD9CM
+disability_hearing_01	721092005	Developmental malformation, deafness, dystonia syndrome	36715419	SNOMED
+disability_hearing_01	721584005	Johnson neuroectodermal syndrome	36715816	SNOMED
+disability_hearing_01	721973006	Lipodystrophy, intellectual disability, deafness syndrome	36716108	SNOMED
+disability_hearing_01	722019000	Oculootoradial syndrome	36716135	SNOMED
+disability_hearing_01	722035007	MEDNIK syndrome	36717524	SNOMED
+disability_hearing_01	722054007	Ocular albinism with late-onset sensorineural deafness	36716152	SNOMED
+disability_hearing_01	722453009	Hennekam Beemer syndrome	36716445	SNOMED
+disability_hearing_01	722476007	Thickened earlobe with conductive deafness syndrome	36716461	SNOMED
+disability_hearing_01	723497003	Peripheral neuropathy with sensorineural hearing impairment syndrome	37109694	SNOMED
+disability_hearing_01	1010230003	Neural hearing loss of right ear	605022	SNOMED
+disability_hearing_01	1010441004	Sensorineural hearing loss of right ear with normal hearing on left side	605114	SNOMED
+disability_hearing_01	1010442006	Sensorineural hearing loss of left ear with normal hearing on right side	605115	SNOMED
+disability_hearing_01	1010610007	Retinitis pigmentosa-deafness syndrome type 3	605187	SNOMED
+disability_hearing_01	1052205008	Mixed conductive and sensorineural hearing loss of left ear with normal hearing on right side	602624	SNOMED
+disability_hearing_01	1052206009	Mixed conductive and sensorineural hearing loss of right ear with normal hearing on left side	602625	SNOMED
+disability_hearing_01	1083811000119108	High frequency sensorineural hearing loss of bilateral ears	36685094	SNOMED
+disability_hearing_01	1084051000119104	Bilateral conductive hearing loss of middle ears	36685104	SNOMED
+disability_hearing_01	1084151000119100	Bilateral hearing loss of ears caused by noise	36685106	SNOMED
+disability_hearing_01	1088931000119103	High frequency sensorineural hearing loss in left ear	765313	SNOMED
+disability_hearing_01	1091541000119108	High frequency sensorineural hearing loss in right ear	764994	SNOMED
+disability_hearing_01	1119386008	Sensorineural hearing loss of right ear	605580	SNOMED
+disability_hearing_01	1119387004	Sensorineural hearing loss of left ear	605581	SNOMED
+disability_hearing_01	1142112002	Sensorineural deafness due to late congenital syphilis	606085	SNOMED
+disability_hearing_01	1172604004	DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome	37160944	SNOMED
+disability_hearing_01	1172605003	Retinitis pigmentosa, hearing loss, premature aging, short stature, facial dysmorphism syndrome	37160945	SNOMED
+disability_hearing_01	1172635005	Split-foot malformation, mesoaxial polydactyly syndrome	37160963	SNOMED
+disability_hearing_01	1173035001	Combined oxidative phosphorylation defect type 25	37161048	SNOMED
+disability_hearing_01	1179361001	Maternal perinatal sensorineural hearing loss	37161436	SNOMED
+disability_hearing_01	1179362008	Neonatal sensorineural hearing loss	37161437	SNOMED
+disability_hearing_01	1179555000	Fetal sensorineural hearing loss	37161496	SNOMED
+disability_hearing_01	1197059004	Congenital ichthyosis, microcephalus, tetraplegia syndrome	37162658	SNOMED
+disability_hearing_01	1208614008	Autosomal dominant deafness with onychodystrophy syndrome	37163211	SNOMED
+disability_hearing_01	1220595008	Cataract, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, skeletal dysplasia syndrome	37163794	SNOMED
+disability_hearing_01	1228871002	PCNA-related progressive neurodegenerative photosensitivity syndrome	37164095	SNOMED
+disability_hearing_01	1234911006	Congenital cochleovestibular malformation	37164819	SNOMED
+disability_hearing_01	1237343009	Otodental syndrome	37165045	SNOMED
+disability_hearing_01	1255271005	Juvenile-onset diabetes mellitus, central and peripheral neurodegeneration syndrome	37165632	SNOMED
+disability_hearing_01	1260133007	Syndromic sensorineural deafness due to combined oxidative phosphorylation defect	37166817	SNOMED
+disability_hearing_01	1260450002	Infantile multisystem neurologic, endocrine, pancreatic disease	37166960	SNOMED
+disability_hearing_01	1268466004	Low frequency sensorineural hearing loss	37167562	SNOMED
+disability_hearing_01	1285518004	Wolfram syndrome type 1	37168689	SNOMED
+disability_hearing_01	1285519007	Wolfram syndrome type 2	37168690	SNOMED
+disability_hearing_01	129629004	Metabolic presbycusis	4030439	SNOMED
+disability_hearing_01	1299152003	Adult-onset progressive leukoencephalopathy, early-onset deafness	1245327	SNOMED
+disability_hearing_01	15123008	Familial amyloid nephropathy with urticaria AND deafness	4034712	SNOMED
+disability_hearing_01	15190000	Tympanic membrane conductive hearing loss	376131	SNOMED
+disability_hearing_01	18701000119107	Mixed conductive and sensorineural hearing loss of left ear	761911	SNOMED
+disability_hearing_01	18711000119105	Mixed conductive and sensorineural hearing loss of right ear	765417	SNOMED
+disability_hearing_01	194413008	Conductive hearing loss due to disorder of external ear	439712	SNOMED
+disability_hearing_01	194415001	Conductive hearing loss due to disorder of middle ear	439710	SNOMED
+disability_hearing_01	194426007	Combined perceptive hearing loss	4108534	SNOMED
+disability_hearing_01	2061000	Conductive hearing loss of combined sites	378442	SNOMED
+disability_hearing_01	232057003	Usher syndrome type 1	4339018	SNOMED
+disability_hearing_01	232058008	Usher syndrome type 2	4334251	SNOMED
+disability_hearing_01	232302007	Mondini defect	4335449	SNOMED
+disability_hearing_01	232328005	Dominant sensorineural hearing loss	4048165	SNOMED
+disability_hearing_01	23631000119109	Sensorineural hearing loss in left ear	761957	SNOMED
+disability_hearing_01	23641000119100	Sensorineural hearing loss in right ear	761958	SNOMED
+disability_hearing_01	236529001	Prune belly syndrome with pulmonic stenosis, intellectual disability and deafness	4030676	SNOMED
+disability_hearing_01	24559001	Mutilating keratoderma	4077104	SNOMED
+disability_hearing_01	275482009	Drug ototoxicity - deafness	4168067	SNOMED
+disability_hearing_01	373905003	Jervell and Lange-Nielsen syndrome	4161597	SNOMED
+disability_hearing_01	3820005	Inner ear conductive hearing loss	380742	SNOMED
+disability_hearing_01	427772009	Asymmetrical hearing loss	4176780	SNOMED
+disability_hearing_01	428887009	Asymmetrical sensorineural hearing loss	443577	SNOMED
+disability_hearing_01	430985005	Bilateral sensory hearing loss	443608	SNOMED
+disability_hearing_01	49526009	Presbycusis	377574	SNOMED
+disability_hearing_01	56943007	End organ deafness	4237144	SNOMED
+disability_hearing_01	65680009	Sensorineural hearing loss of combined sites	442755	SNOMED
+disability_hearing_01	67817003	Pili torti-deafness syndrome	4283945	SNOMED
+disability_hearing_01	699866005	Brown-Vialetto-Van Laere syndrome	44783873	SNOMED
+disability_hearing_01	700453005	Congenital sensorineural hearing loss	45763917	SNOMED
+disability_hearing_01	702362004	Craniofacial deafness hand syndrome	45765427	SNOMED
+disability_hearing_01	70694009	Wolfram syndrome	4322638	SNOMED
+disability_hearing_01	715239002	Sudden sensorineural hearing loss	37395707	SNOMED
+disability_hearing_01	715506001	Phocomelia, ectrodactyly, deafness and sinus arrhythmia syndrome	37395902	SNOMED
+disability_hearing_01	715527006	Deafness and oligodontia syndrome	37395914	SNOMED
+disability_hearing_01	715952000	Waardenburg Shah syndrome	37396221	SNOMED
+disability_hearing_01	716007007	Lowry Yong syndrome	37399490	SNOMED
+disability_hearing_01	716170005	Nathalie syndrome	37396376	SNOMED
+disability_hearing_01	716238003	Chitty Hall Baraitser syndrome	37396430	SNOMED
+disability_hearing_01	717183001	Keratoderma hereditarium mutilans with ichthyosis syndrome	37399354	SNOMED
+disability_hearing_01	717766000	Alport syndrome autosomal dominant	36713440	SNOMED
+disability_hearing_01	718574003	Abruzzo Erickson syndrome	36713651	SNOMED
+disability_hearing_01	718763005	Spondyloepiphyseal dysplasia MacDermot type	36713800	SNOMED
+disability_hearing_01	719272007	Progressive sensorineural hearing loss and hypertrophic cardiomyopathy syndrome	36714157	SNOMED
+disability_hearing_01	719800009	DOORS syndrome	36714522	SNOMED
+disability_hearing_01	720519003	Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome	36715051	SNOMED
+disability_hearing_01	720567008	Bosley Salih Alorainy syndrome	36715086	SNOMED
+disability_hearing_01	721085000	Deafness, enamel hypoplasia, nail defect syndrome	36715414	SNOMED
+disability_hearing_01	721087008	Deafness and intellectual disability Martin Probst type syndrome	36715416	SNOMED
+disability_hearing_01	723993005	Sensorineural deafness with dilated cardiomyopathy syndrome	37109990	SNOMED
+disability_hearing_01	724173009	Maternally inherited cardiomyopathy and hearing loss syndrome	37119055	SNOMED
+disability_hearing_01	724282009	Hypoparathyroidism, deafness, renal disease syndrome	37119067	SNOMED
+disability_hearing_01	726106004	X-linked diffuse leiomyomatosis with Alport syndrome	37111374	SNOMED
+disability_hearing_01	73119000	Retinitis pigmentosa-deafness-ataxia syndrome	4218925	SNOMED
+disability_hearing_01	732953008	Ectodermal dysplasia and sensorineural deafness syndrome	37116291	SNOMED
+disability_hearing_01	733029008	Autosomal dominant spastic paraplegia type 29	37116352	SNOMED
+disability_hearing_01	733071009	Deafness, small bowel diverticulosis, neuropathy syndrome	37116378	SNOMED
+disability_hearing_01	73310008	Air conduction deafness	4249738	SNOMED
+disability_hearing_01	737344003	Congenital conductive hearing loss	42537779	SNOMED
+disability_hearing_01	763279007	Facial dysmorphism, conductive hearing loss, heart defect syndrome	35621978	SNOMED
+disability_hearing_01	764097002	Postlingual non-syndromic genetic deafness	35607979	SNOMED
+disability_hearing_01	766870005	Epiphyseal dysplasia, hearing loss, dysmorphism syndrome	35624222	SNOMED
+disability_hearing_01	770414008	Alport syndrome	36674698	SNOMED
+disability_hearing_01	770751003	Severe motor and intellectual disabilities, sensorineural deafness, dystonia syndrome	36674894	SNOMED
+disability_hearing_01	770944002	Oculootodental syndrome	36674947	SNOMED
+disability_hearing_01	771308008	Non-acquired combined pituitary hormone deficiency, sensorineural hearing loss, spine abnormalities syndrome	36675044	SNOMED
+disability_hearing_01	773398005	Congenital cataract, progressive muscular hypotonia, hearing loss, developmental delay syndrome	36676498	SNOMED
+disability_hearing_01	773406003	Mandibular hypoplasia, deafness, progeroid syndrome	36676503	SNOMED
+disability_hearing_01	773610007	Chudley McCullough syndrome	36676665	SNOMED
+disability_hearing_01	773647007	Nephrotic syndrome, deafness, pretibial epidermolysis bullosa syndrome	36676681	SNOMED
+disability_hearing_01	773648002	Congenital cataract, hearing loss, severe developmental delay syndrome	36676682	SNOMED
+disability_hearing_01	773665006	Hypogonadotropic hypogonadism, severe microcephaly, sensorineural hearing loss, dysmorphism syndrome	36676691	SNOMED
+disability_hearing_01	773735007	Deafness with onychodystrophy syndrome	36674396	SNOMED
+disability_hearing_01	77507001	Mixed conductive AND sensorineural hearing loss	379832	SNOMED
+disability_hearing_01	777998000	Temtamy preaxial brachydactyly syndrome	36680576	SNOMED
+disability_hearing_01	782690007	Gemignani syndrome	37204181	SNOMED
+disability_hearing_01	782752005	Peripheral neuropathy, myopathy, hoarseness, hearing loss syndrome	37204229	SNOMED
+disability_hearing_01	782942003	Renal caliceal diverticuli and deafness syndrome	37204318	SNOMED
+disability_hearing_01	783097004	Stickler syndrome type 3	37204438	SNOMED
+disability_hearing_01	783555001	Hypotrichosis and deafness syndrome	37204690	SNOMED
+disability_hearing_01	783614008	Familial steroid-resistant nephrotic syndrome with sensorineural deafness	37204730	SNOMED
+disability_hearing_01	783742004	Conductive deafness, malformed external ear syndrome	37204836	SNOMED
+disability_hearing_01	788873009	Auditory synaptopathy	37312024	SNOMED
+disability_hearing_01	79665007	Wildervanck syndrome	4197058	SNOMED
+disability_hearing_01	860801000000109	Moderate sensorineural hearing loss	44808885	SNOMED
+disability_hearing_01	860811000000106	Severe sensorineural hearing loss	44808886	SNOMED
+disability_hearing_01	860851000000105	Mild sensorineural hearing loss	44808890	SNOMED
+disability_hearing_01	877191000000104	Bilateral profound sensorineural hearing loss	44810044	SNOMED
+disability_hearing_01	877211000000100	Bilateral congenital sensorineural hearing loss	44810045	SNOMED
+disability_hearing_01	898061000000101	Bilateral severe sensorineural hearing loss	44810468	SNOMED
+disability_hearing_01	898071000000108	Bilateral moderate sensorineural hearing loss	44810469	SNOMED
+disability_hearing_01	898081000000105	Bilateral mild sensorineural hearing loss	44810470	SNOMED
+disability_hearing_01	93466004	Gonadal dysgenesis with auditory dysfunction, autosomal recessive inheritance	4247078	SNOMED
+disability_hearing_01	95820000	Bilateral hearing loss	374367	SNOMED
+disability_hearing_01	237612000	Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction	4030066	SNOMED
+disability_hearing_01	237918004	Waardenburg syndrome type 3	4029099	SNOMED
+disability_hearing_01	240554006	Hutchinson's triad	4084820	SNOMED

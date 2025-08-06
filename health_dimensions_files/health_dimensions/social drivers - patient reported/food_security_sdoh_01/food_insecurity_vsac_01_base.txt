@@ -1,0 +1,6 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+food_insecurity_vsac_01_base	470911000124109	Mild food insecurity on United States household food security survey module (finding)	SNOMEDCT	NULL
+food_insecurity_vsac_01_base	470941000124108	Moderate food insecurity on United States household food security survey module (finding)	SNOMEDCT	NULL
+food_insecurity_vsac_01_base	470951000124105	Severe food insecurity on United States household food security survey module (finding)	SNOMEDCT	NULL
+food_insecurity_vsac_01_base	733423003	Food insecurity (finding)	SNOMEDCT	NULL
+food_insecurity_vsac_01_base	Z59.41	Food insecurity	ICD10CM	NULL

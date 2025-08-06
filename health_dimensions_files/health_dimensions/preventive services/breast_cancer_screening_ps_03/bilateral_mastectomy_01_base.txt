@@ -1,0 +1,18 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+bilateral_mastectomy_01_base	0HTV0ZZ	"Resection of Bilateral Breast, Open Approach"	ICD10PCS	NULL
+bilateral_mastectomy_01_base	14693006	Subcutaneous mammectomy of bilateral breasts (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	14714006	Excision of bilateral breasts with excision of bilateral regional lymph nodes (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	17086001	"Modified radical mastectomy, bilateral (procedure)"	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	22418005	Simple mastectomy of bilateral breasts (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	27865001	Excision of bilateral breasts (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	456903003	Extended radical mastectomy of bilateral breasts (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	52314009	Extended simple mastectomy of bilateral breasts (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	60633004	Subcutaneous mammectomy of bilateral breasts with synchronous implants (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	726636007	Prophylactic bilateral mastectomy (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	76468001	Radical mastectomy of bilateral breasts (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	836436008	Simple mastectomy of bilateral breasts using robotic assistance (procedure)	SNOMEDCT	NULL
+bilateral_mastectomy_01_base	85	Bilateral simple mastectomy	ICD9CM	NULL
+bilateral_mastectomy_01_base	85	Bilateral extended simple mastectomy	ICD9CM	NULL
+bilateral_mastectomy_01_base	85	Bilateral radical mastectomy	ICD9CM	NULL
+bilateral_mastectomy_01_base	85	Bilateral extended radical mastectomy	ICD9CM	NULL
+bilateral_mastectomy_01_base	870629001	Excision of bilateral breasts for female to male transsexual (procedure)	SNOMEDCT	NULL

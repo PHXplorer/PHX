@@ -1,0 +1,157 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+mastectomy_01_base	33129002	Postmastectomy lymphedema syndrome	SNOMED	NULL
+mastectomy_01_base	12275121000119100	Postmastectomy lymphedema syndrome of bilateral upper limbs	SNOMED	NULL
+mastectomy_01_base	85	Resection of quadrant of breast	ICD9Proc	NULL
+mastectomy_01_base	85	Subtotal mastectomy	ICD9Proc	NULL
+mastectomy_01_base	85	Excision of ectopic breast tissue	ICD9Proc	NULL
+mastectomy_01_base	85	Excision of nipple	ICD9Proc	NULL
+mastectomy_01_base	85	Unilateral simple mastectomy	ICD9Proc	NULL
+mastectomy_01_base	85	Bilateral simple mastectomy	ICD9Proc	NULL
+mastectomy_01_base	85	Unilateral extended simple mastectomy	ICD9Proc	NULL
+mastectomy_01_base	85	Bilateral extended simple mastectomy	ICD9Proc	NULL
+mastectomy_01_base	85	Unilateral radical mastectomy	ICD9Proc	NULL
+mastectomy_01_base	19300	Mastectomy for gynecomastia	CPT4	NULL
+mastectomy_01_base	19301	"Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy)"	CPT4	NULL
+mastectomy_01_base	19302	"Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy); with axillary lymphadenectomy"	CPT4	NULL
+mastectomy_01_base	19303	"Mastectomy, simple, complete"	CPT4	NULL
+mastectomy_01_base	19304	"Mastectomy, subcutaneous"	CPT4	NULL
+mastectomy_01_base	19307	"Mastectomy, modified radical, including axillary lymph nodes, with or without pectoralis minor muscle, but excluding pectoralis major muscle"	CPT4	NULL
+mastectomy_01_base	88309	"Level VI - Surgical pathology, gross and microscopic examination Bone resection Breast, mastectomy - with regional lymph nodes Colon, segmental resection for tumor Colon, total resection Esophagus, partial/total resection Extremity, disarticulation Fetus,"	CPT4	NULL
+mastectomy_01_base	0HBW0ZX	"Excision of Right Nipple, Open Approach, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBW0ZZ	"Excision of Right Nipple, Open Approach"	ICD10PCS	NULL
+mastectomy_01_base	0HBW3ZX	"Excision of Right Nipple, Percutaneous Approach, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBW3ZZ	"Excision of Right Nipple, Percutaneous Approach"	ICD10PCS	NULL
+mastectomy_01_base	0HBW7ZX	"Excision of Right Nipple, Via Natural or Artificial Opening, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBW7ZZ	"Excision of Right Nipple, Via Natural or Artificial Opening"	ICD10PCS	NULL
+mastectomy_01_base	0HBW8ZX	"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBW8ZZ	"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic"	ICD10PCS	NULL
+mastectomy_01_base	0HBWXZX	"Excision of Right Nipple, External Approach, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBWXZZ	"Excision of Right Nipple, External Approach"	ICD10PCS	NULL
+mastectomy_01_base	0HBX0ZX	"Excision of Left Nipple, Open Approach, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBX0ZZ	"Excision of Left Nipple, Open Approach"	ICD10PCS	NULL
+mastectomy_01_base	0HBX3ZX	"Excision of Left Nipple, Percutaneous Approach, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBX3ZZ	"Excision of Left Nipple, Percutaneous Approach"	ICD10PCS	NULL
+mastectomy_01_base	0HBX7ZX	"Excision of Left Nipple, Via Natural or Artificial Opening, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBX7ZZ	"Excision of Left Nipple, Via Natural or Artificial Opening"	ICD10PCS	NULL
+mastectomy_01_base	0HBX8ZX	"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBX8ZZ	"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic"	ICD10PCS	NULL
+mastectomy_01_base	0HBXXZX	"Excision of Left Nipple, External Approach, Diagnostic"	ICD10PCS	NULL
+mastectomy_01_base	0HBXXZZ	"Excision of Left Nipple, External Approach"	ICD10PCS	NULL
+mastectomy_01_base	0HTWXZZ	"Resection of Right Nipple, External Approach"	ICD10PCS	NULL
+mastectomy_01_base	0HTXXZZ	"Resection of Left Nipple, External Approach"	ICD10PCS	NULL
+mastectomy_01_base	72258006	Resection of quadrant of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	172050005	Partial mastectomy: [NEC] or [wedge NEC]	Nebraska Lexicon	NULL
+mastectomy_01_base	150300000	Excision of part of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	150323002	Excision of nipple	Nebraska Lexicon	NULL
+mastectomy_01_base	155484007	Post-mastectomy secondary lymphoedema	Nebraska Lexicon	NULL
+mastectomy_01_base	172048002	Other excision of breast operations	Nebraska Lexicon	NULL
+mastectomy_01_base	172051009	Wire guided excision of breast lump under radiological control	Nebraska Lexicon	NULL
+mastectomy_01_base	172054001	Other specified other excision of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	172055000	Other excision of breast NOS	Nebraska Lexicon	NULL
+mastectomy_01_base	172096002	Excision of accessory nipple	Nebraska Lexicon	NULL
+mastectomy_01_base	172107003	Subareolar excision of mammillary duct	Nebraska Lexicon	NULL
+mastectomy_01_base	172108008	Excision of major mammillary duct system	Nebraska Lexicon	NULL
+mastectomy_01_base	265248000	Partial mastectomy NEC	Nebraska Lexicon	NULL
+mastectomy_01_base	265256002	Excision of mammillary duct NEC	Nebraska Lexicon	NULL
+mastectomy_01_base	367502008	Segmental excision of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	394021005	Wire guided wide local excision of breast lump under radiological control	Nebraska Lexicon	NULL
+mastectomy_01_base	84979008	Excision of lactiferous duct fistula of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	736751004	Total excision of lactiferous duct of left breast	Nebraska Lexicon	NULL
+mastectomy_01_base	770108008	Excision of ectopic tissue of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	735085002	Excision of left breast lump	Nebraska Lexicon	NULL
+mastectomy_01_base	265255003	Excision of major mammillary duct system	Nebraska Lexicon	NULL
+mastectomy_01_base	310638008	Wire guided excision of breast lump under radiological control	Nebraska Lexicon	NULL
+mastectomy_01_base	172111009	Excision of lesion of mammary duct	Nebraska Lexicon	NULL
+mastectomy_01_base	736754007	Partial mastectomy of right breast	Nebraska Lexicon	NULL
+mastectomy_01_base	72577009	Amputation of teat	Nebraska Lexicon	NULL
+mastectomy_01_base	52314009	Bilateral mastectomy extended simple	Nebraska Lexicon	NULL
+mastectomy_01_base	237400005	Microdochectomy	Nebraska Lexicon	NULL
+mastectomy_01_base	22418005	Bilateral simple mastectomy	Nebraska Lexicon	NULL
+mastectomy_01_base	62347003	Nipple exploration with excision of lactiferous duct	Nebraska Lexicon	NULL
+mastectomy_01_base	172049005	Excision of breast quadrant	Nebraska Lexicon	NULL
+mastectomy_01_base	307796007	Excision of mammary duct	Nebraska Lexicon	NULL
+mastectomy_01_base	12708000	Excision of accessory nipple	Nebraska Lexicon	NULL
+mastectomy_01_base	20486005	Excision of lesion of subcutaneous tissue of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	12275221000119100	Postmastectomy lymphoedema syndrome of left upper limb	Nebraska Lexicon	NULL
+mastectomy_01_base	394911000	Wire guided wide local excision of breast lump under radiological control	Nebraska Lexicon	NULL
+mastectomy_01_base	72432009	Excision of lesion of skin of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	736752006	Total excision of lactiferous duct of right breast	Nebraska Lexicon	NULL
+mastectomy_01_base	392021009	Excision of breast lump	Nebraska Lexicon	NULL
+mastectomy_01_base	736753001	Partial mastectomy of left breast	Nebraska Lexicon	NULL
+mastectomy_01_base	237393002	Excision of nipple and areola	Nebraska Lexicon	NULL
+mastectomy_01_base	33129002	Obliteration of lymphatic vessel due to mastectomy	Nebraska Lexicon	NULL
+mastectomy_01_base	35212009	Excision of nipple lesion	Nebraska Lexicon	NULL
+mastectomy_01_base	237370008	Segmental excision of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	735086001	Excision of right breast lump	Nebraska Lexicon	NULL
+mastectomy_01_base	12275171000119100	Postmastectomy lymphoedema syndrome of right upper limb	Nebraska Lexicon	NULL
+mastectomy_01_base	64368001	Breast conserving therapy	Nebraska Lexicon	NULL
+mastectomy_01_base	6189002	Excision of ectopic tissue of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	172106007	Excision of lactiferous duct fistula of breast	Nebraska Lexicon	NULL
+mastectomy_01_base	12275121000119100	Postmastectomy lymphedema syndrome of bilateral upper limbs	Nebraska Lexicon	NULL
+mastectomy_01_base	428554004	Partial excision of breast using guide wire	Nebraska Lexicon	NULL
+mastectomy_01_base	237394008	Excision of areola	Nebraska Lexicon	NULL
+mastectomy_01_base	35482003	Partial mastectomy with axillary lymphadenectomy	Nebraska Lexicon	NULL
+mastectomy_01_base	283621000000103	Wire guided partial excision of breast	SNOMED	NULL
+mastectomy_01_base	288871000000106	Wire guided partial excision of breast	SNOMED	NULL
+mastectomy_01_base	546451000000101	Other excision of breast NOS	SNOMED	NULL
+mastectomy_01_base	622051000000102	Excision of mammillary duct NEC	SNOMED	NULL
+mastectomy_01_base	546441000000104	Other excision of breast operations	SNOMED	NULL
+mastectomy_01_base	172054001	Other specified other excision of breast	SNOMED	NULL
+mastectomy_01_base	172049005	Quadrantectomy of breast	SNOMED	NULL
+mastectomy_01_base	172048002	Other excision of breast operations	SNOMED	NULL
+mastectomy_01_base	172055000	Other excision of breast NOS	SNOMED	NULL
+mastectomy_01_base	172111009	Excision of lesion of mammary duct	SNOMED	NULL
+mastectomy_01_base	172106007	Excision of lactiferous duct fistula of breast	SNOMED	NULL
+mastectomy_01_base	20486005	Excision of lesion of subcutaneous tissue of breast	SNOMED	NULL
+mastectomy_01_base	237370008	Segmentectomy of breast	SNOMED	NULL
+mastectomy_01_base	237393002	Excision of nipple and areola	SNOMED	NULL
+mastectomy_01_base	237400005	Microdochectomy	SNOMED	NULL
+mastectomy_01_base	237394008	Excision of areola	SNOMED	NULL
+mastectomy_01_base	12708000	Excision of accessory nipple	SNOMED	NULL
+mastectomy_01_base	265255003	Subareolar excision of mammillary duct	SNOMED	NULL
+mastectomy_01_base	265248000	Partial mastectomy NEC	SNOMED	NULL
+mastectomy_01_base	265256002	Excision of mammillary duct NEC	SNOMED	NULL
+mastectomy_01_base	35212009	Excision of nipple lesion	SNOMED	NULL
+mastectomy_01_base	307796007	Excision of mammary duct	SNOMED	NULL
+mastectomy_01_base	310638008	Wire guided excision of breast lump under radiological control	SNOMED	NULL
+mastectomy_01_base	428554004	Partial excision of breast using guide wire	SNOMED	NULL
+mastectomy_01_base	52314009	Extended simple mastectomy of bilateral breasts	SNOMED	NULL
+mastectomy_01_base	392021009	Lumpectomy of breast	SNOMED	NULL
+mastectomy_01_base	394911000	Wire guided wide local excision of breast lump under radiological control	SNOMED	NULL
+mastectomy_01_base	72432009	Excision of lesion of skin of breast	SNOMED	NULL
+mastectomy_01_base	72577009	Excision of nipple	SNOMED	NULL
+mastectomy_01_base	35482003	Partial mastectomy with axillary lymphadenectomy	SNOMED	NULL
+mastectomy_01_base	62347003	Nipple exploration with excision of lactiferous duct	SNOMED	NULL
+mastectomy_01_base	6189002	Excision of aberrant tissue of breast	SNOMED	NULL
+mastectomy_01_base	367502008	Segmental excision of breast	SNOMED	NULL
+mastectomy_01_base	64368001	Partial mastectomy	SNOMED	NULL
+mastectomy_01_base	22418005	Simple mastectomy of bilateral breasts	SNOMED	NULL
+mastectomy_01_base	I97.2	Postmastectomy lymphedema syndrome	ICD10CM	NULL
+mastectomy_01_base	770108008	Excision of ectopic tissue of breast	SNOMED	NULL
+mastectomy_01_base	12275171000119100	Postmastectomy lymphedema syndrome of right upper limb	SNOMED	NULL
+mastectomy_01_base	12275221000119100	Postmastectomy lymphedema syndrome of left upper limb	SNOMED	NULL
+mastectomy_01_base	150300000	Excision of part of breast	SNOMED	NULL
+mastectomy_01_base	150323002	Excision of nipple	SNOMED	NULL
+mastectomy_01_base	155484007	Post-mastectomy secondary lymphedema	SNOMED	NULL
+mastectomy_01_base	172050005	Partial mastectomy: [NEC] or [wedge NEC]	SNOMED	NULL
+mastectomy_01_base	172051009	Wire guided excision of breast lump under radiological control	SNOMED	NULL
+mastectomy_01_base	172096002	Excision of accessory nipple	SNOMED	NULL
+mastectomy_01_base	172107003	Subareolar excision mammillary duct (& Hadfield)	SNOMED	NULL
+mastectomy_01_base	172108008	Excision of mammillary duct: [NEC] or [major system]	SNOMED	NULL
+mastectomy_01_base	394021005	Wire guided wide local excision of breast lump under radiological control	SNOMED	NULL
+mastectomy_01_base	72258006	Segmental excision of breast	SNOMED	NULL
+mastectomy_01_base	84979008	Excision of lactiferous duct fistula of breast	SNOMED	NULL
+mastectomy_01_base	735085002	Lumpectomy of left breast	SNOMED	NULL
+mastectomy_01_base	735086001	Lumpectomy of right breast	SNOMED	NULL
+mastectomy_01_base	736751004	Total excision of lactiferous duct of left breast	SNOMED	NULL
+mastectomy_01_base	736752006	Total excision of lactiferous duct of right breast	SNOMED	NULL
+mastectomy_01_base	736753001	Excision of part of left breast	SNOMED	NULL
+mastectomy_01_base	736754007	Excision of part of right breast	SNOMED	NULL
+mastectomy_01_base	19240	"Mastectomy, modified radical, including axillary lymph nodes, with or without pectoralis minor muscle, but excluding pectoralis major muscle (Deprecated)"	CPT4	NULL
+mastectomy_01_base	852951000000106	Total excision of lactiferous duct	SNOMED	NULL
+mastectomy_01_base	457	Postmastectomy lymphedema syndrome	ICD9CM	NULL
+mastectomy_01_base	161948	Partial mastectomy with axillary lymphadenectomy	CIEL	NULL
+mastectomy_01_base	161172	Lumpectomy of breast	CIEL	NULL
+mastectomy_01_base	129376	Postmastectomy Lymphedema Syndrome	CIEL	NULL
+mastectomy_01_base	161947	Partial mastectomy	CIEL	NULL
+mastectomy_01_base	161674	Excision of mammary duct	CIEL	NULL

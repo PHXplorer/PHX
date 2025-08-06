@@ -1,0 +1,26 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+mammography_code_01	1015090	"Breast, Mammography"	CPT4	45890446	"Breast, Mammography"
+mammography_code_01	1029705	"Diagnostic mammography, including computer-aided detection (CAD) when performed"	CPT4	42628344	"Diagnostic mammography, including computer-aided detection (CAD) when performed"
+mammography_code_01	18102001	Mammary ductogram	SNOMED	4108249	Mammary ductogram
+mammography_code_01	241056007	Mammogram - localization	SNOMED	4081881	Mammogram - localization
+mammography_code_01	24623002	Screening mammography	SNOMED	4077697	Screening mammography
+mammography_code_01	43204002	Mammography of bilateral breasts	SNOMED	4182722	Mammography of bilateral breasts
+mammography_code_01	566571000119105	Mammography of right breast	SNOMED	37118087	Mammography of right breast
+mammography_code_01	572701000119102	Mammography of left breast	SNOMED	37109442	Mammography of left breast
+mammography_code_01	71651007	Mammography	SNOMED	4324693	Mammography
+mammography_code_01	77051	"Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation, with or without digitization of film radiographic images; diagnostic mammography (List separately in addition to code"	CPT4	2211808	"Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation, with or without digitization of film radiographic images; diagnostic mammography (List separately in addition to code"
+mammography_code_01	77052	"Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation, with or without digitization of film radiographic images; screening mammography (List separately in addition to code "	CPT4	2211809	"Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation, with or without digitization of film radiographic images; screening mammography (List separately in addition to code "
+mammography_code_01	77055	Mammography; unilateral	CPT4	2211812	Mammography; unilateral
+mammography_code_01	77056	Mammography; bilateral	CPT4	4182722	Mammography of bilateral breasts
+mammography_code_01	77057	"Screening mammography, bilateral (2-view study of each breast)"	CPT4	36713187	Screening mammography of bilateral breasts
+mammography_code_01	77061	Diagnostic digital breast tomosynthesis; unilateral	CPT4	46257687	Diagnostic digital breast tomosynthesis; unilateral
+mammography_code_01	77062	Diagnostic digital breast tomosynthesis; bilateral	CPT4	37109864	Digital tomosynthesis of bilateral breasts
+mammography_code_01	77063	"Screening digital breast tomosynthesis, bilateral (List separately in addition to code for primary procedure)"	CPT4	46257421	"Screening digital breast tomosynthesis, bilateral (List separately in addition to code for primary procedure)"
+mammography_code_01	77065	"Diagnostic mammography, including computer-aided detection (CAD) when performed; unilateral"	CPT4	42627940	"Diagnostic mammography, including computer-aided detection (CAD) when performed; unilateral"
+mammography_code_01	77066	"Diagnostic mammography, including computer-aided detection (CAD) when performed; bilateral"	CPT4	42628028	"Diagnostic mammography, including computer-aided detection (CAD) when performed; bilateral"
+mammography_code_01	f48fece7-e570-41ee-91fc-48a7cfdb61c9	"Retired SNOMED UK Drug extension concept, do not use, use concept indicated by the CONCEPT_RELATIONSHIP table, if any"	SNOMED	42687987	"Retired SNOMED UK Drug extension concept, do not use, use concept indicated by the CONCEPT_RELATIONSHIP table, if any"
+mammography_code_01	R92.2	Inconclusive mammogram	ICD10CM	4324693	Mammography
+mammography_code_01	V76.10	"Breast screening, unspecified"	ICD9CM	4077697	Screening mammography
+mammography_code_01	V76.11	Screening mammogram for high-risk patient	ICD9CM	4077697	Screening mammography
+mammography_code_01	V76.12	Other screening mammogram	ICD9CM	4077697	Screening mammography
+mammography_code_01	V76.19	Other screening breast examination	ICD9CM	4077697	Screening mammography

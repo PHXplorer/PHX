@@ -1,0 +1,10 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+unilateralMastectomyLeft_01	726437009	Modified radical mastectomy of left breast	SNOMED	37111484	Modified radical mastectomy of left breast
+unilateralMastectomyLeft_01	741009001	Simple mastectomy of left breast	SNOMED	42538192	Simple mastectomy of left breast
+unilateralMastectomyLeft_01	741018004	Subcutaneous mastectomy of left breast with prosthetic implant	SNOMED	42538197	Subcutaneous mastectomy of left breast with prosthetic implant
+unilateralMastectomyLeft_01	836437004	Robotic assisted simple mastectomy of left breast	SNOMED	3654547	Robotic assisted simple mastectomy of left breast
+unilateralMastectomyLeft_01	0HTU0ZZ	"Resection of Left Breast, Open Approach"	ICD10PCS	2753965	"Resection of Left Breast, Open Approach"
+unilateralMastectomyLeft_01	428571003	Mastectomy of left breast	SNOMED	4176608	Mastectomy of left breast
+unilateralMastectomyLeft_01	451211000124109	Prophylactic mastectomy of left breast	SNOMED	764138	Prophylactic mastectomy of left breast
+unilateralMastectomyLeft_01	726429001	Radical mastectomy of left breast	SNOMED	37118019	Radical mastectomy of left breast
+unilateralMastectomyLeft_01	726435001	Subcutaneous mastectomy of left breast	SNOMED	37111482	Subcutaneous mastectomy of left breast

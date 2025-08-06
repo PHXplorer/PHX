@@ -1,0 +1,17 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+fobt_01_base	12503-9	Hemoglobin.gastrointestinal [Presence] in Stool --4th specimen	LOINC	NULL
+fobt_01_base	12504-7	Hemoglobin.gastrointestinal [Presence] in Stool --5th specimen	LOINC	NULL
+fobt_01_base	14563-1	Hemoglobin.gastrointestinal [Presence] in Stool --1st specimen	LOINC	NULL
+fobt_01_base	14564-9	Hemoglobin.gastrointestinal [Presence] in Stool --2nd specimen	LOINC	NULL
+fobt_01_base	14565-6	Hemoglobin.gastrointestinal [Presence] in Stool --3rd specimen	LOINC	NULL
+fobt_01_base	2335-8	Hemoglobin.gastrointestinal [Presence] in Stool	LOINC	NULL
+fobt_01_base	27396-1	Hemoglobin.gastrointestinal [Mass/mass] in Stool	LOINC	NULL
+fobt_01_base	27401-9	Hemoglobin.gastrointestinal [Presence] in Stool --6th specimen	LOINC	NULL
+fobt_01_base	27925-7	Hemoglobin.gastrointestinal [Presence] in Stool --7th specimen	LOINC	NULL
+fobt_01_base	27926-5	Hemoglobin.gastrointestinal [Presence] in Stool --8th specimen	LOINC	NULL
+fobt_01_base	29771-3	Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay	LOINC	NULL
+fobt_01_base	56490-6	Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --2nd specimen	LOINC	NULL
+fobt_01_base	56491-4	Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --3rd specimen	LOINC	NULL
+fobt_01_base	57905-2	Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen	LOINC	NULL
+fobt_01_base	58453-2	Hemoglobin.gastrointestinal.lower [Mass/volume] in Stool by Immunoassay	LOINC	NULL
+fobt_01_base	80372-6	Hemoglobin.gastrointestinal [Presence] in Stool by Rapid immunoassay	LOINC	NULL

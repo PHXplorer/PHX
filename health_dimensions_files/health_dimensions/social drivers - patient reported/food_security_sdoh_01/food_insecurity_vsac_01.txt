@@ -1,0 +1,5 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+food_insecurity_vsac_01	470911000124109	Mild food insecurity on United States household food security survey module	SNOMED	601788
+food_insecurity_vsac_01	470941000124108	Moderate food insecurity on United States household food security survey module	SNOMED	601790
+food_insecurity_vsac_01	470951000124105	Severe food insecurity on United States household food security survey module	SNOMED	601791
+food_insecurity_vsac_01	733423003	Food insecurity	SNOMED	37116643

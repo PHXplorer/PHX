@@ -1,0 +1,5 @@
+﻿end_stage_renal_disease_01_base	N18.6	End stage renal disease	45548653	ICD10CM	Condition
+end_stage_renal_disease_01_base	236434000	End stage renal failure untreated by renal replacement therapy	4128200	SNOMED	Condition
+end_stage_renal_disease_01_base	236435004	End stage renal failure on dialysis	4030520	SNOMED	Condition
+end_stage_renal_disease_01_base	236436003	End stage renal failure with renal transplant	4125970	SNOMED	Condition
+end_stage_renal_disease_01_base	46177005	End-stage renal disease	193782	SNOMED	Condition

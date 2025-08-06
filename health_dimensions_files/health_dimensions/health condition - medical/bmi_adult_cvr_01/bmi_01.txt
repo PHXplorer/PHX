@@ -1,0 +1,3 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+bmi_01	39156-5	Body mass index (BMI) [Ratio]	LOINC	3038553	Body mass index (BMI) [Ratio]
+bmi_01	60621009	Body mass index	SNOMED	4245997	Body mass index

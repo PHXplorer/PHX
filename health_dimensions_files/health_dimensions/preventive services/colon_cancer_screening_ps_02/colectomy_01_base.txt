@@ -1,0 +1,37 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+colectomy_01_base	0DTE0ZZ	"Resection of Large Intestine, Open Approach"	ICD10PCS	NULL
+colectomy_01_base	0DTE4ZZ	"Resection of Large Intestine, Percutaneous Endoscopic Approach"	ICD10PCS	NULL
+colectomy_01_base	0DTE7ZZ	"Resection of Large Intestine, Via Natural or Artificial Opening"	ICD10PCS	NULL
+colectomy_01_base	0DTE8ZZ	"Resection of Large Intestine, Via Natural or Artificial Opening Endoscopic"	ICD10PCS	NULL
+colectomy_01_base	119771000119101	History of total colectomy (situation)	SNOMEDCT	NULL
+colectomy_01_base	26390003	Total colectomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	303401008	"Parks panproctocolectomy, anastomosis of ileum to anus and creation of pouch (procedure)"	SNOMEDCT	NULL
+colectomy_01_base	307666008	Total colectomy and ileostomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	307667004	"Total colectomy, ileostomy and rectal mucous fistula (procedure)"	SNOMEDCT	NULL
+colectomy_01_base	307669001	"Total colectomy, ileostomy and closure of rectal stump (procedure)"	SNOMEDCT	NULL
+colectomy_01_base	31130001	Total abdominal colectomy with proctectomy and ileostomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	36192008	Total abdominal colectomy with ileoproctostomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	44150	"Colectomy, total, abdominal, without proctectomy; with ileostomy or ileoproctostomy"	CPT	NULL
+colectomy_01_base	44151	"Colectomy, total, abdominal, without proctectomy; with continent ileostomy"	CPT	NULL
+colectomy_01_base	44152	"Colectomy, total, abdominal, without proctectomy; with rectal mucosectomy, ileoanal anastomosis, with or without loop ileostomy"	CPT	NULL
+colectomy_01_base	44153	"Colectomy, total, abdominal, without proctectomy; with rectal mucosectomy, ileoanal anastomosis, creation of ileal reservoir (S or J), with or without loop ileostomy"	CPT	NULL
+colectomy_01_base	44155	"Colectomy, total, abdominal, with proctectomy; with ileostomy"	CPT	NULL
+colectomy_01_base	44156	"Colectomy, total, abdominal, with proctectomy; with continent ileostomy"	CPT	NULL
+colectomy_01_base	44157	"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, includes loop ileostomy, and rectal mucosectomy, when performed"	CPT	NULL
+colectomy_01_base	44158	"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, creation of ileal reservoir (S or J), includes loop ileostomy, and rectal mucosectomy, when performed"	CPT	NULL
+colectomy_01_base	44210	"Laparoscopy, surgical; colectomy, total, abdominal, without proctectomy, with ileostomy or ileoproctostomy"	CPT	NULL
+colectomy_01_base	44211	"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileoanal anastomosis, creation of ileal reservoir (S or J), with loop ileostomy, includes rectal mucosectomy, when performed"	CPT	NULL
+colectomy_01_base	44212	"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileostomy"	CPT	NULL
+colectomy_01_base	44751009	Total abdominal colectomy with proctectomy and continent ileostomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	46	Laparoscopic total intra-abdominal colectomy	ICD9CM	NULL
+colectomy_01_base	46	Open total intra-abdominal colectomy	ICD9CM	NULL
+colectomy_01_base	46	Other and unspecified total intra-abdominal colectomy	ICD9CM	NULL
+colectomy_01_base	456004	Total abdominal colectomy with ileostomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	713165008	Laparoscopic total colectomy with ileo-rectal anastomosis (procedure)	SNOMEDCT	NULL
+colectomy_01_base	787108001	Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis (procedure)	SNOMEDCT	NULL
+colectomy_01_base	787109009	Excision of entire colon and entire rectum (procedure)	SNOMEDCT	NULL
+colectomy_01_base	787874000	Laparoscopic total colectomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	787875004	Laparoscopic total colectomy and loop ileostomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	787876003	Laparoscopic total colectomy and ileostomy (procedure)	SNOMEDCT	NULL
+colectomy_01_base	80294005	Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis (procedure)	SNOMEDCT	NULL
+colectomy_01_base	858579005	"Excision of entire colon, entire rectum and entire anal canal (procedure)"	SNOMEDCT	NULL

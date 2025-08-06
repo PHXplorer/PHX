@@ -1,0 +1,5 @@
+﻿sud_01_base	429001000124103	Catha edulis abuse	42535585	SNOMED	Condition
+sud_01_base	445273005	Polysubstance abuse	40482898	SNOMED	Condition
+sud_01_base	70340006	Inhalant abuse	4290538	SNOMED	Condition
+sud_01_base	26416006	Drug abuse	436954	SNOMED	Condition
+sud_01_base	66214007	Substance abuse	4279309	SNOMED	Condition

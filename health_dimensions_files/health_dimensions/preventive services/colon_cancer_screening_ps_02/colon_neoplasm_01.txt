@@ -1,0 +1,155 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+colon_neoplasm_01	109838007	Overlapping malignant neoplasm of colon	SNOMED	79740	Overlapping malignant neoplasm of colon
+colon_neoplasm_01	109839004	"Overlapping malignant neoplasm of rectum, anus and anal canal"	SNOMED	438090	"Overlapping malignant neoplasm of rectum, anus and anal canal"
+colon_neoplasm_01	10987871000119100	History of rectosigmoid junction cancer	SNOMED	1340204	History of event
+colon_neoplasm_01	1156783003	Leiomyosarcoma of rectum	SNOMED	608046	Leiomyosarcoma of rectum
+colon_neoplasm_01	1156788007	Leiomyosarcoma of colon	SNOMED	608050	Leiomyosarcoma of colon
+colon_neoplasm_01	1156795003	Kaposi sarcoma of colon	SNOMED	608057	Kaposi sarcoma of colon
+colon_neoplasm_01	1156797006	Kaposi sarcoma of rectum	SNOMED	608059	Kaposi sarcoma of rectum
+colon_neoplasm_01	1163568002	Primary malignant neoplasm of overlapping sites of colon	SNOMED	37160864	Primary malignant neoplasm of overlapping sites of colon
+colon_neoplasm_01	1197354001	Primary malignant mesenchymal neoplasm of colon	SNOMED	37162736	Primary malignant mesenchymal neoplasm of colon
+colon_neoplasm_01	1197355000	Primary malignant mesenchymal neoplasm of rectum	SNOMED	37162737	Primary malignant mesenchymal neoplasm of rectum
+colon_neoplasm_01	1197359006	Familial colorectal cancer type X	SNOMED	37162740	Familial colorectal cancer type X
+colon_neoplasm_01	1204448006	History of carcinoma of rectosigmoid junction	SNOMED	1340204	History of event
+colon_neoplasm_01	123691000119104	Malignant carcinoid tumor of sigmoid colon	SNOMED	1244533	Well-differentiated neuroendocrine tumor of sigmoid colon
+colon_neoplasm_01	123701000119104	Malignant carcinoid tumor of descending colon	SNOMED	760957	Malignant carcinoid tumor of descending colon
+colon_neoplasm_01	123721000119108	Malignant carcinoid tumor of ascending colon	SNOMED	760958	Malignant carcinoid tumor of ascending colon
+colon_neoplasm_01	130381000119103	Primary malignant neuroendocrine neoplasm of ascending colon	SNOMED	761001	Primary malignant neuroendocrine neoplasm of ascending colon
+colon_neoplasm_01	133751000119102	Lymphoma of colon	SNOMED	37018876	Lymphoma of colon
+colon_neoplasm_01	153	Malignant neoplasm of hepatic flexure	ICD9CM	438979	Primary malignant neoplasm of hepatic flexure of colon
+colon_neoplasm_01	153	Malignant neoplasm of transverse colon	ICD9CM	432257	Primary malignant neoplasm of transverse colon
+colon_neoplasm_01	153	Malignant neoplasm of descending colon	ICD9CM	441800	Primary malignant neoplasm of descending colon
+colon_neoplasm_01	153	Malignant neoplasm of sigmoid colon	ICD9CM	436635	Primary malignant neoplasm of sigmoid colon
+colon_neoplasm_01	153	Malignant neoplasm of cecum	ICD9CM	432837	Primary malignant neoplasm of cecum
+colon_neoplasm_01	154	Malignant neoplasm of appendix vermiformis	ICD9CM	433143	Primary malignant neoplasm of appendix
+colon_neoplasm_01	154	Malignant neoplasm of ascending colon	ICD9CM	4247719	Primary malignant neoplasm of ascending colon
+colon_neoplasm_01	154	Malignant neoplasm of splenic flexure	ICD9CM	437798	Primary malignant neoplasm of splenic flexure of colon
+colon_neoplasm_01	154	Malignant neoplasm of other specified sites of large intestine	ICD9CM	4246125	Primary malignant neoplasm of large intestine
+colon_neoplasm_01	154	"Malignant neoplasm of colon, unspecified site"	ICD9CM	197500	Primary malignant neoplasm of colon
+colon_neoplasm_01	154	Malignant neoplasm of rectosigmoid junction	ICD9CM	438699	Primary malignant neoplasm of rectosigmoid junction
+colon_neoplasm_01	154	Malignant neoplasm of rectum	ICD9CM	74582	Primary malignant neoplasm of rectum
+colon_neoplasm_01	16636051000119100	Primary malignant gastrointestinal stromal neoplasm of colon	SNOMED	603310	Primary malignant gastrointestinal stromal neoplasm of colon
+colon_neoplasm_01	16636101000119100	Primary malignant gastrointestinal stromal neoplasm of rectum	SNOMED	603311	Primary malignant gastrointestinal stromal neoplasm of rectum
+colon_neoplasm_01	1701000119104	Primary adenocarcinoma of colon	SNOMED	42872396	Primary adenocarcinoma of colon
+colon_neoplasm_01	184881000119106	Primary adenocarcinoma of rectosigmoid junction	SNOMED	37016239	Primary adenocarcinoma of rectosigmoid junction
+colon_neoplasm_01	187757001	"Malignant neoplasm, overlapping lesion of colon"	SNOMED	79740	Overlapping malignant neoplasm of colon
+colon_neoplasm_01	187760008	"Malignant neoplasm of rectum, rectosigmoid junction and anus"	SNOMED	4095430	"Malignant neoplasm of rectum, rectosigmoid junction and anus"
+colon_neoplasm_01	198	Secondary malignant neoplasm of large intestine and rectum	ICD9CM	35225543	Metastasis to large intestine
+colon_neoplasm_01	254582000	Adenocarcinoma of rectum	SNOMED	4110575	Adenocarcinoma of rectum
+colon_neoplasm_01	254586002	Malignant tumor of anorectal junction	SNOMED	4112730	Malignant tumor of anorectal junction
+colon_neoplasm_01	269533000	Carcinoma of colon	SNOMED	4149847	Carcinoma of colon
+colon_neoplasm_01	269544008	Carcinoma of rectosigmoid junction	SNOMED	4151260	Carcinoma of rectosigmoid junction
+colon_neoplasm_01	276822007	Malignant melanoma of rectum	SNOMED	4171274	Malignant melanoma of rectum
+colon_neoplasm_01	285312008	Carcinoma of sigmoid colon	SNOMED	4115028	Carcinoma of sigmoid colon
+colon_neoplasm_01	285611007	Metastasis to colon of unknown primary	SNOMED	4149322	Primary malignant neoplasm of unknown site
+colon_neoplasm_01	285611007	Metastasis to colon of unknown primary	SNOMED	35226112	Metastasis to colon
+colon_neoplasm_01	314965007	Local recurrence of malignant tumor of colon	SNOMED	4201482	Local recurrence of malignant tumor of colon
+colon_neoplasm_01	314966008	Local recurrence of malignant tumor of rectum	SNOMED	4196256	Local recurrence of malignant tumor of rectum
+colon_neoplasm_01	315058005	HNPCC - hereditary nonpolyposis colon cancer	SNOMED	4198567	HNPCC - hereditary nonpolyposis colon cancer
+colon_neoplasm_01	363351006	Malignant tumor of rectum	SNOMED	443390	Malignant tumor of rectum
+colon_neoplasm_01	363406005	Malignant tumor of colon	SNOMED	4180790	Malignant tumor of colon
+colon_neoplasm_01	363407001	Malignant tumor of hepatic flexure	SNOMED	4180791	Malignant tumor of hepatic flexure
+colon_neoplasm_01	363408006	Malignant tumor of transverse colon	SNOMED	443384	Malignant tumor of transverse colon
+colon_neoplasm_01	363409003	Malignant tumor of descending colon	SNOMED	443382	Malignant tumor of descending colon
+colon_neoplasm_01	363410008	Malignant tumor of sigmoid colon	SNOMED	443381	Malignant tumor of sigmoid colon
+colon_neoplasm_01	363412000	Malignant tumor of ascending colon	SNOMED	435754	Malignant tumor of ascending colon
+colon_neoplasm_01	363413005	Malignant tumor of splenic flexure	SNOMED	4181344	Malignant tumor of splenic flexure
+colon_neoplasm_01	363414004	Malignant tumor of rectosigmoid junction	SNOMED	4180792	Malignant tumor of rectosigmoid junction
+colon_neoplasm_01	363510005	Malignant tumor of large intestine	SNOMED	443396	Malignant tumor of large intestine
+colon_neoplasm_01	369448007	Malignant tumor involving rectum by direct extension from endometrium	SNOMED	4283611	Malignant tumor involving rectum by direct extension from endometrium
+colon_neoplasm_01	369449004	Malignant tumor involving rectum by direct extension from fallopian tube	SNOMED	4289245	Malignant tumor involving rectum by direct extension from fallopian tube
+colon_neoplasm_01	369450004	Malignant tumor involving rectum by direct extension from ovary	SNOMED	4289090	Malignant tumor involving rectum by direct extension from ovary
+colon_neoplasm_01	369451000	Malignant tumor involving rectum by direct extension from prostate	SNOMED	4289246	Malignant tumor involving rectum by direct extension from prostate
+colon_neoplasm_01	369452007	Malignant tumor involving rectum by direct extension from uterine cervix	SNOMED	4289247	Malignant tumor involving rectum by direct extension from uterine cervix
+colon_neoplasm_01	369453002	Malignant tumor involving rectum by direct extension from uterus	SNOMED	4289091	Malignant tumor involving rectum by direct extension from uterus
+colon_neoplasm_01	369454008	Malignant tumor involving rectum by direct extension from vagina	SNOMED	4289092	Malignant tumor involving rectum by direct extension from vagina
+colon_neoplasm_01	369455009	Malignant tumor involving rectum by separate metastasis from endometrium	SNOMED	4247238	Primary malignant neoplasm of endometrium
+colon_neoplasm_01	369455009	Malignant tumor involving rectum by separate metastasis from endometrium	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	369456005	Malignant tumor involving rectum by separate metastasis from fallopian tube	SNOMED	201801	Primary malignant neoplasm of fallopian tube
+colon_neoplasm_01	369456005	Malignant tumor involving rectum by separate metastasis from fallopian tube	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	369457001	Malignant tumor involving rectum by separate metastasis from ovary	SNOMED	200051	Primary malignant neoplasm of ovary
+colon_neoplasm_01	369457001	Malignant tumor involving rectum by separate metastasis from ovary	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	369458006	Malignant tumor involving rectum by separate metastasis from prostate	SNOMED	200962	Primary malignant neoplasm of prostate
+colon_neoplasm_01	369458006	Malignant tumor involving rectum by separate metastasis from prostate	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	369459003	Malignant tumor involving rectum by separate metastasis from uterine cervix	SNOMED	196359	Primary malignant neoplasm of uterine cervix
+colon_neoplasm_01	369459003	Malignant tumor involving rectum by separate metastasis from uterine cervix	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	369460008	Malignant tumor involving rectum by separate metastasis from uterus	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	369460008	Malignant tumor involving rectum by separate metastasis from uterus	SNOMED	45770892	Primary malignant neoplasm of uterus
+colon_neoplasm_01	369461007	Malignant tumor involving rectum by separate metastasis from vagina	SNOMED	196048	Primary malignant neoplasm of vagina
+colon_neoplasm_01	369461007	Malignant tumor involving rectum by separate metastasis from vagina	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	395705003	"pTis: Carcinoma in situ, intraepithelial (colon/rectum)"	SNOMED	37169783	pTis
+colon_neoplasm_01	422375001	"Carcinoma of colon, stage III"	SNOMED	4310858	"Carcinoma of colon, stage III"
+colon_neoplasm_01	422581008	"Carcinoma of colon, stage II"	SNOMED	4307687	"Carcinoma of colon, stage II"
+colon_neoplasm_01	422985007	"Carcinoma of colon, stage IV"	SNOMED	4312001	"Carcinoma of colon, stage IV"
+colon_neoplasm_01	425178004	Adenocarcinoma of rectosigmoid junction	SNOMED	4322376	Adenocarcinoma of rectosigmoid junction
+colon_neoplasm_01	425213009	"Carcinoma of colon, stage I"	SNOMED	4312240	"Carcinoma of colon, stage I"
+colon_neoplasm_01	429084005	History of malignant neoplasm of rectum	SNOMED	1340204	History of event
+colon_neoplasm_01	429699009	History of malignant neoplasm of colon	SNOMED	1340204	History of event
+colon_neoplasm_01	443488001	Malignant neoplasm of anorectum	SNOMED	40481902	Malignant neoplasm of anorectum
+colon_neoplasm_01	447886005	Anorectal adenocarcinoma	SNOMED	40487050	Anorectal adenocarcinoma
+colon_neoplasm_01	448994001	Carcinoma of upper rectum	SNOMED	40492939	Carcinoma of upper rectum
+colon_neoplasm_01	449218003	Lymphoma of sigmoid colon	SNOMED	40486168	Lymphoma of sigmoid colon
+colon_neoplasm_01	681601000119101	Primary adenocarcinoma of ascending colon	SNOMED	36713361	Primary adenocarcinoma of ascending colon
+colon_neoplasm_01	681651000119102	Primary adenocarcinoma of descending colon	SNOMED	37208245	Primary adenocarcinoma of descending colon
+colon_neoplasm_01	713573006	Malignant carcinoid tumor of rectum	SNOMED	1244573	Well-differentiated neuroendocrine tumor of rectum
+colon_neoplasm_01	721695008	Primary adenocarcinoma of ascending colon and right flexure	SNOMED	36715911	Primary adenocarcinoma of ascending colon and right flexure
+colon_neoplasm_01	721696009	Primary adenocarcinoma of transverse colon	SNOMED	36715912	Primary adenocarcinoma of transverse colon
+colon_neoplasm_01	721697000	Primary neuroendocrine carcinoma of colon	SNOMED	36717181	Primary neuroendocrine carcinoma of colon
+colon_neoplasm_01	721698005	Primary malignant neuroendocrine neoplasm of colon	SNOMED	36715913	Primary malignant neuroendocrine neoplasm of colon
+colon_neoplasm_01	721699002	Primary adenocarcinoma of descending colon and splenic flexure	SNOMED	36717495	Primary adenocarcinoma of descending colon and splenic flexure
+colon_neoplasm_01	721700001	Primary malignant neuroendocrine neoplasm of rectum	SNOMED	36715914	Primary malignant neuroendocrine neoplasm of rectum
+colon_neoplasm_01	721701002	Primary neuroendocrine carcinoma of rectum	SNOMED	36717182	Primary neuroendocrine carcinoma of rectum
+colon_neoplasm_01	726654006	Malignant carcinoid tumor of colon	SNOMED	1244634	Well-differentiated neuroendocrine tumor of colon
+colon_neoplasm_01	737058005	Microsatellite instability-high colorectal cancer	SNOMED	42537577	Microsatellite instability-high colorectal cancer
+colon_neoplasm_01	766979005	Squamous cell carcinoma of rectum	SNOMED	35624314	Squamous cell carcinoma of rectum
+colon_neoplasm_01	766981007	Squamous cell carcinoma of colon	SNOMED	35624316	Squamous cell carcinoma of colon
+colon_neoplasm_01	93683002	Primary malignant neoplasm of ascending colon	SNOMED	4247719	Primary malignant neoplasm of ascending colon
+colon_neoplasm_01	93761005	Primary malignant neoplasm of colon	SNOMED	197500	Primary malignant neoplasm of colon
+colon_neoplasm_01	93771007	Primary malignant neoplasm of descending colon	SNOMED	441800	Primary malignant neoplasm of descending colon
+colon_neoplasm_01	93826009	Primary malignant neoplasm of hepatic flexure of colon	SNOMED	438979	Primary malignant neoplasm of hepatic flexure of colon
+colon_neoplasm_01	93980002	Primary malignant neoplasm of rectosigmoid junction	SNOMED	438699	Primary malignant neoplasm of rectosigmoid junction
+colon_neoplasm_01	93984006	Primary malignant neoplasm of rectum	SNOMED	74582	Primary malignant neoplasm of rectum
+colon_neoplasm_01	285612000	Metastasis to rectum of unknown primary	SNOMED	4149322	Primary malignant neoplasm of unknown site
+colon_neoplasm_01	285612000	Metastasis to rectum of unknown primary	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	286771000119106	History of malignant carcinoid tumor of colon	SNOMED	1340204	History of event
+colon_neoplasm_01	286791000119107	History of malignant carcinoid tumor of rectum	SNOMED	1340204	History of event
+colon_neoplasm_01	301756000	Adenocarcinoma of sigmoid colon	SNOMED	4200514	Adenocarcinoma of sigmoid colon
+colon_neoplasm_01	312111009	Carcinoma of ascending colon	SNOMED	4207182	Carcinoma of ascending colon
+colon_neoplasm_01	312112002	Carcinoma of transverse colon	SNOMED	4193871	Carcinoma of transverse colon
+colon_neoplasm_01	312113007	Carcinoma of descending colon	SNOMED	4193165	Carcinoma of descending colon
+colon_neoplasm_01	312114001	Carcinoma of hepatic flexure	SNOMED	4207183	Carcinoma of hepatic flexure
+colon_neoplasm_01	312115000	Carcinoma of splenic flexure	SNOMED	4193872	Carcinoma of splenic flexure
+colon_neoplasm_01	94006002	Primary malignant neoplasm of sigmoid colon	SNOMED	436635	Primary malignant neoplasm of sigmoid colon
+colon_neoplasm_01	94072004	Primary malignant neoplasm of splenic flexure of colon	SNOMED	437798	Primary malignant neoplasm of splenic flexure of colon
+colon_neoplasm_01	94105000	Primary malignant neoplasm of transverse colon	SNOMED	432257	Primary malignant neoplasm of transverse colon
+colon_neoplasm_01	94179005	Metastatic malignant neoplasm to ascending colon	SNOMED	35226034	Metastasis to ascending colon
+colon_neoplasm_01	94260004	Metastatic malignant neoplasm to colon	SNOMED	35226112	Metastasis to colon
+colon_neoplasm_01	94271003	Metastatic malignant neoplasm to descending colon	SNOMED	35226124	Metastasis to descending colon
+colon_neoplasm_01	94328005	Metastatic malignant neoplasm to hepatic flexure of colon	SNOMED	35226168	Metastasis to hepatic flexure of colon
+colon_neoplasm_01	94509004	Metastatic malignant neoplasm to rectosigmoid junction	SNOMED	35226271	Metastasis to rectosigmoid junction
+colon_neoplasm_01	94513006	Metastatic malignant neoplasm to rectum	SNOMED	35226275	Metastasis to rectum
+colon_neoplasm_01	94538001	Metastatic malignant neoplasm to sigmoid colon	SNOMED	35225672	Metastasis to sigmoid colon
+colon_neoplasm_01	94604000	Metastatic malignant neoplasm to splenic flexure of colon	SNOMED	35225745	Metastasis to splenic flexure of colon
+colon_neoplasm_01	94643001	Metastatic malignant neoplasm to transverse colon	SNOMED	35226300	Metastasis to transverse colon
+colon_neoplasm_01	96281000119107	Overlapping malignant neoplasm of colon and rectum	SNOMED	37018659	Overlapping malignant neoplasm of colon and rectum
+colon_neoplasm_01	96981000119102	Primary malignant neoplasm of rectosigmoid junction metastatic to brain	SNOMED	438699	Primary malignant neoplasm of rectosigmoid junction
+colon_neoplasm_01	96981000119102	Primary malignant neoplasm of rectosigmoid junction metastatic to brain	SNOMED	36768862	Metastasis to brain
+colon_neoplasm_01	C18.0	Malignant neoplasm of cecum	ICD10CM	432837	Primary malignant neoplasm of cecum
+colon_neoplasm_01	C18.1	Malignant neoplasm of appendix	ICD10CM	433143	Primary malignant neoplasm of appendix
+colon_neoplasm_01	C18.2	Malignant neoplasm of ascending colon	ICD10CM	4247719	Primary malignant neoplasm of ascending colon
+colon_neoplasm_01	C18.3	Malignant neoplasm of hepatic flexure	ICD10CM	438979	Primary malignant neoplasm of hepatic flexure of colon
+colon_neoplasm_01	C18.4	Malignant neoplasm of transverse colon	ICD10CM	432257	Primary malignant neoplasm of transverse colon
+colon_neoplasm_01	C18.5	Malignant neoplasm of splenic flexure	ICD10CM	437798	Primary malignant neoplasm of splenic flexure of colon
+colon_neoplasm_01	C18.6	Malignant neoplasm of descending colon	ICD10CM	441800	Primary malignant neoplasm of descending colon
+colon_neoplasm_01	C18.7	Malignant neoplasm of sigmoid colon	ICD10CM	436635	Primary malignant neoplasm of sigmoid colon
+colon_neoplasm_01	C18.8	Malignant neoplasm of overlapping sites of colon	ICD10CM	79740	Overlapping malignant neoplasm of colon
+colon_neoplasm_01	C18.9	"Malignant neoplasm of colon, unspecified"	ICD10CM	197500	Primary malignant neoplasm of colon
+colon_neoplasm_01	C19	Malignant neoplasm of rectosigmoid junction	ICD10CM	438699	Primary malignant neoplasm of rectosigmoid junction
+colon_neoplasm_01	C20	Malignant neoplasm of rectum	ICD10CM	74582	Primary malignant neoplasm of rectum
+colon_neoplasm_01	C21.2	Malignant neoplasm of cloacogenic zone	ICD10CM	4003675	Primary malignant neoplasm of cloacogenic zone
+colon_neoplasm_01	C21.8	"Malignant neoplasm of overlapping sites of rectum, anus and anal canal"	ICD10CM	438090	"Overlapping malignant neoplasm of rectum, anus and anal canal"
+colon_neoplasm_01	C78.5	Secondary malignant neoplasm of large intestine and rectum	ICD10CM	35225543	Metastasis to large intestine
+colon_neoplasm_01	V10.05	Personal history of malignant neoplasm of large intestine	ICD9CM	1340204	History of event
+colon_neoplasm_01	V10.06	"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus"	ICD9CM	1340204	History of event
+colon_neoplasm_01	Z85.038	Personal history of other malignant neoplasm of large intestine	ICD10CM	1340204	History of event
+colon_neoplasm_01	Z85.048	"Personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus"	ICD10CM	1340204	History of event

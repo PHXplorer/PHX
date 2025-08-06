@@ -1,0 +1,7 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+ct_colonoscopy_01_base	60515-4	CT Colon and Rectum W air contrast PR	LOINC	NULL
+ct_colonoscopy_01_base	72531-7	CT Colon and Rectum W contrast IV and W air contrast PR	LOINC	NULL
+ct_colonoscopy_01_base	79069-1	CT Colon and Rectum for screening WO contrast IV and W air contrast PR	LOINC	NULL
+ct_colonoscopy_01_base	79071-7	CT Colon and Rectum WO contrast IV and W air contrast PR	LOINC	NULL
+ct_colonoscopy_01_base	79101-2	CT Colon and Rectum for screening W air contrast PR	LOINC	NULL
+ct_colonoscopy_01_base	82688-3	CT Colon and Rectum WO and W contrast IV and W air contrast PR	LOINC	NULL

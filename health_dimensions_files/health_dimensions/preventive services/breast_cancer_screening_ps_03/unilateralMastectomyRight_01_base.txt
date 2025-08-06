@@ -1,0 +1,10 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+unilateralMastectomyRight_01_base	0HTT0ZZ	"Resection of Right Breast, Open Approach"	ICD10PCS	NULL
+unilateralMastectomyRight_01_base	429400009	Mastectomy of right breast (procedure)	SNOMEDCT	NULL
+unilateralMastectomyRight_01_base	451201000124106	Prophylactic mastectomy of right breast (procedure)	SNOMEDCT	NULL
+unilateralMastectomyRight_01_base	726430006	Radical mastectomy of right breast (procedure)	SNOMEDCT	NULL
+unilateralMastectomyRight_01_base	726434002	Subcutaneous mastectomy of right breast (procedure)	SNOMEDCT	NULL
+unilateralMastectomyRight_01_base	726436000	Modified radical mastectomy of right breast (procedure)	SNOMEDCT	NULL
+unilateralMastectomyRight_01_base	741010006	Simple mastectomy of right breast (procedure)	SNOMEDCT	NULL
+unilateralMastectomyRight_01_base	741019007	Subcutaneous mastectomy of right breast with prosthetic implant (procedure)	SNOMEDCT	NULL
+unilateralMastectomyRight_01_base	836435007	Simple mastectomy of right breast using robotic assistance (procedure)	SNOMEDCT	NULL

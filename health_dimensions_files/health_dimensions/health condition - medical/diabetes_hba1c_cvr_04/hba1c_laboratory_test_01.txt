@@ -1,0 +1,7 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id
+hba1c_laboratory_test_01	83036	Hemoglobin; glycosylated (A1C)	2212392	CPT4
+hba1c_laboratory_test_01	17855-8	Hemoglobin A1c/Hemoglobin.total in Blood by calculation	3007263	LOINC
+hba1c_laboratory_test_01	17856-6	Hemoglobin A1c/Hemoglobin.total in Blood by HPLC	3005673	LOINC
+hba1c_laboratory_test_01	4548-4	Hemoglobin A1c/Hemoglobin.total in Blood	3004410	LOINC
+hba1c_laboratory_test_01	4549-2	Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis	3003309	LOINC
+hba1c_laboratory_test_01	96595-4	Hemoglobin A1c/Hemoglobin.total in DBS	36032094	LOINC

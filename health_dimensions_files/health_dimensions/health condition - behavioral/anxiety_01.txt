@@ -1,0 +1,37 @@
+﻿anxiety_01	F01.54	Vascular dementia, unspecified severity, with anxiety	37402375	ICD10CM
+anxiety_01	F03.94	Unspecified dementia, unspecified severity, with anxiety	37402433	ICD10CM
+anxiety_01	F02.84	Dementia in other diseases classified elsewhere, unspecified severity, with anxiety	37402404	ICD10CM
+anxiety_01	F02.B4	Dementia in other diseases classified elsewhere, moderate, with anxiety	37402420	ICD10CM
+anxiety_01	F03.C4	Unspecified dementia, severe, with anxiety	37402457	ICD10CM
+anxiety_01	F03.A4	Unspecified dementia, mild, with anxiety	37402441	ICD10CM
+anxiety_01	F01.C4	Vascular dementia, severe, with anxiety	37402399	ICD10CM
+anxiety_01	F03.B4	Unspecified dementia, moderate, with anxiety	37402449	ICD10CM
+anxiety_01	F02.C4	Dementia in other diseases classified elsewhere, severe, with anxiety	37402428	ICD10CM
+anxiety_01	F01.A4	Vascular dementia, mild, with anxiety	37402383	ICD10CM
+anxiety_01	F02.A4	Dementia in other diseases classified elsewhere, mild, with anxiety	37402412	ICD10CM
+anxiety_01	F41.3	Other mixed anxiety disorders	35207171	ICD10CM
+anxiety_01	F41	Other anxiety disorders	1568230	ICD10CM
+anxiety_01	F41.8	Other specified anxiety disorders	35207172	ICD10CM
+anxiety_01	F41.9	Anxiety disorder, unspecified	35207173	ICD10CM
+anxiety_01	300.09	Other anxiety states	44831093	ICD9CM
+anxiety_01	81350009	Free-floating anxiety	4217945	SNOMED
+anxiety_01	788866004	Anxiety due to dementia	37312031	SNOMED
+anxiety_01	61387006	Moderate anxiety	4263429	SNOMED
+anxiety_01	79823003	Panic	4196358	SNOMED
+anxiety_01	225637002	Anxiety about loss of control	4025953	SNOMED
+anxiety_01	300894000	Parental anxiety	4114006	SNOMED
+anxiety_01	70997004	Mild anxiety	4322025	SNOMED
+anxiety_01	225635005	Anxiety about treatment	4021501	SNOMED
+anxiety_01	197480006	Anxiety disorder	442077	SNOMED
+anxiety_01	247805009	Anxiety and fear	4085054	SNOMED
+anxiety_01	1255960000	Anxiety about visiting dentist	37165876	SNOMED
+anxiety_01	471971000124108	Anxiety disorder due to severe acute respiratory syndrome coronavirus 2	601870	SNOMED
+anxiety_01	300895004	Anxiety attack	4115221	SNOMED
+anxiety_01	35429005	Anticipatory anxiety	4261239	SNOMED
+anxiety_01	247825008	Anxiety about behavior or performance	4085058	SNOMED
+anxiety_01	225636006	Anxiety about forced dependence	4023197	SNOMED
+anxiety_01	198288003	Anxiety state	4113821	SNOMED
+anxiety_01	279622009	Performance anxiety	4087190	SNOMED
+anxiety_01	129869000	Death anxiety	4031888	SNOMED
+anxiety_01	247808006	Anxiety about body function or health	4084699	SNOMED
+anxiety_01	48694002	Anxiety	441542	SNOMED

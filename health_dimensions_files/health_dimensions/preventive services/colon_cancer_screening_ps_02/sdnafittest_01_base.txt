@@ -1,0 +1,3 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+sdnafittest_01_base	77353-1	Noninvasive colorectal cancer DNA and occult blood screening [Interpretation] in Stool Narrative	LOINC	NULL
+sdnafittest_01_base	77354-9	Noninvasive colorectal cancer DNA and occult blood screening [Presence] in Stool	LOINC	NULL

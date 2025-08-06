@@ -1,0 +1,54 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+schizophrenia_c_icd_01_base	F20.0	Paranoid schizophrenia	35207126	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F20.1	Disorganized schizophrenia	35207127	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F20.2	Catatonic schizophrenia	35207128	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F20.3	Undifferentiated schizophrenia	35207129	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F20.5	Residual schizophrenia	35207130	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F20.81	Schizophreniform disorder	45562038	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F20.89	Other schizophrenia	45547696	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F20.9	"Schizophrenia, unspecified"	35207131	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F25.0	"Schizoaffective disorder, bipolar type"	35207136	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F25.1	"Schizoaffective disorder, depressive type"	35207137	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F25.8	Other schizoaffective disorders	35207138	ICD10CM	Condition
+schizophrenia_c_icd_01_base	F25.9	"Schizoaffective disorder, unspecified"	35207139	ICD10CM	Condition
+schizophrenia_c_icd_01_base	111482003	Subchronic schizophrenia with acute exacerbations	432598	SNOMED	Condition
+schizophrenia_c_icd_01_base	111484002	Undifferentiated schizophrenia	4008566	SNOMED	Condition
+schizophrenia_c_icd_01_base	1204417003	Early onset schizophrenia	37163122	SNOMED	Condition
+schizophrenia_c_icd_01_base	12939007	Chronic disorganized schizophrenia	440368	SNOMED	Condition
+schizophrenia_c_icd_01_base	14291003	Subchronic disorganized schizophrenia with acute exacerbations	436384	SNOMED	Condition
+schizophrenia_c_icd_01_base	16990005	Subchronic schizophrenia	440373	SNOMED	Condition
+schizophrenia_c_icd_01_base	191526005	Schizophrenic disorders	4100365	SNOMED	Condition
+schizophrenia_c_icd_01_base	191527001	Simple schizophrenia	436067	SNOMED	Condition
+schizophrenia_c_icd_01_base	191531007	Acute exacerbation of chronic schizophrenia	4100366	SNOMED	Condition
+schizophrenia_c_icd_01_base	191542003	Catatonic schizophrenia	433996	SNOMED	Condition
+schizophrenia_c_icd_01_base	191547009	Acute exacerbation of subchronic catatonic schizophrenia	439275	SNOMED	Condition
+schizophrenia_c_icd_01_base	191548004	Acute exacerbation of chronic catatonic schizophrenia	436071	SNOMED	Condition
+schizophrenia_c_icd_01_base	191554003	Acute exacerbation of subchronic paranoid schizophrenia	434901	SNOMED	Condition
+schizophrenia_c_icd_01_base	191555002	Acute exacerbation of chronic paranoid schizophrenia	437243	SNOMED	Condition
+schizophrenia_c_icd_01_base	191563001	Acute exacerbation of subchronic latent schizophrenia	439274	SNOMED	Condition
+schizophrenia_c_icd_01_base	191577003	Cenesthopathic schizophrenia	4102660	SNOMED	Condition
+schizophrenia_c_icd_01_base	247804008	Schizophrenic prodrome	4085662	SNOMED	Condition
+schizophrenia_c_icd_01_base	26025008	Residual schizophrenia	439004	SNOMED	Condition
+schizophrenia_c_icd_01_base	26472000	Paraphrenia	434318	SNOMED	Condition
+schizophrenia_c_icd_01_base	268617001	Acute schizophrenic episode	432864	SNOMED	Condition
+schizophrenia_c_icd_01_base	27387000	Subchronic disorganized schizophrenia	438724	SNOMED	Condition
+schizophrenia_c_icd_01_base	29599000	Chronic undifferentiated schizophrenia	4105330	SNOMED	Condition
+schizophrenia_c_icd_01_base	30336007	Chronic residual schizophrenia with acute exacerbations	435218	SNOMED	Condition
+schizophrenia_c_icd_01_base	31658008	Chronic paranoid schizophrenia	436944	SNOMED	Condition
+schizophrenia_c_icd_01_base	35218008	Chronic disorganized schizophrenia with acute exacerbation	436385	SNOMED	Condition
+schizophrenia_c_icd_01_base	35252006	Disorganized schizophrenia	441828	SNOMED	Condition
+schizophrenia_c_icd_01_base	38295006	Involutional paraphrenia	4244059	SNOMED	Condition
+schizophrenia_c_icd_01_base	416340002	Late onset schizophrenia	4219539	SNOMED	Condition
+schizophrenia_c_icd_01_base	42868002	Subchronic catatonic schizophrenia	433990	SNOMED	Condition
+schizophrenia_c_icd_01_base	441833000	Lethal catatonia	40480879	SNOMED	Condition
+schizophrenia_c_icd_01_base	58214004	Schizophrenia	435783	SNOMED	Condition
+schizophrenia_c_icd_01_base	64905009	Paranoid schizophrenia	433450	SNOMED	Condition
+schizophrenia_c_icd_01_base	68995007	Chronic catatonic schizophrenia	441538	SNOMED	Condition
+schizophrenia_c_icd_01_base	7025000	Subchronic undifferentiated schizophrenia with acute exacerbations	4321694	SNOMED	Condition
+schizophrenia_c_icd_01_base	70814008	Subchronic residual schizophrenia with acute exacerbations	444396	SNOMED	Condition
+schizophrenia_c_icd_01_base	71103003	Chronic residual schizophrenia	436673	SNOMED	Condition
+schizophrenia_c_icd_01_base	76566000	Subchronic residual schizophrenia	433442	SNOMED	Condition
+schizophrenia_c_icd_01_base	79204003	Chronic undifferentiated schizophrenia with acute exacerbations	4194671	SNOMED	Condition
+schizophrenia_c_icd_01_base	79866005	Subchronic paranoid schizophrenia	432299	SNOMED	Condition
+schizophrenia_c_icd_01_base	83746006	Chronic schizophrenia	435782	SNOMED	Condition
+schizophrenia_c_icd_01_base	85861002	Subchronic undifferentiated schizophrenia	4310121	SNOMED	Condition

@@ -1,0 +1,22 @@
+﻿kidney_transplant_01_base	50360	Renal allotransplantation, implantation of graft; without recipient nephrectomy	2109586	CPT4	Procedure
+kidney_transplant_01_base	50365	Renal allotransplantation, implantation of graft; with recipient nephrectomy	2109587	CPT4	Procedure
+kidney_transplant_01_base	50380	Renal autotransplantation, reimplantation of kidney	2109589	CPT4	Procedure
+kidney_transplant_01_base	S2065	Simultaneous pancreas kidney transplantation	2721092	HCPCS	Procedure
+kidney_transplant_01_base	0TY00Z0	Transplantation of Right Kidney, Allogeneic, Open Approach	2774517	ICD10PCS	Procedure
+kidney_transplant_01_base	0TY00Z1	Transplantation of Right Kidney, Syngeneic, Open Approach	2774518	ICD10PCS	Procedure
+kidney_transplant_01_base	0TY00Z2	Transplantation of Right Kidney, Zooplastic, Open Approach	2774519	ICD10PCS	Procedure
+kidney_transplant_01_base	0TY10Z0	Transplantation of Left Kidney, Allogeneic, Open Approach	2774520	ICD10PCS	Procedure
+kidney_transplant_01_base	0TY10Z1	Transplantation of Left Kidney, Syngeneic, Open Approach	2774521	ICD10PCS	Procedure
+kidney_transplant_01_base	0TY10Z2	Transplantation of Left Kidney, Zooplastic, Open Approach	2774522	ICD10PCS	Procedure
+kidney_transplant_01_base	175899003	Autotransplantation of kidney	4022474	SNOMED	Procedure
+kidney_transplant_01_base	175901007	Live donor renal transplant	4022805	SNOMED	Procedure
+kidney_transplant_01_base	175902000	Cadaveric renal transplant	4021107	SNOMED	Procedure
+kidney_transplant_01_base	236138007	Xenograft renal transplant	4343000	SNOMED	Procedure
+kidney_transplant_01_base	313030004	Donor renal transplantation	4197300	SNOMED	Procedure
+kidney_transplant_01_base	6471000179103	Transplantation of kidney and pancreas	36717743	SNOMED	Procedure
+kidney_transplant_01_base	70536003	Transplant of kidney	4322471	SNOMED	Procedure
+kidney_transplant_01_base	711411006	Allotransplantation of kidney from beating heart cadaver	46272953	SNOMED	Procedure
+kidney_transplant_01_base	711413009	Allotransplantation of kidney from non-beating heart cadaver	46273963	SNOMED	Procedure
+kidney_transplant_01_base	765478004	Allotransplantation of left kidney	35623146	SNOMED	Procedure
+kidney_transplant_01_base	765479007	Allotransplantation of right kidney	35623147	SNOMED	Procedure
+kidney_transplant_01_base	782655004	Laparoscopic transplant of kidney using robotic assistance	37204160	SNOMED	Procedure

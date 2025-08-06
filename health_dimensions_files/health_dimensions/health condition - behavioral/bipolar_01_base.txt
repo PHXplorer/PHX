@@ -1,0 +1,151 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+bipolar_c_icd_01_base	F30.10	"Manic episode without psychotic symptoms, unspecified"	45542838	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.11	"Manic episode without psychotic symptoms, mild"	45595901	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.12	"Manic episode without psychotic symptoms, moderate"	45586235	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.13	"Manic episode, severe, without psychotic symptoms"	45581455	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.2	"Manic episode, severe with psychotic symptoms"	35207142	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.3	Manic episode in partial remission	45542839	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.4	Manic episode in full remission	45557200	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.8	Other manic episodes	35207143	ICD10CM	Condition
+bipolar_c_icd_01_base	F30.9	"Manic episode, unspecified"	35207144	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.0	"Bipolar disorder, current episode hypomanic"	35207145	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.10	"Bipolar disorder, current episode manic without psychotic features, unspecified"	45552477	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.11	"Bipolar disorder, current episode manic without psychotic features, mild"	45591134	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.12	"Bipolar disorder, current episode manic without psychotic features, moderate"	45571753	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.13	"Bipolar disorder, current episode manic without psychotic features, severe"	45538061	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.2	"Bipolar disorder, current episode manic severe with psychotic features"	35207146	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.30	"Bipolar disorder, current episode depressed, mild or moderate severity, unspecified"	45571756	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.31	"Bipolar disorder, current episode depressed, mild"	45566839	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.32	"Bipolar disorder, current episode depressed, moderate"	45538062	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.4	"Bipolar disorder, current episode depressed, severe, without psychotic features"	35207147	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.5	"Bipolar disorder, current episode depressed, severe, with psychotic features"	35207148	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.60	"Bipolar disorder, current episode mixed, unspecified"	45576538	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.61	"Bipolar disorder, current episode mixed, mild"	45542841	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.62	"Bipolar disorder, current episode mixed, moderate"	45591135	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.63	"Bipolar disorder, current episode mixed, severe, without psychotic features"	45576539	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.64	"Bipolar disorder, current episode mixed, severe, with psychotic features"	45547703	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.70	"Bipolar disorder, currently in remission, most recent episode unspecified"	45566840	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.71	"Bipolar disorder, in partial remission, most recent episode hypomanic"	45566841	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.72	"Bipolar disorder, in full remission, most recent episode hypomanic"	45591136	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.73	"Bipolar disorder, in partial remission, most recent episode manic"	45595903	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.74	"Bipolar disorder, in full remission, most recent episode manic"	45576540	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.75	"Bipolar disorder, in partial remission, most recent episode depressed"	45557201	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.76	"Bipolar disorder, in full remission, most recent episode depressed"	45542842	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.77	"Bipolar disorder, in partial remission, most recent episode mixed"	45542843	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.78	"Bipolar disorder, in full remission, most recent episode mixed"	45538063	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.81	Bipolar II disorder	45542844	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.89	Other bipolar disorder	45538064	ICD10CM	Condition
+bipolar_c_icd_01_base	F31.9	"Bipolar disorder, unspecified"	35207149	ICD10CM	Condition
+bipolar_c_icd_01_base	10875004	"Severe mixed bipolar I disorder with psychotic features, mood-incongruent"	4031928	SNOMED	Condition
+bipolar_c_icd_01_base	10981006	Severe mixed bipolar I disorder with psychotic features	439001	SNOMED	Condition
+bipolar_c_icd_01_base	111485001	Mixed bipolar I disorder in full remission	4009648	SNOMED	Condition
+bipolar_c_icd_01_base	1196001	"Chronic bipolar II disorder, most recent episode major depressive"	4001733	SNOMED	Condition
+bipolar_c_icd_01_base	12969000	"Severe bipolar II disorder, most recent episode major depressive, in full remission"	4045263	SNOMED	Condition
+bipolar_c_icd_01_base	133091000119105	Rapid cycling bipolar I disorder	43021847	SNOMED	Condition
+bipolar_c_icd_01_base	13313007	Mild bipolar disorder	4028027	SNOMED	Condition
+bipolar_c_icd_01_base	13581000	"Severe bipolar I disorder, single manic episode with psychotic features, mood-congruent"	4030102	SNOMED	Condition
+bipolar_c_icd_01_base	13746004	Bipolar disorder	436665	SNOMED	Condition
+bipolar_c_icd_01_base	14495005	"Severe bipolar I disorder, single manic episode without psychotic features"	4030856	SNOMED	Condition
+bipolar_c_icd_01_base	1499003	"Bipolar I disorder, single manic episode with postpartum onset"	4033390	SNOMED	Condition
+bipolar_c_icd_01_base	162004	Severe manic bipolar I disorder without psychotic features	443797	SNOMED	Condition
+bipolar_c_icd_01_base	16238741000119100	Bipolar disorder caused by drug	37209504	SNOMED	Condition
+bipolar_c_icd_01_base	16295005	"Bipolar II disorder, most recent episode major depressive"	4037669	SNOMED	Condition
+bipolar_c_icd_01_base	16506000	Mixed bipolar I disorder	443906	SNOMED	Condition
+bipolar_c_icd_01_base	17782008	"Bipolar I disorder, most recent episode manic with catatonic features"	4073401	SNOMED	Condition
+bipolar_c_icd_01_base	191618007	"Bipolar affective disorder, current episode manic"	440078	SNOMED	Condition
+bipolar_c_icd_01_base	191620005	"Bipolar affective disorder, currently manic, mild"	441834	SNOMED	Condition
+bipolar_c_icd_01_base	191621009	"Bipolar affective disorder, currently manic, moderate"	433992	SNOMED	Condition
+bipolar_c_icd_01_base	191623007	"Bipolar affective disorder, currently manic, severe, with psychosis"	439256	SNOMED	Condition
+bipolar_c_icd_01_base	191625000	"Bipolar affective disorder, currently manic, in full remission"	439255	SNOMED	Condition
+bipolar_c_icd_01_base	191627008	"Bipolar affective disorder, current episode depression"	439254	SNOMED	Condition
+bipolar_c_icd_01_base	191629006	"Bipolar affective disorder, currently depressed, mild"	439253	SNOMED	Condition
+bipolar_c_icd_01_base	191630001	"Bipolar affective disorder, currently depressed, moderate"	437528	SNOMED	Condition
+bipolar_c_icd_01_base	191634005	"Bipolar affective disorder, currently depressed, in full remission"	439251	SNOMED	Condition
+bipolar_c_icd_01_base	191636007	Mixed bipolar affective disorder	439250	SNOMED	Condition
+bipolar_c_icd_01_base	191638008	"Mixed bipolar affective disorder, mild"	439249	SNOMED	Condition
+bipolar_c_icd_01_base	191639000	"Mixed bipolar affective disorder, moderate"	439248	SNOMED	Condition
+bipolar_c_icd_01_base	191641004	"Mixed bipolar affective disorder, severe, with psychosis"	439246	SNOMED	Condition
+bipolar_c_icd_01_base	191643001	"Mixed bipolar affective disorder, in full remission"	439245	SNOMED	Condition
+bipolar_c_icd_01_base	192362008	"Bipolar affective disorder, current episode mixed"	435226	SNOMED	Condition
+bipolar_c_icd_01_base	19300006	"Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent"	4000165	SNOMED	Condition
+bipolar_c_icd_01_base	20960007	"Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent"	4051448	SNOMED	Condition
+bipolar_c_icd_01_base	21900002	"Bipolar I disorder, most recent episode depressed with catatonic features"	4071442	SNOMED	Condition
+bipolar_c_icd_01_base	22121000	Depressed bipolar I disorder in full remission	435225	SNOMED	Condition
+bipolar_c_icd_01_base	22407005	"Bipolar II disorder, most recent episode major depressive with catatonic features"	4330846	SNOMED	Condition
+bipolar_c_icd_01_base	231444002	Organic bipolar disorder	4333670	SNOMED	Condition
+bipolar_c_icd_01_base	23741000119105	Severe manic bipolar I disorder	43020451	SNOMED	Condition
+bipolar_c_icd_01_base	261000119107	Severe depressed bipolar I disorder	42872413	SNOMED	Condition
+bipolar_c_icd_01_base	26203008	"Severe depressed bipolar I disorder with psychotic features, mood-incongruent"	4094507	SNOMED	Condition
+bipolar_c_icd_01_base	26530004	"Severe bipolar disorder with psychotic features, mood-incongruent"	4131027	SNOMED	Condition
+bipolar_c_icd_01_base	271000119101	Severe mixed bipolar I disorder	42872412	SNOMED	Condition
+bipolar_c_icd_01_base	28663008	Severe manic bipolar I disorder with psychotic features	4102603	SNOMED	Condition
+bipolar_c_icd_01_base	28884001	"Moderate bipolar I disorder, single manic episode"	440067	SNOMED	Condition
+bipolar_c_icd_01_base	29929003	"Bipolar I disorder, most recent episode depressed with atypical features"	4107538	SNOMED	Condition
+bipolar_c_icd_01_base	30520009	"Severe bipolar II disorder, most recent episode major depressive with psychotic features"	4147991	SNOMED	Condition
+bipolar_c_icd_01_base	30687003	"Bipolar II disorder, most recent episode major depressive with postpartum onset"	4148934	SNOMED	Condition
+bipolar_c_icd_01_base	30935000	Manic bipolar I disorder in full remission	436086	SNOMED	Condition
+bipolar_c_icd_01_base	31446002	"Bipolar I disorder, most recent episode hypomanic"	4150985	SNOMED	Condition
+bipolar_c_icd_01_base	33380008	"Severe manic bipolar I disorder with psychotic features, mood-incongruent"	4141603	SNOMED	Condition
+bipolar_c_icd_01_base	34315001	"Bipolar II disorder, most recent episode major depressive with melancholic features"	4144519	SNOMED	Condition
+bipolar_c_icd_01_base	3530005	"Bipolar I disorder, single manic episode, in full remission"	4148842	SNOMED	Condition
+bipolar_c_icd_01_base	35481005	Mixed bipolar I disorder in remission	433743	SNOMED	Condition
+bipolar_c_icd_01_base	35722002	"Severe bipolar II disorder, most recent episode major depressive, in remission"	4262272	SNOMED	Condition
+bipolar_c_icd_01_base	35846004	"Moderate bipolar II disorder, most recent episode major depressive"	4262111	SNOMED	Condition
+bipolar_c_icd_01_base	36583000	Mixed bipolar I disorder in partial remission	437529	SNOMED	Condition
+bipolar_c_icd_01_base	371596008	Bipolar I disorder	432876	SNOMED	Condition
+bipolar_c_icd_01_base	371599001	Severe bipolar I disorder	4154283	SNOMED	Condition
+bipolar_c_icd_01_base	371600003	Severe bipolar disorder	4155798	SNOMED	Condition
+bipolar_c_icd_01_base	371604007	Severe bipolar II disorder	4161200	SNOMED	Condition
+bipolar_c_icd_01_base	40926005	Moderate mixed bipolar I disorder	439785	SNOMED	Condition
+bipolar_c_icd_01_base	41552001	"Mild bipolar I disorder, single manic episode"	432290	SNOMED	Condition
+bipolar_c_icd_01_base	41832009	"Severe bipolar I disorder, single manic episode with psychotic features"	4220617	SNOMED	Condition
+bipolar_c_icd_01_base	41836007	Bipolar disorder in full remission	4220618	SNOMED	Condition
+bipolar_c_icd_01_base	43568002	"Bipolar II disorder, most recent episode major depressive with atypical features"	4185096	SNOMED	Condition
+bipolar_c_icd_01_base	43769008	Mild mixed bipolar I disorder	440079	SNOMED	Condition
+bipolar_c_icd_01_base	4441000	Severe bipolar disorder with psychotic features	4195158	SNOMED	Condition
+bipolar_c_icd_01_base	45479006	Manic bipolar I disorder in remission	4166701	SNOMED	Condition
+bipolar_c_icd_01_base	46229002	Severe mixed bipolar I disorder without psychotic features	372599	SNOMED	Condition
+bipolar_c_icd_01_base	48937005	"Bipolar II disorder, most recent episode hypomanic"	4172156	SNOMED	Condition
+bipolar_c_icd_01_base	49468007	Depressed bipolar I disorder	441836	SNOMED	Condition
+bipolar_c_icd_01_base	49512000	Depressed bipolar I disorder in partial remission	4177651	SNOMED	Condition
+bipolar_c_icd_01_base	51637008	"Chronic bipolar I disorder, most recent episode depressed"	4197669	SNOMED	Condition
+bipolar_c_icd_01_base	53049002	Severe bipolar disorder without psychotic features	4200385	SNOMED	Condition
+bipolar_c_icd_01_base	53607008	Depressed bipolar I disorder in remission	4201739	SNOMED	Condition
+bipolar_c_icd_01_base	54761006	"Severe depressed bipolar I disorder with psychotic features, mood-congruent"	4182998	SNOMED	Condition
+bipolar_c_icd_01_base	55516002	"Bipolar I disorder, most recent episode manic with postpartum onset"	4210024	SNOMED	Condition
+bipolar_c_icd_01_base	5703000	Bipolar disorder in partial remission	436072	SNOMED	Condition
+bipolar_c_icd_01_base	59617007	Severe depressed bipolar I disorder with psychotic features	436386	SNOMED	Condition
+bipolar_c_icd_01_base	61403008	Severe depressed bipolar I disorder without psychotic features	442570	SNOMED	Condition
+bipolar_c_icd_01_base	63249007	Manic bipolar I disorder in partial remission	442600	SNOMED	Condition
+bipolar_c_icd_01_base	64731001	"Severe mixed bipolar I disorder with psychotic features, mood-congruent"	4276670	SNOMED	Condition
+bipolar_c_icd_01_base	65042007	"Bipolar I disorder, most recent episode mixed with postpartum onset"	4274957	SNOMED	Condition
+bipolar_c_icd_01_base	66631006	Moderate depressed bipolar I disorder	4280361	SNOMED	Condition
+bipolar_c_icd_01_base	67002003	"Severe bipolar II disorder, most recent episode major depressive, in partial remission"	4283219	SNOMED	Condition
+bipolar_c_icd_01_base	68569003	Manic bipolar I disorder	4287544	SNOMED	Condition
+bipolar_c_icd_01_base	70546001	"Severe bipolar disorder with psychotic features, mood-congruent"	4322477	SNOMED	Condition
+bipolar_c_icd_01_base	71294008	"Mild bipolar II disorder, most recent episode major depressive"	4324945	SNOMED	Condition
+bipolar_c_icd_01_base	71984005	Mild manic bipolar I disorder	4215917	SNOMED	Condition
+bipolar_c_icd_01_base	723903001	Bipolar type I disorder currently in full remission	37109940	SNOMED	Condition
+bipolar_c_icd_01_base	723905008	Bipolar type II disorder currently in full remission	37117177	SNOMED	Condition
+bipolar_c_icd_01_base	73471000	"Bipolar I disorder, most recent episode mixed with catatonic features"	4251178	SNOMED	Condition
+bipolar_c_icd_01_base	74686005	Mild depressed bipolar I disorder	437250	SNOMED	Condition
+bipolar_c_icd_01_base	75360000	"Bipolar I disorder, single manic episode, in remission"	4327669	SNOMED	Condition
+bipolar_c_icd_01_base	75752004	"Bipolar I disorder, most recent episode depressed with melancholic features"	4192865	SNOMED	Condition
+bipolar_c_icd_01_base	765176007	Psychosis and severe depression co-occurrent and due to bipolar affective disorder	35622934	SNOMED	Condition
+bipolar_c_icd_01_base	767631007	"Bipolar disorder, most recent episode depression"	35624743	SNOMED	Condition
+bipolar_c_icd_01_base	767632000	"Bipolar disorder, most recent episode manic"	35624744	SNOMED	Condition
+bipolar_c_icd_01_base	767633005	"Bipolar affective disorder, most recent episode mixed"	35624745	SNOMED	Condition
+bipolar_c_icd_01_base	767635003	"Bipolar I disorder, most recent episode manic"	35624747	SNOMED	Condition
+bipolar_c_icd_01_base	767636002	"Bipolar I disorder, most recent episode depression"	35624748	SNOMED	Condition
+bipolar_c_icd_01_base	78269000	"Bipolar I disorder, single manic episode, in partial remission"	4301106	SNOMED	Condition
+bipolar_c_icd_01_base	78640000	"Severe manic bipolar I disorder with psychotic features, mood-congruent"	438129	SNOMED	Condition
+bipolar_c_icd_01_base	789061003	Rapid cycling bipolar II disorder	37312578	SNOMED	Condition
+bipolar_c_icd_01_base	79584002	Moderate bipolar disorder	4194222	SNOMED	Condition
+bipolar_c_icd_01_base	81319007	"Severe bipolar II disorder, most recent episode major depressive without psychotic features"	4217940	SNOMED	Condition
+bipolar_c_icd_01_base	82998009	Moderate manic bipolar I disorder	4307804	SNOMED	Condition
+bipolar_c_icd_01_base	83225003	Bipolar II disorder	4307956	SNOMED	Condition
+bipolar_c_icd_01_base	85248005	Bipolar disorder in remission	4310821	SNOMED	Condition
+bipolar_c_icd_01_base	86058007	"Severe bipolar I disorder, single manic episode with psychotic features, mood-incongruent"	4312736	SNOMED	Condition
+bipolar_c_icd_01_base	87203005	"Bipolar I disorder, most recent episode depressed with postpartum onset"	4336405	SNOMED	Condition
+bipolar_c_icd_01_base	87950005	"Bipolar I disorder, single manic episode with catatonic features"	4338812	SNOMED	Condition
+bipolar_c_icd_01_base	9340000	"Bipolar I disorder, single manic episode"	432866	SNOMED	Condition

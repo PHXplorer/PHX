@@ -1,0 +1,28 @@
+﻿essential_hypertension_01	I10	Essential (primary) hypertension	35207668	ICD10CM
+essential_hypertension_01	401.0	Malignant essential hypertension	44823109	ICD9CM
+essential_hypertension_01	401.1	Benign essential hypertension	44834715	ICD9CM
+essential_hypertension_01	401.9	Unspecified essential hypertension	44821949	ICD9CM
+essential_hypertension_01	40511000119107	Postpartum pre-existing essential hypertension	45757787	SNOMED
+essential_hypertension_01	461301000124109	Resistant hypertensive disorder	37208172	SNOMED
+essential_hypertension_01	46481004	Low-renin essential hypertension	4263067	SNOMED
+essential_hypertension_01	48146000	Diastolic hypertension	4167358	SNOMED
+essential_hypertension_01	56218007	Systolic hypertension	4209293	SNOMED
+essential_hypertension_01	59621000	Essential hypertension	320128	SNOMED
+essential_hypertension_01	59720008	Sustained diastolic hypertension	4242878	SNOMED
+essential_hypertension_01	63287004	Benign essential hypertension in obstetric context	4269358	SNOMED
+essential_hypertension_01	65518004	Labile diastolic hypertension	4276511	SNOMED
+essential_hypertension_01	71874008	Benign essential hypertension complicating AND/OR reason for care during childbirth	4215640	SNOMED
+essential_hypertension_01	762463000	Diastolic hypertension and systolic hypertension	42538697	SNOMED
+essential_hypertension_01	78808002	Essential hypertension complicating AND/OR reason for care during pregnancy	4302591	SNOMED
+essential_hypertension_01	9901000	Essential hypertension complicating AND/OR reason for care during puerperium	4321603	SNOMED
+essential_hypertension_01	18416000	Essential hypertension complicating AND/OR reason for care during childbirth	4083723	SNOMED
+essential_hypertension_01	23717007	Benign essential hypertension complicating AND/OR reason for care during pregnancy	4034031	SNOMED
+essential_hypertension_01	371125006	Labile essential hypertension	4159755	SNOMED
+essential_hypertension_01	429457004	Systolic essential hypertension	4180283	SNOMED
+essential_hypertension_01	72022006	Essential hypertension in obstetric context	4217486	SNOMED
+essential_hypertension_01	78975002	Malignant essential hypertension	317898	SNOMED
+essential_hypertension_01	10725009	Benign hypertension	4028741	SNOMED
+essential_hypertension_01	1078301000112109	Multiple drug intolerant hypertension	37208293	SNOMED
+essential_hypertension_01	1201005	Benign essential hypertension	312648	SNOMED
+essential_hypertension_01	19769006	High-renin essential hypertension	4058987	SNOMED
+essential_hypertension_01	35303009	Benign essential hypertension complicating AND/OR reason for care during puerperium	4148205	SNOMED

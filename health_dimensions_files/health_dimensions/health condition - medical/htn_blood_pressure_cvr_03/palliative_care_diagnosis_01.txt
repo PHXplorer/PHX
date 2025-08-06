@@ -1,0 +1,5 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id
+palliative_care_diagnosis_01	Z51.5	Encounter for palliative care	35225155	ICD10CM
+palliative_care_diagnosis_01	305686008	Seen by palliative care physician	4140770	SNOMED
+palliative_care_diagnosis_01	305824005	Seen by palliative care medicine service	4139889	SNOMED
+palliative_care_diagnosis_01	441874000	Seen by palliative care service	40480924	SNOMED

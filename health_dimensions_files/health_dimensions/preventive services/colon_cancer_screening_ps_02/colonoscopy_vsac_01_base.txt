@@ -1,0 +1,60 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+colonoscopy_01_base	1209098000	Fiberoptic colonoscopy with biopsy of lesion of colon (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	12350003	Colonoscopy with rigid sigmoidoscope through colotomy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	174158000	Open colonoscopy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	174185007	Diagnostic fiberoptic endoscopic examination of colon and biopsy of lesion of colon (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	235150006	Total colonoscopy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	235151005	Limited colonoscopy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	25732003	Fiberoptic colonoscopy with biopsy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	275251008	Diagnostic endoscopic examination of colon using fiberoptic sigmoidoscope (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	302052009	Endoscopic biopsy of lesion of colon (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	34264006	Intraoperative colonoscopy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	367535003	Fiberoptic colonoscopy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	44388	"Colonoscopy through stoma; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)"	CPT	NULL
+colonoscopy_01_base	44389	"Colonoscopy through stoma; with biopsy, single or multiple"	CPT	NULL
+colonoscopy_01_base	44390	Colonoscopy through stoma; with removal of foreign body(s)	CPT	NULL
+colonoscopy_01_base	44391	"Colonoscopy through stoma; with control of bleeding, any method"	CPT	NULL
+colonoscopy_01_base	44392	"Colonoscopy through stoma; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps"	CPT	NULL
+colonoscopy_01_base	44393	"Colonoscopy through stoma; with ablation of tumor(s), polyp(s), or other lesion(s) not amenable to removal by hot biopsy forceps, bipolar cautery or snare technique"	CPT	NULL
+colonoscopy_01_base	44394	"Colonoscopy through stoma; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique"	CPT	NULL
+colonoscopy_01_base	44397	Colonoscopy through stoma; with transendoscopic stent placement (includes predilation)	CPT	NULL
+colonoscopy_01_base	443998000	Colonoscopy through colostomy with endoscopic biopsy of colon (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	44401	"Colonoscopy through stoma; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre-and post-dilation and guide wire passage, when performed)"	CPT	NULL
+colonoscopy_01_base	44402	"Colonoscopy through stoma; with endoscopic stent placement (including pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+colonoscopy_01_base	44403	Colonoscopy through stoma; with endoscopic mucosal resection	CPT	NULL
+colonoscopy_01_base	44404	"Colonoscopy through stoma; with directed submucosal injection(s), any substance"	CPT	NULL
+colonoscopy_01_base	44405	Colonoscopy through stoma; with transendoscopic balloon dilation	CPT	NULL
+colonoscopy_01_base	44406	"Colonoscopy through stoma; with endoscopic ultrasound examination, limited to the sigmoid, descending, transverse, or ascending colon and cecum and adjacent structures"	CPT	NULL
+colonoscopy_01_base	44407	"Colonoscopy through stoma; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s), includes endoscopic ultrasound examination limited to the sigmoid, descending, transverse, or ascending colon and cecum and adjacent structures"	CPT	NULL
+colonoscopy_01_base	44408	"Colonoscopy through stoma; with decompression (for pathologic distention) (eg, volvulus, megacolon), including placement of decompression tube, when performed"	CPT	NULL
+colonoscopy_01_base	444783004	Screening colonoscopy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	446521004	Colonoscopy and excision of mucosa of colon (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	446745002	Colonoscopy and biopsy of colon (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	447021001	Colonoscopy and tattooing (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	45355	"Colonoscopy, rigid or flexible, transabdominal via colotomy, single or multiple"	CPT	NULL
+colonoscopy_01_base	45378	"Colonoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)"	CPT	NULL
+colonoscopy_01_base	45379	"Colonoscopy, flexible; with removal of foreign body(s)"	CPT	NULL
+colonoscopy_01_base	45380	"Colonoscopy, flexible; with biopsy, single or multiple"	CPT	NULL
+colonoscopy_01_base	45381	"Colonoscopy, flexible; with directed submucosal injection(s), any substance"	CPT	NULL
+colonoscopy_01_base	45382	"Colonoscopy, flexible; with control of bleeding, any method"	CPT	NULL
+colonoscopy_01_base	45383	"Colonoscopy, flexible, proximal to splenic flexure; with ablation of tumor(s), polyp(s), or other lesion(s) not amenable to removal by hot biopsy forceps, bipolar cautery or snare technique"	CPT	NULL
+colonoscopy_01_base	45384	"Colonoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps"	CPT	NULL
+colonoscopy_01_base	45385	"Colonoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique"	CPT	NULL
+colonoscopy_01_base	45386	"Colonoscopy, flexible; with transendoscopic balloon dilation"	CPT	NULL
+colonoscopy_01_base	45387	"Colonoscopy, flexible, proximal to splenic flexure; with transendoscopic stent placement (includes predilation)"	CPT	NULL
+colonoscopy_01_base	45388	"Colonoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+colonoscopy_01_base	45389	"Colonoscopy, flexible; with endoscopic stent placement (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+colonoscopy_01_base	45390	"Colonoscopy, flexible; with endoscopic mucosal resection"	CPT	NULL
+colonoscopy_01_base	45391	"Colonoscopy, flexible; with endoscopic ultrasound examination limited to the rectum, sigmoid, descending, transverse, or ascending colon and cecum, and adjacent structures"	CPT	NULL
+colonoscopy_01_base	45392	"Colonoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s), includes endoscopic ultrasound examination limited to the rectum, sigmoid, descending, transverse, or ascending colon and cecum, and adjacent structures"	CPT	NULL
+colonoscopy_01_base	45393	"Colonoscopy, flexible; with decompression (for pathologic distention) (eg, volvulus, megacolon), including placement of decompression tube, when performed"	CPT	NULL
+colonoscopy_01_base	45398	"Colonoscopy, flexible; with band ligation(s) (eg, hemorrhoids)"	CPT	NULL
+colonoscopy_01_base	709421007	Colonoscopy and dilatation of stricture of colon (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	710293001	Colonoscopy using fluoroscopic guidance (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	711307001	Colonoscopy using X-ray guidance (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	713154003	Endoscopic submucosal dissection of rectum using colonoscope (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	73761001	Colonoscopy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	8180007	Fiberoptic colonoscopy through colostomy (procedure)	SNOMEDCT	NULL
+colonoscopy_01_base	851000119109	History of colonoscopy (situation)	SNOMEDCT	NULL
+colonoscopy_01_base	G0105	Colorectal cancer screening; colonoscopy on individual at high risk	HCPCS Level II	NULL
+colonoscopy_01_base	G0121	Colorectal cancer screening; colonoscopy on individual not meeting criteria for high risk	HCPCS Level II	NULL

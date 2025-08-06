@@ -1,0 +1,38 @@
+﻿depression_01_base	192079006	Postviral depression	4102973	SNOMED	Condition
+depression_01_base	87414006	Reactive depression (situational)	4314692	SNOMED	Condition
+depression_01_base	94631000119100	Depressive disorder in mother complicating pregnancy	37018656	SNOMED	Condition
+depression_01_base	78667006	Dysthymia	433440	SNOMED	Condition
+depression_01_base	79842004	Stuporous depression	4197222	SNOMED	Condition
+depression_01_base	1260298008	Postmenopausal depression	37166876	SNOMED	Condition
+depression_01_base	231504006	Mixed anxiety and depressive disorder	4338031	SNOMED	Condition
+depression_01_base	58703003	Postpartum depression	4239471	SNOMED	Condition
+depression_01_base	231500002	Masked depression	4338029	SNOMED	Condition
+depression_01_base	84788008	Menopausal depression	4223090	SNOMED	Condition
+depression_01_base	231542000	Depressive conduct disorder	4333687	SNOMED	Condition
+depression_01_base	300706003	Endogenous depression	4114950	SNOMED	Condition
+depression_01_base	1153570009	Treatment resistant depression	607540	SNOMED	Condition
+depression_01_base	1153575004	Persistent depressive disorder	607543	SNOMED	Condition
+depression_01_base	191676002	Reactive depressive psychosis	435520	SNOMED	Condition
+depression_01_base	82218004	Postoperative depression	4305966	SNOMED	Condition
+depression_01_base	442057004	Chronic depressive personality disorder	40481798	SNOMED	Condition
+depression_01_base	310497006	Severe depression	4149321	SNOMED	Condition
+depression_01_base	310495003	Mild depression	4149320	SNOMED	Condition
+depression_01_base	231485007	Post-schizophrenic depression	4332994	SNOMED	Condition
+depression_01_base	192080009	Chronic depression	4103574	SNOMED	Condition
+depression_01_base	48589009	Minor depressive disorder	4174987	SNOMED	Condition
+depression_01_base	712823008	Acute depression	37016718	SNOMED	Condition
+depression_01_base	310496002	Moderate depression	4151170	SNOMED	Condition
+depression_01_base	191616006	Recurrent depression	4098302	SNOMED	Condition
+depression_01_base	191659001	Atypical depressive disorder	438727	SNOMED	Condition
+depression_01_base	83458005	Agitated depression	4308866	SNOMED	Condition
+depression_01_base	191627008	Bipolar affective disorder, current episode depression	439254	SNOMED	Condition
+depression_01_base	718636001	Minimal depression	36713698	SNOMED	Condition
+depression_01_base	14070001	Multi-infarct dementia with depression	443864	SNOMED	Condition
+depression_01_base	413296003	Depression requiring intervention	4131545	SNOMED	Condition
+depression_01_base	788120007	Antenatal depression	37312479	SNOMED	Condition
+depression_01_base	370143000	Major depressive disorder	4152280	SNOMED	Condition
+depression_01_base	191495003	Depressive disorder caused by drug	4103126	SNOMED	Condition
+depression_01_base	84760002	Schizoaffective disorder, depressive type	4224940	SNOMED	Condition
+depression_01_base	10211000132109	Perinatal depression	36712668	SNOMED	Condition
+depression_01_base	698957003	Depressive disorder in remission	44782943	SNOMED	Condition
+depression_01_base	35489007	Depressive disorder	440383	SNOMED	Condition

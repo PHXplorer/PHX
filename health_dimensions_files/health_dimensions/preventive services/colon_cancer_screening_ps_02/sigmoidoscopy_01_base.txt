@@ -1,0 +1,61 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+sigmoidoscopy_01_base	396226005	Flexible fiberoptic sigmoidoscopy with biopsy (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	425634007	Diagnostic endoscopic examination of lower bowel and sampling for bacterial overgrowth using fiberoptic sigmoidoscope (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	44441009	Flexible fiberoptic sigmoidoscopy (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	45330	"Sigmoidoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)"	CPT	NULL
+sigmoidoscopy_01_base	45331	"Sigmoidoscopy, flexible; with biopsy, single or multiple"	CPT	NULL
+sigmoidoscopy_01_base	45332	"Sigmoidoscopy, flexible; with removal of foreign body(s)"	CPT	NULL
+sigmoidoscopy_01_base	45333	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps"	CPT	NULL
+sigmoidoscopy_01_base	45334	"Sigmoidoscopy, flexible; with control of bleeding, any method"	CPT	NULL
+sigmoidoscopy_01_base	45335	"Sigmoidoscopy, flexible; with directed submucosal injection(s), any substance"	CPT	NULL
+sigmoidoscopy_01_base	45337	"Sigmoidoscopy, flexible; with decompression (for pathologic distention) (eg, volvulus, megacolon), including placement of decompression tube, when performed"	CPT	NULL
+sigmoidoscopy_01_base	45338	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique"	CPT	NULL
+sigmoidoscopy_01_base	45340	"Sigmoidoscopy, flexible; with transendoscopic balloon dilation"	CPT	NULL
+sigmoidoscopy_01_base	45341	"Sigmoidoscopy, flexible; with endoscopic ultrasound examination"	CPT	NULL
+sigmoidoscopy_01_base	45342	"Sigmoidoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s)"	CPT	NULL
+sigmoidoscopy_01_base	45346	"Sigmoidoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+sigmoidoscopy_01_base	45347	"Sigmoidoscopy, flexible; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+sigmoidoscopy_01_base	45349	"Sigmoidoscopy, flexible; with endoscopic mucosal resection"	CPT	NULL
+sigmoidoscopy_01_base	45350	"Sigmoidoscopy, flexible; with band ligation(s) (eg, hemorrhoids)"	CPT	NULL
+sigmoidoscopy_01_base	841000119107	History of flexible sigmoidoscopy (situation)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	104	Colorectal cancer screening; flexible sigmoidoscopy	HCPCS Level II	NULL
+sigmoidoscopy_01_base	396226005	Flexible fiberoptic sigmoidoscopy with biopsy (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	425634007	Diagnostic endoscopic examination of lower bowel and sampling for bacterial overgrowth using fiberoptic sigmoidoscope (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	44441009	Flexible fiberoptic sigmoidoscopy (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	45330	"Sigmoidoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)"	CPT	NULL
+sigmoidoscopy_01_base	45331	"Sigmoidoscopy, flexible; with biopsy, single or multiple"	CPT	NULL
+sigmoidoscopy_01_base	45332	"Sigmoidoscopy, flexible; with removal of foreign body(s)"	CPT	NULL
+sigmoidoscopy_01_base	45333	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps"	CPT	NULL
+sigmoidoscopy_01_base	45334	"Sigmoidoscopy, flexible; with control of bleeding, any method"	CPT	NULL
+sigmoidoscopy_01_base	45335	"Sigmoidoscopy, flexible; with directed submucosal injection(s), any substance"	CPT	NULL
+sigmoidoscopy_01_base	45337	"Sigmoidoscopy, flexible; with decompression (for pathologic distention) (eg, volvulus, megacolon), including placement of decompression tube, when performed"	CPT	NULL
+sigmoidoscopy_01_base	45338	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique"	CPT	NULL
+sigmoidoscopy_01_base	45340	"Sigmoidoscopy, flexible; with transendoscopic balloon dilation"	CPT	NULL
+sigmoidoscopy_01_base	45341	"Sigmoidoscopy, flexible; with endoscopic ultrasound examination"	CPT	NULL
+sigmoidoscopy_01_base	45342	"Sigmoidoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s)"	CPT	NULL
+sigmoidoscopy_01_base	45346	"Sigmoidoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+sigmoidoscopy_01_base	45347	"Sigmoidoscopy, flexible; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+sigmoidoscopy_01_base	45349	"Sigmoidoscopy, flexible; with endoscopic mucosal resection"	CPT	NULL
+sigmoidoscopy_01_base	45350	"Sigmoidoscopy, flexible; with band ligation(s) (eg, hemorrhoids)"	CPT	NULL
+sigmoidoscopy_01_base	841000119107	History of flexible sigmoidoscopy (situation)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	104	Colorectal cancer screening; flexible sigmoidoscopy	HCPCS Level II	NULL
+sigmoidoscopy_01_base	396226005	Flexible fiberoptic sigmoidoscopy with biopsy (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	425634007	Diagnostic endoscopic examination of lower bowel and sampling for bacterial overgrowth using fiberoptic sigmoidoscope (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	44441009	Flexible fiberoptic sigmoidoscopy (procedure)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	45330	"Sigmoidoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)"	CPT	NULL
+sigmoidoscopy_01_base	45331	"Sigmoidoscopy, flexible; with biopsy, single or multiple"	CPT	NULL
+sigmoidoscopy_01_base	45332	"Sigmoidoscopy, flexible; with removal of foreign body(s)"	CPT	NULL
+sigmoidoscopy_01_base	45333	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps"	CPT	NULL
+sigmoidoscopy_01_base	45334	"Sigmoidoscopy, flexible; with control of bleeding, any method"	CPT	NULL
+sigmoidoscopy_01_base	45335	"Sigmoidoscopy, flexible; with directed submucosal injection(s), any substance"	CPT	NULL
+sigmoidoscopy_01_base	45337	"Sigmoidoscopy, flexible; with decompression (for pathologic distention) (eg, volvulus, megacolon), including placement of decompression tube, when performed"	CPT	NULL
+sigmoidoscopy_01_base	45338	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique"	CPT	NULL
+sigmoidoscopy_01_base	45340	"Sigmoidoscopy, flexible; with transendoscopic balloon dilation"	CPT	NULL
+sigmoidoscopy_01_base	45341	"Sigmoidoscopy, flexible; with endoscopic ultrasound examination"	CPT	NULL
+sigmoidoscopy_01_base	45342	"Sigmoidoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s)"	CPT	NULL
+sigmoidoscopy_01_base	45346	"Sigmoidoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+sigmoidoscopy_01_base	45347	"Sigmoidoscopy, flexible; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)"	CPT	NULL
+sigmoidoscopy_01_base	45349	"Sigmoidoscopy, flexible; with endoscopic mucosal resection"	CPT	NULL
+sigmoidoscopy_01_base	45350	"Sigmoidoscopy, flexible; with band ligation(s) (eg, hemorrhoids)"	CPT	NULL
+sigmoidoscopy_01_base	841000119107	History of flexible sigmoidoscopy (situation)	SNOMEDCT	NULL
+sigmoidoscopy_01_base	G0104	Colorectal cancer screening; flexible sigmoidoscopy	HCPCS Level II	NULL

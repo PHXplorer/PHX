@@ -1,0 +1,54 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+dialysis_services_01_base	90935	Hemodialysis procedure with single evaluation by a physician or other qualified health care professional	2213572	CPT4	Procedure
+dialysis_services_01_base	90937	Hemodialysis procedure requiring repeated evaluation(s) with or without substantial revision of dialysis prescription	2213573	CPT4	Procedure
+dialysis_services_01_base	90945	"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"	2213576	CPT4	Procedure
+dialysis_services_01_base	90947	"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substantial re"	2213577	CPT4	Procedure
+dialysis_services_01_base	90997	"Hemoperfusion (eg, with activated charcoal or resin)"	2213600	CPT4	Procedure
+dialysis_services_01_base	90999	"Unlisted dialysis procedure, inpatient or outpatient"	2213601	CPT4	Procedure
+dialysis_services_01_base	99512	Home visit for hemodialysis	2514586	CPT4	Observation
+dialysis_services_01_base	G0257	Unscheduled or emergency dialysis treatment for an esrd patient in a hospital outpatient department that is not certified as an esrd facility	2617342	HCPCS	Procedure
+dialysis_services_01_base	S9339	"Home therapy; peritoneal dialysis, administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"	2721482	HCPCS	Procedure
+dialysis_services_01_base	11932001	Stabilizing hemodialysis	4002872	SNOMED	Procedure
+dialysis_services_01_base	108241001	Dialysis procedure	4032243	SNOMED	Procedure
+dialysis_services_01_base	10848006	Removal of peritoneal dialysis catheter	4031777	SNOMED	Procedure
+dialysis_services_01_base	14684005	Peritoneal dialysis excluding cannulation	4032775	SNOMED	Procedure
+dialysis_services_01_base	180273006	Removal of chronic ambulatory peritoneal dialysis catheter	4080242	SNOMED	Procedure
+dialysis_services_01_base	225230008	Chronic peritoneal dialysis	4021976	SNOMED	Procedure
+dialysis_services_01_base	225231007	Stab peritoneal dialysis	4020892	SNOMED	Procedure
+dialysis_services_01_base	233575001	Intermittent hemodialysis	4051326	SNOMED	Procedure
+dialysis_services_01_base	233576000	Intermittent hemodialysis with sequential ultrafiltration	4051327	SNOMED	Procedure
+dialysis_services_01_base	233577009	Intermittent hemodialysis with continuous ultrafiltration	4050862	SNOMED	Procedure
+dialysis_services_01_base	233578004	Continuous hemodialysis	4050863	SNOMED	Procedure
+dialysis_services_01_base	233579007	Continuous arteriovenous hemodialysis	4051328	SNOMED	Procedure
+dialysis_services_01_base	233580005	Continuous venovenous hemodialysis	4051329	SNOMED	Procedure
+dialysis_services_01_base	233581009	Hemofiltration	4050864	SNOMED	Procedure
+dialysis_services_01_base	233582002	Intermittent hemofiltration	4050865	SNOMED	Procedure
+dialysis_services_01_base	233583007	Continuous hemofiltration	4052537	SNOMED	Procedure
+dialysis_services_01_base	233584001	Continuous arteriovenous hemofiltration	4049844	SNOMED	Procedure
+dialysis_services_01_base	233585000	Continuous venovenous hemofiltration	4051330	SNOMED	Procedure
+dialysis_services_01_base	233586004	Hemodiafiltration	4049845	SNOMED	Procedure
+dialysis_services_01_base	233587008	Intermittent hemodiafiltration	4052538	SNOMED	Procedure
+dialysis_services_01_base	233588003	Continuous hemodiafiltration	4050866	SNOMED	Procedure
+dialysis_services_01_base	233589006	Continuous arteriovenous hemodiafiltration	4050867	SNOMED	Procedure
+dialysis_services_01_base	233590002	Continuous venovenous hemodiafiltration	4049846	SNOMED	Procedure
+dialysis_services_01_base	238316008	Aspiration of chronic ambulatory peritoneal dialysis catheter	4032128	SNOMED	Procedure
+dialysis_services_01_base	238317004	Flushing of chronic ambulatory peritoneal dialysis catheter	4030832	SNOMED	Procedure
+dialysis_services_01_base	238318009	Continuous ambulatory peritoneal dialysis	4080169	SNOMED	Procedure
+dialysis_services_01_base	238319001	Continuous cycling peritoneal dialysis	4031315	SNOMED	Procedure
+dialysis_services_01_base	238321006	Intermittent peritoneal dialysis	4080171	SNOMED	Procedure
+dialysis_services_01_base	238322004	Tidal peritoneal dialysis	4080172	SNOMED	Procedure
+dialysis_services_01_base	238323009	Night-time intermittent peritoneal dialysis	4030834	SNOMED	Procedure
+dialysis_services_01_base	265764009	Renal dialysis	4146536	SNOMED	Procedure
+dialysis_services_01_base	288182009	Extracorporeal kidney	4121921	SNOMED	Procedure
+dialysis_services_01_base	302497006	Hemodialysis	4120120	SNOMED	Procedure
+dialysis_services_01_base	34897002	"Hemodialysis, maintenance in hospital"	4146649	SNOMED	Procedure
+dialysis_services_01_base	427053002	Extracorporeal albumin hemodialysis	4140589	SNOMED	Procedure
+dialysis_services_01_base	428648006	Automated peritoneal dialysis	4323627	SNOMED	Procedure
+dialysis_services_01_base	439278006	Measurement of static venous pressure in hemodialysis vascular access	4205368	SNOMED	Measurement
+dialysis_services_01_base	439976001	Measurement of recirculation in hemodialysis vascular access	4233312	SNOMED	Procedure
+dialysis_services_01_base	57274006	Initial hemodialysis	4238836	SNOMED	Procedure
+dialysis_services_01_base	676002	Peritoneal dialysis including cannulation	4195534	SNOMED	Procedure
+dialysis_services_01_base	67970008	"Hemodialysis, maintenance at home"	4195714	SNOMED	Procedure
+dialysis_services_01_base	68341005	"Hemodialysis, supervision at home"	4286500	SNOMED	Observation
+dialysis_services_01_base	71192002	Peritoneal dialysis	4324124	SNOMED	Procedure
+dialysis_services_01_base	714749008	Continuous renal replacement therapy	37018292	SNOMED	Procedure

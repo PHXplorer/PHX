@@ -1,0 +1,34 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+dementia_medications_01_base	1100184	donepezil hydrochloride 23 MG Oral Tablet	40239151	RxNorm	Drug
+dementia_medications_01_base	1599803	24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule	45892894	RxNorm	Drug
+dementia_medications_01_base	1805420	24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule	40221035	RxNorm	Drug
+dementia_medications_01_base	1858970	{7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / me...	1718873	RxNorm	Drug
+dementia_medications_01_base	310437	galantamine 8 MG Oral Tablet	19077573	RxNorm	Drug
+dementia_medications_01_base	312836	rivastigmine 6 MG Oral Capsule	733531	RxNorm	Drug
+dementia_medications_01_base	314215	rivastigmine 4.5 MG Oral Capsule	733563	RxNorm	Drug
+dementia_medications_01_base	725021	24 HR rivastigmine 0.192 MG/HR Transdermal System	19127019	RxNorm	Drug
+dementia_medications_01_base	860695	24 HR galantamine hydrobromide 16 MG Extended Release Oral Capsule	40163966	RxNorm	Drug
+dementia_medications_01_base	860715	24 HR galantamine hydrobromide 8 MG Extended Release Oral Capsule	40163970	RxNorm	Drug
+dementia_medications_01_base	996561	memantine hydrochloride 10 MG Oral Tablet	40222834	RxNorm	Drug
+dementia_medications_01_base	996572	{21 (memantine hydrochloride 10 MG Oral Tablet) / 28 (memantine hydrochloride 5 MG Oral Tablet) } Pack	40223051	RxNorm	Drug
+dementia_medications_01_base	996603	24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule	40221891	RxNorm	Drug
+dementia_medications_01_base	996615	24 HR memantine hydrochloride 7 MG Extended Release Oral Capsule	40221895	RxNorm	Drug
+dementia_medications_01_base	996740	memantine hydrochloride 2 MG/ML Oral Solution	40222846	RxNorm	Drug
+dementia_medications_01_base	997223	donepezil hydrochloride 10 MG Oral Tablet	40223768	RxNorm	Drug
+dementia_medications_01_base	997229	donepezil hydrochloride 5 MG Oral Tablet	40223778	RxNorm	Drug
+dementia_medications_01_base	1308569	24 HR rivastigmine 0.554 MG/HR Transdermal System	42898243	RxNorm	Drug
+dementia_medications_01_base	1599805	24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule	45892896	RxNorm	Drug
+dementia_medications_01_base	1805425	24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 7 MG Extended Release Oral Capsule	40221040	RxNorm	Drug
+dementia_medications_01_base	310436	galantamine 4 MG Oral Tablet	19077572	RxNorm	Drug
+dementia_medications_01_base	312835	rivastigmine 3 MG Oral Capsule	733530	RxNorm	Drug
+dementia_medications_01_base	314214	rivastigmine 1.5 MG Oral Capsule	733562	RxNorm	Drug
+dementia_medications_01_base	579148	galantamine 12 MG Oral Tablet	757640	RxNorm	Drug
+dementia_medications_01_base	725023	24 HR rivastigmine 0.396 MG/HR Transdermal System	19127021	RxNorm	Drug
+dementia_medications_01_base	860707	24 HR galantamine hydrobromide 24 MG Extended Release Oral Capsule	40163968	RxNorm	Drug
+dementia_medications_01_base	860901	galantamine hydrobromide 4 MG/ML Oral Solution	40165629	RxNorm	Drug
+dementia_medications_01_base	996571	memantine hydrochloride 5 MG Oral Tablet	40222862	RxNorm	Drug
+dementia_medications_01_base	996594	24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule	40221889	RxNorm	Drug
+dementia_medications_01_base	996609	24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule	40221893	RxNorm	Drug
+dementia_medications_01_base	996624	{7 (24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 7...	40223042	RxNorm	Drug
+dementia_medications_01_base	997220	donepezil hydrochloride 10 MG Disintegrating Oral Tablet	40223766	RxNorm	Drug
+dementia_medications_01_base	997226	donepezil hydrochloride 5 MG Disintegrating Oral Tablet	40223776	RxNorm	Drug

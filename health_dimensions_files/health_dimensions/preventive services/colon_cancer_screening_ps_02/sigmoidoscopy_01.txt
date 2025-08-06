@@ -1,0 +1,21 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+sigmoidoscopy_01	396226005	Flexible fiberoptic sigmoidoscopy with biopsy	SNOMED	4262589	Flexible fiberoptic sigmoidoscopy with biopsy
+sigmoidoscopy_01	425634007	Diagnostic endoscopic examination of lower bowel and sampling for bacterial overgrowth using fiberoptic sigmoidoscope	SNOMED	37163494	Endoscopic examination of lower bowel and sampling for bacterial overgrowth
+sigmoidoscopy_01	44441009	Flexible fiberoptic sigmoidoscopy	SNOMED	4196378	Flexible fiberoptic sigmoidoscopy
+sigmoidoscopy_01	45330	"Sigmoidoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)"	CPT4	2109180	"Sigmoidoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)"
+sigmoidoscopy_01	45331	"Sigmoidoscopy, flexible; with biopsy, single or multiple"	CPT4	4262589	Flexible fiberoptic sigmoidoscopy with biopsy
+sigmoidoscopy_01	45332	"Sigmoidoscopy, flexible; with removal of foreign body(s)"	CPT4	4013038	Flexible fiberoptic sigmoidoscopy for removal of foreign body
+sigmoidoscopy_01	45333	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps"	CPT4	2109183	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps"
+sigmoidoscopy_01	45334	"Sigmoidoscopy, flexible; with control of bleeding, any method"	CPT4	2109184	"Sigmoidoscopy, flexible; with control of bleeding, any method"
+sigmoidoscopy_01	45335	"Sigmoidoscopy, flexible; with directed submucosal injection(s), any substance"	CPT4	2109185	"Sigmoidoscopy, flexible; with directed submucosal injection(s), any substance"
+sigmoidoscopy_01	45337	"Sigmoidoscopy, flexible; with decompression (for pathologic distention) (eg, volvulus, megacolon), including placement of decompression tube, when performed"	CPT4	2109186	"Sigmoidoscopy, flexible; with decompression (for pathologic distention) (eg, volvulus, megacolon), including placement of decompression tube, when performed"
+sigmoidoscopy_01	45338	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique"	CPT4	2109187	"Sigmoidoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique"
+sigmoidoscopy_01	45340	"Sigmoidoscopy, flexible; with transendoscopic balloon dilation"	CPT4	2109189	"Sigmoidoscopy, flexible; with transendoscopic balloon dilation"
+sigmoidoscopy_01	45341	"Sigmoidoscopy, flexible; with endoscopic ultrasound examination"	CPT4	2109190	"Sigmoidoscopy, flexible; with endoscopic ultrasound examination"
+sigmoidoscopy_01	45342	"Sigmoidoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s)"	CPT4	2109191	"Sigmoidoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s)"
+sigmoidoscopy_01	45346	"Sigmoidoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"	CPT4	46257703	"Sigmoidoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"
+sigmoidoscopy_01	45347	"Sigmoidoscopy, flexible; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)"	CPT4	4139868	Endoscopic insertion of expanding metal stent into lower bowel using fiberoptic sigmoidoscope
+sigmoidoscopy_01	45349	"Sigmoidoscopy, flexible; with endoscopic mucosal resection"	CPT4	36675227	Excision of lesion of mucous membrane of lower bowel using fiberoptic sigmoidoscope
+sigmoidoscopy_01	45350	"Sigmoidoscopy, flexible; with band ligation(s) (eg, hemorrhoids)"	CPT4	46257706	"Sigmoidoscopy, flexible; with band ligation(s) (eg, hemorrhoids)"
+sigmoidoscopy_01	841000119107	History of flexible sigmoidoscopy	SNOMED	1340204	History of event
+sigmoidoscopy_01	G0104	Colorectal cancer screening; flexible sigmoidoscopy	HCPCS	4196378	Flexible fiberoptic sigmoidoscopy

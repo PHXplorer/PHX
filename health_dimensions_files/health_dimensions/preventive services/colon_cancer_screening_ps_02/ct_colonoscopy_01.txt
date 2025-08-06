@@ -1,0 +1,7 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+ct_colonoscopy_01	60515-4	CT Colon and Rectum W air contrast PR	LOINC	40763569	CT Colon and Rectum W air contrast PR
+ct_colonoscopy_01	72531-7	CT Colon and Rectum W contrast IV and W air contrast PR	LOINC	43055158	CT Colon and Rectum W contrast IV and W air contrast PR
+ct_colonoscopy_01	79069-1	CT Colon and Rectum for screening WO contrast IV and W air contrast PR	LOINC	21492098	CT Colon and Rectum for screening WO contrast IV and W air contrast PR
+ct_colonoscopy_01	79071-7	CT Colon and Rectum WO contrast IV and W air contrast PR	LOINC	21492100	CT Colon and Rectum WO contrast IV and W air contrast PR
+ct_colonoscopy_01	79101-2	CT Colon and Rectum for screening W air contrast PR	LOINC	21492174	CT Colon and Rectum for screening W air contrast PR
+ct_colonoscopy_01	82688-3	CT Colon and Rectum WO and W contrast IV and W air contrast PR	LOINC	42528848	CT Colon and Rectum WO and W contrast IV and W air contrast PR

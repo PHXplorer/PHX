@@ -1,0 +1,145 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+colon_neoplasm_01_base	109838007	Overlapping malignant neoplasm of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	109839004	"Overlapping malignant neoplasm of rectum, anus and anal canal (disorder)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	10987871000119100	History of malignant neoplasm of rectosigmoid junction (situation)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1156783003	Leiomyosarcoma of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1156788007	Leiomyosarcoma of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1156795003	Kaposi sarcoma of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1156797006	Kaposi sarcoma of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1163568002	Primary malignant neoplasm of overlapping sites of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1197354001	Primary malignant mesenchymal neoplasm of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1197355000	Primary malignant mesenchymal neoplasm of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1197359006	Familial colorectal cancer type X (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1204448006	History of carcinoma of rectosigmoid junction (situation)	SNOMEDCT	NULL
+colon_neoplasm_01_base	123691000119104	Malignant carcinoid tumor of sigmoid colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	123701000119104	Malignant carcinoid tumor of descending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	123721000119108	Malignant carcinoid tumor of ascending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	130381000119103	Primary malignant neuroendocrine neoplasm of ascending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	133751000119102	Lymphoma of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	153	Malignant neoplasm of hepatic flexure	ICD9CM	NULL
+colon_neoplasm_01_base	153	Malignant neoplasm of transverse colon	ICD9CM	NULL
+colon_neoplasm_01_base	153	Malignant neoplasm of descending colon	ICD9CM	NULL
+colon_neoplasm_01_base	153	Malignant neoplasm of sigmoid colon	ICD9CM	NULL
+colon_neoplasm_01_base	153	Malignant neoplasm of cecum	ICD9CM	NULL
+colon_neoplasm_01_base	154	Malignant neoplasm of appendix vermiformis	ICD9CM	NULL
+colon_neoplasm_01_base	154	Malignant neoplasm of ascending colon	ICD9CM	NULL
+colon_neoplasm_01_base	154	Malignant neoplasm of splenic flexure	ICD9CM	NULL
+colon_neoplasm_01_base	154	Malignant neoplasm of other specified sites of large intestine	ICD9CM	NULL
+colon_neoplasm_01_base	154	"Malignant neoplasm of colon, unspecified site"	ICD9CM	NULL
+colon_neoplasm_01_base	154	Malignant neoplasm of rectosigmoid junction	ICD9CM	NULL
+colon_neoplasm_01_base	154	Malignant neoplasm of rectum	ICD9CM	NULL
+colon_neoplasm_01_base	16636051000119100	Primary malignant gastrointestinal stromal neoplasm of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	16636101000119100	Primary malignant gastrointestinal stromal neoplasm of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	1701000119104	Primary adenocarcinoma of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	184881000119106	Primary adenocarcinoma of rectosigmoid junction (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	187757001	"Malignant neoplasm, overlapping lesion of colon (disorder)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	187760008	"Malignant neoplasm of rectum, rectosigmoid junction and anus (disorder)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	198	Secondary malignant neoplasm of large intestine and rectum	ICD9CM	NULL
+colon_neoplasm_01_base	254582000	Adenocarcinoma of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	254586002	Malignant tumor of anorectal junction (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	269533000	Carcinoma of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	269544008	Carcinoma of the rectosigmoid junction (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	276822007	Malignant melanoma of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	285312008	Carcinoma of sigmoid colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	285611007	Metastasis to colon of unknown primary (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	285612000	Metastasis to rectum of unknown primary (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	286771000119106	History of malignant carcinoid tumor of colon (situation)	SNOMEDCT	NULL
+colon_neoplasm_01_base	286791000119107	History of malignant carcinoid tumor of rectum (situation)	SNOMEDCT	NULL
+colon_neoplasm_01_base	301756000	Adenocarcinoma of sigmoid colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	312111009	Carcinoma of ascending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	312112002	Carcinoma of transverse colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	312113007	Carcinoma of descending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	312114001	Carcinoma of hepatic flexure (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	312115000	Carcinoma of splenic flexure (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	314965007	Local recurrence of malignant tumor of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	314966008	Local recurrence of malignant tumor of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	315058005	Hereditary nonpolyposis colon cancer (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363351006	Malignant tumor of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363406005	Malignant neoplasm of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363407001	Malignant tumor of hepatic flexure (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363408006	Malignant tumor of transverse colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363409003	Malignant tumor of descending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363410008	Malignant tumor of sigmoid colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363412000	Malignant tumor of ascending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363413005	Malignant tumor of splenic flexure (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363414004	Malignant tumor of rectosigmoid junction (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	363510005	Malignant tumor of large intestine (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369448007	Malignant tumor involving rectum by direct extension from endometrium (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369449004	Malignant tumor involving rectum by direct extension from fallopian tube (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369450004	Malignant tumor involving rectum by direct extension from ovary (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369451000	Malignant tumor involving rectum by direct extension from prostate (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369452007	Malignant tumor involving rectum by direct extension from uterine cervix (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369453002	Malignant tumor involving rectum by direct extension from uterus (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369454008	Malignant tumor involving rectum by direct extension from vagina (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369455009	Malignant tumor involving rectum by separate metastasis from endometrium (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369456005	Malignant tumor involving rectum by separate metastasis from fallopian tube (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369457001	Malignant tumor involving rectum by separate metastasis from ovary (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369458006	Malignant tumor involving rectum by separate metastasis from prostate (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369459003	Malignant tumor involving rectum by separate metastasis from uterine cervix (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369460008	Malignant tumor involving rectum by separate metastasis from uterus (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	369461007	Malignant tumor involving rectum by separate metastasis from vagina (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	395705003	"pTis: Carcinoma in situ, intraepithelial (colon/rectum) (finding)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	422375001	"Carcinoma of colon, stage III (finding)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	422581008	"Carcinoma of colon, stage II (finding)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	422985007	"Carcinoma of colon, stage IV (finding)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	425178004	Adenocarcinoma of rectosigmoid junction (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	425213009	"Carcinoma of colon, stage I (finding)"	SNOMEDCT	NULL
+colon_neoplasm_01_base	429084005	History of malignant neoplasm of rectum (situation)	SNOMEDCT	NULL
+colon_neoplasm_01_base	429699009	History of malignant neoplasm of colon (situation)	SNOMEDCT	NULL
+colon_neoplasm_01_base	443488001	Malignant neoplasm of anorectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	447886005	Adenocarcinoma of anorectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	448994001	Malignant epithelial neoplasm of upper rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	449218003	Lymphoma of sigmoid colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	681601000119101	Primary adenocarcinoma of ascending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	681651000119102	Primary adenocarcinoma of descending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	713573006	Malignant carcinoid tumor of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	721695008	Primary adenocarcinoma of ascending colon and right flexure (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	721696009	Primary adenocarcinoma of transverse colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	721697000	Primary neuroendocrine carcinoma of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	721698005	Primary malignant neuroendocrine neoplasm of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	721699002	Primary adenocarcinoma of descending colon and splenic flexure (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	721700001	Primary malignant neuroendocrine neoplasm of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	721701002	Primary neuroendocrine carcinoma of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	726654006	Malignant carcinoid tumor of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	737058005	Microsatellite instability-high colorectal cancer (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	766979005	Squamous cell carcinoma of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	766981007	Squamous cell carcinoma of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	93683002	Primary malignant neoplasm of ascending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	93761005	Primary malignant neoplasm of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	93771007	Primary malignant neoplasm of descending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	93826009	Primary malignant neoplasm of hepatic flexure of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	93980002	Primary malignant neoplasm of rectosigmoid junction (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	93984006	Primary malignant neoplasm of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94006002	Primary malignant neoplasm of sigmoid colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94072004	Primary malignant neoplasm of splenic flexure of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94105000	Primary malignant neoplasm of transverse colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94179005	Secondary malignant neoplasm of ascending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94260004	Secondary malignant neoplasm of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94271003	Secondary malignant neoplasm of descending colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94328005	Secondary malignant neoplasm of hepatic flexure of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94509004	Secondary malignant neoplasm of rectosigmoid junction (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94513006	Secondary malignant neoplasm of rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94538001	Secondary malignant neoplasm of sigmoid colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94604000	Secondary malignant neoplasm of splenic flexure of colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	94643001	Secondary malignant neoplasm of transverse colon (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	96281000119107	Overlapping malignant neoplasm of colon and rectum (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	96981000119102	Malignant neoplasm of rectosigmoid junction metastatic to brain (disorder)	SNOMEDCT	NULL
+colon_neoplasm_01_base	C18.0	Malignant neoplasm of cecum	ICD10CM	NULL
+colon_neoplasm_01_base	C18.1	Malignant neoplasm of appendix	ICD10CM	NULL
+colon_neoplasm_01_base	C18.2	Malignant neoplasm of ascending colon	ICD10CM	NULL
+colon_neoplasm_01_base	C18.3	Malignant neoplasm of hepatic flexure	ICD10CM	NULL
+colon_neoplasm_01_base	C18.4	Malignant neoplasm of transverse colon	ICD10CM	NULL
+colon_neoplasm_01_base	C18.5	Malignant neoplasm of splenic flexure	ICD10CM	NULL
+colon_neoplasm_01_base	C18.6	Malignant neoplasm of descending colon	ICD10CM	NULL
+colon_neoplasm_01_base	C18.7	Malignant neoplasm of sigmoid colon	ICD10CM	NULL
+colon_neoplasm_01_base	C18.8	Malignant neoplasm of overlapping sites of colon	ICD10CM	NULL
+colon_neoplasm_01_base	C18.9	"Malignant neoplasm of colon, unspecified"	ICD10CM	NULL
+colon_neoplasm_01_base	C19	Malignant neoplasm of rectosigmoid junction	ICD10CM	NULL
+colon_neoplasm_01_base	C20	Malignant neoplasm of rectum	ICD10CM	NULL
+colon_neoplasm_01_base	C21.2	Malignant neoplasm of cloacogenic zone	ICD10CM	NULL
+colon_neoplasm_01_base	C21.8	"Malignant neoplasm of overlapping sites of rectum, anus and anal canal"	ICD10CM	NULL
+colon_neoplasm_01_base	C78.5	Secondary malignant neoplasm of large intestine and rectum	ICD10CM	NULL
+colon_neoplasm_01_base	V10.05	Personal history of malignant neoplasm of large intestine	ICD9CM	NULL
+colon_neoplasm_01_base	V10.06	"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus"	ICD9CM	NULL
+colon_neoplasm_01_base	Z85.038	Personal history of other malignant neoplasm of large intestine	ICD10CM	NULL
+colon_neoplasm_01_base	Z85.048	"Personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus"	ICD10CM	NULL

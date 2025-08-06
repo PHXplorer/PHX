@@ -1,0 +1,340 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id
+frailty_diagnosis_01	L89.001	"Pressure ulcer of unspecified elbow, stage 1"	45548210	ICD10CM
+frailty_diagnosis_01	L89.003	"Pressure ulcer of unspecified elbow, stage 3"	45552997	ICD10CM
+frailty_diagnosis_01	L89.006	Pressure-induced deep tissue damage of unspecified elbow	1553785	ICD10CM
+frailty_diagnosis_01	L89.010	"Pressure ulcer of right elbow, unstageable"	45548211	ICD10CM
+frailty_diagnosis_01	L89.012	"Pressure ulcer of right elbow, stage 2"	45552998	ICD10CM
+frailty_diagnosis_01	L89.014	"Pressure ulcer of right elbow, stage 4"	45606002	ICD10CM
+frailty_diagnosis_01	L89.019	"Pressure ulcer of right elbow, unspecified stage"	45533652	ICD10CM
+frailty_diagnosis_01	L89.021	"Pressure ulcer of left elbow, stage 1"	45538590	ICD10CM
+frailty_diagnosis_01	L89.023	"Pressure ulcer of left elbow, stage 3"	45562550	ICD10CM
+frailty_diagnosis_01	L89.026	Pressure-induced deep tissue damage of left elbow	1553787	ICD10CM
+frailty_diagnosis_01	L89.100	"Pressure ulcer of unspecified part of back, unstageable"	45601236	ICD10CM
+frailty_diagnosis_01	L89.102	"Pressure ulcer of unspecified part of back, stage 2"	45548213	ICD10CM
+frailty_diagnosis_01	L89.104	"Pressure ulcer of unspecified part of back, stage 4"	45543387	ICD10CM
+frailty_diagnosis_01	L89.109	"Pressure ulcer of unspecified part of back, unspecified stage"	45586786	ICD10CM
+frailty_diagnosis_01	L89.111	"Pressure ulcer of right upper back, stage 1"	45533655	ICD10CM
+frailty_diagnosis_01	L89.113	"Pressure ulcer of right upper back, stage 3"	45577057	ICD10CM
+frailty_diagnosis_01	L89.116	Pressure-induced deep tissue damage of right upper back	1553789	ICD10CM
+frailty_diagnosis_01	L89.120	"Pressure ulcer of left upper back, unstageable"	45552999	ICD10CM
+frailty_diagnosis_01	L89.122	"Pressure ulcer of left upper back, stage 2"	45572284	ICD10CM
+frailty_diagnosis_01	L89.124	"Pressure ulcer of left upper back, stage 4"	45601237	ICD10CM
+frailty_diagnosis_01	L89.129	"Pressure ulcer of left upper back, unspecified stage"	45586787	ICD10CM
+frailty_diagnosis_01	L89.131	"Pressure ulcer of right lower back, stage 1"	45577059	ICD10CM
+frailty_diagnosis_01	L89.133	"Pressure ulcer of right lower back, stage 3"	45548214	ICD10CM
+frailty_diagnosis_01	L89.136	Pressure-induced deep tissue damage of right lower back	1553791	ICD10CM
+frailty_diagnosis_01	L89.140	"Pressure ulcer of left lower back, unstageable"	45601239	ICD10CM
+frailty_diagnosis_01	L89.142	"Pressure ulcer of left lower back, stage 2"	45572286	ICD10CM
+frailty_diagnosis_01	L89.144	"Pressure ulcer of left lower back, stage 4"	45601240	ICD10CM
+frailty_diagnosis_01	L89.149	"Pressure ulcer of left lower back, unspecified stage"	45586788	ICD10CM
+frailty_diagnosis_01	L89.151	"Pressure ulcer of sacral region, stage 1"	45543390	ICD10CM
+frailty_diagnosis_01	L89.153	"Pressure ulcer of sacral region, stage 3"	45572287	ICD10CM
+frailty_diagnosis_01	L89.156	Pressure-induced deep tissue damage of sacral region	1553793	ICD10CM
+frailty_diagnosis_01	L89.201	"Pressure ulcer of unspecified hip, stage 1"	45533656	ICD10CM
+frailty_diagnosis_01	L89.203	"Pressure ulcer of unspecified hip, stage 3"	45538594	ICD10CM
+frailty_diagnosis_01	L89.206	Pressure-induced deep tissue damage of unspecified hip	1553794	ICD10CM
+frailty_diagnosis_01	L89.210	"Pressure ulcer of right hip, unstageable"	45543391	ICD10CM
+frailty_diagnosis_01	L89.212	"Pressure ulcer of right hip, stage 2"	45538595	ICD10CM
+frailty_diagnosis_01	L89.214	"Pressure ulcer of right hip, stage 4"	45591649	ICD10CM
+frailty_diagnosis_01	L89.219	"Pressure ulcer of right hip, unspecified stage"	45548218	ICD10CM
+frailty_diagnosis_01	L89.221	"Pressure ulcer of left hip, stage 1"	45553002	ICD10CM
+frailty_diagnosis_01	L89.223	"Pressure ulcer of left hip, stage 3"	45577063	ICD10CM
+frailty_diagnosis_01	L89.226	Pressure-induced deep tissue damage of left hip	1553796	ICD10CM
+frailty_diagnosis_01	L89.300	"Pressure ulcer of unspecified buttock, unstageable"	45581968	ICD10CM
+frailty_diagnosis_01	L89.302	"Pressure ulcer of unspecified buttock, stage 2"	45606003	ICD10CM
+frailty_diagnosis_01	L89.304	"Pressure ulcer of unspecified buttock, stage 4"	45538596	ICD10CM
+frailty_diagnosis_01	L89.309	"Pressure ulcer of unspecified buttock, unspecified stage"	45553003	ICD10CM
+frailty_diagnosis_01	L89.311	"Pressure ulcer of right buttock, stage 1"	45591651	ICD10CM
+frailty_diagnosis_01	L89.313	"Pressure ulcer of right buttock, stage 3"	45606004	ICD10CM
+frailty_diagnosis_01	L89.316	Pressure-induced deep tissue damage of right buttock	1553798	ICD10CM
+frailty_diagnosis_01	L89.320	"Pressure ulcer of left buttock, unstageable"	45572290	ICD10CM
+frailty_diagnosis_01	L89.322	"Pressure ulcer of left buttock, stage 2"	45557719	ICD10CM
+frailty_diagnosis_01	L89.324	"Pressure ulcer of left buttock, stage 4"	45601244	ICD10CM
+frailty_diagnosis_01	L89.329	"Pressure ulcer of left buttock, unspecified stage"	45533657	ICD10CM
+frailty_diagnosis_01	L89.41	"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"	45606006	ICD10CM
+frailty_diagnosis_01	L89.43	"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"	45543393	ICD10CM
+frailty_diagnosis_01	L89.45	"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"	45606007	ICD10CM
+frailty_diagnosis_01	L89.500	"Pressure ulcer of unspecified ankle, unstageable"	45572291	ICD10CM
+frailty_diagnosis_01	L89.502	"Pressure ulcer of unspecified ankle, stage 2"	45601245	ICD10CM
+frailty_diagnosis_01	L89.504	"Pressure ulcer of unspecified ankle, stage 4"	45557720	ICD10CM
+frailty_diagnosis_01	L89.509	"Pressure ulcer of unspecified ankle, unspecified stage"	45606008	ICD10CM
+frailty_diagnosis_01	L89.511	"Pressure ulcer of right ankle, stage 1"	45538597	ICD10CM
+frailty_diagnosis_01	L89.513	"Pressure ulcer of right ankle, stage 3"	45581969	ICD10CM
+frailty_diagnosis_01	L89.516	Pressure-induced deep tissue damage of right ankle	1553802	ICD10CM
+frailty_diagnosis_01	L89.520	"Pressure ulcer of left ankle, unstageable"	45562555	ICD10CM
+frailty_diagnosis_01	L89.522	"Pressure ulcer of left ankle, stage 2"	45601246	ICD10CM
+frailty_diagnosis_01	L89.524	"Pressure ulcer of left ankle, stage 4"	45581970	ICD10CM
+frailty_diagnosis_01	L89.601	"Pressure ulcer of unspecified heel, stage 1"	45572293	ICD10CM
+frailty_diagnosis_01	L89.603	"Pressure ulcer of unspecified heel, stage 3"	45586793	ICD10CM
+frailty_diagnosis_01	L89.606	Pressure-induced deep tissue damage of unspecified heel	1553804	ICD10CM
+frailty_diagnosis_01	L89.610	"Pressure ulcer of right heel, unstageable"	45606009	ICD10CM
+frailty_diagnosis_01	L89.612	"Pressure ulcer of right heel, stage 2"	45553005	ICD10CM
+frailty_diagnosis_01	L89.614	"Pressure ulcer of right heel, stage 4"	45538600	ICD10CM
+frailty_diagnosis_01	L89.619	"Pressure ulcer of right heel, unspecified stage"	45577065	ICD10CM
+frailty_diagnosis_01	L89.621	"Pressure ulcer of left heel, stage 1"	45553006	ICD10CM
+frailty_diagnosis_01	L89.623	"Pressure ulcer of left heel, stage 3"	45586794	ICD10CM
+frailty_diagnosis_01	L89.626	Pressure-induced deep tissue damage of left heel	1553806	ICD10CM
+frailty_diagnosis_01	L89.810	"Pressure ulcer of head, unstageable"	45596395	ICD10CM
+frailty_diagnosis_01	L89.812	"Pressure ulcer of head, stage 2"	45548220	ICD10CM
+frailty_diagnosis_01	L89.814	"Pressure ulcer of head, stage 4"	45557722	ICD10CM
+frailty_diagnosis_01	L89.819	"Pressure ulcer of head, unspecified stage"	45533659	ICD10CM
+frailty_diagnosis_01	L89.891	"Pressure ulcer of other site, stage 1"	45586796	ICD10CM
+frailty_diagnosis_01	L89.893	"Pressure ulcer of other site, stage 3"	45538601	ICD10CM
+frailty_diagnosis_01	L89.896	Pressure-induced deep tissue damage of other site	1553808	ICD10CM
+frailty_diagnosis_01	L89.90	"Pressure ulcer of unspecified site, unspecified stage"	45567375	ICD10CM
+frailty_diagnosis_01	L89.92	"Pressure ulcer of unspecified site, stage 2"	45533660	ICD10CM
+frailty_diagnosis_01	L89.94	"Pressure ulcer of unspecified site, stage 4"	45586797	ICD10CM
+frailty_diagnosis_01	L89.96	Pressure-induced deep tissue damage of unspecified site	1553809	ICD10CM
+frailty_diagnosis_01	M62.81	Muscle weakness (generalized)	45587018	ICD10CM
+frailty_diagnosis_01	R29.6	Repeated falls	35211335	ICD10CM
+frailty_diagnosis_01	W01.0XXD	"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, subsequent encounter"	45547036	ICD10CM
+frailty_diagnosis_01	W01.10XA	"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, initial encounter"	45585568	ICD10CM
+frailty_diagnosis_01	W01.10XS	"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, sequela"	45590432	ICD10CM
+frailty_diagnosis_01	W01.110D	"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, subsequent encounter"	45556579	ICD10CM
+frailty_diagnosis_01	W01.111A	"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, initial encounter"	45547038	ICD10CM
+frailty_diagnosis_01	W01.111S	"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, sequela"	45609673	ICD10CM
+frailty_diagnosis_01	W01.118D	"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, subsequent encounter"	45566180	ICD10CM
+frailty_diagnosis_01	W01.119S	"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, sequela"	45585569	ICD10CM
+frailty_diagnosis_01	W01.190D	"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, subsequent encounter"	45551830	ICD10CM
+frailty_diagnosis_01	W01.198A	"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, initial encounter"	45561376	ICD10CM
+frailty_diagnosis_01	W01.198S	"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, sequela"	45542160	ICD10CM
+frailty_diagnosis_01	W06.XXXD	"Fall from bed, subsequent encounter"	45590434	ICD10CM
+frailty_diagnosis_01	W07.XXXA	"Fall from chair, initial encounter"	45547042	ICD10CM
+frailty_diagnosis_01	W07.XXXS	"Fall from chair, sequela"	45547043	ICD10CM
+frailty_diagnosis_01	W08.XXXD	"Fall from other furniture, subsequent encounter"	45590435	ICD10CM
+frailty_diagnosis_01	W10.0XXA	"Fall (on)(from) escalator, initial encounter"	45609679	ICD10CM
+frailty_diagnosis_01	W10.0XXS	"Fall (on)(from) escalator, sequela"	45600108	ICD10CM
+frailty_diagnosis_01	W10.1XXD	"Fall (on)(from) sidewalk curb, subsequent encounter"	45590437	ICD10CM
+frailty_diagnosis_01	W10.2XXA	"Fall (on)(from) incline, initial encounter"	45551835	ICD10CM
+frailty_diagnosis_01	W10.2XXS	"Fall (on)(from) incline, sequela"	45609680	ICD10CM
+frailty_diagnosis_01	W10.8XXD	"Fall (on) (from) other stairs and steps, subsequent encounter"	45585574	ICD10CM
+frailty_diagnosis_01	W10.9XXA	"Fall (on) (from) unspecified stairs and steps, initial encounter"	45542164	ICD10CM
+frailty_diagnosis_01	W10.9XXS	"Fall (on) (from) unspecified stairs and steps, sequela"	45566183	ICD10CM
+frailty_diagnosis_01	W18.00XD	"Striking against unspecified object with subsequent fall, subsequent encounter"	45551848	ICD10CM
+frailty_diagnosis_01	W18.02XA	"Striking against glass with subsequent fall, initial encounter"	45575913	ICD10CM
+frailty_diagnosis_01	W18.02XS	"Striking against glass with subsequent fall, sequela"	45551849	ICD10CM
+frailty_diagnosis_01	W18.09XD	"Striking against other object with subsequent fall, subsequent encounter"	45551850	ICD10CM
+frailty_diagnosis_01	W18.11XA	"Fall from or off toilet without subsequent striking against object, initial encounter"	45600117	ICD10CM
+frailty_diagnosis_01	W18.11XS	"Fall from or off toilet without subsequent striking against object, sequela"	45585586	ICD10CM
+frailty_diagnosis_01	W18.12XD	"Fall from or off toilet with subsequent striking against object, subsequent encounter"	45571099	ICD10CM
+frailty_diagnosis_01	W18.2XXA	"Fall in (into) shower or empty bathtub, initial encounter"	45580788	ICD10CM
+frailty_diagnosis_01	W18.2XXS	"Fall in (into) shower or empty bathtub, sequela"	45609701	ICD10CM
+frailty_diagnosis_01	W18.30XD	"Fall on same level, unspecified, subsequent encounter"	45547062	ICD10CM
+frailty_diagnosis_01	W18.31XA	"Fall on same level due to stepping on an object, initial encounter"	45551851	ICD10CM
+frailty_diagnosis_01	W18.31XS	"Fall on same level due to stepping on an object, sequela"	45595247	ICD10CM
+frailty_diagnosis_01	W18.39XD	"Other fall on same level, subsequent encounter"	45542185	ICD10CM
+frailty_diagnosis_01	W19.XXXS	"Unspecified fall, sequela"	45585587	ICD10CM
+frailty_diagnosis_01	Z59.3	Problems related to living in residential institution	35225202	ICD10CM
+frailty_diagnosis_01	Z74.01	Bed confinement status	45547340	ICD10CM
+frailty_diagnosis_01	Z74.1	Need for assistance with personal care	35225284	ICD10CM
+frailty_diagnosis_01	Z74.3	Need for continuous supervision	35225286	ICD10CM
+frailty_diagnosis_01	Z74.9	"Problem related to care provider dependency, unspecified"	35225288	ICD10CM
+frailty_diagnosis_01	Z99.11	Dependence on respirator [ventilator] status	45542507	ICD10CM
+frailty_diagnosis_01	Z99.81	Dependence on supplemental oxygen	45600392	ICD10CM
+frailty_diagnosis_01	L89.000	"Pressure ulcer of unspecified elbow, unstageable"	45572283	ICD10CM
+frailty_diagnosis_01	L89.002	"Pressure ulcer of unspecified elbow, stage 2"	45567370	ICD10CM
+frailty_diagnosis_01	L89.004	"Pressure ulcer of unspecified elbow, stage 4"	45586784	ICD10CM
+frailty_diagnosis_01	L89.009	"Pressure ulcer of unspecified elbow, unspecified stage"	45543386	ICD10CM
+frailty_diagnosis_01	L89.011	"Pressure ulcer of right elbow, stage 1"	45586785	ICD10CM
+frailty_diagnosis_01	L89.013	"Pressure ulcer of right elbow, stage 3"	45548212	ICD10CM
+frailty_diagnosis_01	L89.016	Pressure-induced deep tissue damage of right elbow	1553786	ICD10CM
+frailty_diagnosis_01	L89.020	"Pressure ulcer of left elbow, unstageable"	45557716	ICD10CM
+frailty_diagnosis_01	L89.022	"Pressure ulcer of left elbow, stage 2"	45533653	ICD10CM
+frailty_diagnosis_01	L89.024	"Pressure ulcer of left elbow, stage 4"	45533654	ICD10CM
+frailty_diagnosis_01	L89.029	"Pressure ulcer of left elbow, unspecified stage"	45596389	ICD10CM
+frailty_diagnosis_01	L89.101	"Pressure ulcer of unspecified part of back, stage 1"	45577056	ICD10CM
+frailty_diagnosis_01	L89.103	"Pressure ulcer of unspecified part of back, stage 3"	45581964	ICD10CM
+frailty_diagnosis_01	L89.106	Pressure-induced deep tissue damage of unspecified part of back	1553788	ICD10CM
+frailty_diagnosis_01	L89.110	"Pressure ulcer of right upper back, unstageable"	45557717	ICD10CM
+frailty_diagnosis_01	L89.112	"Pressure ulcer of right upper back, stage 2"	45538591	ICD10CM
+frailty_diagnosis_01	L89.114	"Pressure ulcer of right upper back, stage 4"	45543388	ICD10CM
+frailty_diagnosis_01	L89.119	"Pressure ulcer of right upper back, unspecified stage"	45577058	ICD10CM
+frailty_diagnosis_01	L89.121	"Pressure ulcer of left upper back, stage 1"	45562551	ICD10CM
+frailty_diagnosis_01	L89.123	"Pressure ulcer of left upper back, stage 3"	45562552	ICD10CM
+frailty_diagnosis_01	L89.126	Pressure-induced deep tissue damage of left upper back	1553790	ICD10CM
+frailty_diagnosis_01	L89.130	"Pressure ulcer of right lower back, unstageable"	45553000	ICD10CM
+frailty_diagnosis_01	L89.132	"Pressure ulcer of right lower back, stage 2"	45543389	ICD10CM
+frailty_diagnosis_01	L89.134	"Pressure ulcer of right lower back, stage 4"	45572285	ICD10CM
+frailty_diagnosis_01	L89.139	"Pressure ulcer of right lower back, unspecified stage"	45601238	ICD10CM
+frailty_diagnosis_01	L89.141	"Pressure ulcer of left lower back, stage 1"	45577060	ICD10CM
+frailty_diagnosis_01	L89.143	"Pressure ulcer of left lower back, stage 3"	45581965	ICD10CM
+frailty_diagnosis_01	L89.146	Pressure-induced deep tissue damage of left lower back	1553792	ICD10CM
+frailty_diagnosis_01	L89.150	"Pressure ulcer of sacral region, unstageable"	45548216	ICD10CM
+frailty_diagnosis_01	L89.152	"Pressure ulcer of sacral region, stage 2"	45601241	ICD10CM
+frailty_diagnosis_01	L89.154	"Pressure ulcer of sacral region, stage 4"	45567372	ICD10CM
+frailty_diagnosis_01	L89.159	"Pressure ulcer of sacral region, unspecified stage"	45601242	ICD10CM
+frailty_diagnosis_01	L89.200	"Pressure ulcer of unspecified hip, unstageable"	45538593	ICD10CM
+frailty_diagnosis_01	L89.202	"Pressure ulcer of unspecified hip, stage 2"	45581966	ICD10CM
+frailty_diagnosis_01	L89.204	"Pressure ulcer of unspecified hip, stage 4"	45596390	ICD10CM
+frailty_diagnosis_01	L89.209	"Pressure ulcer of unspecified hip, unspecified stage"	45567373	ICD10CM
+frailty_diagnosis_01	L89.211	"Pressure ulcer of right hip, stage 1"	45548217	ICD10CM
+frailty_diagnosis_01	L89.213	"Pressure ulcer of right hip, stage 3"	45577061	ICD10CM
+frailty_diagnosis_01	L89.216	Pressure-induced deep tissue damage of right hip	1553795	ICD10CM
+frailty_diagnosis_01	L89.220	"Pressure ulcer of left hip, unstageable"	45553001	ICD10CM
+frailty_diagnosis_01	L89.222	"Pressure ulcer of left hip, stage 2"	45577062	ICD10CM
+frailty_diagnosis_01	L89.224	"Pressure ulcer of left hip, stage 4"	45581967	ICD10CM
+frailty_diagnosis_01	L89.229	"Pressure ulcer of left hip, unspecified stage"	45591650	ICD10CM
+frailty_diagnosis_01	L89.301	"Pressure ulcer of unspecified buttock, stage 1"	45543392	ICD10CM
+frailty_diagnosis_01	L89.303	"Pressure ulcer of unspecified buttock, stage 3"	45562553	ICD10CM
+frailty_diagnosis_01	L89.306	Pressure-induced deep tissue damage of unspecified buttock	1553797	ICD10CM
+frailty_diagnosis_01	L89.310	"Pressure ulcer of right buttock, unstageable"	45601243	ICD10CM
+frailty_diagnosis_01	L89.312	"Pressure ulcer of right buttock, stage 2"	45572289	ICD10CM
+frailty_diagnosis_01	L89.314	"Pressure ulcer of right buttock, stage 4"	45586789	ICD10CM
+frailty_diagnosis_01	L89.319	"Pressure ulcer of right buttock, unspecified stage"	45606005	ICD10CM
+frailty_diagnosis_01	L89.321	"Pressure ulcer of left buttock, stage 1"	45557718	ICD10CM
+frailty_diagnosis_01	L89.323	"Pressure ulcer of left buttock, stage 3"	45596391	ICD10CM
+frailty_diagnosis_01	L89.326	Pressure-induced deep tissue damage of left buttock	1553799	ICD10CM
+frailty_diagnosis_01	L89.40	"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"	45577064	ICD10CM
+frailty_diagnosis_01	L89.42	"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"	45586790	ICD10CM
+frailty_diagnosis_01	L89.44	"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"	45553004	ICD10CM
+frailty_diagnosis_01	L89.46	"Pressure-induced deep tissue damage of contiguous site of back, buttock and hip"	1553800	ICD10CM
+frailty_diagnosis_01	L89.501	"Pressure ulcer of unspecified ankle, stage 1"	45562554	ICD10CM
+frailty_diagnosis_01	L89.503	"Pressure ulcer of unspecified ankle, stage 3"	45543394	ICD10CM
+frailty_diagnosis_01	L89.506	Pressure-induced deep tissue damage of unspecified ankle	1553801	ICD10CM
+frailty_diagnosis_01	L89.510	"Pressure ulcer of right ankle, unstageable"	45567374	ICD10CM
+frailty_diagnosis_01	L89.512	"Pressure ulcer of right ankle, stage 2"	45543395	ICD10CM
+frailty_diagnosis_01	L89.514	"Pressure ulcer of right ankle, stage 4"	45596393	ICD10CM
+frailty_diagnosis_01	L89.519	"Pressure ulcer of right ankle, unspecified stage"	45596394	ICD10CM
+frailty_diagnosis_01	L89.521	"Pressure ulcer of left ankle, stage 1"	45572292	ICD10CM
+frailty_diagnosis_01	L89.523	"Pressure ulcer of left ankle, stage 3"	45557721	ICD10CM
+frailty_diagnosis_01	L89.526	Pressure-induced deep tissue damage of left ankle	1553803	ICD10CM
+frailty_diagnosis_01	L89.529	"Pressure ulcer of left ankle, unspecified stage"	45586791	ICD10CM
+frailty_diagnosis_01	L89.600	"Pressure ulcer of unspecified heel, unstageable"	45601247	ICD10CM
+frailty_diagnosis_01	L89.602	"Pressure ulcer of unspecified heel, stage 2"	45586792	ICD10CM
+frailty_diagnosis_01	L89.604	"Pressure ulcer of unspecified heel, stage 4"	45533658	ICD10CM
+frailty_diagnosis_01	L89.609	"Pressure ulcer of unspecified heel, unspecified stage"	45538598	ICD10CM
+frailty_diagnosis_01	L89.611	"Pressure ulcer of right heel, stage 1"	45538599	ICD10CM
+frailty_diagnosis_01	L89.613	"Pressure ulcer of right heel, stage 3"	45548219	ICD10CM
+frailty_diagnosis_01	L89.616	Pressure-induced deep tissue damage of right heel	1553805	ICD10CM
+frailty_diagnosis_01	L89.620	"Pressure ulcer of left heel, unstageable"	45562557	ICD10CM
+frailty_diagnosis_01	L89.622	"Pressure ulcer of left heel, stage 2"	45581971	ICD10CM
+frailty_diagnosis_01	L89.624	"Pressure ulcer of left heel, stage 4"	45553007	ICD10CM
+frailty_diagnosis_01	L89.629	"Pressure ulcer of left heel, unspecified stage"	45606010	ICD10CM
+frailty_diagnosis_01	L89.811	"Pressure ulcer of head, stage 1"	45562558	ICD10CM
+frailty_diagnosis_01	L89.813	"Pressure ulcer of head, stage 3"	45586795	ICD10CM
+frailty_diagnosis_01	L89.816	Pressure-induced deep tissue damage of head	1553807	ICD10CM
+frailty_diagnosis_01	L89.890	"Pressure ulcer of other site, unstageable"	45572294	ICD10CM
+frailty_diagnosis_01	L89.892	"Pressure ulcer of other site, stage 2"	45591652	ICD10CM
+frailty_diagnosis_01	L89.894	"Pressure ulcer of other site, stage 4"	45538602	ICD10CM
+frailty_diagnosis_01	L89.899	"Pressure ulcer of other site, unspecified stage"	45591653	ICD10CM
+frailty_diagnosis_01	L89.91	"Pressure ulcer of unspecified site, stage 1"	45606011	ICD10CM
+frailty_diagnosis_01	L89.93	"Pressure ulcer of unspecified site, stage 3"	45557723	ICD10CM
+frailty_diagnosis_01	L89.95	"Pressure ulcer of unspecified site, unstageable"	45591654	ICD10CM
+frailty_diagnosis_01	M62.50	"Muscle wasting and atrophy, not elsewhere classified, unspecified site"	45557926	ICD10CM
+frailty_diagnosis_01	M62.84	Sarcopenia	37200744	ICD10CM
+frailty_diagnosis_01	W01.0XXA	"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter"	45566179	ICD10CM
+frailty_diagnosis_01	W01.0XXS	"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, sequela"	45585567	ICD10CM
+frailty_diagnosis_01	W01.10XD	"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, subsequent encounter"	45547037	ICD10CM
+frailty_diagnosis_01	W01.110A	"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, initial encounter"	45561374	ICD10CM
+frailty_diagnosis_01	W01.110S	"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, sequela"	45595227	ICD10CM
+frailty_diagnosis_01	W01.111D	"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, subsequent encounter"	45561375	ICD10CM
+frailty_diagnosis_01	W01.118A	"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, initial encounter"	45580769	ICD10CM
+frailty_diagnosis_01	W01.118S	"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, sequela"	45600105	ICD10CM
+frailty_diagnosis_01	W01.119A	"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, initial encounter"	45566181	ICD10CM
+frailty_diagnosis_01	W01.119D	"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, subsequent encounter"	45537374	ICD10CM
+frailty_diagnosis_01	W01.190A	"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, initial encounter"	45580770	ICD10CM
+frailty_diagnosis_01	W01.190S	"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, sequela"	45571078	ICD10CM
+frailty_diagnosis_01	W01.198D	"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, subsequent encounter"	45575893	ICD10CM
+frailty_diagnosis_01	W06.XXXA	"Fall from bed, initial encounter"	45551832	ICD10CM
+frailty_diagnosis_01	W06.XXXS	"Fall from bed, sequela"	45585571	ICD10CM
+frailty_diagnosis_01	W07.XXXD	"Fall from chair, subsequent encounter"	45585572	ICD10CM
+frailty_diagnosis_01	W08.XXXA	"Fall from other furniture, initial encounter"	45551833	ICD10CM
+frailty_diagnosis_01	W08.XXXS	"Fall from other furniture, sequela"	45547044	ICD10CM
+frailty_diagnosis_01	W10.0XXD	"Fall (on)(from) escalator, subsequent encounter"	45571082	ICD10CM
+frailty_diagnosis_01	W10.1XXA	"Fall (on)(from) sidewalk curb, initial encounter"	45571083	ICD10CM
+frailty_diagnosis_01	W10.1XXS	"Fall (on)(from) sidewalk curb, sequela"	45580774	ICD10CM
+frailty_diagnosis_01	W10.2XXD	"Fall (on)(from) incline, subsequent encounter"	45585573	ICD10CM
+frailty_diagnosis_01	W10.8XXA	"Fall (on) (from) other stairs and steps, initial encounter"	45542163	ICD10CM
+frailty_diagnosis_01	W10.8XXS	"Fall (on) (from) other stairs and steps, sequela"	45551836	ICD10CM
+frailty_diagnosis_01	W10.9XXD	"Fall (on) (from) unspecified stairs and steps, subsequent encounter"	45571084	ICD10CM
+frailty_diagnosis_01	W18.00XA	"Striking against unspecified object with subsequent fall, initial encounter"	45585584	ICD10CM
+frailty_diagnosis_01	W18.00XS	"Striking against unspecified object with subsequent fall, sequela"	45585585	ICD10CM
+frailty_diagnosis_01	W18.02XD	"Striking against glass with subsequent fall, subsequent encounter"	45556603	ICD10CM
+frailty_diagnosis_01	W18.09XA	"Striking against other object with subsequent fall, initial encounter"	45561400	ICD10CM
+frailty_diagnosis_01	W18.09XS	"Striking against other object with subsequent fall, sequela"	45575914	ICD10CM
+frailty_diagnosis_01	W18.11XD	"Fall from or off toilet without subsequent striking against object, subsequent encounter"	45595246	ICD10CM
+frailty_diagnosis_01	W18.12XA	"Fall from or off toilet with subsequent striking against object, initial encounter"	45575915	ICD10CM
+frailty_diagnosis_01	W18.12XS	"Fall from or off toilet with subsequent striking against object, sequela"	45590451	ICD10CM
+frailty_diagnosis_01	W18.2XXD	"Fall in (into) shower or empty bathtub, subsequent encounter"	45571100	ICD10CM
+frailty_diagnosis_01	W18.30XA	"Fall on same level, unspecified, initial encounter"	45542184	ICD10CM
+frailty_diagnosis_01	W18.30XS	"Fall on same level, unspecified, sequela"	45547063	ICD10CM
+frailty_diagnosis_01	W18.31XD	"Fall on same level due to stepping on an object, subsequent encounter"	45561401	ICD10CM
+frailty_diagnosis_01	W18.39XA	"Other fall on same level, initial encounter"	45571101	ICD10CM
+frailty_diagnosis_01	W18.39XS	"Other fall on same level, sequela"	45556604	ICD10CM
+frailty_diagnosis_01	W19.XXXA	"Unspecified fall, initial encounter"	45600119	ICD10CM
+frailty_diagnosis_01	W19.XXXD	"Unspecified fall, subsequent encounter"	45595249	ICD10CM
+frailty_diagnosis_01	Y92.199	Unspecified place in other specified residential institution as the place of occurrence of the external cause	45561593	ICD10CM
+frailty_diagnosis_01	Z73.6	Limitation of activities due to disability	35225282	ICD10CM
+frailty_diagnosis_01	Z74.09	Other reduced mobility	45552105	ICD10CM
+frailty_diagnosis_01	Z74.2	Need for assistance at home and no other household member able to render care	35225285	ICD10CM
+frailty_diagnosis_01	Z74.8	Other problems related to care provider dependency	35225287	ICD10CM
+frailty_diagnosis_01	Z91.81	History of falling	45552141	ICD10CM
+frailty_diagnosis_01	Z99.3	Dependence on wheelchair	35225437	ICD10CM
+frailty_diagnosis_01	Z99.89	Dependence on other enabling machines and devices	45595570	ICD10CM
+frailty_diagnosis_01	10637071000119100	Pressure injury of buttock stage II	36712682	SNOMED
+frailty_diagnosis_01	10637151000119100	Pressure injury of buttock stage IV	36712684	SNOMED
+frailty_diagnosis_01	138371000119104	Paresis as late effect of poliomyelitis	765048	SNOMED
+frailty_diagnosis_01	20902002	Fall from bed	436882	SNOMED
+frailty_diagnosis_01	214437002	"Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting, driver of motor vehicle injured"	435705	SNOMED
+frailty_diagnosis_01	214439004	"Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting, motor cyclist injured"	435153	SNOMED
+frailty_diagnosis_01	214442005	"Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting, rider of animal or occupant of animal-drawn vehicle injured"	436614	SNOMED
+frailty_diagnosis_01	214444006	"Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting, pedestrian injured"	432524	SNOMED
+frailty_diagnosis_01	217083007	Fall on or from stairs or steps	441749	SNOMED
+frailty_diagnosis_01	217086004	Fall from escalator	4314758	SNOMED
+frailty_diagnosis_01	217090002	Fall from stairs	4310647	SNOMED
+frailty_diagnosis_01	217093000	Fall on steps	4310768	SNOMED
+frailty_diagnosis_01	217142006	Fall from chair or bed	440012	SNOMED
+frailty_diagnosis_01	217155007	Fall on same level from slipping	4315647	SNOMED
+frailty_diagnosis_01	217157004	Fall on same level from stumbling	4316838	SNOMED
+frailty_diagnosis_01	217173005	Fall from bump against object	4311381	SNOMED
+frailty_diagnosis_01	225562005	Pressure injury of sacral region of back	4025938	SNOMED
+frailty_diagnosis_01	242109009	Fall down stairs of motor bus while boarding or alighting	4053568	SNOMED
+frailty_diagnosis_01	242390007	Fall due to polished surface	4054484	SNOMED
+frailty_diagnosis_01	242392004	Fall in bath or shower	4072954	SNOMED
+frailty_diagnosis_01	242396001	Fall due to uneven surface indoors	4054088	SNOMED
+frailty_diagnosis_01	242414001	Fall from stool	4053869	SNOMED
+frailty_diagnosis_01	269699007	Fall on same level from impact against object	4151392	SNOMED
+frailty_diagnosis_01	33036003	Fall on same level	4140830	SNOMED
+frailty_diagnosis_01	414190009	Fall on stairs	4190235	SNOMED
+frailty_diagnosis_01	428484005	Organic failure to thrive	4324055	SNOMED
+frailty_diagnosis_01	44188002	Fall in shower	4196096	SNOMED
+frailty_diagnosis_01	56307009	Fall from table	4207051	SNOMED
+frailty_diagnosis_01	699214007	Pressure injury of hip	44782447	SNOMED
+frailty_diagnosis_01	715504003	Spastic paraparesis and deafness	37395900	SNOMED
+frailty_diagnosis_01	74541001	Fall from bench	4251922	SNOMED
+frailty_diagnosis_01	763829004	Oculopharyngodistal myopathy	35622370	SNOMED
+frailty_diagnosis_01	83468000	Fall from chair	4308870	SNOMED
+frailty_diagnosis_01	90619006	Fall in bathtub	4236512	SNOMED
+frailty_diagnosis_01	10637031000119100	Pressure injury of buttock stage I	36712681	SNOMED
+frailty_diagnosis_01	10637111000119100	Pressure injury of buttock stage III	36712683	SNOMED
+frailty_diagnosis_01	129588001	Adult failure to thrive syndrome	438567	SNOMED
+frailty_diagnosis_01	17886000	Fall from wheelchair	435443	SNOMED
+frailty_diagnosis_01	214436006	Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting	4066458	SNOMED
+frailty_diagnosis_01	214438007	"Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting, passenger of motor vehicle injured"	443049	SNOMED
+frailty_diagnosis_01	214441003	"Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting, occupant of tram injured"	443048	SNOMED
+frailty_diagnosis_01	214443000	"Noncollision motor vehicle traffic accident involving fall down stairs of motor bus while boarding or alighting, pedal cyclist injured"	443047	SNOMED
+frailty_diagnosis_01	217082002	Accidental fall	435991	SNOMED
+frailty_diagnosis_01	217084001	Fall on or from escalator	435172	SNOMED
+frailty_diagnosis_01	217088003	Fall on or from stairs	4312313	SNOMED
+frailty_diagnosis_01	217092005	Fall on or from steps	433095	SNOMED
+frailty_diagnosis_01	217094006	Fall from steps	4310769	SNOMED
+frailty_diagnosis_01	217154006	"Fall on same level from slipping, tripping or stumbling"	437175	SNOMED
+frailty_diagnosis_01	217156008	Fall on same level from tripping	4316837	SNOMED
+frailty_diagnosis_01	217158009	Fall on moving sidewalk	4311377	SNOMED
+frailty_diagnosis_01	225558004	Pressure injury of back	439411	SNOMED
+frailty_diagnosis_01	225563000	Pressure injury of buttock	200485	SNOMED
+frailty_diagnosis_01	242389003	Fall due to wet surface	4054087	SNOMED
+frailty_diagnosis_01	242391006	Fall due to discarded object	4054485	SNOMED
+frailty_diagnosis_01	242395002	Fall due to trip on loose carpet	4072955	SNOMED
+frailty_diagnosis_01	242413007	Fall from furniture	433657	SNOMED
+frailty_diagnosis_01	242419006	Fall from toilet seat	434549	SNOMED
+frailty_diagnosis_01	274918000	Fall on same level due to nature of surface	4168384	SNOMED
+frailty_diagnosis_01	40104005	Fall in home	4222734	SNOMED
+frailty_diagnosis_01	427849003	Fall on hard surface	4323487	SNOMED
+frailty_diagnosis_01	429621003	Fall on concrete	4326992	SNOMED
+frailty_diagnosis_01	52702003	Chronic fatigue syndrome	432738	SNOMED
+frailty_diagnosis_01	67223001	Fall on escalator	4284118	SNOMED
+frailty_diagnosis_01	699216009	Pressure injury of coccygeal region of back	44782448	SNOMED
+frailty_diagnosis_01	823018004	Muscle paresis due to and following neuromuscular blockade	37311235	SNOMED
+frailty_diagnosis_01	8960001000004100	Pressure injury of ischial tuberosity region of right buttock	764946	SNOMED
+frailty_diagnosis_01	92341000119107	Weakness of extremities as sequela of stroke	43531595	SNOMED

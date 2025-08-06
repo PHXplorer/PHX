@@ -1,0 +1,14 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+bilateral_mastectomy_01	0HTV0ZZ	"Resection of Bilateral Breast, Open Approach"	ICD10PCS	2753966	"Resection of Bilateral Breast, Open Approach"
+bilateral_mastectomy_01	14693006	Subcutaneous mammectomy of bilateral breasts	SNOMED	4033546	Subcutaneous mammectomy of bilateral breasts
+bilateral_mastectomy_01	14714006	Excision of bilateral breasts with excision of bilateral regional lymph nodes	SNOMED	4033218	Excision of bilateral breasts with excision of bilateral regional lymph nodes
+bilateral_mastectomy_01	17086001	"Modified radical mastectomy, bilateral"	SNOMED	4061934	"Modified radical mastectomy, bilateral"
+bilateral_mastectomy_01	22418005	Simple mastectomy of bilateral breasts	SNOMED	4329559	Simple mastectomy of bilateral breasts
+bilateral_mastectomy_01	27865001	Excision of bilateral breasts	SNOMED	4101683	Excision of bilateral breasts
+bilateral_mastectomy_01	456903003	Extended radical mastectomy of bilateral breasts	SNOMED	43021873	Extended radical mastectomy of bilateral breasts
+bilateral_mastectomy_01	52314009	Extended simple mastectomy of bilateral breasts	SNOMED	4182056	Extended simple mastectomy of bilateral breasts
+bilateral_mastectomy_01	60633004	Subcutaneous mammectomy of bilateral breasts with synchronous implants	SNOMED	4245519	Subcutaneous mammectomy of bilateral breasts with synchronous implants
+bilateral_mastectomy_01	726636007	Prophylactic bilateral mastectomy	SNOMED	37111603	Prophylactic bilateral mastectomy
+bilateral_mastectomy_01	76468001	Radical mastectomy of bilateral breasts	SNOMED	4297155	Radical mastectomy of bilateral breasts
+bilateral_mastectomy_01	836436008	Robotic assisted bilateral simple mastectomy	SNOMED	3654546	Robotic assisted bilateral simple mastectomy
+bilateral_mastectomy_01	870629001	Excision of bilateral breasts for female to male transsexual	SNOMED	3656001	Excision of bilateral breasts for female to male transsexual

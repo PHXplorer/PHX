@@ -1,0 +1,21 @@
+﻿sud_01	F18.15	Inhalant abuse with inhalant-induced psychotic disorder	1568184	ICD10CM
+sud_01	F18.159	Inhalant abuse with inhalant-induced psychotic disorder, unspecified	45547683	ICD10CM
+sud_01	F18.17	Inhalant abuse with inhalant-induced dementia	45566812	ICD10CM
+sud_01	F18.14	Inhalant abuse with inhalant-induced mood disorder	45595887	ICD10CM
+sud_01	F18.150	Inhalant abuse with inhalant-induced psychotic disorder with delusions	45605480	ICD10CM
+sud_01	F18.1	Inhalant abuse	1568182	ICD10CM
+sud_01	F18.151	Inhalant abuse with inhalant-induced psychotic disorder with hallucinations	45581437	ICD10CM
+sud_01	F18.19	Inhalant abuse with unspecified inhalant-induced disorder	45595888	ICD10CM
+sud_01	F18.120	Inhalant abuse with intoxication, uncomplicated	45557182	ICD10CM
+sud_01	F18.129	Inhalant abuse with intoxication, unspecified	45605479	ICD10CM
+sud_01	F55	Abuse of non-psychoactive substances	1568248	ICD10CM
+sud_01	F55.8	Abuse of other non-psychoactive substances	45552499	ICD10CM
+sud_01	F55.1	Abuse of herbal or folk remedies	45547716	ICD10CM
+sud_01	305	Nondependent abuse of drugs	44819554	ICD9CM
+sud_01	305.90	Other, mixed, or unspecified drug abuse, unspecified	44831107	ICD9CM
+sud_01	305.9	Other, mixed, or unspecified drug abuse	44820733	ICD9CM
+sud_01	429001000124103	Catha edulis abuse	42535585	SNOMED
+sud_01	445273005	Polysubstance abuse	40482898	SNOMED
+sud_01	70340006	Inhalant abuse	4290538	SNOMED
+sud_01	26416006	Drug abuse	436954	SNOMED
+sud_01	66214007	Substance abuse	4279309	SNOMED

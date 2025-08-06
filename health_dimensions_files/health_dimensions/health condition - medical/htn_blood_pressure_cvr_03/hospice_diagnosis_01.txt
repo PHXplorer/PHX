@@ -1,0 +1,4 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id
+hospice_diagnosis_01	170935008	Full care by hospice	4062333	SNOMED
+hospice_diagnosis_01	170936009	Shared care - hospice and GP	4062044	SNOMED
+hospice_diagnosis_01	305911006	Seen in hospice	4140947	SNOMED

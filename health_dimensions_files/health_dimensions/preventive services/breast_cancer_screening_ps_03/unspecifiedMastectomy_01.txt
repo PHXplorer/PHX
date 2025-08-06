@@ -1,0 +1,9 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+unspecifiedMastectomy_01	22964006	Unilateral simple mastectomy	SNOMED	4066543	Simple mastectomy
+unspecifiedMastectomy_01	248802009	Absence of breast	SNOMED	4088290	Absence of breast
+unspecifiedMastectomy_01	72269009	Unilateral modified radical mastectomy	SNOMED	4249113	Modified radical mastectomy
+unspecifiedMastectomy_01	73359007	Unilateral mastectomy	SNOMED	37164749	Excision of breast
+unspecifiedMastectomy_01	8115005	Unilateral radical mastectomy	SNOMED	4298492	Radical mastectomy
+unspecifiedMastectomy_01	88764002	Unilateral extended simple mastectomy	SNOMED	4249113	Modified radical mastectomy
+unspecifiedMastectomy_01	V45.71	Acquired absence of breast and nipple	ICD9CM	36715792	Acquired absence of breast
+unspecifiedMastectomy_01	Z90.10	Acquired absence of unspecified breast and nipple	ICD10CM	36715792	Acquired absence of breast

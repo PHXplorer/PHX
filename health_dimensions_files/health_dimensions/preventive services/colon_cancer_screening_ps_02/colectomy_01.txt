@@ -1,0 +1,34 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+colectomy_01	0DTE0ZZ	"Resection of Large Intestine, Open Approach"	ICD10PCS	2753176	"Resection of Large Intestine, Open Approach"
+colectomy_01	0DTE4ZZ	"Resection of Large Intestine, Percutaneous Endoscopic Approach"	ICD10PCS	2753177	"Resection of Large Intestine, Percutaneous Endoscopic Approach"
+colectomy_01	0DTE7ZZ	"Resection of Large Intestine, Via Natural or Artificial Opening"	ICD10PCS	2753368	"Resection of Large Intestine, Via Natural or Artificial Opening"
+colectomy_01	0DTE8ZZ	"Resection of Large Intestine, Via Natural or Artificial Opening Endoscopic"	ICD10PCS	2753369	"Resection of Large Intestine, Via Natural or Artificial Opening Endoscopic"
+colectomy_01	119771000119101	History of total colectomy	SNOMED	1340204	History of event
+colectomy_01	26390003	Total colectomy	SNOMED	4096461	Total colectomy
+colectomy_01	303401008	"Parks panproctocolectomy, anastomosis of ileum to anus and creation of pouch"	SNOMED	4122647	"Parks panproctocolectomy, anastomosis of ileum to anus and creation of pouch"
+colectomy_01	307666008	Total colectomy and ileostomy	SNOMED	4145225	Total colectomy and ileostomy
+colectomy_01	307667004	"Total colectomy, ileostomy and rectal mucous fistula"	SNOMED	4146636	"Total colectomy, ileostomy and rectal mucous fistula"
+colectomy_01	307669001	"Total colectomy, ileostomy and closure of rectal stump"	SNOMED	4141259	"Total colectomy, ileostomy and closure of rectal stump"
+colectomy_01	31130001	Total abdominal colectomy with proctectomy and ileostomy	SNOMED	4149741	Total abdominal colectomy with proctectomy and ileostomy
+colectomy_01	36192008	Total abdominal colectomy with ileoproctostomy	SNOMED	4262950	Total abdominal colectomy with ileoproctostomy
+colectomy_01	44150	"Colectomy, total, abdominal, without proctectomy; with ileostomy or ileoproctostomy"	CPT4	2109048	"Colectomy, total, abdominal, without proctectomy; with ileostomy or ileoproctostomy"
+colectomy_01	44151	"Colectomy, total, abdominal, without proctectomy; with continent ileostomy"	CPT4	2109049	"Colectomy, total, abdominal, without proctectomy; with continent ileostomy"
+colectomy_01	44152	"Colectomy, total, abdominal, without proctectomy; with rectal mucosectomy, ileoanal anastomosis, with or without loop ileostomy (Deprecated)"	CPT4	42736542	"Colectomy, total, abdominal, without proctectomy; with rectal mucosectomy, ileoanal anastomosis, with or without loop ileostomy (Deprecated)"
+colectomy_01	44153	"Colectomy, total, abdominal, without proctectomy; with rectal mucosectomy, ileoanal anastomosis, creation of ileal reservoir (S or J), with or without loop ileostomy (Deprecated)"	CPT4	42736543	"Colectomy, total, abdominal, without proctectomy; with rectal mucosectomy, ileoanal anastomosis, creation of ileal reservoir (S or J), with or without loop ileostomy (Deprecated)"
+colectomy_01	44155	"Colectomy, total, abdominal, with proctectomy; with ileostomy"	CPT4	4149741	Total abdominal colectomy with proctectomy and ileostomy
+colectomy_01	44156	"Colectomy, total, abdominal, with proctectomy; with continent ileostomy"	CPT4	4260388	Total abdominal colectomy with proctectomy and continent ileostomy
+colectomy_01	44157	"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, includes loop ileostomy, and rectal mucosectomy, when performed"	CPT4	2109054	"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, includes loop ileostomy, and rectal mucosectomy, when performed"
+colectomy_01	44158	"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, creation of ileal reservoir (S or J), includes loop ileostomy, and rectal mucosectomy, when performed"	CPT4	2109055	"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, creation of ileal reservoir (S or J), includes loop ileostomy, and rectal mucosectomy, when performed"
+colectomy_01	44210	"Laparoscopy, surgical; colectomy, total, abdominal, without proctectomy, with ileostomy or ileoproctostomy"	CPT4	2109071	"Laparoscopy, surgical; colectomy, total, abdominal, without proctectomy, with ileostomy or ileoproctostomy"
+colectomy_01	44211	"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileoanal anastomosis, creation of ileal reservoir (S or J), with loop ileostomy, includes rectal mucosectomy, when performed"	CPT4	2109072	"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileoanal anastomosis, creation of ileal reservoir (S or J), with loop ileostomy, includes rectal mucosectomy, when performed"
+colectomy_01	44212	"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileostomy"	CPT4	2109073	"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileostomy"
+colectomy_01	44751009	Total abdominal colectomy with proctectomy and continent ileostomy	SNOMED	4260388	Total abdominal colectomy with proctectomy and continent ileostomy
+colectomy_01	456004	Total abdominal colectomy with ileostomy	SNOMED	4163975	Total abdominal colectomy with ileostomy
+colectomy_01	713165008	Laparoscopic total colectomy with ileo-rectal anastomosis	SNOMED	37016994	Laparoscopic total colectomy with ileo-rectal anastomosis
+colectomy_01	787108001	Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis	SNOMED	37204026	Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis
+colectomy_01	787109009	Excision of entire colon and entire rectum	SNOMED	37204027	Excision of entire colon and entire rectum
+colectomy_01	787874000	Laparoscopic total colectomy	SNOMED	37312780	Laparoscopic total colectomy
+colectomy_01	787875004	Laparoscopic total colectomy and loop ileostomy	SNOMED	37312779	Laparoscopic total colectomy and loop ileostomy
+colectomy_01	787876003	Laparoscopic total colectomy and ileostomy	SNOMED	37312778	Laparoscopic total colectomy and ileostomy
+colectomy_01	80294005	Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis	SNOMED	4197412	Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis
+colectomy_01	858579005	Panproctocolectomy	SNOMED	3573927	Panproctocolectomy

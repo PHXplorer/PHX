@@ -1,0 +1,4 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+housing_insecurity_01_base	32911000	Homeless	SNOMED	NULL
+housing_insecurity_01_base	266935003	Housing lack	SNOMED	NULL
+housing_insecurity_01_base	71802-3	Housing status	LOINC	NULL

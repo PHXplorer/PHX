@@ -1,0 +1,43 @@
+﻿tobacco_nonuser_01	105539002	Non-smoker for personal reasons	4022662	SNOMED
+tobacco_nonuser_01	105540000	Non-smoker for religious reasons	4022663	SNOMED
+tobacco_nonuser_01	105541001	Non-smoker for medical reasons	4019979	SNOMED
+tobacco_nonuser_01	1137688001	Ex-electronic cigarette user for less than 1 year	605779	SNOMED
+tobacco_nonuser_01	1137690000	Never used electronic cigarette	605780	SNOMED
+tobacco_nonuser_01	1137692008	Ex-electronic cigarette user for more than 1 year	605782	SNOMED
+tobacco_nonuser_01	160620009	Ex-pipe smoker	4052465	SNOMED
+tobacco_nonuser_01	160621008	Ex-cigar smoker	4052949	SNOMED
+tobacco_nonuser_01	228491005	Does not use snuff	4043051	SNOMED
+tobacco_nonuser_01	228492003	Never used snuff	4043052	SNOMED
+tobacco_nonuser_01	228493008	Ex-snuff user	4038732	SNOMED
+tobacco_nonuser_01	228501004	Does not use moist powdered tobacco	4043055	SNOMED
+tobacco_nonuser_01	228502006	Never used moist powdered tobacco	4036557	SNOMED
+tobacco_nonuser_01	228503001	Ex-user of moist powdered tobacco	4038733	SNOMED
+tobacco_nonuser_01	228511006	Does not chew tobacco	4036559	SNOMED
+tobacco_nonuser_01	228512004	Never chewed tobacco	4036090	SNOMED
+tobacco_nonuser_01	228513009	Ex-tobacco chewer	4043059	SNOMED
+tobacco_nonuser_01	266919005	Never smoked tobacco	4144272	SNOMED
+tobacco_nonuser_01	266921000	Ex-trivial cigarette smoker (<1/day)	4148415	SNOMED
+tobacco_nonuser_01	266922007	Ex-light cigarette smoker (1-9/day)	4145798	SNOMED
+tobacco_nonuser_01	266923002	Ex-moderate cigarette smoker (10-19/day)	4141782	SNOMED
+tobacco_nonuser_01	266924008	Ex-heavy cigarette smoker (20-39/day)	4141783	SNOMED
+tobacco_nonuser_01	266925009	Ex-very heavy cigarette smoker (40+/day)	4141784	SNOMED
+tobacco_nonuser_01	266928006	Ex-cigarette smoker amount unknown	4148416	SNOMED
+tobacco_nonuser_01	281018007	Ex-cigarette smoker	4092281	SNOMED
+tobacco_nonuser_01	360890004	Intolerant ex-smoker	4237385	SNOMED
+tobacco_nonuser_01	360900008	Aggressive ex-smoker	4232375	SNOMED
+tobacco_nonuser_01	360918006	Aggressive non-smoker	4233854	SNOMED
+tobacco_nonuser_01	360929005	Intolerant non-smoker	4237392	SNOMED
+tobacco_nonuser_01	405746006	Current non smoker but past smoking history unknown	4233486	SNOMED
+tobacco_nonuser_01	428081000124100	Former heavy tobacco smoker	762500	SNOMED
+tobacco_nonuser_01	428091000124102	Former light tobacco smoker	762501	SNOMED
+tobacco_nonuser_01	451371000124109	Tobacco non-user	764150	SNOMED
+tobacco_nonuser_01	451381000124107	Smokeless tobacco non-user	764151	SNOMED
+tobacco_nonuser_01	456711000124105	Former smokeless tobacco user	764567	SNOMED
+tobacco_nonuser_01	48031000119106	Ex-smoker for more than 1 year	46270534	SNOMED
+tobacco_nonuser_01	53896009	Tolerant ex-smoker	4207221	SNOMED
+tobacco_nonuser_01	702975009	Ex-tobacco user	45765917	SNOMED
+tobacco_nonuser_01	702979003	Never used tobacco	45765920	SNOMED
+tobacco_nonuser_01	735128000	Ex-smoker for less than 1 year	42536346	SNOMED
+tobacco_nonuser_01	8392000	Non-smoker	4222303	SNOMED
+tobacco_nonuser_01	8517006	Ex-smoker	4310250	SNOMED
+tobacco_nonuser_01	87739003	Tolerant non-smoker	4227889	SNOMED

@@ -1,0 +1,22 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+anxiety_01_base	81350009	Free-floating anxiety	SNOMED	NULL
+anxiety_01_base	788866004	Anxiety due to dementia	SNOMED	NULL
+anxiety_01_base	61387006	Moderate anxiety	SNOMED	NULL
+anxiety_01_base	79823003	Panic	SNOMED	NULL
+anxiety_01_base	225637002	Anxiety about loss of control	SNOMED	NULL
+anxiety_01_base	300894000	Parental anxiety	SNOMED	NULL
+anxiety_01_base	70997004	Mild anxiety	SNOMED	NULL
+anxiety_01_base	225635005	Anxiety about treatment	SNOMED	NULL
+anxiety_01_base	197480006	Anxiety disorder	SNOMED	NULL
+anxiety_01_base	247805009	Anxiety and fear	SNOMED	NULL
+anxiety_01_base	1255960000	Anxiety about visiting dentist	SNOMED	NULL
+anxiety_01_base	471971000000000	Anxiety disorder due to severe acute respiratory syndrome coronavirus 2	SNOMED	NULL
+anxiety_01_base	300895004	Anxiety attack	SNOMED	NULL
+anxiety_01_base	35429005	Anticipatory anxiety	SNOMED	NULL
+anxiety_01_base	247825008	Anxiety about behavior or performance	SNOMED	NULL
+anxiety_01_base	225636006	Anxiety about forced dependence	SNOMED	NULL
+anxiety_01_base	198288003	Anxiety state	SNOMED	NULL
+anxiety_01_base	279622009	Performance anxiety	SNOMED	NULL
+anxiety_01_base	129869000	Death anxiety	SNOMED	NULL
+anxiety_01_base	247808006	Anxiety about body function or health	SNOMED	NULL
+anxiety_01_base	48694002	Anxiety	SNOMED	NULL

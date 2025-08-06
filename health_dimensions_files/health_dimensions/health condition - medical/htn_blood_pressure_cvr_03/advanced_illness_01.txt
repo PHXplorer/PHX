@@ -1,0 +1,1964 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id
+advanced_illness_01	A81.01	Variant Creutzfeldt-Jakob disease	45590832	ICD10CM
+advanced_illness_01	C25.0	Malignant neoplasm of head of pancreas	35206158	ICD10CM
+advanced_illness_01	C25.2	Malignant neoplasm of tail of pancreas	35206160	ICD10CM
+advanced_illness_01	C25.4	Malignant neoplasm of endocrine pancreas	35206162	ICD10CM
+advanced_illness_01	C25.8	Malignant neoplasm of overlapping sites of pancreas	35206164	ICD10CM
+advanced_illness_01	C71.0	"Malignant neoplasm of cerebrum, except lobes and ventricles"	35206291	ICD10CM
+advanced_illness_01	C71.2	Malignant neoplasm of temporal lobe	35206293	ICD10CM
+advanced_illness_01	C71.4	Malignant neoplasm of occipital lobe	35206295	ICD10CM
+advanced_illness_01	C71.6	Malignant neoplasm of cerebellum	35206297	ICD10CM
+advanced_illness_01	C71.8	Malignant neoplasm of overlapping sites of brain	35206299	ICD10CM
+advanced_illness_01	C77.0	"Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck"	35206319	ICD10CM
+advanced_illness_01	C77.2	Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes	35206321	ICD10CM
+advanced_illness_01	C77.4	Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph nodes	35206323	ICD10CM
+advanced_illness_01	C77.8	Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions	35206325	ICD10CM
+advanced_illness_01	C78.01	Secondary malignant neoplasm of right lung	45537840	ICD10CM
+advanced_illness_01	C78.1	Secondary malignant neoplasm of mediastinum	35206327	ICD10CM
+advanced_illness_01	C78.30	Secondary malignant neoplasm of unspecified respiratory organ	45542628	ICD10CM
+advanced_illness_01	C78.4	Secondary malignant neoplasm of small intestine	35206329	ICD10CM
+advanced_illness_01	C78.6	Secondary malignant neoplasm of retroperitoneum and peritoneum	35206331	ICD10CM
+advanced_illness_01	C78.80	Secondary malignant neoplasm of unspecified digestive organ	45605288	ICD10CM
+advanced_illness_01	C79.00	Secondary malignant neoplasm of unspecified kidney and renal pelvis	45576341	ICD10CM
+advanced_illness_01	C79.02	Secondary malignant neoplasm of left kidney and renal pelvis	45600526	ICD10CM
+advanced_illness_01	C79.11	Secondary malignant neoplasm of bladder	45600527	ICD10CM
+advanced_illness_01	C79.2	Secondary malignant neoplasm of skin	35206333	ICD10CM
+advanced_illness_01	C79.32	Secondary malignant neoplasm of cerebral meninges	45537843	ICD10CM
+advanced_illness_01	C79.49	Secondary malignant neoplasm of other parts of nervous system	45532937	ICD10CM
+advanced_illness_01	C79.52	Secondary malignant neoplasm of bone marrow	45552286	ICD10CM
+advanced_illness_01	C79.61	Secondary malignant neoplasm of right ovary	45542629	ICD10CM
+advanced_illness_01	C79.63	Secondary malignant neoplasm of bilateral ovaries	766340	ICD10CM
+advanced_illness_01	C79.71	Secondary malignant neoplasm of right adrenal gland	45576343	ICD10CM
+advanced_illness_01	C79.81	Secondary malignant neoplasm of breast	45542630	ICD10CM
+advanced_illness_01	C79.89	Secondary malignant neoplasm of other specified sites	45532939	ICD10CM
+advanced_illness_01	C91.00	Acute lymphoblastic leukemia not having achieved remission	45557039	ICD10CM
+advanced_illness_01	C92.00	"Acute myeloblastic leukemia, not having achieved remission"	45547554	ICD10CM
+advanced_illness_01	C93.00	"Acute monoblastic/monocytic leukemia, not having achieved remission"	45581257	ICD10CM
+advanced_illness_01	C93.90	"Monocytic leukemia, unspecified, not having achieved remission"	45600569	ICD10CM
+advanced_illness_01	C93.Z0	"Other monocytic leukemia, not having achieved remission"	45605334	ICD10CM
+advanced_illness_01	C93.Z2	"Other monocytic leukemia, in relapse"	45581259	ICD10CM
+advanced_illness_01	C94.32	"Mast cell leukemia, in relapse"	45532964	ICD10CM
+advanced_illness_01	F01.511	"Vascular dementia, unspecified severity, with agitation"	37402371	ICD10CM
+advanced_illness_01	F01.52	"Vascular dementia, unspecified severity, with psychotic disturbance"	37402373	ICD10CM
+advanced_illness_01	F01.54	"Vascular dementia, unspecified severity, with anxiety"	37402375	ICD10CM
+advanced_illness_01	F01.A11	"Vascular dementia, mild, with agitation"	37402379	ICD10CM
+advanced_illness_01	F01.A2	"Vascular dementia, mild, with psychotic disturbance"	37402381	ICD10CM
+advanced_illness_01	F01.A4	"Vascular dementia, mild, with anxiety"	37402383	ICD10CM
+advanced_illness_01	F01.B11	"Vascular dementia, moderate, with agitation"	37402387	ICD10CM
+advanced_illness_01	F01.B2	"Vascular dementia, moderate, with psychotic disturbance"	37402389	ICD10CM
+advanced_illness_01	F01.C0	"Vascular dementia, severe, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402393	ICD10CM
+advanced_illness_01	F01.C18	"Vascular dementia, severe, with other behavioral disturbance"	37402396	ICD10CM
+advanced_illness_01	F01.C3	"Vascular dementia, severe, with mood disturbance"	37402398	ICD10CM
+advanced_illness_01	F02.80	"Dementia in other diseases classified elsewhere, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	45591076	ICD10CM
+advanced_illness_01	F02.818	"Dementia in other diseases classified elsewhere, unspecified severity, with other behavioral disturbance"	37402401	ICD10CM
+advanced_illness_01	F02.83	"Dementia in other diseases classified elsewhere, unspecified severity, with mood disturbance"	37402403	ICD10CM
+advanced_illness_01	F02.A0	"Dementia in other diseases classified elsewhere, mild, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402406	ICD10CM
+advanced_illness_01	F02.A18	"Dementia in other diseases classified elsewhere, mild, with other behavioral disturbance"	37402409	ICD10CM
+advanced_illness_01	F02.A3	"Dementia in other diseases classified elsewhere, mild, with mood disturbance"	37402411	ICD10CM
+advanced_illness_01	F02.B0	"Dementia in other diseases classified elsewhere, moderate, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402414	ICD10CM
+advanced_illness_01	F02.B18	"Dementia in other diseases classified elsewhere, moderate, with other behavioral disturbance"	37402417	ICD10CM
+advanced_illness_01	F02.B3	"Dementia in other diseases classified elsewhere, moderate, with mood disturbance"	37402419	ICD10CM
+advanced_illness_01	F02.C0	"Dementia in other diseases classified elsewhere, severe, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402422	ICD10CM
+advanced_illness_01	F02.C18	"Dementia in other diseases classified elsewhere, severe, with other behavioral disturbance"	37402425	ICD10CM
+advanced_illness_01	F02.C3	"Dementia in other diseases classified elsewhere, severe, with mood disturbance"	37402427	ICD10CM
+advanced_illness_01	F03.90	"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	45538000	ICD10CM
+advanced_illness_01	F03.918	"Unspecified dementia, unspecified severity, with other behavioral disturbance"	37402430	ICD10CM
+advanced_illness_01	F03.93	"Unspecified dementia, unspecified severity, with mood disturbance"	37402432	ICD10CM
+advanced_illness_01	F03.A0	"Unspecified dementia, mild, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402435	ICD10CM
+advanced_illness_01	F03.A18	"Unspecified dementia, mild, with other behavioral disturbance"	37402438	ICD10CM
+advanced_illness_01	F03.A3	"Unspecified dementia, mild, with mood disturbance"	37402440	ICD10CM
+advanced_illness_01	F03.B0	"Unspecified dementia, moderate, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402443	ICD10CM
+advanced_illness_01	F03.B18	"Unspecified dementia, moderate, with other behavioral disturbance"	37402446	ICD10CM
+advanced_illness_01	F03.B3	"Unspecified dementia, moderate, with mood disturbance"	37402448	ICD10CM
+advanced_illness_01	F03.C0	"Unspecified dementia, severe, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402451	ICD10CM
+advanced_illness_01	F03.C18	"Unspecified dementia, severe, with other behavioral disturbance"	37402454	ICD10CM
+advanced_illness_01	F03.C3	"Unspecified dementia, severe, with mood disturbance"	37402456	ICD10CM
+advanced_illness_01	F10.96	"Alcohol use, unspecified with alcohol-induced persisting amnestic disorder"	45566780	ICD10CM
+advanced_illness_01	G10	Huntington's disease	35207314	ICD10CM
+advanced_illness_01	G20	Parkinson's disease	35207329	ICD10CM
+advanced_illness_01	G20.A2	"Parkinson's disease without dyskinesia, with fluctuations"	785927	ICD10CM
+advanced_illness_01	G20.B2	"Parkinson's disease with dyskinesia, with fluctuations"	785930	ICD10CM
+advanced_illness_01	G30.0	Alzheimer's disease with early onset	35207356	ICD10CM
+advanced_illness_01	G30.8	Other Alzheimer's disease	35207358	ICD10CM
+advanced_illness_01	G31.01	Pick's disease	45538103	ICD10CM
+advanced_illness_01	G31.83	Neurocognitive disorder with Lewy bodies	45547730	ICD10CM
+advanced_illness_01	I09.81	Rheumatic heart failure	45605777	ICD10CM
+advanced_illness_01	I12.0	Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease	35207671	ICD10CM
+advanced_illness_01	I13.11	"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease"	45596188	ICD10CM
+advanced_illness_01	I50.1	"Left ventricular failure, unspecified"	35207792	ICD10CM
+advanced_illness_01	I50.21	Acute systolic (congestive) heart failure	45543182	ICD10CM
+advanced_illness_01	I50.23	Acute on chronic systolic (congestive) heart failure	45567180	ICD10CM
+advanced_illness_01	I50.31	Acute diastolic (congestive) heart failure	45548022	ICD10CM
+advanced_illness_01	I50.33	Acute on chronic diastolic (congestive) heart failure	45562355	ICD10CM
+advanced_illness_01	I50.41	Acute combined systolic (congestive) and diastolic (congestive) heart failure	45591469	ICD10CM
+advanced_illness_01	I50.43	Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure	45567181	ICD10CM
+advanced_illness_01	I50.811	Acute right heart failure	1326602	ICD10CM
+advanced_illness_01	I50.813	Acute on chronic right heart failure	1326604	ICD10CM
+advanced_illness_01	I50.82	Biventricular heart failure	1326606	ICD10CM
+advanced_illness_01	I50.84	End stage heart failure	1326608	ICD10CM
+advanced_illness_01	I50.9	"Heart failure, unspecified"	35207793	ICD10CM
+advanced_illness_01	J43.1	Panlobular emphysema	35208019	ICD10CM
+advanced_illness_01	J43.8	Other emphysema	35208021	ICD10CM
+advanced_illness_01	J68.4	"Chronic respiratory conditions due to chemicals, gases, fumes and vapors"	35208056	ICD10CM
+advanced_illness_01	J84.112	Idiopathic pulmonary fibrosis	45543275	ICD10CM
+advanced_illness_01	J84.178	Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere	725358	ICD10CM
+advanced_illness_01	J96.11	Chronic respiratory failure with hypoxia	45538489	ICD10CM
+advanced_illness_01	J96.20	"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"	45596290	ICD10CM
+advanced_illness_01	J96.22	Acute and chronic respiratory failure with hypercapnia	45581868	ICD10CM
+advanced_illness_01	J96.91	"Respiratory failure, unspecified with hypoxia"	45605907	ICD10CM
+advanced_illness_01	J98.2	Interstitial emphysema	35208103	ICD10CM
+advanced_illness_01	K70.11	Alcoholic hepatitis with ascites	45552946	ICD10CM
+advanced_illness_01	K70.30	Alcoholic cirrhosis of liver without ascites	45605952	ICD10CM
+advanced_illness_01	K70.40	Alcoholic hepatic failure without coma	45586730	ICD10CM
+advanced_illness_01	K70.9	"Alcoholic liver disease, unspecified"	35208332	ICD10CM
+advanced_illness_01	K74.01	"Hepatic fibrosis, early fibrosis"	725368	ICD10CM
+advanced_illness_01	K74.1	Hepatic sclerosis	35208347	ICD10CM
+advanced_illness_01	K74.4	Secondary biliary cirrhosis	35208350	ICD10CM
+advanced_illness_01	K74.60	Unspecified cirrhosis of liver	45601187	ICD10CM
+advanced_illness_01	N18.5	"Chronic kidney disease, stage 5"	35209278	ICD10CM
+advanced_illness_01	C94.30	Mast cell leukemia not having achieved remission	45605335	ICD10CM
+advanced_illness_01	F01.50	"Vascular dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	45591073	ICD10CM
+advanced_illness_01	F01.518	"Vascular dementia, unspecified severity, with other behavioral disturbance"	37402372	ICD10CM
+advanced_illness_01	F01.53	"Vascular dementia, unspecified severity, with mood disturbance"	37402374	ICD10CM
+advanced_illness_01	F01.A0	"Vascular dementia, mild, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402377	ICD10CM
+advanced_illness_01	F01.A18	"Vascular dementia, mild, with other behavioral disturbance"	37402380	ICD10CM
+advanced_illness_01	F01.A3	"Vascular dementia, mild, with mood disturbance"	37402382	ICD10CM
+advanced_illness_01	F01.B0	"Vascular dementia, moderate, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"	37402385	ICD10CM
+advanced_illness_01	F01.B18	"Vascular dementia, moderate, with other behavioral disturbance"	37402388	ICD10CM
+advanced_illness_01	F01.B3	"Vascular dementia, moderate, with mood disturbance"	37402390	ICD10CM
+advanced_illness_01	F01.B4	"Vascular dementia, moderate, with anxiety"	37402391	ICD10CM
+advanced_illness_01	F01.C11	"Vascular dementia, severe, with agitation"	37402395	ICD10CM
+advanced_illness_01	F01.C2	"Vascular dementia, severe, with psychotic disturbance"	37402397	ICD10CM
+advanced_illness_01	F01.C4	"Vascular dementia, severe, with anxiety"	37402399	ICD10CM
+advanced_illness_01	F02.811	"Dementia in other diseases classified elsewhere, unspecified severity, with agitation"	37402400	ICD10CM
+advanced_illness_01	F02.82	"Dementia in other diseases classified elsewhere, unspecified severity, with psychotic disturbance"	37402402	ICD10CM
+advanced_illness_01	F02.84	"Dementia in other diseases classified elsewhere, unspecified severity, with anxiety"	37402404	ICD10CM
+advanced_illness_01	F02.A11	"Dementia in other diseases classified elsewhere, mild, with agitation"	37402408	ICD10CM
+advanced_illness_01	F02.A2	"Dementia in other diseases classified elsewhere, mild, with psychotic disturbance"	37402410	ICD10CM
+advanced_illness_01	F02.A4	"Dementia in other diseases classified elsewhere, mild, with anxiety"	37402412	ICD10CM
+advanced_illness_01	F02.B11	"Dementia in other diseases classified elsewhere, moderate, with agitation"	37402416	ICD10CM
+advanced_illness_01	F02.B2	"Dementia in other diseases classified elsewhere, moderate, with psychotic disturbance"	37402418	ICD10CM
+advanced_illness_01	F02.B4	"Dementia in other diseases classified elsewhere, moderate, with anxiety"	37402420	ICD10CM
+advanced_illness_01	F02.C11	"Dementia in other diseases classified elsewhere, severe, with agitation"	37402424	ICD10CM
+advanced_illness_01	F02.C2	"Dementia in other diseases classified elsewhere, severe, with psychotic disturbance"	37402426	ICD10CM
+advanced_illness_01	F02.C4	"Dementia in other diseases classified elsewhere, severe, with anxiety"	37402428	ICD10CM
+advanced_illness_01	F03.911	"Unspecified dementia, unspecified severity, with agitation"	37402429	ICD10CM
+advanced_illness_01	F03.92	"Unspecified dementia, unspecified severity, with psychotic disturbance"	37402431	ICD10CM
+advanced_illness_01	A81.00	"Creutzfeldt-Jakob disease, unspecified"	45590831	ICD10CM
+advanced_illness_01	A81.09	Other Creutzfeldt-Jakob disease	45595597	ICD10CM
+advanced_illness_01	C25.1	Malignant neoplasm of body of pancreas	35206159	ICD10CM
+advanced_illness_01	C25.3	Malignant neoplasm of pancreatic duct	35206161	ICD10CM
+advanced_illness_01	C25.7	Malignant neoplasm of other parts of pancreas	35206163	ICD10CM
+advanced_illness_01	C25.9	"Malignant neoplasm of pancreas, unspecified"	35206165	ICD10CM
+advanced_illness_01	C71.1	Malignant neoplasm of frontal lobe	35206292	ICD10CM
+advanced_illness_01	C71.3	Malignant neoplasm of parietal lobe	35206294	ICD10CM
+advanced_illness_01	C71.5	Malignant neoplasm of cerebral ventricle	35206296	ICD10CM
+advanced_illness_01	C71.7	Malignant neoplasm of brain stem	35206298	ICD10CM
+advanced_illness_01	C71.9	"Malignant neoplasm of brain, unspecified"	35206300	ICD10CM
+advanced_illness_01	C77.1	Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes	35206320	ICD10CM
+advanced_illness_01	C77.3	Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes	35206322	ICD10CM
+advanced_illness_01	C77.5	Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes	35206324	ICD10CM
+advanced_illness_01	C77.9	"Secondary and unspecified malignant neoplasm of lymph node, unspecified"	35206326	ICD10CM
+advanced_illness_01	C78.00	Secondary malignant neoplasm of unspecified lung	45586027	ICD10CM
+advanced_illness_01	C78.02	Secondary malignant neoplasm of left lung	45552281	ICD10CM
+advanced_illness_01	C78.2	Secondary malignant neoplasm of pleura	35206328	ICD10CM
+advanced_illness_01	C78.39	Secondary malignant neoplasm of other respiratory organs	45557015	ICD10CM
+advanced_illness_01	C78.5	Secondary malignant neoplasm of large intestine and rectum	35206330	ICD10CM
+advanced_illness_01	C78.7	Secondary malignant neoplasm of liver and intrahepatic bile duct	35206332	ICD10CM
+advanced_illness_01	C78.89	Secondary malignant neoplasm of other digestive organs	45576340	ICD10CM
+advanced_illness_01	C79.01	Secondary malignant neoplasm of right kidney and renal pelvis	45552283	ICD10CM
+advanced_illness_01	C79.10	Secondary malignant neoplasm of unspecified urinary organs	45595689	ICD10CM
+advanced_illness_01	C79.19	Secondary malignant neoplasm of other urinary organs	45537842	ICD10CM
+advanced_illness_01	C79.31	Secondary malignant neoplasm of brain	45557016	ICD10CM
+advanced_illness_01	C79.40	Secondary malignant neoplasm of unspecified part of nervous system	45561833	ICD10CM
+advanced_illness_01	C79.51	Secondary malignant neoplasm of bone	45552285	ICD10CM
+advanced_illness_01	C79.60	Secondary malignant neoplasm of unspecified ovary	45561834	ICD10CM
+advanced_illness_01	C79.62	Secondary malignant neoplasm of left ovary	45571541	ICD10CM
+advanced_illness_01	C79.70	Secondary malignant neoplasm of unspecified adrenal gland	45576342	ICD10CM
+advanced_illness_01	C79.72	Secondary malignant neoplasm of left adrenal gland	45605289	ICD10CM
+advanced_illness_01	C79.82	Secondary malignant neoplasm of genital organs	45600528	ICD10CM
+advanced_illness_01	C79.9	Secondary malignant neoplasm of unspecified site	920115	ICD10CM
+advanced_illness_01	C91.02	"Acute lymphoblastic leukemia, in relapse"	45566647	ICD10CM
+advanced_illness_01	C92.02	"Acute myeloblastic leukemia, in relapse"	45532959	ICD10CM
+advanced_illness_01	C93.02	"Acute monoblastic/monocytic leukemia, in relapse"	45537878	ICD10CM
+advanced_illness_01	C93.92	"Monocytic leukemia, unspecified in relapse"	45542666	ICD10CM
+advanced_illness_01	F03.94	"Unspecified dementia, unspecified severity, with anxiety"	37402433	ICD10CM
+advanced_illness_01	F03.A11	"Unspecified dementia, mild, with agitation"	37402437	ICD10CM
+advanced_illness_01	F03.A2	"Unspecified dementia, mild, with psychotic disturbance"	37402439	ICD10CM
+advanced_illness_01	F03.A4	"Unspecified dementia, mild, with anxiety"	37402441	ICD10CM
+advanced_illness_01	F03.B11	"Unspecified dementia, moderate, with agitation"	37402445	ICD10CM
+advanced_illness_01	F03.B2	"Unspecified dementia, moderate, with psychotic disturbance"	37402447	ICD10CM
+advanced_illness_01	F03.B4	"Unspecified dementia, moderate, with anxiety"	37402449	ICD10CM
+advanced_illness_01	F03.C11	"Unspecified dementia, severe, with agitation"	37402453	ICD10CM
+advanced_illness_01	F03.C2	"Unspecified dementia, severe, with psychotic disturbance"	37402455	ICD10CM
+advanced_illness_01	F03.C4	"Unspecified dementia, severe, with anxiety"	37402457	ICD10CM
+advanced_illness_01	F04	Amnestic disorder due to known physiological condition	35207115	ICD10CM
+advanced_illness_01	F10.27	Alcohol dependence with alcohol-induced persisting dementia	45566776	ICD10CM
+advanced_illness_01	F10.97	"Alcohol use, unspecified with alcohol-induced persisting dementia"	45547675	ICD10CM
+advanced_illness_01	G12.21	Amyotrophic lateral sclerosis	45571788	ICD10CM
+advanced_illness_01	G20.A1	"Parkinson's disease without dyskinesia, without mention of fluctuations"	785926	ICD10CM
+advanced_illness_01	G20.B1	"Parkinson's disease with dyskinesia, without mention of fluctuations"	785929	ICD10CM
+advanced_illness_01	G20.C	"Parkinsonism, unspecified"	785931	ICD10CM
+advanced_illness_01	G30.1	Alzheimer's disease with late onset	35207357	ICD10CM
+advanced_illness_01	G30.9	"Alzheimer's disease, unspecified"	35207359	ICD10CM
+advanced_illness_01	G31.09	Other frontotemporal neurocognitive disorder	45605533	ICD10CM
+advanced_illness_01	G35	Multiple sclerosis	35207365	ICD10CM
+advanced_illness_01	I11.0	Hypertensive heart disease with heart failure	35207669	ICD10CM
+advanced_illness_01	I13.0	"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"	35207673	ICD10CM
+advanced_illness_01	I13.2	"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"	35207674	ICD10CM
+advanced_illness_01	I50.20	Unspecified systolic (congestive) heart failure	45586587	ICD10CM
+advanced_illness_01	I50.22	Chronic systolic (congestive) heart failure	45576878	ICD10CM
+advanced_illness_01	I50.30	Unspecified diastolic (congestive) heart failure	45601038	ICD10CM
+advanced_illness_01	I50.32	Chronic diastolic (congestive) heart failure	45533456	ICD10CM
+advanced_illness_01	I50.40	Unspecified combined systolic (congestive) and diastolic (congestive) heart failure	45533457	ICD10CM
+advanced_illness_01	I50.42	Chronic combined systolic (congestive) and diastolic (congestive) heart failure	45586588	ICD10CM
+advanced_illness_01	I50.810	"Right heart failure, unspecified"	1326601	ICD10CM
+advanced_illness_01	I50.812	Chronic right heart failure	1326603	ICD10CM
+advanced_illness_01	I50.814	Right heart failure due to left heart failure	1326605	ICD10CM
+advanced_illness_01	I50.83	High output heart failure	1326607	ICD10CM
+advanced_illness_01	I50.89	Other heart failure	1326609	ICD10CM
+advanced_illness_01	J43.0	Unilateral pulmonary emphysema [MacLeod's syndrome]	35208018	ICD10CM
+advanced_illness_01	J43.2	Centrilobular emphysema	35208020	ICD10CM
+advanced_illness_01	J43.9	"Emphysema, unspecified"	35208022	ICD10CM
+advanced_illness_01	J84.10	"Pulmonary fibrosis, unspecified"	45581864	ICD10CM
+advanced_illness_01	J84.170	Interstitial lung disease with progressive fibrotic phenotype in diseases classified elsewhere	725357	ICD10CM
+advanced_illness_01	J96.10	"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"	45548131	ICD10CM
+advanced_illness_01	J96.12	Chronic respiratory failure with hypercapnia	45572177	ICD10CM
+advanced_illness_01	J96.21	Acute and chronic respiratory failure with hypoxia	45543283	ICD10CM
+advanced_illness_01	J96.90	"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"	45567284	ICD10CM
+advanced_illness_01	J96.92	"Respiratory failure, unspecified with hypercapnia"	45533563	ICD10CM
+advanced_illness_01	J98.3	Compensatory emphysema	35208104	ICD10CM
+advanced_illness_01	K70.10	Alcoholic hepatitis without ascites	45562507	ICD10CM
+advanced_illness_01	K70.2	Alcoholic fibrosis and sclerosis of liver	35208331	ICD10CM
+advanced_illness_01	K70.31	Alcoholic cirrhosis of liver with ascites	45538545	ICD10CM
+advanced_illness_01	K70.41	Alcoholic hepatic failure with coma	45552947	ICD10CM
+advanced_illness_01	K74.00	"Hepatic fibrosis, unspecified"	725367	ICD10CM
+advanced_illness_01	K74.02	"Hepatic fibrosis, advanced fibrosis"	725369	ICD10CM
+advanced_illness_01	K74.2	Hepatic fibrosis with hepatic sclerosis	35208348	ICD10CM
+advanced_illness_01	K74.5	"Biliary cirrhosis, unspecified"	35208351	ICD10CM
+advanced_illness_01	K74.69	Other cirrhosis of liver	45581912	ICD10CM
+advanced_illness_01	N18.6	End stage renal disease	45548653	ICD10CM
+advanced_illness_01	1017197007	Interstitial pulmonary fibrosis due to inhalation of drug	600563	SNOMED
+advanced_illness_01	1204468000	Right ventricular failure with sepsis	37163135	SNOMED
+advanced_illness_01	1237520001	Metastatic carcinoma to skin of trunk	37174985	SNOMED
+advanced_illness_01	1254728008	Metastatic adenoid cystic carcinoma to trachea	37174888	SNOMED
+advanced_illness_01	15629741000119100	Systolic heart failure stage C due to ischemic cardiomyopathy	36712929	SNOMED
+advanced_illness_01	420054005	Alcoholic cirrhosis	196463	SNOMED
+advanced_illness_01	722671009	Metastatic malignant neoplasm of meninges	36716609	SNOMED
+advanced_illness_01	100721000119109	High grade astrocytoma of brain	36684449	SNOMED
+advanced_illness_01	10091002	High output heart failure	4004279	SNOMED
+advanced_illness_01	1010334009	Emphysema of right lung	605067	SNOMED
+advanced_illness_01	101281000119107	Congestive heart failure due to cardiomyopathy	44782428	SNOMED
+advanced_illness_01	1017196003	Interstitial pulmonary fibrosis due to inhalation of substance	600562	SNOMED
+advanced_illness_01	10335000	Chronic right-sided heart failure	4014159	SNOMED
+advanced_illness_01	103511000119103	Melanoma carcinomatosis	759823	SNOMED
+advanced_illness_01	104981000119104	Oligodendroglioma of cerebrum	36684451	SNOMED
+advanced_illness_01	105051000119106	Metastatic undifferentiated large cell carcinoma to lung	608853	SNOMED
+advanced_illness_01	105421000119105	Early onset Alzheimer's disease with behavioral disturbance	44782432	SNOMED
+advanced_illness_01	10633002	Acute congestive heart failure	4023479	SNOMED
+advanced_illness_01	10676831000119100	Hypoxemic respiratory failure	37395564	SNOMED
+advanced_illness_01	107581000119103	Astrocytoma of brain stem	37016118	SNOMED
+advanced_illness_01	107811000119106	Metastatic small cell neuroendocrine carcinoma to liver	600854	SNOMED
+advanced_illness_01	1079531000119100	Metastatic malignant neoplasm to left kidney	605437	SNOMED
+advanced_illness_01	108101000119101	Malignant melanoma metastatic to kidney	759938	SNOMED
+advanced_illness_01	108201000119105	Secondary undifferentiated large cell malignant neoplasm of kidney	759974	SNOMED
+advanced_illness_01	1082601000112100	Metastatic malignant neoplasm to viscera	37310458	SNOMED
+advanced_illness_01	109848009	Overlapping malignant neoplasm of pancreas	192261	SNOMED
+advanced_illness_01	111283005	Chronic left-sided heart failure	4009047	SNOMED
+advanced_illness_01	11471000224106	Diffuse intrinsic pontine glioma	3656333	SNOMED
+advanced_illness_01	1148924004	Dementia due to deficiency of folic acid	606974	SNOMED
+advanced_illness_01	1156413005	Gliomatosis cerebri	603115	SNOMED
+advanced_illness_01	1156415003	Protoplasmic astrocytoma of brain	603117	SNOMED
+advanced_illness_01	1156417006	Fibrillary astrocytoma of brain	603119	SNOMED
+advanced_illness_01	1156456000	Pilomyxoid astrocytoma of brain	607977	SNOMED
+advanced_illness_01	1156461003	Gliosarcoma of brain	607981	SNOMED
+advanced_illness_01	1156471001	Choroid plexus carcinoma	607987	SNOMED
+advanced_illness_01	1156789004	Autosomal dominant Alzheimer disease due to mutation of amyloid precursor protein	608051	SNOMED
+advanced_illness_01	1156800008	Autosomal dominant Alzheimer disease due to mutation of presenilin 1	603149	SNOMED
+advanced_illness_01	1157060001	Diffuse astrocytoma of brain	608240	SNOMED
+advanced_illness_01	1163147006	Chronic fibrosing pulmonary aspergillosis	37160739	SNOMED
+advanced_illness_01	116821000119104	Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of upper limb	37018877	SNOMED
+advanced_illness_01	1177007001	Pulmonary fibrosis due to paracoccidioidomycosis	37161110	SNOMED
+advanced_illness_01	1179377000	Adenocarcinoma of pituitary gland	37161446	SNOMED
+advanced_illness_01	1186724002	HTRA1-related autosomal dominant cerebral small vessel disease	37162098	SNOMED
+advanced_illness_01	1186735007	Mixed neuroendocrine-non neuroendocrine neoplasm of pancreas	37162106	SNOMED
+advanced_illness_01	1186877003	Dementia due to vitamin E deficiency	37162177	SNOMED
+advanced_illness_01	1186880002	Dementia due to cobalamin deficiency	37162180	SNOMED
+advanced_illness_01	1186883000	Dementia due to nutritional deficiency	37162183	SNOMED
+advanced_illness_01	1187004001	Chronic traumatic encephalopathy	37162223	SNOMED
+advanced_illness_01	1187285005	Metastatic clear cell renal cell carcinoma	37162300	SNOMED
+advanced_illness_01	1187521002	Malignant glucagonoma of pancreas	37162354	SNOMED
+advanced_illness_01	1196844004	Primary malignant astrocytoma of brain	37162570	SNOMED
+advanced_illness_01	1196898000	Primary malignant atypical teratoid rhabdoid neoplasm of brain	37162616	SNOMED
+advanced_illness_01	1197283000	Primary mixed acinar endocrine-ductal carcinoma of pancreas	37162711	SNOMED
+advanced_illness_01	1197286008	Primary mixed acinar ductal carcinoma of pancreas	37162713	SNOMED
+advanced_illness_01	1197293007	Metastatic squamous cell carcinoma of lymph nodes of head and neck	37175065	SNOMED
+advanced_illness_01	1197297008	Metastatic squamous cell carcinoma to lymph node of lower limb	37175076	SNOMED
+advanced_illness_01	1197299006	Metastatic squamous cell carcinoma to lymph node of upper limb	37175077	SNOMED
+advanced_illness_01	1197311006	Metastatic adenocarcinoma to lymph node of upper limb	37174871	SNOMED
+advanced_illness_01	1197313009	Metastatic adenocarcinoma to lymph node of head and neck	37174869	SNOMED
+advanced_illness_01	1197323000	Metastatic carcinoma to lymph node of thorax	37174961	SNOMED
+advanced_illness_01	1197325007	Metastatic carcinoma of pelvic lymph node	37174895	SNOMED
+advanced_illness_01	1197327004	Metastatic carcinoma to lymph node of lower limb	37162723	SNOMED
+advanced_illness_01	1197329001	Metastatic carcinoma of abdominal lymph node	37174894	SNOMED
+advanced_illness_01	1197331005	Metastatic adenocarcinoma to pelvic lymph node	37174877	SNOMED
+advanced_illness_01	1197343006	Primary teratoma of brain	37162733	SNOMED
+advanced_illness_01	1197524007	Autosomal recessive amyotrophic lateral sclerosis type 1	37162789	SNOMED
+advanced_illness_01	1201947005	Juvenile amyotrophic lateral sclerosis type 2	37162959	SNOMED
+advanced_illness_01	1201961000	Juvenile amyotrophic lateral sclerosis type 5	37162963	SNOMED
+advanced_illness_01	1204203009	Left ventricular failure with normal ejection fraction due to coronary artery disease	37163068	SNOMED
+advanced_illness_01	1204206001	Left ventricular failure with normal ejection fraction due to cardiomyopathy	37163071	SNOMED
+advanced_illness_01	1204349002	Amyotrophic lateral sclerosis type 7	37163102	SNOMED
+advanced_illness_01	1204351003	Amyotrophic lateral sclerosis type 9	37163104	SNOMED
+advanced_illness_01	1204462004	Left ventricular failure with sepsis	37163130	SNOMED
+advanced_illness_01	1208412003	Amyotrophic lateral sclerosis type 10	37163164	SNOMED
+advanced_illness_01	120861000119102	Systolic heart failure stage C	43020421	SNOMED
+advanced_illness_01	1208744003	Non-functioning neuroendocrine neoplasm of pancreas	37163229	SNOMED
+advanced_illness_01	120881000119106	Diastolic heart failure stage D	43021841	SNOMED
+advanced_illness_01	1208846006	Right ventricular failure due to pulmonary disease	37163264	SNOMED
+advanced_illness_01	1208850004	Right ventricular failure due to right ventricular infarction	37163268	SNOMED
+advanced_illness_01	120901000119108	Diastolic heart failure stage B	43530643	SNOMED
+advanced_illness_01	12241031000119100	Metastatic malignant neoplasm to left breast	602331	SNOMED
+advanced_illness_01	12246481000119100	Bilateral metastatic malignant neoplasm to kidneys	602333	SNOMED
+advanced_illness_01	12246601000119100	Secondary malignant neoplasm of bilateral lungs	760916	SNOMED
+advanced_illness_01	1230308005	Off-periods in Parkinson disease not responding to oral treatment	37164406	SNOMED
+advanced_illness_01	123604002	Toxic cirrhosis	4046016	SNOMED
+advanced_illness_01	12368000	Secondary biliary cirrhosis	4046123	SNOMED
+advanced_illness_01	1236940007	Metastatic carcinoma to tail of pancreas	37174994	SNOMED
+advanced_illness_01	1236942004	Metastatic carcinoma to ventral surface of tongue	37175006	SNOMED
+advanced_illness_01	1236944003	Metastatic carcinoma to dorsal surface of anterior two-thirds of tongue	37174922	SNOMED
+advanced_illness_01	1236947005	Metastatic carcinoma to dorsal surface of base of tongue	37174923	SNOMED
+advanced_illness_01	1236953005	"Metastatic carcinoma to bone, connective tissue, skin and breast"	37174907	SNOMED
+advanced_illness_01	1236955003	Metastatic carcinoma to frenum of lip	37168960	SNOMED
+advanced_illness_01	1236957006	Metastatic carcinoma to frenum of upper lip	37174934	SNOMED
+advanced_illness_01	1236960004	Metastatic carcinoma to lingual tonsil	37174949	SNOMED
+advanced_illness_01	1236962007	Metastatic carcinoma to lateral part of floor of mouth	37174947	SNOMED
+advanced_illness_01	1236964008	Metastatic carcinoma to soft palate	37174987	SNOMED
+advanced_illness_01	1236967001	Metastatic carcinoma to lower buccal sulcus	37174953	SNOMED
+advanced_illness_01	1236969003	Metastatic carcinoma to lower labial sulcus	37174956	SNOMED
+advanced_illness_01	1237032005	Metastatic carcinoma to thoracic part of esophagus	37174995	SNOMED
+advanced_illness_01	1237034006	Metastatic carcinoma to submandibular gland	37174992	SNOMED
+advanced_illness_01	1237036008	Metastatic carcinoma to middle third of esophagus	37174965	SNOMED
+advanced_illness_01	1237038009	Metastatic carcinoma to abdominal part of esophagus	37174896	SNOMED
+advanced_illness_01	1237041000	Metastatic carcinoma to pylorus	37174977	SNOMED
+advanced_illness_01	1237043002	Metastatic carcinoma to greater curve of stomach	37174941	SNOMED
+advanced_illness_01	1237045009	Metastatic carcinoma to body of stomach	37174906	SNOMED
+advanced_illness_01	1237047001	Metastatic carcinoma to endocrine pancreas	37174926	SNOMED
+advanced_illness_01	1237050003	Metastatic carcinoma to cardia of stomach	37174914	SNOMED
+advanced_illness_01	1237052006	Metastatic carcinoma to axillary tail of breast	37174901	SNOMED
+advanced_illness_01	1237055008	Metastatic carcinoma to upper outer quadrant of breast	37175002	SNOMED
+advanced_illness_01	1237057000	Metastatic carcinoma to lower outer quadrant of breast	37174958	SNOMED
+advanced_illness_01	722977005	Dementia co-occurrent and due to neurocysticercosis	36716795	SNOMED
+advanced_illness_01	722980006	Dementia due to chromosomal anomaly	36716797	SNOMED
+advanced_illness_01	723123001	Ischemic vascular dementia	36717248	SNOMED
+advanced_illness_01	723829000	"Pulmonary fibrosis, hepatic hyperplasia, bone marrow hypoplasia syndrome"	37109889	SNOMED
+advanced_illness_01	724761004	Sporadic Parkinson disease	37110499	SNOMED
+advanced_illness_01	724778008	Progressive relapsing multiple sclerosis	37110514	SNOMED
+advanced_illness_01	725416005	Cirrhotic cardiomyopathy	37110890	SNOMED
+advanced_illness_01	725938001	Cirrhosis of liver caused by methotrexate	37117933	SNOMED
+advanced_illness_01	725940006	Cirrhosis of liver caused by methyldopa	37111266	SNOMED
+advanced_illness_01	733184002	Dementia caused by heavy metal exposure	37116464	SNOMED
+advanced_illness_01	733191004	Dementia due to chronic subdural hematoma	37116466	SNOMED
+advanced_illness_01	733193001	Dementia with progressive multifocal leukoencephalopathy	37116468	SNOMED
+advanced_illness_01	735386008	Acute hypoxemic and hypercapnic respiratory failure	42539533	SNOMED
+advanced_illness_01	735735001	Primary malignant neuroendocrine neoplasm of pancreas	42536743	SNOMED
+advanced_illness_01	7361000175106	Acute on chronic hypercapnic respiratory failure	36716978	SNOMED
+advanced_illness_01	7381000175100	Reduced ejection fraction co-occurrent and due to chronic heart failure	764872	SNOMED
+advanced_illness_01	7401000175100	Acute on chronic heart failure co-occurrent with normal ejection fraction	764874	SNOMED
+advanced_illness_01	7421000175106	Acute heart failure co-occurrent with normal ejection fraction	764877	SNOMED
+advanced_illness_01	74960003	Acute left-sided congestive heart failure	4327205	SNOMED
+advanced_illness_01	762351006	Dementia due to and following injury of head	42538610	SNOMED
+advanced_illness_01	762707000	Subcortical dementia	42538857	SNOMED
+advanced_illness_01	766246000	Marburg acute multiple sclerosis	35623817	SNOMED
+advanced_illness_01	767448007	Pineoblastoma	35614931	SNOMED
+advanced_illness_01	770727008	Spinal muscular atrophy with respiratory distress type 2	36674871	SNOMED
+advanced_illness_01	774069007	PRKAR1B-related neurodegenerative dementia with intermediate filaments	36674472	SNOMED
+advanced_illness_01	77690003	Interstitial emphysema of lung	440748	SNOMED
+advanced_illness_01	782697005	Solid pseudopapillary carcinoma of pancreas	37204187	SNOMED
+advanced_illness_01	783258000	ADan amyloidosis	37204554	SNOMED
+advanced_illness_01	783771003	Acinar cell carcinoma of pancreas	37204852	SNOMED
+advanced_illness_01	78461000119105	Metastatic squamous cell carcinoma to skin	600828	SNOMED
+advanced_illness_01	788863007	Amnestic disorder caused by psychoactive substance	37312034	SNOMED
+advanced_illness_01	788898005	Dementia caused by volatile inhalant	37311999	SNOMED
+advanced_illness_01	788950000	Heart failure with mid range ejection fraction	37311948	SNOMED
+advanced_illness_01	789574002	Acute exacerbation of idiopathic pulmonary fibrosis	37312199	SNOMED
+advanced_illness_01	792907004	Pancreatic ductal adenocarcinoma	37311469	SNOMED
+advanced_illness_01	79955004	Chronic cor pulmonale	4195892	SNOMED
+advanced_illness_01	80614003	Prolonged pulmonary alveolitis	4215594	SNOMED
+advanced_illness_01	816984002	Progressive multiple sclerosis	37311816	SNOMED
+advanced_illness_01	82361000119107	Altered behavior in Huntington's dementia	44784620	SNOMED
+advanced_illness_01	82381000119103	Epileptic dementia with behavioral disturbance	37018608	SNOMED
+advanced_illness_01	827186009	Metastatic malignant neoplasm to skin of hip and skin of lower leg	3654229	SNOMED
+advanced_illness_01	831000119103	Cirrhosis of liver due to chronic hepatitis C	43531723	SNOMED
+advanced_illness_01	83291003	Cor pulmonale	4307356	SNOMED
+advanced_illness_01	836274002	Carcinomatosis of peritoneum	3654457	SNOMED
+advanced_illness_01	836486002	Lymphomatous infiltrate of kidney	3654579	SNOMED
+advanced_illness_01	840452004	Classical sporadic Creutzfeldt-Jakob disease	3654909	SNOMED
+advanced_illness_01	840465008	Dementia due to iron deficiency	3654921	SNOMED
+advanced_illness_01	846637007	Chronic pulmonary fibrosis caused by chemical vapors	3655115	SNOMED
+advanced_illness_01	86044005	Amyotrophic lateral sclerosis	373182	SNOMED
+advanced_illness_01	86454000	Postnecrotic cirrhosis	4313567	SNOMED
+advanced_illness_01	866052009	Mixed ductal-neuroendocrine carcinoma of pancreas	3655588	SNOMED
+advanced_illness_01	87091000119101	Malignant glioma of cerebrum	37018638	SNOMED
+advanced_illness_01	87121000119102	Malignant glioma of cerebellum	37018640	SNOMED
+advanced_illness_01	87317003	Respiratory arrest	317109	SNOMED
+advanced_illness_01	88805009	Chronic congestive heart failure	4229440	SNOMED
+advanced_illness_01	898208007	Heart failure due to thyrotoxicosis	619797	SNOMED
+advanced_illness_01	90117007	Tuberculous fibrosis of lung	258335	SNOMED
+advanced_illness_01	90688005	Chronic renal failure	198185	SNOMED
+advanced_illness_01	90791000119104	End stage renal disease on dialysis due to type 2 diabetes mellitus	45769906	SNOMED
+advanced_illness_01	90831000119105	Grade 4 malignant glioma of brain	36684447	SNOMED
+advanced_illness_01	91191000119108	Metastatic adenocarcinoma to pleura	600834	SNOMED
+advanced_illness_01	91221000119102	Metastatic malignant melanoma to pleura	619828	SNOMED
+advanced_illness_01	91251000119105	Small cell carcinoma metastatic to skin	764957	SNOMED
+advanced_illness_01	92506005	Biventricular congestive heart failure	4242669	SNOMED
+advanced_illness_01	93145002	Leukemic reticuloendotheliosis of intrapelvic lymph nodes	196650	SNOMED
+advanced_illness_01	93150008	Leukemic reticuloendotheliosis of lymph nodes of multiple sites	318989	SNOMED
+advanced_illness_01	93726004	Primary malignant neoplasm of brain stem	441806	SNOMED
+advanced_illness_01	93746009	Primary malignant neoplasm of cerebellum	433149	SNOMED
+advanced_illness_01	93749002	Primary malignant neoplasm of cerebrum	380661	SNOMED
+advanced_illness_01	93807001	Primary malignant neoplasm of frontal lobe	441233	SNOMED
+advanced_illness_01	93928006	Primary malignant neoplasm of occipital lobe	432559	SNOMED
+advanced_illness_01	93946000	Primary malignant neoplasm of parietal lobe	438086	SNOMED
+advanced_illness_01	94086000	Primary malignant neoplasm of temporal lobe	433976	SNOMED
+advanced_illness_01	94153001	Metastatic malignant neoplasm to abducens nerve	4311630	SNOMED
+advanced_illness_01	94155008	Metastatic malignant neoplasm to accessory sinus	4312038	SNOMED
+advanced_illness_01	94157000	Metastatic malignant neoplasm to acromion	4312699	SNOMED
+advanced_illness_01	94159002	Metastatic malignant neoplasm to adnexa of skin	4311633	SNOMED
+advanced_illness_01	94161006	Metastatic malignant neoplasm to adrenal gland	193144	SNOMED
+advanced_illness_01	94163009	Metastatic malignant neoplasm to alveolar ridge mucosa	4312040	SNOMED
+advanced_illness_01	94165002	Metastatic malignant neoplasm to anal canal	4312700	SNOMED
+advanced_illness_01	94167005	Metastatic malignant neoplasm to anterior mediastinum	4312701	SNOMED
+advanced_illness_01	94169008	Metastatic malignant neoplasm to anterior two-thirds of tongue	4246347	SNOMED
+advanced_illness_01	94171008	Metastatic malignant neoplasm to anterior wall of urinary bladder	4312149	SNOMED
+advanced_illness_01	94173006	Metastatic malignant neoplasm to aortic body	4246349	SNOMED
+advanced_illness_01	94179005	Metastatic malignant neoplasm to ascending colon	4312150	SNOMED
+advanced_illness_01	94181007	Metastatic malignant neoplasm to axillary lymph nodes	442252	SNOMED
+advanced_illness_01	94184004	Metastatic malignant neoplasm to base of tongue	4312705	SNOMED
+advanced_illness_01	94186002	Metastatic malignant neoplasm to urinary bladder	4312802	SNOMED
+advanced_illness_01	94189009	Metastatic malignant neoplasm to blood vessel of axilla	4312152	SNOMED
+advanced_illness_01	94191001	Metastatic malignant neoplasm to blood vessel of face	4312803	SNOMED
+advanced_illness_01	94193003	Metastatic malignant neoplasm to blood vessel of foot	4246355	SNOMED
+advanced_illness_01	94195005	Metastatic malignant neoplasm to blood vessel of hand	4312805	SNOMED
+advanced_illness_01	94197002	Metastatic malignant neoplasm to blood vessel of hip	4246357	SNOMED
+advanced_illness_01	94202009	Metastatic malignant neoplasm to blood vessel of pelvis	4312820	SNOMED
+advanced_illness_01	94204005	Metastatic malignant neoplasm to blood vessel of popliteal space	4311757	SNOMED
+advanced_illness_01	94206007	Metastatic malignant neoplasm to blood vessel of thigh	4246367	SNOMED
+advanced_illness_01	94208008	Metastatic malignant neoplasm to blood vessel of toe	4311759	SNOMED
+advanced_illness_01	94210005	Metastatic malignant neoplasm to blood vessel of upper limb	4312275	SNOMED
+advanced_illness_01	94212002	Metastatic malignant neoplasm to body of pancreas	4246368	SNOMED
+advanced_illness_01	94214001	Metastatic malignant neoplasm to body of stomach	4311760	SNOMED
+advanced_illness_01	94217008	Metastatic malignant neoplasm to bone marrow	4246450	SNOMED
+advanced_illness_01	94219006	Metastatic malignant neoplasm to bone of lower limb	4312279	SNOMED
+advanced_illness_01	94221001	Metastatic malignant neoplasm to bone of upper limb	4311762	SNOMED
+advanced_illness_01	94224009	Metastatic malignant neoplasm to brain stem	4312280	SNOMED
+advanced_illness_01	94226006	Metastatic malignant neoplasm to broad ligament	4312824	SNOMED
+advanced_illness_01	94228007	Metastatic malignant neoplasm to bronchus of left lower lobe	4246452	SNOMED
+advanced_illness_01	94230009	Metastatic malignant neoplasm to bronchus of right lower lobe	4246453	SNOMED
+advanced_illness_01	94232001	Metastatic malignant neoplasm to bronchus of right upper lobe	4312283	SNOMED
+advanced_illness_01	94234000	Metastatic malignant neoplasm to buccal mucosa	4312285	SNOMED
+advanced_illness_01	94236003	Metastatic malignant neoplasm to calcaneus	4312825	SNOMED
+advanced_illness_01	94238002	Metastatic malignant neoplasm to carina	4312935	SNOMED
+advanced_illness_01	94240007	Metastatic malignant neoplasm to carpal bone	4312936	SNOMED
+advanced_illness_01	94242004	Metastatic malignant neoplasm to cauda equina	4312937	SNOMED
+advanced_illness_01	94245002	Metastatic malignant neoplasm to cerebellum	4312289	SNOMED
+advanced_illness_01	94247005	Metastatic malignant neoplasm to cerebral ventricle	4312291	SNOMED
+advanced_illness_01	94249008	Metastatic malignant neoplasm to cervical esophagus	4312939	SNOMED
+advanced_illness_01	94252000	Metastatic malignant neoplasm to cheek	4312940	SNOMED
+advanced_illness_01	94254004	Metastatic malignant neoplasm to choroid	4246458	SNOMED
+advanced_illness_01	94256002	Metastatic malignant neoplasm to clavicle	4312941	SNOMED
+advanced_illness_01	94258001	Metastatic malignant neoplasm to coccygeal body	4247944	SNOMED
+advanced_illness_01	94260004	Metastatic malignant neoplasm to colon	4311765	SNOMED
+advanced_illness_01	94262007	Metastatic malignant neoplasm to common bile duct	4247946	SNOMED
+advanced_illness_01	94264008	Metastatic malignant neoplasm to soft tissues	4312944	SNOMED
+advanced_illness_01	94268006	Metastatic malignant neoplasm to cubital lymph nodes	4311768	SNOMED
+advanced_illness_01	94270002	Metastatic malignant neoplasm to cystic duct	4247947	SNOMED
+advanced_illness_01	94272005	Metastatic malignant neoplasm to diaphragm	4311876	SNOMED
+advanced_illness_01	94274006	Metastatic malignant neoplasm to thoracic vertebral column	4247948	SNOMED
+advanced_illness_01	94278009	Metastatic malignant neoplasm to endocardium	4312297	SNOMED
+advanced_illness_01	94280003	Metastatic malignant neoplasm to endocrine gland	4311878	SNOMED
+advanced_illness_01	94282006	Metastatic malignant neoplasm to epicardium	4312299	SNOMED
+advanced_illness_01	94284007	Metastatic malignant neoplasm to epiglottis	4312949	SNOMED
+advanced_illness_01	94286009	Metastatic malignant neoplasm to esophagus	4311880	SNOMED
+advanced_illness_01	94288005	Metastatic malignant neoplasm to ethmoidal sinus	4312951	SNOMED
+advanced_illness_01	94290006	Metastatic malignant neoplasm to exocervix	4311881	SNOMED
+advanced_illness_01	94292003	Metastatic malignant neoplasm to eye	4312954	SNOMED
+advanced_illness_01	94294002	Metastatic malignant neoplasm to facial nerve	4312956	SNOMED
+advanced_illness_01	94296000	Metastatic malignant neoplasm to false vocal cord	4312302	SNOMED
+advanced_illness_01	94299007	Metastatic malignant neoplasm to femoral lymph nodes	4312303	SNOMED
+advanced_illness_01	94301000	Metastatic malignant neoplasm to fibula	4247960	SNOMED
+advanced_illness_01	94303002	Metastatic malignant neoplasm to flank	4312423	SNOMED
+advanced_illness_01	94305009	Metastatic malignant neoplasm to foot	4311896	SNOMED
+advanced_illness_01	94307001	Metastatic malignant neoplasm to prepuce	4312012	SNOMED
+advanced_illness_01	94309003	Metastatic malignant neoplasm to frontal lobe	4312014	SNOMED
+advanced_illness_01	94311007	Metastatic malignant neoplasm to fundus of stomach	4247961	SNOMED
+advanced_illness_01	94313005	Metastatic malignant neoplasm to gastrointestinal tract	4247962	SNOMED
+advanced_illness_01	94315003	Metastatic malignant neoplasm to glans penis	4313080	SNOMED
+advanced_illness_01	94317006	Metastatic malignant neoplasm to glossopharyngeal nerve	4312426	SNOMED
+advanced_illness_01	94319009	Metastatic malignant neoplasm to great vessels	4312427	SNOMED
+advanced_illness_01	94321004	Metastatic malignant neoplasm to gum	4247965	SNOMED
+advanced_illness_01	94323001	Metastatic malignant neoplasm to hand	4313082	SNOMED
+advanced_illness_01	94325008	Metastatic malignant neoplasm to head of pancreas	4312017	SNOMED
+advanced_illness_01	94327000	Metastatic malignant neoplasm to heart	4247967	SNOMED
+advanced_illness_01	94329002	Metastatic malignant neoplasm to hilus of lung	4312429	SNOMED
+advanced_illness_01	94331006	Metastatic malignant neoplasm to hypoglossal nerve	4313085	SNOMED
+advanced_illness_01	94334003	Metastatic malignant neoplasm to hypopharynx	4248056	SNOMED
+advanced_illness_01	94336001	Metastatic malignant neoplasm to iliac lymph nodes	4313088	SNOMED
+advanced_illness_01	94338000	Metastatic malignant neoplasm to infraclavicular lymph nodes	4312020	SNOMED
+advanced_illness_01	94340005	Metastatic malignant neoplasm to inguinal region	4313089	SNOMED
+advanced_illness_01	94342002	Metastatic malignant neoplasm to inner aspect of lower lip	4313090	SNOMED
+advanced_illness_01	94344001	Metastatic malignant neoplasm to intercostal lymph nodes	4248060	SNOMED
+advanced_illness_01	94346004	Metastatic malignant neoplasm to intestinal tract	4312022	SNOMED
+advanced_illness_01	94348003	Metastatic malignant neoplasm to intra-abdominal organs	4312023	SNOMED
+advanced_illness_01	94350006	Metastatic malignant neoplasm to intrapelvic lymph nodes	200959	SNOMED
+advanced_illness_01	94352003	Metastatic malignant neoplasm to intrathoracic organs	4248061	SNOMED
+advanced_illness_01	94354002	Metastatic malignant neoplasm to islets of Langerhans	4248063	SNOMED
+advanced_illness_01	94356000	Metastatic malignant neoplasm to jaw	4313091	SNOMED
+advanced_illness_01	94358004	Metastatic malignant neoplasm to junctional region of epiglottis	4312540	SNOMED
+advanced_illness_01	94360002	Metastatic malignant neoplasm to kidney	196053	SNOMED
+advanced_illness_01	94362005	Metastatic malignant neoplasm to labia minora	4248067	SNOMED
+advanced_illness_01	94365007	Metastatic malignant neoplasm to large intestine	200348	SNOMED
+advanced_illness_01	94367004	Metastatic malignant neoplasm to laryngeal aspect of interarytenoid fold	4313207	SNOMED
+advanced_illness_01	94369001	Metastatic malignant neoplasm to laryngeal surface of epiglottis	4313208	SNOMED
+advanced_illness_01	94371001	Metastatic malignant neoplasm to lateral portion of floor of mouth	4313209	SNOMED
+advanced_illness_01	94373003	Metastatic malignant neoplasm to lateral wall of oropharynx	4312028	SNOMED
+advanced_illness_01	94375005	Metastatic malignant neoplasm to left lower lobe of lung	4313211	SNOMED
+advanced_illness_01	94378007	Metastatic malignant neoplasm to lesser curvature of stomach	4312542	SNOMED
+advanced_illness_01	94380001	Metastatic malignant neoplasm to lip	4313789	SNOMED
+advanced_illness_01	94382009	Metastatic malignant neoplasm to long bone of lower limb	4313214	SNOMED
+advanced_illness_01	94384005	Metastatic malignant neoplasm to lower gum	4312543	SNOMED
+advanced_illness_01	94388008	Metastatic malignant neoplasm to lower third of esophagus	4313216	SNOMED
+advanced_illness_01	94390009	Metastatic malignant neoplasm to lunate bone	4248071	SNOMED
+advanced_illness_01	94392001	Metastatic malignant neoplasm to lymph node	318096	SNOMED
+advanced_illness_01	94394000	Metastatic malignant neoplasm to lymph nodes of head	442183	SNOMED
+advanced_illness_01	94398002	Metastatic malignant neoplasm to lymph nodes of upper limb	434298	SNOMED
+advanced_illness_01	94400003	Metastatic malignant neoplasm to major salivary gland	4248074	SNOMED
+advanced_illness_01	94403001	Metastatic malignant neoplasm to mandible	4315537	SNOMED
+advanced_illness_01	94405008	Metastatic malignant neoplasm to maxilla	4312548	SNOMED
+advanced_illness_01	94407000	Metastatic malignant neoplasm to Meckel's diverticulum	4248076	SNOMED
+advanced_illness_01	94409002	Metastatic malignant neoplasm to mediastinum	434875	SNOMED
+advanced_illness_01	94411006	Metastatic malignant neoplasm to metacarpal bone	4313793	SNOMED
+advanced_illness_01	94413009	Metastatic malignant neoplasm to middle ear	4312549	SNOMED
+advanced_illness_01	94415002	Metastatic malignant neoplasm to minor salivary gland	4248078	SNOMED
+advanced_illness_01	94417005	Metastatic malignant neoplasm to multiple endocrine glands	4248079	SNOMED
+advanced_illness_01	94419008	Metastatic malignant neoplasm to muscle of buttock	4313794	SNOMED
+advanced_illness_01	94421003	Metastatic malignant neoplasm to muscle of head	4313795	SNOMED
+advanced_illness_01	94423000	Metastatic malignant neoplasm to muscle of inguinal region	4315542	SNOMED
+advanced_illness_01	94425007	Metastatic malignant neoplasm to muscle of neck	4248082	SNOMED
+advanced_illness_01	94427004	Metastatic malignant neoplasm to muscle of perineum	4312553	SNOMED
+advanced_illness_01	94429001	Metastatic malignant neoplasm to muscle of thorax	4313797	SNOMED
+advanced_illness_01	94431005	Metastatic malignant neoplasm to muscle of upper limb	4312555	SNOMED
+advanced_illness_01	94433008	Metastatic malignant neoplasm to myocardium	4315544	SNOMED
+advanced_illness_01	94435001	Metastatic malignant neoplasm to nasal bone	4312556	SNOMED
+advanced_illness_01	94437009	Metastatic malignant neoplasm to nasal concha	4315545	SNOMED
+advanced_illness_01	94440009	Metastatic malignant neoplasm to scaphoid bone	4315546	SNOMED
+advanced_illness_01	94442001	Metastatic malignant neoplasm to nervous system	373425	SNOMED
+advanced_illness_01	94446003	Metastatic malignant neoplasm to obturator lymph nodes	4312558	SNOMED
+advanced_illness_01	94448002	Metastatic malignant neoplasm to occipital lobe	4248186	SNOMED
+advanced_illness_01	94450005	Metastatic malignant neoplasm to oculomotor nerve	4312559	SNOMED
+advanced_illness_01	94452002	Metastatic malignant neoplasm to optic nerve	4248190	SNOMED
+advanced_illness_01	94454001	Metastatic malignant neoplasm to oropharynx	4313802	SNOMED
+advanced_illness_01	94456004	Metastatic malignant neoplasm to palate	4315548	SNOMED
+advanced_illness_01	94458003	Metastatic malignant neoplasm to tonsil	4315549	SNOMED
+advanced_illness_01	94460001	Metastatic malignant neoplasm to pancreatic duct	4315550	SNOMED
+advanced_illness_01	94464005	Metastatic malignant neoplasm to parametrial lymph nodes	4315657	SNOMED
+advanced_illness_01	94466007	Metastatic malignant neoplasm to pararectal lymph nodes	4248194	SNOMED
+advanced_illness_01	94468008	Metastatic malignant neoplasm to paraurethral glands	4248195	SNOMED
+advanced_illness_01	94470004	Metastatic malignant neoplasm to parietal bone	4312561	SNOMED
+advanced_illness_01	94472007	Metastatic malignant neoplasm to parietal peritoneum	4312562	SNOMED
+advanced_illness_01	94474008	Metastatic malignant neoplasm to parotid gland	4315658	SNOMED
+advanced_illness_01	94476005	Metastatic malignant neoplasm to patella	4312563	SNOMED
+advanced_illness_01	94478006	Metastatic malignant neoplasm to pelvic bone	4313914	SNOMED
+advanced_illness_01	94480000	Metastatic malignant neoplasm to pelvis	4313916	SNOMED
+advanced_illness_01	94482008	Metastatic malignant neoplasm to periadrenal tissue	4313918	SNOMED
+advanced_illness_01	94484009	Metastatic malignant neoplasm to pericardium	4248199	SNOMED
+advanced_illness_01	94486006	Metastatic malignant neoplasm to phalanx of foot	4315662	SNOMED
+advanced_illness_01	94488007	Metastatic malignant neoplasm to pharynx	4315663	SNOMED
+advanced_illness_01	94490008	Metastatic malignant neoplasm to pisiform bone of hand	4312564	SNOMED
+advanced_illness_01	94492000	Metastatic malignant neoplasm to placenta	4311210	SNOMED
+advanced_illness_01	94494004	Metastatic malignant neoplasm to popliteal lymph nodes	4311211	SNOMED
+advanced_illness_01	94496002	Metastatic malignant neoplasm to posterior hypopharyngeal wall	4313921	SNOMED
+advanced_illness_01	94498001	Metastatic malignant neoplasm to posterior wall of nasopharynx	4311212	SNOMED
+advanced_illness_01	94500000	Metastatic malignant neoplasm to posterior wall of urinary bladder	4314336	SNOMED
+advanced_illness_01	94502008	Metastatic malignant neoplasm to presacral region	4315666	SNOMED
+advanced_illness_01	94504009	Metastatic malignant neoplasm to pubis	4315667	SNOMED
+advanced_illness_01	94506006	Metastatic malignant neoplasm to pylorus	4314338	SNOMED
+advanced_illness_01	94508007	Metastatic malignant neoplasm to radius	4313924	SNOMED
+advanced_illness_01	94510009	Metastatic malignant neoplasm to rectouterine pouch	4314339	SNOMED
+advanced_illness_01	94512001	Metastatic malignant neoplasm to rectovesical septum	4313925	SNOMED
+advanced_illness_01	94514000	Metastatic malignant neoplasm to renal pelvis	4315670	SNOMED
+advanced_illness_01	94516003	Metastatic malignant neoplasm to retina	4311324	SNOMED
+advanced_illness_01	94518002	Metastatic malignant neoplasm to retromolar area	4314340	SNOMED
+advanced_illness_01	94520004	Metastatic malignant neoplasm to retropharyngeal lymph nodes	4314341	SNOMED
+advanced_illness_01	94522007	Metastatic malignant neoplasm to right lower lobe of lung	4313926	SNOMED
+advanced_illness_01	94526005	Metastatic malignant neoplasm to sacrococcygeal region	4311327	SNOMED
+advanced_illness_01	94528006	Metastatic malignant neoplasm to scalene lymph nodes	4315675	SNOMED
+advanced_illness_01	94530008	Metastatic malignant neoplasm to sclera	4314344	SNOMED
+advanced_illness_01	94532000	Metastatic malignant neoplasm to sebaceous gland	4314346	SNOMED
+advanced_illness_01	94534004	Metastatic malignant neoplasm to septum of nose	4313927	SNOMED
+advanced_illness_01	94536002	Metastatic malignant neoplasm to short bone of upper limb	4314347	SNOMED
+advanced_illness_01	94538001	Metastatic malignant neoplasm to sigmoid colon	4315677	SNOMED
+advanced_illness_01	94540006	Metastatic malignant neoplasm to skin of ankle	4314350	SNOMED
+advanced_illness_01	94543008	Metastatic malignant neoplasm to skin of back	4315678	SNOMED
+advanced_illness_01	94545001	Metastatic malignant neoplasm to skin of buttock	4315679	SNOMED
+advanced_illness_01	94547009	Metastatic malignant neoplasm to skin of chest	4311332	SNOMED
+advanced_illness_01	94549007	Metastatic malignant neoplasm to skin of ear	4315680	SNOMED
+advanced_illness_01	94551006	Metastatic malignant neoplasm to skin of external auditory canal	4313933	SNOMED
+advanced_illness_01	94553009	Metastatic malignant neoplasm to skin of eyelid	4315683	SNOMED
+advanced_illness_01	94555002	Metastatic malignant neoplasm to skin of finger	4315685	SNOMED
+advanced_illness_01	94557005	Metastatic malignant neoplasm to skin of forearm	4313935	SNOMED
+advanced_illness_01	94559008	Metastatic malignant neoplasm to skin of groin	4314351	SNOMED
+advanced_illness_01	94561004	Metastatic malignant neoplasm to skin of hip	4315793	SNOMED
+advanced_illness_01	94564007	Metastatic malignant neoplasm to skin of lip	4311335	SNOMED
+advanced_illness_01	94566009	Metastatic malignant neoplasm to skin of neck	4315795	SNOMED
+advanced_illness_01	94568005	Metastatic malignant neoplasm to skin of perineum	4313936	SNOMED
+advanced_illness_01	94570001	Metastatic malignant neoplasm to skin of scalp	4311337	SNOMED
+advanced_illness_01	94572009	Metastatic malignant neoplasm to skin of temporal region	4314356	SNOMED
+advanced_illness_01	94574005	Metastatic malignant neoplasm to skin of toe	4314358	SNOMED
+advanced_illness_01	94577003	Metastatic malignant neoplasm to skin of upper limb	4314360	SNOMED
+advanced_illness_01	94579000	Metastatic malignant neoplasm to skin	136354	SNOMED
+advanced_illness_01	94581003	Metastatic malignant neoplasm to soft palate	4311339	SNOMED
+advanced_illness_01	94583000	Metastatic malignant neoplasm to soft tissues of axilla	4315797	SNOMED
+advanced_illness_01	94585007	Metastatic malignant neoplasm to soft tissues of face	4315798	SNOMED
+advanced_illness_01	94587004	Metastatic malignant neoplasm to soft tissues of hip	4315799	SNOMED
+advanced_illness_01	94591009	Metastatic malignant neoplasm to soft tissues of pelvis	4314478	SNOMED
+advanced_illness_01	94593007	Metastatic malignant neoplasm to soft tissues of shoulder	4314479	SNOMED
+advanced_illness_01	94595000	Metastatic malignant neoplasm to soft tissues of trunk	4314047	SNOMED
+advanced_illness_01	94597008	Metastatic malignant neoplasm to spermatic cord	4314048	SNOMED
+advanced_illness_01	94599006	Metastatic malignant neoplasm to sphenoidal sinus	4314050	SNOMED
+advanced_illness_01	94601008	Metastatic malignant neoplasm to spinal meninges	4314481	SNOMED
+advanced_illness_01	94603006	Metastatic malignant neoplasm to spleen	442173	SNOMED
+advanced_illness_01	94605004	Metastatic malignant neoplasm to sternum	4311344	SNOMED
+advanced_illness_01	94607007	Metastatic malignant neoplasm to subglottis	4314482	SNOMED
+advanced_illness_01	94609005	Metastatic malignant neoplasm to submandibular lymph nodes	4311345	SNOMED
+advanced_illness_01	94611001	Metastatic malignant neoplasm to submental lymph nodes	4314054	SNOMED
+advanced_illness_01	94613003	Metastatic malignant neoplasm to superior wall of nasopharynx	4314056	SNOMED
+advanced_illness_01	94615005	Metastatic malignant neoplasm to supraclavicular region	4314057	SNOMED
+advanced_illness_01	94617002	Metastatic malignant neoplasm to sweat gland	4311346	SNOMED
+advanced_illness_01	94619004	Metastatic malignant neoplasm to talus	4314059	SNOMED
+advanced_illness_01	94621009	Metastatic malignant neoplasm to temporal bone	4314486	SNOMED
+advanced_illness_01	94623007	Metastatic malignant neoplasm to testis	4311348	SNOMED
+advanced_illness_01	94625000	Metastatic malignant neoplasm to the mesocolon	4314063	SNOMED
+advanced_illness_01	94627008	Metastatic malignant neoplasm to peritoneum	4315805	SNOMED
+advanced_illness_01	94629006	Metastatic malignant neoplasm to thigh	4315807	SNOMED
+advanced_illness_01	94631002	Metastatic malignant neoplasm to thoracic esophagus	4315808	SNOMED
+advanced_illness_01	94633004	Metastatic malignant neoplasm to thyroglossal duct	4314488	SNOMED
+advanced_illness_01	94635006	Metastatic malignant neoplasm to tibia	4315810	SNOMED
+advanced_illness_01	94637003	Metastatic malignant neoplasm to tip and lateral border of tongue	4314065	SNOMED
+advanced_illness_01	94639000	Metastatic malignant neoplasm to tonsillar fossa	4314066	SNOMED
+advanced_illness_01	94641004	Metastatic malignant neoplasm to trachea	4313217	SNOMED
+advanced_illness_01	94643001	Metastatic malignant neoplasm to transverse colon	4314068	SNOMED
+advanced_illness_01	94645008	Metastatic malignant neoplasm to trapezoid bone	4314069	SNOMED
+advanced_illness_01	94647000	Metastatic malignant neoplasm to trigone of urinary bladder	4314491	SNOMED
+advanced_illness_01	94649002	Metastatic malignant neoplasm to trunk	4314071	SNOMED
+advanced_illness_01	94654006	Metastatic malignant neoplasm to upper limb	4314073	SNOMED
+advanced_illness_01	94657004	Metastatic malignant neoplasm to upper third of esophagus	4313220	SNOMED
+advanced_illness_01	94659001	Metastatic malignant neoplasm to ureter	4314191	SNOMED
+advanced_illness_01	94661005	Metastatic malignant neoplasm to urethra	4315813	SNOMED
+advanced_illness_01	94663008	Metastatic malignant neoplasm to urinary system	78987	SNOMED
+advanced_illness_01	94665001	Metastatic malignant neoplasm to uterus	4314495	SNOMED
+advanced_illness_01	94667009	Metastatic malignant neoplasm to uvula	4315814	SNOMED
+advanced_illness_01	94669007	Metastatic malignant neoplasm to vagus nerve	4314496	SNOMED
+advanced_illness_01	94671007	Metastatic malignant neoplasm to vas deferens	4314193	SNOMED
+advanced_illness_01	94673005	Metastatic malignant neoplasm to vermilion border of lip	4315815	SNOMED
+advanced_illness_01	94675003	Metastatic malignant neoplasm to vermilion border of upper lip	4314194	SNOMED
+advanced_illness_01	94677006	Metastatic malignant neoplasm to vestibule of nose	4314196	SNOMED
+advanced_illness_01	94679009	Metastatic malignant neoplasm to vocal cord	4314500	SNOMED
+advanced_illness_01	94681006	Metastatic malignant neoplasm to vulva	4313226	SNOMED
+advanced_illness_01	94683009	Metastatic malignant neoplasm to zygomatic bone	4314199	SNOMED
+advanced_illness_01	96901000119105	Prostate cancer metastatic to eye	764971	SNOMED
+advanced_illness_01	971918681000119000	Chronic respiratory failure due to obstructive sleep apnea	602595	SNOMED
+advanced_illness_01	99131000119108	Astrocytoma of cerebrum	37018667	SNOMED
+advanced_illness_01	123717006	Advanced cirrhosis	4048083	SNOMED
+advanced_illness_01	1237372005	Metastatic carcinoma to vagina	37175005	SNOMED
+advanced_illness_01	1237415004	Metastatic cystadenocarcinoma to ovary	37175017	SNOMED
+advanced_illness_01	1237422007	Metastatic carcinoma to prostate	37174975	SNOMED
+advanced_illness_01	1237424008	Metastatic carcinoma to foreskin	37174931	SNOMED
+advanced_illness_01	1237426005	Metastatic carcinoma to parathyroid	37174970	SNOMED
+advanced_illness_01	1237428006	Metastatic carcinoma to common bile duct	37174920	SNOMED
+advanced_illness_01	1237455002	Metastatic carcinoma to descending colon	37174921	SNOMED
+advanced_illness_01	1237457005	Metastatic carcinoma to urinary bladder	37174904	SNOMED
+advanced_illness_01	1237460003	Metastatic carcinoma to ascending colon	37168957	SNOMED
+advanced_illness_01	1237465008	Metastatic adenocarcinoma to urinary bladder	37174867	SNOMED
+advanced_illness_01	1237467000	Metastatic squamous cell carcinoma to bronchus of right upper lobe	37175073	SNOMED
+advanced_illness_01	1237471002	Metastatic squamous cell carcinoma to bronchus of right lower lobe	37175071	SNOMED
+advanced_illness_01	1237473004	Metastatic carcinoma to head of pancreas	37174943	SNOMED
+advanced_illness_01	1237476007	Metastatic carcinoma to bone of lower limb	37174909	SNOMED
+advanced_illness_01	1237478008	Metastatic carcinoma to skin of neck	37174984	SNOMED
+advanced_illness_01	1237480002	Metastatic carcinoma to sigmoid colon	37174981	SNOMED
+advanced_illness_01	1237482005	Metastatic papillary adenocarcinoma to thyroid	37175056	SNOMED
+advanced_illness_01	1237484006	Metastatic carcinoma to colon	37174918	SNOMED
+advanced_illness_01	1237487004	Metastatic carcinoma to base of tongue	37174902	SNOMED
+advanced_illness_01	1237489001	Metastatic carcinoma to tonsil	37150961	SNOMED
+advanced_illness_01	1237492002	Metastatic carcinoma to endocervix	37174925	SNOMED
+advanced_illness_01	1237494001	Metastatic carcinoma to extrahepatic bile duct	37174928	SNOMED
+advanced_illness_01	1237496004	Metastatic carcinoma to subglottis	37174990	SNOMED
+advanced_illness_01	1237498003	Metastatic carcinoma to penis	37174973	SNOMED
+advanced_illness_01	1237517009	"Metastatic carcinoma to pelvic bones, sacrum and coccyx"	37174972	SNOMED
+advanced_illness_01	1237519007	Metastatic carcinoma to skin of lower limb	37174983	SNOMED
+advanced_illness_01	1237521002	Metastatic carcinoma to skin of upper limb	37174986	SNOMED
+advanced_illness_01	1237523004	Metastatic carcinoma to vocal cord	37175009	SNOMED
+advanced_illness_01	1237525006	Metastatic carcinoma to stomach	37174989	SNOMED
+advanced_illness_01	1237527003	Metastatic carcinoma to bone of sternum	37174911	SNOMED
+advanced_illness_01	1237529000	Metastatic carcinoma to ampulla of Vater	37174897	SNOMED
+advanced_illness_01	1237531009	Metastatic adenocarcinoma to parathyroid	37174876	SNOMED
+advanced_illness_01	1240346000	Metastatic adenocarcinoma to Meckel diverticulum	37174872	SNOMED
+advanced_illness_01	1240352004	Metastatic carcinoma to upper gum	37174999	SNOMED
+advanced_illness_01	1240355002	Metastatic squamous cell carcinoma to epididymis and spermatic cord	37175074	SNOMED
+advanced_illness_01	1240362006	Metastatic small cell neuroendocrine carcinoma	37165127	SNOMED
+advanced_illness_01	1240370001	Metastatic squamous cell carcinoma to liver and intrahepatic biliary tract	37175075	SNOMED
+advanced_illness_01	1251445000	Metastatic neuroblastoma to abdominothoracic structure	37175045	SNOMED
+advanced_illness_01	1251456000	Metastatic neuroblastoma to brain	37175047	SNOMED
+advanced_illness_01	1251458004	Metastatic neuroblastoma to thorax	37155462	SNOMED
+advanced_illness_01	1251460002	Metastatic neuroblastoma to pelvis	37155461	SNOMED
+advanced_illness_01	1251466008	Metastatic osteosarcoma to articular cartilage of clavicle	37155463	SNOMED
+advanced_illness_01	1251468009	Metastatic osteosarcoma to articular cartilage of sternum	37175049	SNOMED
+advanced_illness_01	1251470000	Metastatic osteosarcoma to bone	37155465	SNOMED
+advanced_illness_01	1251472008	Metastatic osteosarcoma to bone of head	37175052	SNOMED
+advanced_illness_01	1251474009	Metastatic osteosarcoma to bone of vertebra	37175055	SNOMED
+advanced_illness_01	1251482009	Metastatic adenocarcinoma to pancreatic duct	37174874	SNOMED
+advanced_illness_01	1251484005	Metastatic adenocarcinoma to pituitary gland	37174878	SNOMED
+advanced_illness_01	1251486007	Metastatic carcinoma to liver	37174952	SNOMED
+advanced_illness_01	1251489000	Metastatic carcinoma to frenum linguae	37174932	SNOMED
+advanced_illness_01	1251491008	Metastatic carcinoma to larynx	37174946	SNOMED
+advanced_illness_01	1251493006	"Metastatic carcinoma to lip, oral cavity and/or pharynx"	37174951	SNOMED
+advanced_illness_01	1251495004	Metastatic carcinoma to scapula	37174980	SNOMED
+advanced_illness_01	1251497007	Metastatic carcinoma to vermilion border of lower lip	37175007	SNOMED
+advanced_illness_01	1254689008	Metastatic adenoid cystic carcinoma to cervix uteri	37174881	SNOMED
+advanced_illness_01	1254723004	Metastatic adenoid cystic carcinoma to right lacrimal gland	37174885	SNOMED
+advanced_illness_01	1254725006	Metastatic adenoid cystic carcinoma to parotid gland	37174884	SNOMED
+advanced_illness_01	1254727003	Metastatic adenoid cystic carcinoma to submandibular gland	37174887	SNOMED
+advanced_illness_01	1254732002	Metastatic large cell carcinoma to lung	37175030	SNOMED
+advanced_illness_01	1254734001	Metastatic large cell carcinoma to left lung	37175029	SNOMED
+advanced_illness_01	1254740008	Metastatic giant cell carcinoma to lung	37175022	SNOMED
+advanced_illness_01	1254746002	Metastatic giant cell carcinoma to right lung	37175023	SNOMED
+advanced_illness_01	1254748001	Metastatic clear cell squamous cell carcinoma to skin	37175015	SNOMED
+advanced_illness_01	1254750009	Metastatic acantholytic squamous cell carcinoma to skin	37174863	SNOMED
+advanced_illness_01	1254753006	Metastatic plantar verrucous carcinoma	37175060	SNOMED
+advanced_illness_01	1255358009	Oligometastatic malignant neoplasm	37165664	SNOMED
+advanced_illness_01	1259121008	"Amyotrophic lateral sclerosis, parkinsonism, dementia complex of West New Guinea"	37166119	SNOMED
+advanced_illness_01	1259123006	"Amyotrophic lateral sclerosis, parkinsonism, dementia complex of Kii Peninsula"	37166121	SNOMED
+advanced_illness_01	1259125004	Amyotrophic lateral sclerosis with multiple system atrophy	37166123	SNOMED
+advanced_illness_01	1259127007	Amyotrophic lateral sclerosis with cerebellar dysfunction	37166125	SNOMED
+advanced_illness_01	1259129005	Amyotrophic lateral sclerosis with spinocerebellar ataxia	37166127	SNOMED
+advanced_illness_01	1259310006	Primary carcinoma of tail of pancreas	37166181	SNOMED
+advanced_illness_01	1259358002	Primary carcinoma of endocrine pancreas	37166228	SNOMED
+advanced_illness_01	1259425005	Primary neuroblastoma of brain	37166292	SNOMED
+advanced_illness_01	1259467001	Dementia due to hypercalcemia	37166334	SNOMED
+advanced_illness_01	1259471003	Dementia due to Hashimoto encephalopathy	37166338	SNOMED
+advanced_illness_01	1259476008	Dementia due to genetic disease	37166343	SNOMED
+advanced_illness_01	1259480003	Dementia due to fatal familial insomnia	37166347	SNOMED
+advanced_illness_01	1259488005	Dementia due to cerebral amyloid angiopathy	37166354	SNOMED
+advanced_illness_01	1259494002	Dementia due to leukodystrophy	37166359	SNOMED
+advanced_illness_01	1259499007	Dementia due to hemorrhagic cerebral infarction due to hypertension	37166364	SNOMED
+advanced_illness_01	1259503001	Dementia due to iatrogenic Creutzfeldt-Jakob disease	37166368	SNOMED
+advanced_illness_01	1259513009	Dementia due to Whipple disease	37166376	SNOMED
+advanced_illness_01	1259519008	Dementia due to subacute sclerosing panencephalitis	37166382	SNOMED
+advanced_illness_01	1259524006	Dementia due to trypanosomiasis	37166387	SNOMED
+advanced_illness_01	1259531005	Dementia due to hypertensive encephalopathy	37166393	SNOMED
+advanced_illness_01	1259579003	Dementia due to Behcet syndrome	37166436	SNOMED
+advanced_illness_01	1259584009	Post-dialysis dementia	37166441	SNOMED
+advanced_illness_01	1259591007	Dementia due to acquired hypothyroidism	37166448	SNOMED
+advanced_illness_01	1259656006	Dementia due to renal failure	37166508	SNOMED
+advanced_illness_01	1259663006	Dementia due to polyarteritis nodosa	37166515	SNOMED
+advanced_illness_01	1259667007	Dementia due to paraneoplastic encephalitis	37166519	SNOMED
+advanced_illness_01	1259677009	Dementia due to multiple system atrophy	37166528	SNOMED
+advanced_illness_01	1259682002	Primary infiltrating duct carcinoma of pancreas	37166533	SNOMED
+advanced_illness_01	1259700000	Primary mucinous cystic neoplasm with invasive carcinoma of pancreas	37166549	SNOMED
+advanced_illness_01	1259722007	Primary glioblastoma multiforme of brain	37166572	SNOMED
+advanced_illness_01	1259725009	Primary medulloblastoma of cerebellum	37166575	SNOMED
+advanced_illness_01	1259739009	Primary malignant glioma of hypothalamus	37166586	SNOMED
+advanced_illness_01	1259742003	Primary malignant glioma of cerebrum	37166589	SNOMED
+advanced_illness_01	1259747009	Primary malignant insulinoma	37166594	SNOMED
+advanced_illness_01	1259764007	Primary supratentorial primitive neuroectodermal tumor	37166611	SNOMED
+advanced_illness_01	1259769002	Primary malignant glioma of brainstem	37166616	SNOMED
+advanced_illness_01	1259798003	Primary oligodendroglioma of cerebrum	37166646	SNOMED
+advanced_illness_01	1259800005	Primary malignant gastrinoma of pancreas	37166648	SNOMED
+advanced_illness_01	1259814005	Primary gemistocytic astrocytoma of brain	37166660	SNOMED
+advanced_illness_01	1259816007	Primary fibrillary astrocytoma of brain	37166662	SNOMED
+advanced_illness_01	1259818008	Primary pilomyxoid astrocytoma of brain	37166664	SNOMED
+advanced_illness_01	1263484004	Metastatic endometrioid carcinoma to ovary	37175020	SNOMED
+advanced_illness_01	1263585001	Frontal variant non-amnestic Alzheimer disease	37167060	SNOMED
+advanced_illness_01	1263639008	Metastatic transitional cell carcinoma to urinary bladder	37175084	SNOMED
+advanced_illness_01	1263641009	Metastatic transitional cell carcinoma to kidney	37175086	SNOMED
+advanced_illness_01	1263643007	Metastatic transitional cell carcinoma to right kidney	37175091	SNOMED
+advanced_illness_01	1263652003	Metastatic mucoepidermoid carcinoma to parotid gland	37175041	SNOMED
+advanced_illness_01	1263654002	Metastatic mucoepidermoid carcinoma to submandibular gland	37175044	SNOMED
+advanced_illness_01	1263656000	Metastatic transitional cell carcinoma to left renal pelvis	37175088	SNOMED
+advanced_illness_01	1263658004	Metastatic transitional cell carcinoma to left ureter	37175089	SNOMED
+advanced_illness_01	1263660002	Metastatic transitional cell carcinoma to upper urinary tract	37175093	SNOMED
+advanced_illness_01	1263911005	Metastatic carcinoma ex pleomorphic adenoma to parotid gland	37167185	SNOMED
+advanced_illness_01	1263913008	Metastatic chromophobe renal cell carcinoma	37175013	SNOMED
+advanced_illness_01	1263999008	Metastatic MiT family translocation renal cell carcinoma	37167214	SNOMED
+advanced_illness_01	1264066001	Metastatic keratinizing squamous cell carcinoma to nasopharynx	37175028	SNOMED
+advanced_illness_01	1264068000	Metastatic lymphoepithelial carcinoma	37167258	SNOMED
+advanced_illness_01	1264116009	Metastatic adenosquamous carcinoma	37167301	SNOMED
+advanced_illness_01	1264118005	Metastatic oxyphilic adenocarcinoma	37167302	SNOMED
+advanced_illness_01	1264357006	Metastatic mucinous cystadenocarcinoma to ovary	37175039	SNOMED
+advanced_illness_01	1264364008	Metastatic ceruminous adenocarcinoma to skin	37175010	SNOMED
+advanced_illness_01	1264369003	Metastatic sebaceous adenocarcinoma to eyelid	37175062	SNOMED
+advanced_illness_01	1264497008	Metastatic infiltrating duct carcinoma to breast	37175024	SNOMED
+advanced_illness_01	1264500002	Metastatic infiltrating duct carcinoma to prostate	37175027	SNOMED
+advanced_illness_01	1264502005	Metastatic mucinous adenocarcinoma to gastrointestinal tract	37175038	SNOMED
+advanced_illness_01	1268353003	Metastatic clear cell adenocarcinoma to ovary	37155443	SNOMED
+advanced_illness_01	1268386004	Metastatic undifferentiated carcinoma to body of uterus	37175095	SNOMED
+advanced_illness_01	1268390002	Metastatic undifferentiated carcinoma to liver and intrahepatic biliary tract	37175097	SNOMED
+advanced_illness_01	1268393000	Metastatic undifferentiated carcinoma to nasopharynx	37175099	SNOMED
+advanced_illness_01	1268395007	Metastatic undifferentiated carcinoma to stomach	37175101	SNOMED
+advanced_illness_01	1268542008	Primary invasive intraductal papillary-mucinous carcinoma of pancreas	37167596	SNOMED
+advanced_illness_01	1268561007	Primary serous cystadenocarcinoma of pancreas	37167609	SNOMED
+advanced_illness_01	1268698000	Primary solid pseudopapillary carcinoma of pancreas	37167650	SNOMED
+advanced_illness_01	1268716006	Primary medulloblastoma	37167665	SNOMED
+advanced_illness_01	1268911008	Primary pancreatoblastoma	37167745	SNOMED
+advanced_illness_01	1268961004	Primary diffuse astrocytoma of brain	37167780	SNOMED
+advanced_illness_01	1269042005	Primary protoplasmic astrocytoma of brain	37167833	SNOMED
+advanced_illness_01	1269048009	Primary diffuse intrinsic pontine glioma	37167839	SNOMED
+advanced_illness_01	1269052009	Primary large cell medulloblastoma of brain	37167843	SNOMED
+advanced_illness_01	1269122003	Metastatic carcinoma to nasopharynx	37174967	SNOMED
+advanced_illness_01	1269125001	Metastatic squamous cell carcinoma to small intestine	37175081	SNOMED
+advanced_illness_01	1279841001	Undifferentiated carcinoma with osteoclast-like giant cells of pancreas	37168354	SNOMED
+advanced_illness_01	127991000119101	Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus	45757392	SNOMED
+advanced_illness_01	128462008	Metastatic malignant neoplasm	432851	SNOMED
+advanced_illness_01	1286863002	Metastatic malignant neoplasm to colorectum	37175036	SNOMED
+advanced_illness_01	1286898004	Metastatic cystic renal cell carcinoma	37168860	SNOMED
+advanced_illness_01	1287665004	Primary well-differentiated neuroendocrine tumor of pancreas	1244451	SNOMED
+advanced_illness_01	1290066001	Well-differentiated neuroendocrine tumor of ampulla of Vater	1244571	SNOMED
+advanced_illness_01	1290115008	Growth hormone releasing factor-secreting tumor of pancreas	1244600	SNOMED
+advanced_illness_01	1290117000	Parathyroid hormone-related peptide-secreting tumor of pancreas	1244602	SNOMED
+advanced_illness_01	1290695006	Metastatic apocrine adenocarcinoma	1244718	SNOMED
+advanced_illness_01	1290698008	Metastatic pilomatrix carcinoma	1244721	SNOMED
+advanced_illness_01	1296659009	Acute exacerbation of chronic heart failure	1245073	SNOMED
+advanced_illness_01	130121000119104	Dementia due to Rett syndrome	43020422	SNOMED
+advanced_illness_01	135091000119106	Secondary neuroendocrine carcinoma of peritoneum	761027	SNOMED
+advanced_illness_01	14070001	Multi-infarct dementia with depression	443864	SNOMED
+advanced_illness_01	142001000119106	Depressed mood in Alzheimer's disease	44782727	SNOMED
+advanced_illness_01	143401000119106	Malignant carcinoid tumor of pancreas	765387	SNOMED
+advanced_illness_01	145511000119106	Metastatic malignant neoplasm to genital organ	608735	SNOMED
+advanced_illness_01	153891000119101	End stage renal disease on dialysis due to hypertension	44782717	SNOMED
+advanced_illness_01	153941000119100	Chronic combined systolic and diastolic heart failure	44782719	SNOMED
+advanced_illness_01	15629541000119100	Congestive heart failure stage C due to ischemic cardiomyopathy	36712927	SNOMED
+advanced_illness_01	15629641000119100	Systolic heart failure stage B due to ischemic cardiomyopathy	36717359	SNOMED
+advanced_illness_01	15650751000119100	Primary sarcoma of pancreas	1245482	SNOMED
+advanced_illness_01	15781000119107	Hypertensive heart AND chronic kidney disease with congestive heart failure	44782728	SNOMED
+advanced_illness_01	1591000119103	Dementia with behavioral disturbance	43530666	SNOMED
+advanced_illness_01	15956181000119100	Metastatic adenocarcinoma to bilateral lungs	36712980	SNOMED
+advanced_illness_01	15956261000119100	Metastatic adenocarcinoma to left lung	608928	SNOMED
+advanced_illness_01	15956701000119100	Metastatic small cell carcinoma to left lung	608896	SNOMED
+advanced_illness_01	15957141000119100	Metastatic squamous cell carcinoma to bilateral lungs	608931	SNOMED
+advanced_illness_01	15957221000119100	Metastatic squamous cell carcinoma to left lung	608933	SNOMED
+advanced_illness_01	15958221000119100	Metastatic adenocarcinoma to left kidney	608941	SNOMED
+advanced_illness_01	15958301000119100	Metastatic squamous cell carcinoma to right kidney	608943	SNOMED
+advanced_illness_01	15958661000119100	Metastatic malignant melanoma to left kidney	608945	SNOMED
+advanced_illness_01	15958741000119100	Metastatic malignant melanoma to right kidney	608947	SNOMED
+advanced_illness_01	15977551000119100	Bilateral metastatic malignant neoplasm to eyes	608979	SNOMED
+advanced_illness_01	15977631000119100	Metastatic malignant neoplasm to left eye	608981	SNOMED
+advanced_illness_01	16003001	Giant bullous emphysema	4050961	SNOMED
+advanced_illness_01	16070004	Syphilitic cirrhosis	4053079	SNOMED
+advanced_illness_01	16253001	Dilated peripartum cardiomyopathy	4037495	SNOMED
+advanced_illness_01	1651000119109	Primary adenocarcinoma of pancreas	42872399	SNOMED
+advanced_illness_01	1681000119102	Metastasis to lymph node from adenocarcinoma	43531596	SNOMED
+advanced_illness_01	16838951000119100	Acute on chronic right-sided congestive heart failure	37309625	SNOMED
+advanced_illness_01	16845341000119100	Primary glioblastoma multiforme of brainstem	609186	SNOMED
+advanced_illness_01	17385007	Graphite fibrosis of lung	4066407	SNOMED
+advanced_illness_01	187786003	Malignant neoplasm of sphincter of Oddi	4092069	SNOMED
+advanced_illness_01	187792009	Malignant tumor of tail of pancreas	4095436	SNOMED
+advanced_illness_01	187794005	Malignant tumor of Islets of Langerhans	4095437	SNOMED
+advanced_illness_01	188280007	Malignant neoplasm of cerebrum (excluding lobes and ventricles)	4091490	SNOMED
+advanced_illness_01	188282004	Malignant neoplasm of cerebral cortex	4092532	SNOMED
+advanced_illness_01	188285002	Malignant neoplasm of globus pallidus	4095298	SNOMED
+advanced_illness_01	188287005	Malignant neoplasm of thalamus	4091610	SNOMED
+advanced_illness_01	188290004	Malignant neoplasm of uncus	4094252	SNOMED
+advanced_illness_01	188293002	Malignant neoplasm of floor of cerebral ventricle	4091612	SNOMED
+advanced_illness_01	188296005	Malignant neoplasm of medulla oblongata	4091614	SNOMED
+advanced_illness_01	188298006	Malignant neoplasm of pons	4095299	SNOMED
+advanced_illness_01	188302003	Malignant neoplasm of tapetum	4095300	SNOMED
+advanced_illness_01	188339002	Malignant neoplasm of pituitary gland and craniopharyngeal duct	4095304	SNOMED
+advanced_illness_01	188445006	Metastatic malignant neoplasm to retroperitoneum and peritoneum	196925	SNOMED
+advanced_illness_01	188458007	Metastatic malignant neoplasm to skin of shoulder and arm	4097426	SNOMED
+advanced_illness_01	188469005	Metastatic malignant neoplasm to cervix uteri	4091766	SNOMED
+advanced_illness_01	188645002	"Leukemic reticuloendotheliosis of lymph nodes of head, face and neck"	132570	SNOMED
+advanced_illness_01	188649008	Leukemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb	439268	SNOMED
+advanced_illness_01	19090001000004100	Metastatic neoplasm of left basal ganglion	765459	SNOMED
+advanced_illness_01	191451009	Uncomplicated presenile dementia	376085	SNOMED
+advanced_illness_01	191454001	Presenile dementia with paranoia	4098163	SNOMED
+advanced_illness_01	191457008	Senile dementia with depressive or paranoid features	4101137	SNOMED
+advanced_illness_01	191459006	Senile dementia with depression	379784	SNOMED
+advanced_illness_01	191463004	Uncomplicated arteriosclerotic dementia	439276	SNOMED
+advanced_illness_01	191465006	Arteriosclerotic dementia with paranoia	4100252	SNOMED
+advanced_illness_01	191471000	Korsakov's alcoholic psychosis with peripheral neuritis	4103124	SNOMED
+advanced_illness_01	192926004	Multiple sclerosis of the brainstem	4105353	SNOMED
+advanced_illness_01	192929006	Exacerbation of multiple sclerosis	4102337	SNOMED
+advanced_illness_01	194779001	Hypertensive heart and renal disease with (congestive) heart failure	439696	SNOMED
+advanced_illness_01	195111005	Decompensated cardiac failure	4111554	SNOMED
+advanced_illness_01	195114002	Acute left ventricular failure	4108245	SNOMED
+advanced_illness_01	195958001	Segmental bullous emphysema	4110635	SNOMED
+advanced_illness_01	196026004	Chronic emphysema caused by chemical fumes	4112836	SNOMED
+advanced_illness_01	196125002	Diffuse interstitial pulmonary fibrosis	4025168	SNOMED
+advanced_illness_01	197293003	Diffuse nodular cirrhosis	4055210	SNOMED
+advanced_illness_01	197299004	Pigmentary portal cirrhosis	4059285	SNOMED
+advanced_illness_01	197303009	Bacterial portal cirrhosis	4055212	SNOMED
+advanced_illness_01	19943007	Cirrhosis of liver	4064161	SNOMED
+advanced_illness_01	206586007	Congenital cardiac failure	4071869	SNOMED
+advanced_illness_01	22381000119105	Primary degenerative dementia	43020444	SNOMED
+advanced_illness_01	230258005	Amyotrophic lateral sclerosis with dementia	4041685	SNOMED
+advanced_illness_01	230266001	Non-familial Alzheimer's disease of early onset	4043242	SNOMED
+advanced_illness_01	230268000	Non-familial Alzheimer's disease of late onset	4043244	SNOMED
+advanced_illness_01	266471006	Juvenile portal cirrhosis	4144116	SNOMED
+advanced_illness_01	268612007	Senile and presenile organic psychotic conditions	4152048	SNOMED
+advanced_illness_01	269473008	Metastatic malignant neoplasm to respiratory and digestive systems	4147162	SNOMED
+advanced_illness_01	27156006	Posthepatitic cirrhosis	4098583	SNOMED
+advanced_illness_01	275266006	Metastasis to digestive organs	4166589	SNOMED
+advanced_illness_01	276826005	Malignant glioma of brain	4174443	SNOMED
+advanced_illness_01	276836002	Primary cerebral lymphoma	4174769	SNOMED
+advanced_illness_01	277505007	Medulloblastoma of cerebellum	4079153	SNOMED
+advanced_illness_01	278433008	Malignant infiltration of soft tissue	4081542	SNOMED
+advanced_illness_01	281004	Dementia associated with alcoholism	378726	SNOMED
+advanced_illness_01	285211000119102	Congestive heart failure as post-operative complication of cardiac surgery	762002	SNOMED
+advanced_illness_01	285841000119104	Malignant hypertensive end stage renal disease	43020455	SNOMED
+advanced_illness_01	286902000	Secondary carcinoma of gastrointestinal tract	192269	SNOMED
+advanced_illness_01	2912004	Cystic-bullous disease of the lung	4104506	SNOMED
+advanced_illness_01	30042003	Confluent fibrosis of lung	4146744	SNOMED
+advanced_illness_01	303201005	Metastatic malignant neoplasm to multiple lymph nodes	4123440	SNOMED
+advanced_illness_01	307226002	Metastatic adenocarcinoma of unknown origin	4145870	SNOMED
+advanced_illness_01	307757001	Chronic alcoholic hepatitis	4146181	SNOMED
+advanced_illness_01	312991009	Senile dementia of the Lewy body type	4196433	SNOMED
+advanced_illness_01	314408000	Leukemic infiltrate of choroid	4199641	SNOMED
+advanced_illness_01	314964006	Local recurrence of malignant tumor of pancreas	4201481	SNOMED
+advanced_illness_01	31898008	Paraseptal emphysema	4136683	SNOMED
+advanced_illness_01	33144001	Parasitic cirrhosis	4140536	SNOMED
+advanced_illness_01	350586651000119000	Chronic respiratory failure due to neuromuscular disease	37171424	SNOMED
+advanced_illness_01	352701000119102	Primary malignant neoplasm of neck of pancreas	601133	SNOMED
+advanced_illness_01	353571000119109	Metastatic malignant neoplasm to right adrenal gland	601141	SNOMED
+advanced_illness_01	353741000119106	Metastatic malignant neoplasm to left lung	46273652	SNOMED
+advanced_illness_01	359617009	Acute right-sided heart failure	4233424	SNOMED
+advanced_illness_01	359782004	Metastatic malignant neoplasm to apex of urinary bladder	4230394	SNOMED
+advanced_illness_01	359987004	Krukenberg tumor	4230544	SNOMED
+advanced_illness_01	361195001	Pulmonary fibroplasia	4263344	SNOMED
+advanced_illness_01	363368005	Carcinoma of body of pancreas	4181331	SNOMED
+advanced_illness_01	363417006	Malignant tumor of ampulla of Vater	4178966	SNOMED
+advanced_illness_01	363419009	Malignant tumor of head of pancreas	4178967	SNOMED
+advanced_illness_01	363468009	Malignant neoplasm of temporal lobe	4180907	SNOMED
+advanced_illness_01	363470000	Malignant neoplasm of occipital lobe	4177232	SNOMED
+advanced_illness_01	363473003	Malignant neoplasm of brainstem	4180908	SNOMED
+advanced_illness_01	363483004	Malignant tumor of pineal gland	4178977	SNOMED
+advanced_illness_01	36599006	Chronic fibrosis of lung	4275496	SNOMED
+advanced_illness_01	368471000119109	End stage renal disease on dialysis due to drug induced diabetes mellitus	601166	SNOMED
+advanced_illness_01	369514009	Metastatic malignant neoplasm to left fallopian tube	4281024	SNOMED
+advanced_illness_01	369523007	Metastatic malignant neoplasm to left ovary	4281027	SNOMED
+advanced_illness_01	369535006	Metastatic neoplasm of left broad ligament	4289393	SNOMED
+advanced_illness_01	371024007	Senile dementia with delusion	380986	SNOMED
+advanced_illness_01	371139006	Early cirrhosis	4159158	SNOMED
+advanced_illness_01	372003004	Primary malignant neoplasm of pancreas	199754	SNOMED
+advanced_illness_01	372119009	Primary malignant neoplasm of head of pancreas	440649	SNOMED
+advanced_illness_01	37688005	Clonorchiasis with biliary cirrhosis	4292401	SNOMED
+advanced_illness_01	399969009	Metastatic malignant neoplasm to blood vessel of upper arm	4266182	SNOMED
+advanced_illness_01	402537005	Metastatic basal cell carcinoma	4291148	SNOMED
+advanced_illness_01	402879006	T-cell leukemic infiltration of skin	4298848	SNOMED
+advanced_illness_01	403906006	Metastatic squamous cell carcinoma	4301510	SNOMED
+advanced_illness_01	404091004	Malignant infiltration of skin by underlying tumor	4300690	SNOMED
+advanced_illness_01	404093001	Sarcomatous metastasis in skin	4299134	SNOMED
+advanced_illness_01	404122003	Leukemic infiltration of skin (chronic T-cell lymphocytic leukemia)	4297353	SNOMED
+advanced_illness_01	404124002	Leukemic infiltration of skin (T-cell lymphoblastic leukemia)	4299143	SNOMED
+advanced_illness_01	404154007	Leukemic infiltration of skin in monocytic leukemia	4299155	SNOMED
+advanced_illness_01	404157000	Specific skin infiltration in Hodgkin's disease	4301781	SNOMED
+advanced_illness_01	405843009	Widespread metastatic malignant neoplastic disease	4233629	SNOMED
+advanced_illness_01	409622000	Respiratory failure	4256228	SNOMED
+advanced_illness_01	410431009	Cardiorespiratory failure	4259490	SNOMED
+advanced_illness_01	414676007	Metastatic neuroblastoma of orbit proper	4189478	SNOMED
+advanced_illness_01	416975007	"Primary degenerative dementia of the Alzheimer type, senile onset"	4220313	SNOMED
+advanced_illness_01	418304008	Diastolic heart failure	443587	SNOMED
+advanced_illness_01	419728003	Portal cirrhosis	4304584	SNOMED
+advanced_illness_01	420614009	Organic dementia with AIDS (acquired immunodeficiency syndrome)	4224860	SNOMED
+advanced_illness_01	421283008	Primary lymphoma of brain with AIDS (acquired immunodeficiency syndrome)	4227969	SNOMED
+advanced_illness_01	423032007	Leukemic infiltration of orbit	4307000	SNOMED
+advanced_illness_01	42343007	Congestive heart failure	319835	SNOMED
+advanced_illness_01	424052001	Small cell carcinoma carcinomatosis	4310595	SNOMED
+advanced_illness_01	424276002	Malignant glioma of brainstem	4308934	SNOMED
+advanced_illness_01	424954002	Undifferentiated large cell carcinomatosis	4310162	SNOMED
+advanced_illness_01	425390006	Dementia associated with Parkinson's Disease	4314734	SNOMED
+advanced_illness_01	425500002	Secondary progressive multiple sclerosis	4137855	SNOMED
+advanced_illness_01	426373005	Relapsing remitting multiple sclerosis	4145049	SNOMED
+advanced_illness_01	426611007	Congestive heart failure due to valvular disease	4142561	SNOMED
+advanced_illness_01	428051000124108	Mild dementia	762497	SNOMED
+advanced_illness_01	428173007	Chronic hypoxemic respiratory failure	4177862	SNOMED
+advanced_illness_01	428700003	Primary progressive multiple sclerosis	4178929	SNOMED
+advanced_illness_01	429161000124103	"Primary degenerative dementia of the Alzheimer type, senile onset, with behavioral disturbance"	762578	SNOMED
+advanced_illness_01	429998004	Vascular dementia	443605	SNOMED
+advanced_illness_01	433146000	Chronic kidney disease stage 5	443611	SNOMED
+advanced_illness_01	43904005	Macronodular cirrhosis	4184779	SNOMED
+advanced_illness_01	44047000	Zieve's syndrome	4195620	SNOMED
+advanced_illness_01	441530006	Chronic diastolic heart failure	40479576	SNOMED
+advanced_illness_01	44313006	Right heart failure secondary to left heart failure	4195785	SNOMED
+advanced_illness_01	443253003	Acute on chronic systolic heart failure	40480602	SNOMED
+advanced_illness_01	443333004	Medulloblastoma	40481031	SNOMED
+advanced_illness_01	443344007	Acute on chronic diastolic heart failure	40481043	SNOMED
+advanced_illness_01	446221000	Heart failure with normal ejection fraction	40486933	SNOMED
+advanced_illness_01	448248006	Malignant neoplasm of axial suprasellar region of brain	40488935	SNOMED
+advanced_illness_01	448863000	Carcinoma of pineal gland	40492016	SNOMED
+advanced_illness_01	449253005	Carcinoma of hypothalamus	40486207	SNOMED
+advanced_illness_01	449630001	Metastatic malignant neoplasm to skin of lower leg	42709758	SNOMED
+advanced_illness_01	449632009	Metastatic malignant neoplasm to lower leg	42709760	SNOMED
+advanced_illness_01	45256007	Cruveilhier-Baumgarten syndrome	4163687	SNOMED
+advanced_illness_01	458321000124102	Metastatic urothelial carcinoma	36684913	SNOMED
+advanced_illness_01	459371000124108	Metastatic gastroesophageal adenocarcinoma	36684946	SNOMED
+advanced_illness_01	459391000124109	Metastatic human epidermal growth factor 2 positive carcinoma of breast	36684948	SNOMED
+advanced_illness_01	459411000124109	Metastatic collecting duct carcinoma	36684950	SNOMED
+advanced_illness_01	460561000124109	PF-ILD-progressive fibrosing interstitial lung disease	37208102	SNOMED
+advanced_illness_01	46177005	End-stage renal disease	193782	SNOMED
+advanced_illness_01	473419009	Intraductal papillary mucinous carcinoma in situ of pancreas	43021774	SNOMED
+advanced_illness_01	48447003	Chronic heart failure	444031	SNOMED
+advanced_illness_01	49584005	Acute cor pulmonale	312927	SNOMED
+advanced_illness_01	50196008	Perialveolar fibrosis of lung	4173590	SNOMED
+advanced_illness_01	5148006	Hypertensive heart disease with congestive heart failure	314378	SNOMED
+advanced_illness_01	51928006	General paresis - neurosyphilis	377788	SNOMED
+advanced_illness_01	536002	Glissonian cirrhosis	4203601	SNOMED
+advanced_illness_01	54502004	"Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions"	4182539	SNOMED
+advanced_illness_01	55009008	"Primary degenerative dementia of the Alzheimer type, senile onset, with delusions"	4204688	SNOMED
+advanced_illness_01	56675007	Acute heart failure	442310	SNOMED
+advanced_illness_01	57686001	Emphysematous bleb of lung	259043	SNOMED
+advanced_illness_01	59773008	Simple pulmonary alveolitis	4243523	SNOMED
+advanced_illness_01	6475002	"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated"	4277444	SNOMED
+advanced_illness_01	66108005	"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated"	4278830	SNOMED
+advanced_illness_01	67431000119105	Congestive heart failure stage D	43021825	SNOMED
+advanced_illness_01	67905004	Acute-on-chronic respiratory failure	312940	SNOMED
+advanced_illness_01	681721000119103	Primary adenocarcinoma of head of pancreas	36713363	SNOMED
+advanced_illness_01	681911000119108	Primary adenocarcinoma of pancreatic duct	602009	SNOMED
+advanced_illness_01	682221000119103	Primary anaplastic astrocytoma of cerebrum	602016	SNOMED
+advanced_illness_01	682241000119109	Primary anaplastic astrocytoma of occipital lobe	602018	SNOMED
+advanced_illness_01	682261000119108	Primary anaplastic astrocytoma of temporal lobe	609232	SNOMED
+advanced_illness_01	682451000119107	Primary astrocytoma of frontal lobe	602027	SNOMED
+advanced_illness_01	682471000119103	Primary astrocytoma of parietal lobe	602028	SNOMED
+advanced_illness_01	68328006	Centriacinar emphysema	4286497	SNOMED
+advanced_illness_01	683771000119101	Primary ependymoma of frontal lobe	1246706	SNOMED
+advanced_illness_01	683791000119100	Primary ependymoma of parietal lobe	602044	SNOMED
+advanced_illness_01	684911000119105	Primary glioblastoma multiforme of frontal lobe	36717624	SNOMED
+advanced_illness_01	684931000119100	Primary glioblastoma multiforme of parietal lobe	602049	SNOMED
+advanced_illness_01	686421000119103	Primary malignant glioma of cerebral ventricle	1246720	SNOMED
+advanced_illness_01	686441000119109	Primary malignant glioma of occipital lobe	602069	SNOMED
+advanced_illness_01	686461000119108	Primary malignant glioma of temporal lobe	609235	SNOMED
+advanced_illness_01	687341000119100	Primary oligodendroglioma of occipital lobe	1246722	SNOMED
+advanced_illness_01	687361000119101	Primary oligodendroglioma of temporal lobe	602082	SNOMED
+advanced_illness_01	698504006	Postoperative cardiopulmonary failure	44784368	SNOMED
+advanced_illness_01	698624003	Dementia associated with cerebral lipidosis	44784472	SNOMED
+advanced_illness_01	698626001	Dementia associated with multiple sclerosis	44784474	SNOMED
+advanced_illness_01	698726009	Dementia associated with viral encephalitis	44784560	SNOMED
+advanced_illness_01	699189004	North American Indian childhood cirrhosis	44783142	SNOMED
+advanced_illness_01	699704002	Classic medulloblastoma	44783592	SNOMED
+advanced_illness_01	700423003	Adenocarcinoma of pancreas	45763891	SNOMED
+advanced_illness_01	703272007	Heart failure with reduced ejection fraction	45766164	SNOMED
+advanced_illness_01	703274008	Heart failure with reduced ejection fraction due to myocarditis	45766166	SNOMED
+advanced_illness_01	703276005	Heart failure with reduced ejection fraction due to heart valve disease	45773075	SNOMED
+advanced_illness_01	704667004	Hypertension concurrent and due to end stage renal disease on dialysis	45772751	SNOMED
+advanced_illness_01	707434003	Pulmonary fibrosis due to Hermansky-Pudlak syndrome	45768903	SNOMED
+advanced_illness_01	709109004	Hypercapnic respiratory failure	46271074	SNOMED
+advanced_illness_01	70936005	"Multi-infarct dementia, uncomplicated"	377254	SNOMED
+advanced_illness_01	712487000	End stage renal disease due to benign hypertension	46273164	SNOMED
+advanced_illness_01	713181003	Chronic alcoholic liver disease	37017009	SNOMED
+advanced_illness_01	713325002	Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection	37017112	SNOMED
+advanced_illness_01	713844000	Dementia co-occurrent with human immunodeficiency virus infection	37017549	SNOMED
+advanced_illness_01	715414009	Familial malignant neoplasm of pancreas	37395837	SNOMED
+advanced_illness_01	715807002	Familial Creutzfeldt-Jakob	37396114	SNOMED
+advanced_illness_01	716107009	Early onset parkinsonism and intellectual disability syndrome	37399497	SNOMED
+advanced_illness_01	716662004	Autosomal dominant late onset Parkinson disease	37396747	SNOMED
+advanced_illness_01	717919005	Well-differentiated neuroendocrine tumor of pancreas	36713547	SNOMED
+advanced_illness_01	71892000	Cardiac asthma	4215802	SNOMED
+advanced_illness_01	721710005	Fibrosis of liver caused by alcohol	36715922	SNOMED
+advanced_illness_01	722600006	Non-amnestic Alzheimer disease	36716558	SNOMED
+advanced_illness_01	722707001	Metastatic malignant neoplasm of peripheral nervous system	36716630	SNOMED
+advanced_illness_01	722979008	Dementia due to metabolic abnormality	36716796	SNOMED
+advanced_illness_01	722987009	Amyotrophic lateral sclerosis plus syndrome	36716803	SNOMED
+advanced_illness_01	723390000	Rapidly progressive dementia	37109635	SNOMED
+advanced_illness_01	724776007	Dementia due to disorder of central nervous system	37110513	SNOMED
+advanced_illness_01	72481000119103	Congestive heart failure as early postoperative complication	44784345	SNOMED
+advanced_illness_01	725898002	Delirium co-occurrent with dementia	37111242	SNOMED
+advanced_illness_01	725939009	Cirrhosis of liver caused by amiodarone	37111265	SNOMED
+advanced_illness_01	733028000	"Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome"	37116351	SNOMED
+advanced_illness_01	733190003	Dementia due to primary malignant neoplasm of brain	37116465	SNOMED
+advanced_illness_01	733192006	Dementia due to herpes encephalitis	37116467	SNOMED
+advanced_illness_01	733194007	Dementia with Down syndrome	37116469	SNOMED
+advanced_illness_01	735733008	Cirrhosis of liver with primary sclerosing cholangitis	42539566	SNOMED
+advanced_illness_01	735757008	Primary ganglioneuroblastoma of brain	42536762	SNOMED
+advanced_illness_01	7371000175103	Reduced ejection fraction co-occurrent and due to acute on chronic heart failure	764871	SNOMED
+advanced_illness_01	7391000175102	Reduced ejection fraction co-occurrent and due to acute heart failure	764873	SNOMED
+advanced_illness_01	7411000175102	Chronic heart failure co-occurrent with normal ejection fraction	764876	SNOMED
+advanced_illness_01	74669004	Cardiac cirrhosis	4252074	SNOMED
+advanced_illness_01	762350007	Dementia due to prion disease	42538609	SNOMED
+advanced_illness_01	762457009	Astroblastoma of brain	42538692	SNOMED
+advanced_illness_01	76301009	Florid cirrhosis	4294539	SNOMED
+advanced_illness_01	767444009	"Germline BRCA-mutated, HER2-negative metastatic breast cancer"	35624616	SNOMED
+advanced_illness_01	770602005	Squamous cell carcinoma of exocrine pancreas	36674768	SNOMED
+advanced_illness_01	771306007	"Hereditary fibrosing poikiloderma, tendon contractures, myopathy, pulmonary fibrosis syndrome"	36675042	SNOMED
+advanced_illness_01	776416004	"Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome"	36679002	SNOMED
+advanced_illness_01	780821007	Invasive intraductal papillary-mucinous carcinoma of pancreas	36683250	SNOMED
+advanced_illness_01	783161005	ABri amyloidosis	37204495	SNOMED
+advanced_illness_01	783706007	Serous cystadenocarcinoma of pancreas	37204808	SNOMED
+advanced_illness_01	784341001	Amyotrophic lateral sclerosis type 4	37205063	SNOMED
+advanced_illness_01	785879009	Mucinous cystadenocarcinoma of pancreas	37206235	SNOMED
+advanced_illness_01	78862003	Ayerza's syndrome	4193236	SNOMED
+advanced_illness_01	788864001	Amnestic disorder caused by volatile solvent	37312033	SNOMED
+advanced_illness_01	788899002	Dementia due to pellagra	37311998	SNOMED
+advanced_illness_01	789170003	Disinhibited behavior due to dementia	37311665	SNOMED
+advanced_illness_01	792004	Creutzfeldt-Jakob disease	372241	SNOMED
+advanced_illness_01	79341000119107	Mixed dementia	43021816	SNOMED
+advanced_illness_01	80479009	Acute right-sided congestive heart failure	4215446	SNOMED
+advanced_illness_01	816205008	Malignant pituitary blastoma	37311849	SNOMED
+advanced_illness_01	82351000119105	Altered behavior due to Pick's disease	37397762	SNOMED
+advanced_illness_01	82371000119101	Dementia due to multiple sclerosis with altered behavior	44782559	SNOMED
+advanced_illness_01	82523003	Congestive rheumatic heart failure	315295	SNOMED
+advanced_illness_01	82959004	Dementia paralytica juvenilis	4307791	SNOMED
+advanced_illness_01	83105008	Malignant hypertensive heart disease with congestive heart failure	316994	SNOMED
+advanced_illness_01	833326008	Cortical vascular dementia	3654434	SNOMED
+advanced_illness_01	836477007	Chronic emphysema caused by vapor	3654571	SNOMED
+advanced_illness_01	838276009	"Amyotrophic lateral sclerosis, parkinsonism, dementia complex"	3654598	SNOMED
+advanced_illness_01	840464007	Dementia due to carbon monoxide poisoning	3654920	SNOMED
+advanced_illness_01	84114007	Heart failure	316139	SNOMED
+advanced_illness_01	85232009	Left heart failure	439846	SNOMED
+advanced_illness_01	860826006	Creutzfeldt-Jakob Disease caused by human growth hormone	3655293	SNOMED
+advanced_illness_01	866048009	Mucinous cystic neoplasm with invasive carcinoma of pancreas	3655584	SNOMED
+advanced_illness_01	86680006	Ruptured emphysematous bleb of lung	4315386	SNOMED
+advanced_illness_01	87111000119109	Malignant glioma of hypothalamus	37018639	SNOMED
+advanced_illness_01	871619002	Cirrhosis of liver due to and following cardiac procedure	3656096	SNOMED
+advanced_illness_01	87433001	Pulmonary emphysema	261325	SNOMED
+advanced_illness_01	89580002	Cryptogenic cirrhosis	4232955	SNOMED
+advanced_illness_01	90099008	Subcortical leukoencephalopathy	4234089	SNOMED
+advanced_illness_01	90610005	Interstitial pulmonary fibrosis of prematurity	4236182	SNOMED
+advanced_illness_01	90771000119100	End stage renal disease on dialysis due to type 1 diabetes mellitus	45769904	SNOMED
+advanced_illness_01	90811000119100	Low grade malignant glioma of brain	36684446	SNOMED
+advanced_illness_01	91181000119105	Squamous cell carcinoma metastatic to pleura	764956	SNOMED
+advanced_illness_01	91211000119109	Metastatic small cell neuroendocrine carcinoma to pleura	600835	SNOMED
+advanced_illness_01	91231000119104	Metastatic adenocarcinoma to skin	608852	SNOMED
+advanced_illness_01	91271000119101	Metastatic squamous cell carcinoma to bone	619829	SNOMED
+advanced_illness_01	91281000119103	Metastatic adenocarcinoma to bone	36716990	SNOMED
+advanced_illness_01	93144003	Leukemic reticuloendotheliosis of intra-abdominal lymph nodes	193429	SNOMED
+advanced_illness_01	93146001	Leukemic reticuloendotheliosis of intrathoracic lymph nodes	442095	SNOMED
+advanced_illness_01	93715005	Primary malignant neoplasm of body of pancreas	434293	SNOMED
+advanced_illness_01	93727008	Primary malignant neoplasm of brain	380055	SNOMED
+advanced_illness_01	93748005	Primary malignant neoplasm of cerebral ventricle	432848	SNOMED
+advanced_illness_01	93768004	Primary malignant neoplasm of craniopharyngeal duct	442134	SNOMED
+advanced_illness_01	93843007	Primary malignant neoplasm of islets of Langerhans	25486	SNOMED
+advanced_illness_01	93939009	Primary malignant neoplasm of pancreatic duct	433423	SNOMED
+advanced_illness_01	94082003	Primary malignant neoplasm of tail of pancreas	432843	SNOMED
+advanced_illness_01	94152006	Metastatic malignant neoplasm to abdominal esophagus	4312037	SNOMED
+advanced_illness_01	94154007	Metastatic malignant neoplasm to accessory nerve	4311631	SNOMED
+advanced_illness_01	94156009	Metastatic malignant neoplasm of vestibulocochlear nerve	4312039	SNOMED
+advanced_illness_01	94158005	Metastatic malignant neoplasm to adenoid	4311632	SNOMED
+advanced_illness_01	94160007	Metastatic malignant neoplasm to adrenal cortex	4246251	SNOMED
+advanced_illness_01	94162004	Metastatic malignant neoplasm to adrenal medulla	4246253	SNOMED
+advanced_illness_01	94164003	Metastatic malignant neoplasm to ampulla of Vater	4311634	SNOMED
+advanced_illness_01	94166001	Metastatic malignant neoplasm to anterior aspect of epiglottis	4312041	SNOMED
+advanced_illness_01	94168000	Metastatic malignant neoplasm to anterior portion of floor of mouth	4312148	SNOMED
+advanced_illness_01	94170009	Metastatic malignant neoplasm to anterior wall of nasopharynx	4312702	SNOMED
+advanced_illness_01	94172001	Metastatic malignant neoplasm to anus	4312703	SNOMED
+advanced_illness_01	94175004	Metastatic malignant neoplasm to appendix	4311635	SNOMED
+advanced_illness_01	94180008	Metastatic malignant neoplasm to axilla	4312151	SNOMED
+advanced_illness_01	94183005	Metastatic malignant neoplasm to back	4311637	SNOMED
+advanced_illness_01	94185003	Metastatic malignant neoplasm to biliary tract	4311638	SNOMED
+advanced_illness_01	94187006	Metastatic malignant neoplasm to blood vessel of abdomen	4311746	SNOMED
+advanced_illness_01	94190000	Metastatic malignant neoplasm to blood vessel of buttock	4311747	SNOMED
+advanced_illness_01	94257006	Metastatic malignant neoplasm to clitoris	4247943	SNOMED
+advanced_illness_01	94259009	Metastatic malignant neoplasm to coccyx	4247945	SNOMED
+advanced_illness_01	94261000	Metastatic malignant neoplasm to commissure of lip	4312943	SNOMED
+advanced_illness_01	94263002	Metastatic malignant neoplasm to conjunctiva	4311766	SNOMED
+advanced_illness_01	94265009	Metastatic malignant neoplasm to cornea	4312945	SNOMED
+advanced_illness_01	94266005	Metastatic malignant neoplasm to cranial nerve	4312946	SNOMED
+advanced_illness_01	94267001	Metastatic malignant neoplasm to craniopharyngeal duct	4311767	SNOMED
+advanced_illness_01	94269003	Metastatic malignant neoplasm to cuboid	4312947	SNOMED
+advanced_illness_01	94271003	Metastatic malignant neoplasm to descending colon	4311875	SNOMED
+advanced_illness_01	94273000	Metastatic malignant neoplasm to dorsal surface of tongue	4312295	SNOMED
+advanced_illness_01	94275007	Metastatic malignant neoplasm to duodenum	442188	SNOMED
+advanced_illness_01	94279001	Metastatic malignant neoplasm to endocervix	4247949	SNOMED
+advanced_illness_01	94281004	Metastatic malignant neoplasm to endometrium	4311879	SNOMED
+advanced_illness_01	94283001	Metastatic malignant neoplasm to epididymis	4312948	SNOMED
+advanced_illness_01	94285008	Metastatic malignant neoplasm to epitrochlear lymph nodes	4312950	SNOMED
+advanced_illness_01	94287000	Metastatic malignant neoplasm to ethmoid bone	4312300	SNOMED
+advanced_illness_01	94289002	Metastatic malignant neoplasm to eustachian tube	4312952	SNOMED
+advanced_illness_01	94291005	Metastatic malignant neoplasm to extrahepatic bile ducts	4312301	SNOMED
+advanced_illness_01	94293008	Metastatic malignant neoplasm to face	4312955	SNOMED
+advanced_illness_01	94295001	Metastatic malignant neoplasm to fallopian tube	4312957	SNOMED
+advanced_illness_01	94298004	Metastatic malignant neoplasm to female genital organ	201240	SNOMED
+advanced_illness_01	94300004	Metastatic malignant neoplasm to femur	4313077	SNOMED
+advanced_illness_01	94302007	Metastatic malignant neoplasm to first cuneiform bone of foot	4311895	SNOMED
+advanced_illness_01	94304008	Metastatic malignant neoplasm to floor of mouth	4313078	SNOMED
+advanced_illness_01	94306005	Metastatic malignant neoplasm to forearm	4311897	SNOMED
+advanced_illness_01	94308006	Metastatic malignant neoplasm to frontal bone	4312013	SNOMED
+advanced_illness_01	94310008	Metastatic malignant neoplasm to frontal sinus	4312015	SNOMED
+advanced_illness_01	94312000	Metastatic malignant neoplasm to gallbladder	4313079	SNOMED
+advanced_illness_01	94314004	Metastatic malignant neoplasm to gingival mucosa	4312425	SNOMED
+advanced_illness_01	94316002	Metastatic malignant neoplasm to glomus jugulare	4313081	SNOMED
+advanced_illness_01	94318001	Metastatic malignant neoplasm to glottis	4247963	SNOMED
+advanced_illness_01	94320003	Metastatic malignant neoplasm to greater curvature of stomach	4247964	SNOMED
+advanced_illness_01	94322006	Metastatic malignant neoplasm to hamate bone	4312016	SNOMED
+advanced_illness_01	94324007	Metastatic malignant neoplasm to hard palate	4247966	SNOMED
+advanced_illness_01	94326009	Metastatic malignant neoplasm to head	4313083	SNOMED
+advanced_illness_01	94328005	Metastatic malignant neoplasm to hepatic flexure of colon	4312018	SNOMED
+advanced_illness_01	94330007	Metastatic malignant neoplasm to hypogastric lymph nodes	4248055	SNOMED
+advanced_illness_01	94332004	Metastatic malignant neoplasm to hypopharyngeal aspect of aryepiglottic fold	4313086	SNOMED
+advanced_illness_01	94333009	Metastatic malignant neoplasm to hypopharyngeal aspect of interarytenoid fold	4313087	SNOMED
+advanced_illness_01	94335002	Metastatic malignant neoplasm to ileum	4248057	SNOMED
+advanced_illness_01	94337005	Metastatic malignant neoplasm to ilium	4312019	SNOMED
+advanced_illness_01	94339008	Metastatic malignant neoplasm to inguinal lymph nodes	194585	SNOMED
+advanced_illness_01	94341009	Metastatic malignant neoplasm to inner aspect of lip	4248058	SNOMED
+advanced_illness_01	94343007	Metastatic malignant neoplasm to inner aspect of upper lip	4248059	SNOMED
+advanced_illness_01	94345000	Metastatic malignant neoplasm to intestinal lymph nodes	4312430	SNOMED
+advanced_illness_01	94347008	Metastatic malignant neoplasm to intra-abdominal lymph nodes	192568	SNOMED
+advanced_illness_01	94349006	Metastatic malignant neoplasm to intrahepatic bile ducts	4312024	SNOMED
+advanced_illness_01	94351005	Metastatic malignant neoplasm to intrathoracic lymph nodes	439751	SNOMED
+advanced_illness_01	94353008	Metastatic malignant neoplasm to ischium	4248062	SNOMED
+advanced_illness_01	94355001	Metastatic malignant neoplasm to isthmus of uterus	4248064	SNOMED
+advanced_illness_01	94357009	Metastatic malignant neoplasm to jejunum	4313092	SNOMED
+advanced_illness_01	94359007	Metastatic malignant neoplasm to junctional zone of tongue	4248065	SNOMED
+advanced_illness_01	94361003	Metastatic malignant neoplasm to labia majora	4248066	SNOMED
+advanced_illness_01	94364006	Metastatic malignant neoplasm to lacrimal gland	4313206	SNOMED
+advanced_illness_01	94366008	Metastatic malignant neoplasm to laryngeal aspect of aryepiglottic fold	4248068	SNOMED
+advanced_illness_01	94368009	Metastatic malignant neoplasm to laryngeal commissure	4248069	SNOMED
+advanced_illness_01	94370000	Metastatic malignant neoplasm to larynx	4312026	SNOMED
+advanced_illness_01	94372008	Metastatic malignant neoplasm to lateral wall of nasopharynx	4312027	SNOMED
+advanced_illness_01	94374009	Metastatic malignant neoplasm to lateral wall of urinary bladder	4313210	SNOMED
+advanced_illness_01	94376006	Metastatic malignant neoplasm to left upper lobe of lung	4313212	SNOMED
+advanced_illness_01	94379004	Metastatic malignant neoplasm to lingual tonsil	4248070	SNOMED
+advanced_illness_01	94381002	Metastatic malignant neoplasm to liver	198700	SNOMED
+advanced_illness_01	94383004	Metastatic malignant neoplasm to long bone of upper limb	4313215	SNOMED
+advanced_illness_01	94386007	Metastatic malignant neoplasm to lower limb	4312545	SNOMED
+advanced_illness_01	94389000	Metastatic malignant neoplasm to lumbar vertebral column	4312547	SNOMED
+advanced_illness_01	94391008	Metastatic malignant neoplasm to lung	254591	SNOMED
+advanced_illness_01	94393006	Metastatic malignant neoplasm to lymph nodes of face	440341	SNOMED
+advanced_illness_01	94395004	Metastatic malignant neoplasm to lymph nodes of lower limb	442182	SNOMED
+advanced_illness_01	94396003	Metastatic malignant neoplasm to lymph nodes of multiple sites	320342	SNOMED
+advanced_illness_01	94397007	Metastatic malignant neoplasm to lymph nodes of neck	442181	SNOMED
+advanced_illness_01	94399005	Metastatic malignant neoplasm to main bronchus	4248073	SNOMED
+advanced_illness_01	94402006	Metastatic malignant neoplasm to male genital organ	442177	SNOMED
+advanced_illness_01	94404007	Metastatic malignant neoplasm to mastoid air cells	4313791	SNOMED
+advanced_illness_01	94406009	Metastatic malignant neoplasm to maxillary sinus	4315538	SNOMED
+advanced_illness_01	94408005	Metastatic malignant neoplasm to mediastinal lymph nodes	4313792	SNOMED
+advanced_illness_01	94410007	Metastatic malignant neoplasm to mesenteric lymph nodes	4315539	SNOMED
+advanced_illness_01	94412004	Metastatic malignant neoplasm to metatarsal bone	4315540	SNOMED
+advanced_illness_01	94414003	Metastatic malignant neoplasm to middle third of esophagus	4248077	SNOMED
+advanced_illness_01	94416001	Metastatic malignant neoplasm to mouth	4312550	SNOMED
+advanced_illness_01	94418000	Metastatic malignant neoplasm to muscle of abdomen	4315541	SNOMED
+advanced_illness_01	94420002	Metastatic malignant neoplasm to muscle of face	4312551	SNOMED
+advanced_illness_01	94422005	Metastatic malignant neoplasm to muscle of hip	4312552	SNOMED
+advanced_illness_01	94424006	Metastatic malignant neoplasm to muscle of lower limb	4248081	SNOMED
+advanced_illness_01	94426008	Metastatic malignant neoplasm to muscle of pelvis	4313796	SNOMED
+advanced_illness_01	94428009	Metastatic malignant neoplasm to muscle of shoulder	4312554	SNOMED
+advanced_illness_01	94430006	Metastatic malignant neoplasm to muscle of trunk	4315543	SNOMED
+advanced_illness_01	94432003	Metastatic malignant neoplasm to muscle	4248182	SNOMED
+advanced_illness_01	94434002	Metastatic malignant neoplasm to myometrium	4313798	SNOMED
+advanced_illness_01	94436000	Metastatic malignant neoplasm to nasal cavity	4248183	SNOMED
+advanced_illness_01	94439007	Metastatic malignant neoplasm to navicular bone of foot	4313799	SNOMED
+advanced_illness_01	94441008	Metastatic malignant neoplasm to neck	4315547	SNOMED
+advanced_illness_01	94445004	Metastatic malignant neoplasm to nose	4312557	SNOMED
+advanced_illness_01	94447007	Metastatic malignant neoplasm to occipital bone	4313801	SNOMED
+advanced_illness_01	94449005	Metastatic malignant neoplasm to occipital lymph nodes	4248187	SNOMED
+advanced_illness_01	94451009	Metastatic malignant neoplasm to olfactory nerve	4248189	SNOMED
+advanced_illness_01	94453007	Metastatic malignant neoplasm to orbit	4312560	SNOMED
+advanced_illness_01	94455000	Metastatic malignant neoplasm to ovary	199752	SNOMED
+advanced_illness_01	94457008	Metastatic malignant neoplasm to palatine bone	4248191	SNOMED
+advanced_illness_01	94459006	Metastatic malignant neoplasm to pancreas	4248192	SNOMED
+advanced_illness_01	94461002	Metastatic malignant neoplasm to para-aortic body	4315552	SNOMED
+advanced_illness_01	94462009	Metastatic malignant neoplasm to paraganglion	4315553	SNOMED
+advanced_illness_01	94463004	Metastatic malignant neoplasm to paramammary lymph nodes	4248193	SNOMED
+advanced_illness_01	94465006	Metastatic malignant neoplasm to parametrium	4313803	SNOMED
+advanced_illness_01	94467003	Metastatic malignant neoplasm to parathyroid gland	4313911	SNOMED
+advanced_illness_01	94469000	Metastatic malignant neoplasm to paravaginal lymph nodes	4313912	SNOMED
+advanced_illness_01	94471000	Metastatic malignant neoplasm to parietal lobe	4313913	SNOMED
+advanced_illness_01	94473002	Metastatic malignant neoplasm to parietal pleura	4248197	SNOMED
+advanced_illness_01	94475009	Metastatic malignant neoplasm to parotid lymph nodes	4315659	SNOMED
+advanced_illness_01	94477001	Metastatic malignant neoplasm to pectoral axillary lymph nodes	4248198	SNOMED
+advanced_illness_01	94479003	Metastatic malignant neoplasm to pelvic peritoneum	4313915	SNOMED
+advanced_illness_01	94481001	Metastatic malignant neoplasm to penis	4313917	SNOMED
+advanced_illness_01	94483003	Metastatic malignant neoplasm to perianal skin	4315661	SNOMED
+advanced_illness_01	94485005	Metastatic malignant neoplasm to perirenal tissue	4248200	SNOMED
+advanced_illness_01	94487002	Metastatic malignant neoplasm to phalanx of hand	4313919	SNOMED
+advanced_illness_01	94489004	Metastatic malignant neoplasm to pineal gland	4311208	SNOMED
+advanced_illness_01	94491007	Metastatic malignant neoplasm to pituitary gland	4311209	SNOMED
+advanced_illness_01	94493005	Metastatic malignant neoplasm to pleura	72266	SNOMED
+advanced_illness_01	94495003	Metastatic malignant neoplasm to postcricoid region	4313920	SNOMED
+advanced_illness_01	94497006	Metastatic malignant neoplasm to posterior mediastinum	4313922	SNOMED
+advanced_illness_01	94499009	Metastatic malignant neoplasm to posterior wall of oropharynx	4315664	SNOMED
+advanced_illness_01	94501001	Metastatic malignant neoplasm to preauricular lymph nodes	4311320	SNOMED
+advanced_illness_01	94503003	Metastatic malignant neoplasm to prostate	4314337	SNOMED
+advanced_illness_01	94505005	Metastatic malignant neoplasm to pyloric antrum	4311321	SNOMED
+advanced_illness_01	94507002	Metastatic malignant neoplasm to pyriform sinus	4315668	SNOMED
+advanced_illness_01	94509004	Metastatic malignant neoplasm to rectosigmoid junction	4311322	SNOMED
+advanced_illness_01	94511008	Metastatic malignant neoplasm to rectovaginal septum	4311323	SNOMED
+advanced_illness_01	94513006	Metastatic malignant neoplasm to rectum	442174	SNOMED
+advanced_illness_01	94515004	Metastatic malignant neoplasm to respiratory tract	253717	SNOMED
+advanced_illness_01	94517007	Metastatic malignant neoplasm to retrocecal tissue	4315671	SNOMED
+advanced_illness_01	94519005	Metastatic malignant neoplasm to retroperitoneal lymph nodes	4315672	SNOMED
+advanced_illness_01	94521000	Metastatic malignant neoplasm to rib	4311326	SNOMED
+advanced_illness_01	94523002	Metastatic malignant neoplasm to middle lobe of right lung	4315673	SNOMED
+advanced_illness_01	94524008	Metastatic malignant neoplasm to right upper lobe of lung	4314342	SNOMED
+advanced_illness_01	94525009	Metastatic malignant neoplasm to round ligament of uterus	4315674	SNOMED
+advanced_illness_01	94527001	Metastatic malignant neoplasm to sacrum	4314343	SNOMED
+advanced_illness_01	94529003	Metastatic malignant neoplasm to scapula	4311328	SNOMED
+advanced_illness_01	94531007	Metastatic malignant neoplasm to scrotum	4314345	SNOMED
+advanced_illness_01	94533005	Metastatic malignant neoplasm to second cuneiform bone of foot	4311329	SNOMED
+advanced_illness_01	94535003	Metastatic malignant neoplasm to short bone of lower limb	4313928	SNOMED
+advanced_illness_01	94537006	Metastatic malignant neoplasm to shoulder	4314348	SNOMED
+advanced_illness_01	94539009	Metastatic malignant neoplasm to skin of abdomen	4314349	SNOMED
+advanced_illness_01	94542003	Metastatic malignant neoplasm to skin of axilla	4313930	SNOMED
+advanced_illness_01	94544002	Metastatic malignant neoplasm to skin of breast	4313931	SNOMED
+advanced_illness_01	94546000	Metastatic malignant neoplasm to skin of cheek	4311331	SNOMED
+advanced_illness_01	94548004	Metastatic malignant neoplasm to skin of chin	4313932	SNOMED
+advanced_illness_01	94550007	Metastatic malignant neoplasm to skin of elbow	4315681	SNOMED
+advanced_illness_01	94552004	Metastatic malignant neoplasm to skin of eyebrow	4313934	SNOMED
+advanced_illness_01	94554003	Metastatic malignant neoplasm to skin of face	4315684	SNOMED
+advanced_illness_01	94556001	Metastatic malignant neoplasm to skin of foot	4315686	SNOMED
+advanced_illness_01	94558000	Metastatic malignant neoplasm to skin of forehead	4311333	SNOMED
+advanced_illness_01	94560003	Metastatic malignant neoplasm to skin of hand	4314352	SNOMED
+advanced_illness_01	94562006	Metastatic malignant neoplasm to skin of knee	4311334	SNOMED
+advanced_illness_01	94565008	Metastatic malignant neoplasm to skin of lower limb	4315794	SNOMED
+advanced_illness_01	94567000	Metastatic malignant neoplasm to skin of nose	4314354	SNOMED
+advanced_illness_01	94569002	Metastatic malignant neoplasm to skin of popliteal area	4311336	SNOMED
+advanced_illness_01	94571002	Metastatic malignant neoplasm to skin of shoulder	4314355	SNOMED
+advanced_illness_01	94573004	Metastatic malignant neoplasm to skin of thigh	4314357	SNOMED
+advanced_illness_01	94575006	Metastatic malignant neoplasm to skin of trunk	4313937	SNOMED
+advanced_illness_01	94578008	Metastatic malignant neoplasm to skin of wrist	4315796	SNOMED
+advanced_illness_01	94580002	Metastatic malignant neoplasm to small intestine	198371	SNOMED
+advanced_illness_01	94582005	Metastatic malignant neoplasm to soft tissues of abdomen	4314361	SNOMED
+advanced_illness_01	94584006	Metastatic malignant neoplasm to soft tissues of buttock	4314362	SNOMED
+advanced_illness_01	94586008	Metastatic malignant neoplasm to soft tissues of head	4311340	SNOMED
+advanced_illness_01	94588009	Metastatic malignant neoplasm to soft tissues of inguinal region	4313939	SNOMED
+advanced_illness_01	94589001	Metastatic malignant neoplasm to soft tissues of lower limb	4315800	SNOMED
+advanced_illness_01	94590005	Metastatic malignant neoplasm to soft tissues of neck	4314046	SNOMED
+advanced_illness_01	94592002	Metastatic malignant neoplasm to soft tissues of perineum	4311341	SNOMED
+advanced_illness_01	94594001	Metastatic malignant neoplasm to soft tissues of thorax	4315801	SNOMED
+advanced_illness_01	94596004	Metastatic malignant neoplasm to soft tissues of upper limb	4314480	SNOMED
+advanced_illness_01	94598003	Metastatic malignant neoplasm to sphenoid bone	4314049	SNOMED
+advanced_illness_01	94600009	Metastatic malignant neoplasm to spinal cord	4311342	SNOMED
+advanced_illness_01	94602001	Metastatic malignant neoplasm to vertebral column	4315802	SNOMED
+advanced_illness_01	94604000	Metastatic malignant neoplasm to splenic flexure of colon	4314052	SNOMED
+advanced_illness_01	94606003	Metastatic malignant neoplasm to stomach	4314053	SNOMED
+advanced_illness_01	94608002	Metastatic malignant neoplasm to sublingual gland	4314483	SNOMED
+advanced_illness_01	94610000	Metastatic malignant neoplasm to submaxillary gland	4314484	SNOMED
+advanced_illness_01	94612008	Metastatic malignant neoplasm to superficial inguinal lymph nodes	4314055	SNOMED
+advanced_illness_01	94614009	Metastatic malignant neoplasm to supraclavicular lymph nodes	4314485	SNOMED
+advanced_illness_01	94616006	Metastatic malignant neoplasm to supraglottis	4314058	SNOMED
+advanced_illness_01	94618007	Metastatic malignant neoplasm to tail of pancreas	4311347	SNOMED
+advanced_illness_01	94620005	Metastatic malignant neoplasm to tarsal bone	4315804	SNOMED
+advanced_illness_01	94622002	Metastatic malignant neoplasm to temporal lobe	4314061	SNOMED
+advanced_illness_01	94624001	Metastatic malignant neoplasm to the mesentery	4314062	SNOMED
+advanced_illness_01	94626004	Metastatic malignant neoplasm to omentum	4314487	SNOMED
+advanced_illness_01	94628003	Metastatic malignant neoplasm to retroperitoneum	4315806	SNOMED
+advanced_illness_01	94630001	Metastatic malignant neoplasm to third cuneiform bone of foot	4311349	SNOMED
+advanced_illness_01	94632009	Metastatic malignant neoplasm to thymus	4311472	SNOMED
+advanced_illness_01	94634005	Metastatic malignant neoplasm to thyroid gland	4315809	SNOMED
+advanced_illness_01	94636007	Metastatic malignant neoplasm to tibial lymph nodes	4314489	SNOMED
+advanced_illness_01	94638008	Metastatic malignant neoplasm to tongue	4311473	SNOMED
+advanced_illness_01	94640003	Metastatic malignant neoplasm to tonsillar pillar	4314490	SNOMED
+advanced_illness_01	94642006	Metastatic malignant neoplasm to tracheobronchial lymph nodes	4314067	SNOMED
+advanced_illness_01	94644007	Metastatic malignant neoplasm to trapezium	4315811	SNOMED
+advanced_illness_01	94646009	Metastatic malignant neoplasm to trigeminal nerve	4313218	SNOMED
+advanced_illness_01	94648005	Metastatic malignant neoplasm to trochlear nerve	4314070	SNOMED
+advanced_illness_01	94650002	Metastatic malignant neoplasm to ulna	4314492	SNOMED
+advanced_illness_01	94651003	Metastatic malignant neoplasm to undescended testis	4315812	SNOMED
+advanced_illness_01	94652005	Metastatic malignant neoplasm to upper gum	4314493	SNOMED
+advanced_illness_01	94656008	Metastatic malignant neoplasm to upper respiratory tract	4314190	SNOMED
+advanced_illness_01	94658009	Metastatic malignant neoplasm to urachus	4313221	SNOMED
+advanced_illness_01	94660006	Metastatic malignant neoplasm to ureteric orifice of urinary bladder	4313222	SNOMED
+advanced_illness_01	94662003	Metastatic malignant neoplasm to urinary bladder neck	4314494	SNOMED
+advanced_illness_01	94664002	Metastatic malignant neoplasm to uterine adnexa	4313223	SNOMED
+advanced_illness_01	94666000	Metastatic malignant neoplasm to uveal tract	4313224	SNOMED
+advanced_illness_01	94668004	Metastatic malignant neoplasm to vagina	4313225	SNOMED
+advanced_illness_01	94670008	Metastatic malignant neoplasm to vallecula	4314192	SNOMED
+advanced_illness_01	94672000	Metastatic malignant neoplasm to ventral surface of tongue	4314497	SNOMED
+advanced_illness_01	94674004	Metastatic malignant neoplasm to vermilion border of lower lip	4314498	SNOMED
+advanced_illness_01	94676002	Metastatic malignant neoplasm to vestibule of mouth	4314195	SNOMED
+advanced_illness_01	94678001	Metastatic malignant neoplasm to visceral pleura	4314499	SNOMED
+advanced_illness_01	94680007	Metastatic malignant neoplasm to vomer	4314197	SNOMED
+advanced_illness_01	94682004	Metastatic malignant neoplasm to Waldeyer's ring	4314198	SNOMED
+advanced_illness_01	96311000119109	Exacerbation of congestive heart failure	43022068	SNOMED
+advanced_illness_01	97051000119105	Malignant melanoma metastatic to pancreas	764972	SNOMED
+advanced_illness_01	97751000119108	Altered behavior in Alzheimer's disease	44784643	SNOMED
+advanced_illness_01	1186728004	Pediatric multiple sclerosis	37162102	SNOMED
+advanced_illness_01	1186869002	Neuroendocrine carcinoma of pancreas	37162169	SNOMED
+advanced_illness_01	1186879000	Dementia due to thiamine deficiency	37162179	SNOMED
+advanced_illness_01	1186881003	Dementia due to niacin deficiency	37162181	SNOMED
+advanced_illness_01	1186887004	Dementia caused by manganese	37162187	SNOMED
+advanced_illness_01	1187126002	ITM2B-related amyloidosis	37162253	SNOMED
+advanced_illness_01	1187519007	Malignant gastrinoma of pancreas	37162352	SNOMED
+advanced_illness_01	1196839006	Primary embryonal carcinoma of brain	37162566	SNOMED
+advanced_illness_01	1196860000	Primary anaplastic large cell medulloblastoma of brain	37162584	SNOMED
+advanced_illness_01	1197279000	Primary solid pseudopapillary neoplasm of pancreas	37162707	SNOMED
+advanced_illness_01	1197285007	Metastatic squamous cell carcinoma to thoracic lymph node	37175083	SNOMED
+advanced_illness_01	1197292002	Metastatic squamous cell carcinoma of pelvic lymph node	37175066	SNOMED
+advanced_illness_01	1197295000	Metastatic squamous cell carcinoma to lymph nodes of multiple sites	37175078	SNOMED
+advanced_illness_01	1197298003	Primary malignant germ cell neoplasm of pineal gland	37162717	SNOMED
+advanced_illness_01	1197310007	Metastatic adenocarcinoma to lymph node of lower limb	37174870	SNOMED
+advanced_illness_01	1197312004	Metastatic adenocarcinoma to abdominal lymph node	37174866	SNOMED
+advanced_illness_01	1197322005	Metastatic squamous cell carcinoma to abdominal lymph node	37175067	SNOMED
+advanced_illness_01	1197324006	Metastatic malignant melanoma to skin	37175035	SNOMED
+advanced_illness_01	1197326008	Metastatic carcinoma to lymph node of head and neck	37174960	SNOMED
+advanced_illness_01	1197328009	Metastatic adenocarcinoma to thoracic lymph node	37168955	SNOMED
+advanced_illness_01	1197330006	Metastatic adenocarcinoma of lymph nodes of multiple sites	37174865	SNOMED
+advanced_illness_01	1197332003	Primary malignant melanoma of central nervous system	37162724	SNOMED
+advanced_illness_01	1197523001	Autosomal dominant amyotrophic lateral sclerosis type 1	37162788	SNOMED
+advanced_illness_01	1201863001	Amyotrophic lateral sclerosis type 1	37162949	SNOMED
+advanced_illness_01	1201950008	Amyotrophic lateral sclerosis type 3	37162961	SNOMED
+advanced_illness_01	1204200007	Left ventricular failure with normal ejection fraction due to valvular heart disease	37163065	SNOMED
+advanced_illness_01	1204204003	Left ventricular failure with normal ejection fraction due to myocarditis	37163069	SNOMED
+advanced_illness_01	1204334005	Amyotrophic lateral sclerosis type 6	37163098	SNOMED
+advanced_illness_01	1204350002	Amyotrophic lateral sclerosis type 8	37163103	SNOMED
+advanced_illness_01	1204460007	Myocardial dysfunction with sepsis	37163128	SNOMED
+advanced_illness_01	120851000119104	Systolic heart failure stage D	43021840	SNOMED
+advanced_illness_01	120871000119108	Systolic heart failure stage B	43530642	SNOMED
+advanced_illness_01	1208745002	Serotonin-producing neuroendocrine neoplasm of pancreas	37163230	SNOMED
+advanced_illness_01	1208843003	Right ventricular failure due to valvular heart disease	37163261	SNOMED
+advanced_illness_01	1208848007	Right ventricular failure due to pulmonary vascular disease	37163266	SNOMED
+advanced_illness_01	120891000119109	Diastolic heart failure stage C	43021842	SNOMED
+advanced_illness_01	1217383007	RELA fusion-positive supratentorial ependymoma	37163595	SNOMED
+advanced_illness_01	12241071000119100	Metastatic malignant neoplasm to right breast	602332	SNOMED
+advanced_illness_01	12246561000119100	Bilateral metastatic malignant neoplasm to adrenal glands	36712822	SNOMED
+advanced_illness_01	12246641000119100	Bilateral metastatic malignant neoplasm to breasts	602334	SNOMED
+advanced_illness_01	12348006	Presenile dementia	378125	SNOMED
+advanced_illness_01	123606000	Cholangiolitic cirrhosis	4049282	SNOMED
+advanced_illness_01	1236931008	Metastatic carcinoma to body of pancreas	37174905	SNOMED
+advanced_illness_01	1236941006	Metastatic carcinoma to intrahepatic bile duct	37174945	SNOMED
+advanced_illness_01	1236943009	Metastatic carcinoma to anterior two-thirds tongue ventrum	37174900	SNOMED
+advanced_illness_01	1236945002	Metastatic carcinoma to midline of tongue	37174966	SNOMED
+advanced_illness_01	1236948000	Metastatic carcinoma to fallopian tube	37174929	SNOMED
+advanced_illness_01	1236954004	Metastatic carcinoma to vermilion border of upper lip	37175008	SNOMED
+advanced_illness_01	1236956002	Metastatic carcinoma to frenum of lower lip	37174933	SNOMED
+advanced_illness_01	1236958001	Metastatic carcinoma to commissure of lip	37174919	SNOMED
+advanced_illness_01	1236961000	Metastatic carcinoma to anterior part of floor of mouth	37174899	SNOMED
+advanced_illness_01	1236963002	Metastatic carcinoma to hard palate	37174942	SNOMED
+advanced_illness_01	1236966005	Metastatic carcinoma to upper buccal sulcus	37174998	SNOMED
+advanced_illness_01	1236968006	Metastatic carcinoma to upper labial sulcus	37175001	SNOMED
+advanced_illness_01	1237031003	Metastatic carcinoma to fundus of stomach	37174935	SNOMED
+advanced_illness_01	1237033000	Metastatic carcinoma to sublingual gland	37174991	SNOMED
+advanced_illness_01	1237035007	Metastatic carcinoma to parotid gland	37174971	SNOMED
+advanced_illness_01	1237037004	Metastatic carcinoma to cervical part of esophagus	37174916	SNOMED
+advanced_illness_01	1237039001	Metastatic carcinoma to upper third of esophagus	37175003	SNOMED
+advanced_illness_01	1237042007	Metastatic carcinoma to pyloric antrum	37174976	SNOMED
+advanced_illness_01	1237044008	Metastatic carcinoma to lesser curve of stomach	37174948	SNOMED
+advanced_illness_01	1237046005	Metastatic carcinoma to duodenum	37174924	SNOMED
+advanced_illness_01	1237048006	Metastatic squamous cell carcinoma to bronchus	37175068	SNOMED
+advanced_illness_01	1237051004	Metastatic carcinoma to lower third of esophagus	37174959	SNOMED
+advanced_illness_01	1237053001	Metastatic carcinoma to upper inner quadrant of breast	37175000	SNOMED
+advanced_illness_01	1237056009	Metastatic carcinoma to lower inner quadrant of breast	37174955	SNOMED
+advanced_illness_01	123716002	Latent cirrhosis	4049419	SNOMED
+advanced_illness_01	1237341006	Intraductal tubulopapillary malignant neoplasm of pancreas	37165043	SNOMED
+advanced_illness_01	1237414000	Metastatic cystadenocarcinoma to kidney	37175016	SNOMED
+advanced_illness_01	1237416003	Metastatic cystadenocarcinoma to pancreas	37175018	SNOMED
+advanced_illness_01	1237423002	Metastatic carcinoma to glans penis	37174939	SNOMED
+advanced_illness_01	1237425009	Metastatic carcinoma to pituitary	37174974	SNOMED
+advanced_illness_01	1237427001	Metastatic carcinoma to cecum	37174915	SNOMED
+advanced_illness_01	1237454003	Metastatic carcinoma to splenic flexure	37174988	SNOMED
+advanced_illness_01	1237456001	Metastatic carcinoma to hepatic flexure	37174944	SNOMED
+advanced_illness_01	1237458000	Metastatic carcinoma to transverse colon	37174997	SNOMED
+advanced_illness_01	1237461004	Metastatic adenocarcinoma to retinal pigment epithelium	37174880	SNOMED
+advanced_illness_01	1237466009	Metastatic squamous cell carcinoma to bronchus of left upper lobe	37175070	SNOMED
+advanced_illness_01	1237469002	Metastatic squamous cell carcinoma to bronchus of left lower lobe	37175069	SNOMED
+advanced_illness_01	1237472009	Metastatic squamous cell carcinoma to bronchus of middle lobe of right lung	37175072	SNOMED
+advanced_illness_01	1237474005	Metastatic carcinoma to bone of upper limb	37174912	SNOMED
+advanced_illness_01	1237477003	Metastatic carcinoma to skin of head	37174982	SNOMED
+advanced_illness_01	1237479000	Metastatic carcinoma to anal canal	37174898	SNOMED
+advanced_illness_01	1237481003	Metastatic carcinoma to cervix	37174917	SNOMED
+advanced_illness_01	1237483000	Metastatic carcinoma to tongue	37174996	SNOMED
+advanced_illness_01	1237485007	Metastatic carcinoma to rectosigmoid junction	37174978	SNOMED
+advanced_illness_01	1237488009	Metastatic carcinoma to palate	37174968	SNOMED
+advanced_illness_01	1237490005	Metastatic carcinoma to genital organ	37174938	SNOMED
+advanced_illness_01	1237493007	Metastatic carcinoma to exocervix	37174927	SNOMED
+advanced_illness_01	1237495000	Metastatic carcinoma to glottis	37174940	SNOMED
+advanced_illness_01	1237497008	Metastatic carcinoma to supraglottis	37174993	SNOMED
+advanced_illness_01	1237516000	Metastatic carcinoma to lower lobe of lung	37174957	SNOMED
+advanced_illness_01	1237518004	Metastatic carcinoma to main bronchus	37174962	SNOMED
+advanced_illness_01	1237522009	Metastatic carcinoma to gallbladder	37174936	SNOMED
+advanced_illness_01	1237524005	Metastatic carcinoma to pancreas	37174969	SNOMED
+advanced_illness_01	1237526007	Metastatic carcinoma to bone of rib	37174910	SNOMED
+advanced_illness_01	1237528008	Metastatic carcinoma to bone of clavicle	37174908	SNOMED
+advanced_illness_01	1237530005	Metastatic adenocarcinoma to carotid body	37174868	SNOMED
+advanced_illness_01	1237621006	Metastatic adenocarcinoma to Moll's gland	37174873	SNOMED
+advanced_illness_01	1240351006	Metastatic carcinoma to lower gum	37174954	SNOMED
+advanced_illness_01	1240353009	Metastatic squamous cell carcinoma to prostate	37175079	SNOMED
+advanced_illness_01	1240359008	Metastatic small cell neuroendocrine carcinoma to prostate	37175064	SNOMED
+advanced_illness_01	1240363001	Metastatic small cell neuroendocrine carcinoma to ovary	37175063	SNOMED
+advanced_illness_01	1240372009	Metastatic carcinoma to meibomian gland	37174964	SNOMED
+advanced_illness_01	1251454002	Metastatic neuroblastoma to adrenal gland	37175046	SNOMED
+advanced_illness_01	1251457009	Metastatic neuroblastoma to central nervous system	37175048	SNOMED
+advanced_illness_01	1251459007	Metastatic neuroblastoma to paraspinal area	37165252	SNOMED
+advanced_illness_01	1251465007	Metastatic extraskeletal osteosarcoma	37165253	SNOMED
+advanced_illness_01	1251467004	Metastatic osteosarcoma to articular cartilage of rib	37155464	SNOMED
+advanced_illness_01	1251469001	Metastatic osteosarcoma to articular cartilage of vertebra	37175050	SNOMED
+advanced_illness_01	1251471001	Metastatic osteosarcoma to bone of clavicle	37175051	SNOMED
+advanced_illness_01	1251473003	Metastatic osteosarcoma to bone of rib	37175053	SNOMED
+advanced_illness_01	1251475005	Metastatic osteosarcoma to bone of sternum	37175054	SNOMED
+advanced_illness_01	1251483004	Metastatic adenocarcinoma to paraganglia	37174875	SNOMED
+advanced_illness_01	1251485006	Metastatic adenocarcinoma to prostate	37174879	SNOMED
+advanced_illness_01	1251487003	Metastatic carcinoma to biliary tract	37174903	SNOMED
+advanced_illness_01	1251490009	Metastatic carcinoma to gallbladder and extrahepatic biliary tract	37174937	SNOMED
+advanced_illness_01	1251492001	Metastatic carcinoma to lip	37174950	SNOMED
+advanced_illness_01	1251494000	Metastatic carcinoma to retromolar area	37174979	SNOMED
+advanced_illness_01	1251496003	Metastatic carcinoma to uvula	37175004	SNOMED
+advanced_illness_01	1251498002	Metastatic sarcoma to retroperitoneum	37175317	SNOMED
+advanced_illness_01	1254691000	Metastatic adenoid cystic carcinoma to left lacrimal gland	37174882	SNOMED
+advanced_illness_01	1254724005	Metastatic adenoid cystic carcinoma to oropharynx	37174883	SNOMED
+advanced_illness_01	1254726007	Metastatic adenoid cystic carcinoma to salivary gland	37174886	SNOMED
+advanced_illness_01	1254733007	Metastatic large cell carcinoma to right lung	37175031	SNOMED
+advanced_illness_01	1254735000	Bilateral metastatic large cell carcinoma to lungs	37174770	SNOMED
+advanced_illness_01	1254745003	Metastatic giant cell carcinoma to left lung	37175021	SNOMED
+advanced_illness_01	1254747006	Bilateral metastatic giant cell carcinoma to lungs	37174769	SNOMED
+advanced_illness_01	1254749009	Metastatic acantholytic squamous cell carcinoma	37165395	SNOMED
+advanced_illness_01	1254752001	Metastatic verrucous carcinoma to oral cavity	37175102	SNOMED
+advanced_illness_01	1254755004	Metastatic basosquamous cell carcinoma to skin	37174892	SNOMED
+advanced_illness_01	1259083006	Autonomic disorder due to multiple sclerosis	37166088	SNOMED
+advanced_illness_01	1259122001	Amyotrophic lateral sclerosis with parkinsonism	37166120	SNOMED
+advanced_illness_01	1259124000	Amyotrophic lateral sclerosis with frontotemporal dementia	37166122	SNOMED
+advanced_illness_01	1259126003	Amyotrophic lateral sclerosis with autonomic dysfunction	37166124	SNOMED
+advanced_illness_01	1259128002	Alzheimer disease with psychosis	37166126	SNOMED
+advanced_illness_01	1259309001	Primary carcinoma of body of pancreas	37166180	SNOMED
+advanced_illness_01	1259311005	Primary cystadenocarcinoma of pancreas	37166182	SNOMED
+advanced_illness_01	1259415000	Primary carcinoma of head of pancreas	37166282	SNOMED
+advanced_illness_01	1259465009	Dementia due to hepatic failure	37166332	SNOMED
+advanced_illness_01	1259469003	Dementia due to Gerstmann Straussler Scheinker syndrome	37166336	SNOMED
+advanced_illness_01	1259473000	Dementia due to fragile X syndrome	37166340	SNOMED
+advanced_illness_01	1259478009	Dementia due to familial Creutzfeldt-Jakob disease	37166345	SNOMED
+advanced_illness_01	1259485008	Dementia due to cerebral vasculitis	37166351	SNOMED
+advanced_illness_01	1259492003	Dementia due to metastatic malignant neoplasm to brain	37166357	SNOMED
+advanced_illness_01	1259496000	Dementia due to Lyme disease	37166361	SNOMED
+advanced_illness_01	1259501004	Dementia due to kuru	37166366	SNOMED
+advanced_illness_01	1259511006	Dementia due to Wilson disease	37166374	SNOMED
+advanced_illness_01	1259517005	Dementia due to systemic lupus erythematosus	37166380	SNOMED
+advanced_illness_01	1259522005	Dementia due to variant Creutzfeldt-Jakob disease	37166385	SNOMED
+advanced_illness_01	1259529001	Dementia due to sporadic Creutzfeldt-Jakob disease	37166391	SNOMED
+advanced_illness_01	1259539007	Primary carcinoma of pancreas	37166400	SNOMED
+advanced_illness_01	1259581001	Dementia due to celiac disease	37166438	SNOMED
+advanced_illness_01	1259586006	Dementia due to autoimmune encephalitis	37166443	SNOMED
+advanced_illness_01	1259629009	Primary adenocarcinoma of pituitary gland	37166482	SNOMED
+advanced_illness_01	1259661008	Dementia due to rheumatological disease	37166513	SNOMED
+advanced_illness_01	1259665004	Dementia due to progressive subcortical gliosis	37166517	SNOMED
+advanced_illness_01	1259675001	Dementia due to obstructive hydrocephalus	37166526	SNOMED
+advanced_illness_01	1259679007	Dementia due to atypical pantothenate kinase associated neurodegeneration	37166530	SNOMED
+advanced_illness_01	1259692005	Primary gliosarcoma of brain	37166542	SNOMED
+advanced_illness_01	1259720004	Primary malignant glioma of brain	37166570	SNOMED
+advanced_illness_01	1259724008	Primary anaplastic astrocytoma of brain	37166574	SNOMED
+advanced_illness_01	1259730008	Primary oligodendroglioma of brain	37166579	SNOMED
+advanced_illness_01	1259740006	Primary malignant glioma of cerebellum	37166587	SNOMED
+advanced_illness_01	1259743008	Primary astrocytoma of brain stem	37166590	SNOMED
+advanced_illness_01	1259750007	Primary astrocytoma of cerebrum	37166597	SNOMED
+advanced_illness_01	1259765008	Primary classic medulloblastoma	37166612	SNOMED
+advanced_illness_01	1259770001	Primary anaplastic glioma of brain	37166617	SNOMED
+advanced_illness_01	1259799006	Primary malignant glucagonoma of pancreas	37166647	SNOMED
+advanced_illness_01	1259812009	Primary astroblastoma of brain	37166658	SNOMED
+advanced_illness_01	1259815006	Primary giant cell glioblastoma of brain	37166661	SNOMED
+advanced_illness_01	1259817003	Primary pleomorphic xanthoastrocytoma of brain	37166663	SNOMED
+advanced_illness_01	1259990004	Dementia due to classical pantothenate kinase associated neurodegeneration	37166714	SNOMED
+advanced_illness_01	1263555006	Logopenic non-amnestic Alzheimer disease	37167043	SNOMED
+advanced_illness_01	1263601000	Metastatic scirrhous carcinoma to breast	37175061	SNOMED
+advanced_illness_01	1263640005	Metastatic transitional cell carcinoma to corpus uteri	37175085	SNOMED
+advanced_illness_01	1263642002	Metastatic transitional cell carcinoma to left kidney	37175087	SNOMED
+advanced_illness_01	1263651005	Metastatic mucoepidermoid carcinoma to skin	37175043	SNOMED
+advanced_illness_01	1263653008	Metastatic mucoepidermoid carcinoma to salivary gland	37175042	SNOMED
+advanced_illness_01	1263655001	Metastatic transitional cell carcinoma to right renal pelvis	37175092	SNOMED
+advanced_illness_01	1263657009	Metastatic transitional cell carcinoma to ureter	37175094	SNOMED
+advanced_illness_01	1263659007	Metastatic transitional cell carcinoma to renal pelvis	37175090	SNOMED
+advanced_illness_01	1263786003	Metastatic basaloid squamous cell carcinoma to nasopharynx	37174891	SNOMED
+advanced_illness_01	1263912003	Metastatic carcinoma ex pleomorphic adenoma to lacrimal gland	37174893	SNOMED
+advanced_illness_01	1263914002	Metastatic papillary renal cell carcinoma	37175058	SNOMED
+advanced_illness_01	1264003007	Postcardiotomy acute right ventricular failure	37167218	SNOMED
+advanced_illness_01	1264067005	Metastatic acinar cell carcinoma to pancreas	37174864	SNOMED
+advanced_illness_01	1264115008	Metastatic metaplastic carcinoma to breast	37175037	SNOMED
+advanced_illness_01	1264117000	Metastatic adenosquamous carcinoma to cervix	37174889	SNOMED
+advanced_illness_01	1264258003	Metastatic papillary squamous cell carcinoma	37167409	SNOMED
+advanced_illness_01	1264358001	Metastatic mucinous cystadenocarcinoma to pancreas	37175040	SNOMED
+advanced_illness_01	1264367001	Metastatic sebaceous adenocarcinoma	37167429	SNOMED
+advanced_illness_01	1264495000	Metastatic carcinoma to breast	37174913	SNOMED
+advanced_illness_01	1264499006	Metastatic infiltrating duct carcinoma to pancreas	37175026	SNOMED
+advanced_illness_01	1264501003	Metastatic papillary cystadenocarcinoma to kidney	37175057	SNOMED
+advanced_illness_01	1268352008	Primary pituitary carcinoma	37167521	SNOMED
+advanced_illness_01	1268354009	Metastatic clear cell adenocarcinoma to peritoneum	37175014	SNOMED
+advanced_illness_01	1268388003	Metastatic undifferentiated carcinoma to esophagus	37175096	SNOMED
+advanced_illness_01	1268392005	Metastatic undifferentiated carcinoma to nasal sinus	37175098	SNOMED
+advanced_illness_01	1268394006	Metastatic undifferentiated carcinoma to ovary	37175100	SNOMED
+advanced_illness_01	1268532006	Primary carcinoma of ampulla of Vater	37167586	SNOMED
+advanced_illness_01	1268546006	Primary mucinous cystadenocarcinoma of pancreas	37167600	SNOMED
+advanced_illness_01	1268563005	Primary acinar cell carcinoma of pancreas	37167610	SNOMED
+advanced_illness_01	1268702001	Primary choroid plexus carcinoma	37167654	SNOMED
+advanced_illness_01	1268888008	Primary pineal parenchymal tumor of intermediate differentiation	37167723	SNOMED
+advanced_illness_01	1268957005	Primary pineoblastoma	37167776	SNOMED
+advanced_illness_01	1268966009	Primary gliomatosis cerebri	37167785	SNOMED
+advanced_illness_01	1269047004	Primary papillary tumor of pineal region	37167838	SNOMED
+advanced_illness_01	1269051002	Primary desmoplastic nodular medulloblastoma of brain	37167842	SNOMED
+advanced_illness_01	1269121005	Metastatic rhabdomyosarcoma	37167895	SNOMED
+advanced_illness_01	1269123008	Metastatic squamous cell carcinoma to rectum	37175080	SNOMED
+advanced_illness_01	1269126000	Metastatic squamous cell carcinoma to stomach	37175082	SNOMED
+advanced_illness_01	1279882001	Metastatic embryonal rhabdomyosarcoma	37168383	SNOMED
+advanced_illness_01	128001000119105	Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus	45757393	SNOMED
+advanced_illness_01	128465005	Metastatic malignant neoplasm to articular cartilage	4027231	SNOMED
+advanced_illness_01	1286896000	Metastatic collecting duct renal cell carcinoma	37168858	SNOMED
+advanced_illness_01	1287657002	Primary well-differentiated neuroendocrine tumor of ampulla of Vater	1244445	SNOMED
+advanced_illness_01	1290060007	Metastatic well-differentiated neuroendocrine tumor	1244565	SNOMED
+advanced_illness_01	1290080008	Neuroendocrine neoplasm of pancreas	1244583	SNOMED
+advanced_illness_01	1290116009	Gastric inhibitory peptide-secreting tumor of pancreas	1244601	SNOMED
+advanced_illness_01	1290690001	Metastatic cholangiocarcinoma	1244716	SNOMED
+advanced_illness_01	1290697003	Metastatic eccrine porocarcinoma	1244720	SNOMED
+advanced_illness_01	1290700004	Metastatic lobular carcinoma	1244722	SNOMED
+advanced_illness_01	1296851009	Metastatic malignant melanoma of unknown primary	1245145	SNOMED
+advanced_illness_01	13274008	Atrophic fibrosis of lung	4027868	SNOMED
+advanced_illness_01	13839000	Bernheim's syndrome	4030258	SNOMED
+advanced_illness_01	141991000119109	Delusions in Alzheimer's disease	44782726	SNOMED
+advanced_illness_01	142011000119109	Alzheimer's disease co-occurrent with delirium	37395572	SNOMED
+advanced_illness_01	145501000119108	Metastatic malignant neoplasm to breast	603292	SNOMED
+advanced_illness_01	14700006	Bauxite fibrosis of lung	4032314	SNOMED
+advanced_illness_01	153931000119109	Acute combined systolic and diastolic heart failure	44782718	SNOMED
+advanced_illness_01	153951000119103	Acute on chronic combined systolic and diastolic heart failure	44782733	SNOMED
+advanced_illness_01	15629591000119100	Congestive heart failure stage B due to ischemic cardiomyopathy	36712928	SNOMED
+advanced_illness_01	15662003	Senile dementia	4048875	SNOMED
+advanced_illness_01	1581000119101	Dementia of the Alzheimer type with behavioral disturbance	43530664	SNOMED
+advanced_illness_01	15930821000119100	Bilateral metastatic malignant neoplasm to ovaries	608866	SNOMED
+advanced_illness_01	15956221000119100	Metastatic adenocarcinoma to right lung	608927	SNOMED
+advanced_illness_01	15956661000119100	Metastatic small cell carcinoma to right lung	608929	SNOMED
+advanced_illness_01	15956741000119100	Bilateral metastatic small cell carcinoma to lungs	608930	SNOMED
+advanced_illness_01	15957181000119100	Metastatic squamous cell carcinoma to right lung	608932	SNOMED
+advanced_illness_01	15958181000119100	Metastatic adenocarcinoma to bilateral kidneys	608940	SNOMED
+advanced_illness_01	15958261000119100	Metastatic adenocarcinoma to right kidney	608942	SNOMED
+advanced_illness_01	15958381000119100	Metastatic squamous cell carcinoma to left kidney	608944	SNOMED
+advanced_illness_01	15958701000119100	Bilateral metastatic malignant melanoma to kidneys	608946	SNOMED
+advanced_illness_01	15964701000119100	Saddle embolus of pulmonary artery with acute cor pulmonale	35615055	SNOMED
+advanced_illness_01	15977591000119100	Metastatic malignant neoplasm to right eye	608980	SNOMED
+advanced_illness_01	15999000	Mixed micro and macronodular cirrhosis	4050640	SNOMED
+advanced_illness_01	16055271000119100	Respiratory failure following trauma	765304	SNOMED
+advanced_illness_01	16219201000119100	Behavioral disturbance co-occurrent and due to late onset Alzheimer dementia	37117145	SNOMED
+advanced_illness_01	16276361000119100	Vascular dementia without behavioral disturbance	37109056	SNOMED
+advanced_illness_01	1671000119100	Metastatic squamous cell carcinoma to lymph node	43530697	SNOMED
+advanced_illness_01	16823941000119100	Primary malignant gastrointestinal stromal neoplasm of pancreas	609180	SNOMED
+advanced_illness_01	16845301000119100	Primary glioblastoma multiforme of cerebellum	609185	SNOMED
+advanced_illness_01	16846004	Obstructive emphysema	4056405	SNOMED
+advanced_illness_01	1761006	Biliary cirrhosis	192675	SNOMED
+advanced_illness_01	187791002	Malignant tumor of body of pancreas	4092072	SNOMED
+advanced_illness_01	187793004	Malignant tumor of pancreatic duct	4094866	SNOMED
+advanced_illness_01	187798008	Malignant neoplasm of ectopic pancreatic tissue	4092074	SNOMED
+advanced_illness_01	188281006	Malignant neoplasm of basal ganglia	4091491	SNOMED
+advanced_illness_01	188283009	Malignant neoplasm of corpus striatum	4091492	SNOMED
+advanced_illness_01	188286001	Malignant tumor of hypothalamus	4091493	SNOMED
+advanced_illness_01	188289008	Malignant neoplasm of hippocampus	4094251	SNOMED
+advanced_illness_01	188292007	Malignant tumor of choroid plexus	4094254	SNOMED
+advanced_illness_01	188295009	Malignant neoplasm of cerebral peduncle	4095887	SNOMED
+advanced_illness_01	188297001	Malignant neoplasm of midbrain	4095888	SNOMED
+advanced_illness_01	188301005	Malignant neoplasm of corpus callosum	4095889	SNOMED
+advanced_illness_01	188308004	Malignant neoplasm of olfactory bulb	4095303	SNOMED
+advanced_illness_01	188340000	Malignant tumor of craniopharyngeal duct	4095305	SNOMED
+advanced_illness_01	188454009	Metastatic malignant neoplasm to skin of head	4091762	SNOMED
+advanced_illness_01	188462001	Metastatic malignant neoplasm to brain and spinal cord	378087	SNOMED
+advanced_illness_01	188471005	Metastatic malignant neoplasm to epididymis and vas deferens	4096952	SNOMED
+advanced_illness_01	188648000	Leukemic reticuloendotheliosis of lymph nodes of axilla and upper limb	439269	SNOMED
+advanced_illness_01	189814006	Pancreatoblastoma	40391739	SNOMED
+advanced_illness_01	191449005	Uncomplicated senile dementia	375791	SNOMED
+advanced_illness_01	191452002	Presenile dementia with delirium	381832	SNOMED
+advanced_illness_01	191455000	Presenile dementia with depression	377527	SNOMED
+advanced_illness_01	191458003	Senile dementia with paranoia	4100250	SNOMED
+advanced_illness_01	191461002	Senile dementia with delirium	376946	SNOMED
+advanced_illness_01	191464005	Arteriosclerotic dementia with delirium	376094	SNOMED
+advanced_illness_01	191466007	Arteriosclerotic dementia with depression	374326	SNOMED
+advanced_illness_01	191519005	Dementia associated with another disease	374888	SNOMED
+advanced_illness_01	192927008	Multiple sclerosis of the spinal cord	4101729	SNOMED
+advanced_illness_01	194767001	Benign hypertensive heart disease with congestive cardiac failure	439698	SNOMED
+advanced_illness_01	194781004	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	439694	SNOMED
+advanced_illness_01	195112003	Compensated cardiac failure	4108244	SNOMED
+advanced_illness_01	195957006	Chronic bullous emphysema	4110048	SNOMED
+advanced_illness_01	195959009	Zonal bullous emphysema	4112828	SNOMED
+advanced_illness_01	196028003	Chronic pulmonary fibrosis caused by chemical fumes	4112681	SNOMED
+advanced_illness_01	197291001	Unilobular portal cirrhosis	4055209	SNOMED
+advanced_illness_01	197294009	Fatty portal cirrhosis	4058680	SNOMED
+advanced_illness_01	197301006	Toxic portal cirrhosis	4059287	SNOMED
+advanced_illness_01	197305002	Syphilitic portal cirrhosis	4058682	SNOMED
+advanced_illness_01	20091000175107	Acute on chronic hypoxemic and hypercapnic respiratory failure	35615340	SNOMED
+advanced_illness_01	21861000	Micronodular cirrhosis	4071022	SNOMED
+advanced_illness_01	230156002	Malignant meningitis	4042194	SNOMED
+advanced_illness_01	230265002	Familial Alzheimer's disease of early onset	4043241	SNOMED
+advanced_illness_01	230267005	Familial Alzheimer's disease of late onset	4043243	SNOMED
+advanced_illness_01	230269008	Focal Alzheimer's disease	4043377	SNOMED
+advanced_illness_01	230271008	Pick's disease with Pick bodies	4047744	SNOMED
+advanced_illness_01	230280008	Progressive aphasia in Alzheimer's disease	4043379	SNOMED
+advanced_illness_01	230285003	Vascular dementia of acute onset	4046089	SNOMED
+advanced_illness_01	230287006	Mixed cortical and subcortical vascular dementia	4046090	SNOMED
+advanced_illness_01	230289009	Patchy dementia	4047748	SNOMED
+advanced_illness_01	230300007	Late onset Huntington's disease	4047752	SNOMED
+advanced_illness_01	230372003	Acute relapsing multiple sclerosis	4046108	SNOMED
+advanced_illness_01	23341000119109	Congestive heart failure with right heart failure	44782713	SNOMED
+advanced_illness_01	233675009	Toxic emphysema	4050733	SNOMED
+advanced_illness_01	233713004	Seasonal cryptogenic organizing pneumonia with biochemical cholestasis	4119431	SNOMED
+advanced_illness_01	233737004	Familial fibrous mediastinitis	4119439	SNOMED
+advanced_illness_01	233761006	Subacute silicosis	4124545	SNOMED
+advanced_illness_01	233940007	Pulmonary tumor embolism	4119610	SNOMED
+advanced_illness_01	235880004	Alcoholic fibrosis and sclerosis of liver	4340385	SNOMED
+advanced_illness_01	235895002	"Laennec's cirrhosis, non-alcoholic"	4340392	SNOMED
+advanced_illness_01	235897005	Hypoxia-associated cirrhosis	4340946	SNOMED
+advanced_illness_01	235901004	Hepatic fibrosis with hepatic sclerosis	4340948	SNOMED
+advanced_illness_01	236433006	Acute-on-chronic renal failure	4128067	SNOMED
+advanced_illness_01	236435004	End stage renal failure on dialysis	4030520	SNOMED
+advanced_illness_01	236512004	Leukemic infiltrate of kidney	4126118	SNOMED
+advanced_illness_01	23958009	Vanishing lung	4083395	SNOMED
+advanced_illness_01	2421000119107	Hallucinations co-occurrent and due to late onset dementia	37109222	SNOMED
+advanced_illness_01	24700007	Multiple sclerosis	374919	SNOMED
+advanced_illness_01	253005002	Vasoactive intestinal peptide-secreting tumor	4098951	SNOMED
+advanced_illness_01	254611009	Malignant tumor of endocrine pancreas	4112734	SNOMED
+advanced_illness_01	254938000	Astrocytoma of brain	4110884	SNOMED
+advanced_illness_01	254955001	Pituitary carcinoma	4114193	SNOMED
+advanced_illness_01	255039001	Pancreatic polypeptidoma	4114220	SNOMED
+advanced_illness_01	255112006	Malignant tumor of pituitary and hypothalamus	4111029	SNOMED
+advanced_illness_01	255119002	Lymphangitis carcinomatosa	4114342	SNOMED
+advanced_illness_01	255123005	Metastasis to nervous system and eye	4116348	SNOMED
+advanced_illness_01	25544003	Low output heart failure	4103448	SNOMED
+advanced_illness_01	266355005	Bullous emphysema with collapse	4145496	SNOMED
+advanced_illness_01	266368002	Post-inflammatory pulmonary fibrosis	253797	SNOMED
+advanced_illness_01	266470007	Cardiac portal cirrhosis	4141628	SNOMED
+advanced_illness_01	26852004	"Primary degenerative dementia of the Alzheimer type, senile onset, with depression"	4097384	SNOMED
+advanced_illness_01	26929004	Alzheimer's disease	378419	SNOMED
+advanced_illness_01	271440004	Cirrhosis secondary to cholestasis	4153294	SNOMED
+advanced_illness_01	274088005	Metastatic malignant neoplasm to unknown site	4158910	SNOMED
+advanced_illness_01	276259003	Respiratory arrest preceding cardiac arrest	4077195	SNOMED
+advanced_illness_01	276828006	Glioblastoma multiforme of brain	4174444	SNOMED
+advanced_illness_01	277461004	Anaplastic astrocytoma of brain	4079553	SNOMED
+advanced_illness_01	278051002	Malignant lymphoma of thyroid gland	4080741	SNOMED
+advanced_illness_01	278857002	Dementia of frontal lobe type	441002	SNOMED
+advanced_illness_01	281560004	Neuroblastoma of brain	4083496	SNOMED
+advanced_illness_01	285221000119109	Congestive heart failure as post-operative complication of non-cardiac surgery	762003	SNOMED
+advanced_illness_01	286371000119107	Malignant hypertensive end stage renal disease on dialysis	43021864	SNOMED
+advanced_illness_01	288631000119104	Vascular dementia with behavioral disturbance	37018688	SNOMED
+advanced_illness_01	293671000119109	Behavioral disturbance due to multi-infarct dementia	37155661	SNOMED
+advanced_illness_01	303194003	Metastasis to head and neck lymph node	4123439	SNOMED
+advanced_illness_01	304603007	Variant Creutzfeldt-Jakob disease	443362	SNOMED
+advanced_illness_01	307593001	Carcinomatosis	4141245	SNOMED
+advanced_illness_01	31081000119101	Presenile dementia with delusions	44782771	SNOMED
+advanced_illness_01	314206003	Refractory heart failure	4199500	SNOMED
+advanced_illness_01	314418005	Leukemic infiltrate of retina	4197152	SNOMED
+advanced_illness_01	31712002	Primary biliary cholangitis	4135822	SNOMED
+advanced_illness_01	326072005	Carcinoma of head of pancreas	4209933	SNOMED
+advanced_illness_01	33325001	Compensatory emphysema	261895	SNOMED
+advanced_illness_01	3514002	Peribronchial fibrosis of lung	4148685	SNOMED
+advanced_illness_01	353561000119103	Metastatic malignant neoplasm to right lung	46270513	SNOMED
+advanced_illness_01	353721000119100	Metastatic malignant neoplasm to left adrenal gland	601143	SNOMED
+advanced_illness_01	354081000119101	Metastatic adenocarcinoma	604497	SNOMED
+advanced_illness_01	359780007	Metastatic malignant neoplasm to lateral axillary lymph nodes	4234267	SNOMED
+advanced_illness_01	359785002	Metastatic malignant neoplasm to dome of urinary bladder	4230395	SNOMED
+advanced_illness_01	361194002	Perinatal pulmonary fibroplasia	4263343	SNOMED
+advanced_illness_01	361196000	Idiopathic hilar fibrosis	4262577	SNOMED
+advanced_illness_01	363369002	Carcinoma of tail of pancreas	4178960	SNOMED
+advanced_illness_01	363418001	Malignant tumor of pancreas	4180793	SNOMED
+advanced_illness_01	363467004	Malignant neoplasm of frontal lobe	4181480	SNOMED
+advanced_illness_01	363469001	Malignant neoplasm of parietal lobe	4181481	SNOMED
+advanced_illness_01	363471001	Malignant neoplasm of cerebral ventricles	4177233	SNOMED
+advanced_illness_01	363482009	Malignant tumor of pituitary gland	4177235	SNOMED
+advanced_illness_01	364006	Acute left-sided heart failure	4267800	SNOMED
+advanced_illness_01	367363000	Right ventricular failure	4273632	SNOMED
+advanced_illness_01	369488002	Metastatic malignant neoplasm to seminal vesicle	4283739	SNOMED
+advanced_illness_01	369521009	Metastatic malignant neoplasm to right fallopian tube	4289680	SNOMED
+advanced_illness_01	369530001	Metastatic malignant neoplasm to right ovary	4281030	SNOMED
+advanced_illness_01	369536007	Metastatic neoplasm of right broad ligament	4289684	SNOMED
+advanced_illness_01	371026009	Senile dementia with psychosis	4159643	SNOMED
+advanced_illness_01	371967001	Primary malignant neoplasm of ampulla of Vater	441225	SNOMED
+advanced_illness_01	372093008	Metastatic malignant neoplasm to axillary tail of breast	4162133	SNOMED
+advanced_illness_01	372142002	Carcinoma of pancreas	4157459	SNOMED
+advanced_illness_01	39871006	Chronic respiratory failure	314971	SNOMED
+advanced_illness_01	400058002	Metastatic malignant neoplasm to blood vessel of lower leg	4220182	SNOMED
+advanced_illness_01	402563000	Metastatic malignant melanoma with diffuse hypermelanosis	4292389	SNOMED
+advanced_illness_01	40312006	Pericarditis secondary to tumor metastatic to pericardium	4222722	SNOMED
+advanced_illness_01	404090003	Malignant infiltration of oral cavity by underlying tumor	4301656	SNOMED
+advanced_illness_01	404092006	Metastatic carcinoma to skin	4299133	SNOMED
+advanced_illness_01	404094007	Metastasis involving oral cavity	4297349	SNOMED
+advanced_illness_01	404123008	Leukemic infiltration of skin (T-cell prolymphocytic leukemia)	4301665	SNOMED
+advanced_illness_01	404139001	Leukemic infiltration of skin in hairy-cell leukemia	4299151	SNOMED
+advanced_illness_01	404156009	Leukemic infiltration of skin	4301780	SNOMED
+advanced_illness_01	405570007	Pulmonary fibrosis due to and following radiotherapy	4236725	SNOMED
+advanced_illness_01	40640008	Massive silicotic fibrosis of lung	4230447	SNOMED
+advanced_illness_01	410430005	Cardiorespiratory arrest	4256374	SNOMED
+advanced_illness_01	41309000	Alcoholic liver damage	201612	SNOMED
+advanced_illness_01	416780008	"Primary degenerative dementia of the Alzheimer type, presenile onset"	4218017	SNOMED
+advanced_illness_01	417996009	Systolic heart failure	443580	SNOMED
+advanced_illness_01	418529003	Metastatic malignant neoplasm to lacrimal drainage structure	4302810	SNOMED
+advanced_illness_01	421023003	Presenile dementia with AIDS (acquired immunodeficiency syndrome)	4224240	SNOMED
+advanced_illness_01	421529006	Dementia with AIDS (acquired immunodeficiency syndrome)	4228133	SNOMED
+advanced_illness_01	423384009	Metastatic malignant neoplasm to lacrimal gland duct	4308759	SNOMED
+advanced_illness_01	423595004	Adenocarcinoma carcinomatosis	4311148	SNOMED
+advanced_illness_01	424151006	Anaplastic glioma of brain	4314458	SNOMED
+advanced_illness_01	424404003	Decompensated chronic heart failure	4311437	SNOMED
+advanced_illness_01	425303004	Squamous cell carcinomatosis	4312923	SNOMED
+advanced_illness_01	425413006	Drug-induced cirrhosis of liver	4143008	SNOMED
+advanced_illness_01	426263006	Congestive heart failure due to left ventricular systolic dysfunction	4139864	SNOMED
+advanced_illness_01	426437004	Familial idiopathic pulmonary fibrosis	4140134	SNOMED
+advanced_illness_01	426896000	Chronic hypercapnic respiratory failure	4140438	SNOMED
+advanced_illness_01	428061005	Malignant neoplasm of brain	443588	SNOMED
+advanced_illness_01	428351000124105	Severe dementia	765653	SNOMED
+advanced_illness_01	429033009	Malignant neoplasm of cerebrum	443561	SNOMED
+advanced_illness_01	429458009	Dementia due to Creutzfeldt Jakob disease	4180284	SNOMED
+advanced_illness_01	430771000124100	Moderate dementia	762704	SNOMED
+advanced_illness_01	43736008	Rheumatic left ventricular failure	4184497	SNOMED
+advanced_illness_01	439567002	Malignant multiple sclerosis	4258676	SNOMED
+advanced_illness_01	441481004	Chronic systolic heart failure	40479192	SNOMED
+advanced_illness_01	442344002	Dementia due to Huntington chorea	40483103	SNOMED
+advanced_illness_01	443144000	Metastatic sarcoma	40480137	SNOMED
+advanced_illness_01	443254009	Acute systolic heart failure	40480603	SNOMED
+advanced_illness_01	443343001	Acute diastolic heart failure	40481042	SNOMED
+advanced_illness_01	443493003	Metastatic malignant melanoma	40481908	SNOMED
+advanced_illness_01	448218008	Malignant neoplasm of cerebellopontine angle	40488902	SNOMED
+advanced_illness_01	448250003	Malignant teratoma of pineal region	40488937	SNOMED
+advanced_illness_01	448989001	Carcinoma of brain	40492933	SNOMED
+advanced_illness_01	449420002	Malignant neoplasm of cerebellum	40487143	SNOMED
+advanced_illness_01	449631002	Metastatic malignant neoplasm to skin of upper arm	42709759	SNOMED
+advanced_illness_01	449633004	Metastatic malignant neoplasm to upper arm	42709761	SNOMED
+advanced_illness_01	457721000124104	Metastatic non-small cell lung cancer	36684857	SNOMED
+advanced_illness_01	458581000124106	Metastatic HER2 positive gastroesophageal junction cancer	36674609	SNOMED
+advanced_illness_01	459381000124106	Metastatic castration-resistant prostate cancer	36684947	SNOMED
+advanced_illness_01	459401000124106	Metastatic pancreatic endocrine carcinoma	36684949	SNOMED
+advanced_illness_01	459421000124101	Metastatic penile cancer	36684951	SNOMED
+advanced_illness_01	46113002	Hypertensive heart failure	444101	SNOMED
+advanced_illness_01	471880001	Heart failure due to end stage congenital heart disease	43020657	SNOMED
+advanced_illness_01	4817008	"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium"	4167839	SNOMED
+advanced_illness_01	49049000	Parkinson's disease	381270	SNOMED
+advanced_illness_01	4981000	Panacinar emphysema	4177944	SNOMED
+advanced_illness_01	50325005	Alcoholic fatty liver	193256	SNOMED
+advanced_illness_01	51615001	Fibrosis of lung	4197819	SNOMED
+advanced_illness_01	52448006	Dementia	4182210	SNOMED
+advanced_illness_01	5375005	Chronic left-sided congestive heart failure	4206009	SNOMED
+advanced_illness_01	54867000	Rheumatoid fibrosing alveolitis	4184896	SNOMED
+advanced_illness_01	56267009	Multi-infarct dementia	379778	SNOMED
+advanced_illness_01	56841008	Massive fibrosis of lung	4209871	SNOMED
+advanced_illness_01	58756001	Huntington's chorea	374341	SNOMED
+advanced_illness_01	62377009	Postpartum cardiomyopathy	312383	SNOMED
+advanced_illness_01	65096006	"Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium"	4277746	SNOMED
+advanced_illness_01	66989003	Chronic right-sided congestive heart failure	4284562	SNOMED
+advanced_illness_01	67441000119101	Congestive heart failure stage C	43021826	SNOMED
+advanced_illness_01	681621000119105	Primary adenocarcinoma of body of pancreas	36713362	SNOMED
+advanced_illness_01	681831000119107	Primary adenocarcinoma of neck of pancreas	602008	SNOMED
+advanced_illness_01	681971000119100	Primary adenocarcinoma of tail of pancreas	602011	SNOMED
+advanced_illness_01	682231000119100	Primary anaplastic astrocytoma of frontal lobe	602017	SNOMED
+advanced_illness_01	682251000119106	Primary anaplastic astrocytoma of parietal lobe	602019	SNOMED
+advanced_illness_01	682441000119105	Primary astrocytoma of cerebral ventricle	37174120	SNOMED
+advanced_illness_01	682461000119109	Primary astrocytoma of occipital lobe	37174121	SNOMED
+advanced_illness_01	682481000119100	Primary astrocytoma of temporal lobe	602029	SNOMED
+advanced_illness_01	683761000119107	Primary ependymoma of brain ventricle	602043	SNOMED
+advanced_illness_01	684901000119107	Primary glioblastoma multiforme of cerebrum	602047	SNOMED
+advanced_illness_01	684921000119103	Primary glioblastoma multiforme of occipital lobe	602048	SNOMED
+advanced_illness_01	684941000119109	Primary glioblastoma multiforme of temporal lobe	602050	SNOMED
+advanced_illness_01	686431000119100	Primary malignant glioma of frontal lobe	602068	SNOMED
+advanced_illness_01	686451000119106	Primary malignant glioma of parietal lobe	602070	SNOMED
+advanced_illness_01	687331000119109	Primary oligodendroglioma of frontal lobe	602080	SNOMED
+advanced_illness_01	687351000119103	Primary oligodendroglioma of parietal lobe	602081	SNOMED
+advanced_illness_01	698296002	Acute exacerbation of chronic congestive heart failure	44782655	SNOMED
+advanced_illness_01	698594003	Symptomatic congestive heart failure	44784442	SNOMED
+advanced_illness_01	698625002	Dementia associated with normal pressure hydrocephalus	44784473	SNOMED
+advanced_illness_01	698725008	Dementia associated with neurosyphilis	44784559	SNOMED
+advanced_illness_01	698781002	Dementia associated with cerebral anoxia	44784607	SNOMED
+advanced_illness_01	699318007	Supratentorial primitive neuroectodermal tumor	44782471	SNOMED
+advanced_illness_01	700250006	Idiopathic pulmonary fibrosis	45763750	SNOMED
+advanced_illness_01	702392008	Metastatic renal cell carcinoma	45773365	SNOMED
+advanced_illness_01	703273002	Heart failure with reduced ejection fraction due to coronary artery disease	45766165	SNOMED
+advanced_illness_01	703275009	Heart failure with reduced ejection fraction due to cardiomyopathy	45766167	SNOMED
+advanced_illness_01	704152002	Metastatic neuroblastoma	45772700	SNOMED
+advanced_illness_01	707324008	Anemia in end stage renal disease	45768813	SNOMED
+advanced_illness_01	708030004	Pulmonary emphysema co-occurrent with fibrosis of lung	45769389	SNOMED
+advanced_illness_01	709285002	Metastatic malignant neoplasm to lumbosacral plexus	46271211	SNOMED
+advanced_illness_01	71193007	Fibrosis of lung caused by radiation	4322799	SNOMED
+advanced_illness_01	713060000	Sporadic Creutzfeldt-Jakob disease	37016908	SNOMED
+advanced_illness_01	713189001	Malignant insulinoma	37017016	SNOMED
+advanced_illness_01	713488003	Presenile dementia co-occurrent with human immunodeficiency virus infection	37017247	SNOMED
+advanced_illness_01	715401008	Reynolds syndrome	37399445	SNOMED
+advanced_illness_01	715662009	Iatrogenic Jakob-Creutzfeldt disease	37396005	SNOMED
+advanced_illness_01	715904005	Pineal parenchymal tumor of intermediate differentiation	37396187	SNOMED
+advanced_illness_01	716203000	Decompensated cirrhosis of liver	37396401	SNOMED
+advanced_illness_01	717840005	Congestive heart failure stage B	36713488	SNOMED
+advanced_illness_01	718685006	Orthostatic hypotension co-occurrent and due to Parkinson's disease	36713737	SNOMED
+advanced_illness_01	719717006	Psychosis co-occurrent and due to Parkinson's disease	36714473	SNOMED
+advanced_illness_01	721977007	"Lung fibrosis, immunodeficiency, 46,XX gonadal dysgenesis syndrome"	36716112	SNOMED
+advanced_illness_01	100731000119107	Low grade astrocytoma of brain	36684450	SNOMED
+advanced_illness_01	1010333003	Emphysema of left lung	605066	SNOMED
+advanced_illness_01	1010616001	Liver cirrhosis due to classical cystic fibrosis	605193	SNOMED
+advanced_illness_01	101421000119107	Dementia due to Parkinson's disease	44782422	SNOMED
+advanced_illness_01	10349009	Multi-infarct dementia with delirium	444091	SNOMED
+advanced_illness_01	103611000119102	Cirrhosis of liver due to hepatitis B	45772057	SNOMED
+advanced_illness_01	105041000119109	Metastatic squamous cell carcinoma to lung	600852	SNOMED
+advanced_illness_01	10532003	"Primary degenerative dementia of the Alzheimer type, presenile onset, with depression"	4019705	SNOMED
+advanced_illness_01	106021000119105	Multi-infarct dementia due to atherosclerosis	37395562	SNOMED
+advanced_illness_01	10672271000119100	Acute on chronic hypoxemic respiratory failure	37016114	SNOMED
+advanced_illness_01	107571000119101	Oligodendroglioma of brain stem	759902	SNOMED
+advanced_illness_01	10762071000119100	Acute-on-chronic respiratory failure following trauma	765888	SNOMED
+advanced_illness_01	107831000119101	Metastatic squamous cell carcinoma to liver	608855	SNOMED
+advanced_illness_01	1079541000119100	Metastatic malignant neoplasm to right kidney	602668	SNOMED
+advanced_illness_01	108131000119108	Small cell carcinoma metastatic to kidney	759939	SNOMED
+advanced_illness_01	108211000119108	Secondary adenocarcinoma of kidney	759982	SNOMED
+advanced_illness_01	109819003	Obstructive biliary cirrhosis	4003673	SNOMED
+advanced_illness_01	109912006	Overlapping malignant neoplasm of brain	4003693	SNOMED
+advanced_illness_01	111411000119103	End stage renal disease due to hypertension	37018886	SNOMED
+advanced_illness_01	1141626005	Adenocarcinoma of pancreas with NRG1 fusion	605820	SNOMED
+advanced_illness_01	1148551007	Infiltrating duct carcinoma of pancreas	606747	SNOMED
+advanced_illness_01	1155991005	Metastatic malignant neoplasm to leptomeninges	607797	SNOMED
+advanced_illness_01	1156414004	Giant cell glioblastoma of brain	603116	SNOMED
+advanced_illness_01	1156416002	Gemistocytic astrocytoma of brain	603118	SNOMED
+advanced_illness_01	1156455001	Pleomorphic xanthoastrocytoma of brain	607976	SNOMED
+advanced_illness_01	1156460002	Desmoplastic nodular medulloblastoma of brain	607980	SNOMED
+advanced_illness_01	1156469001	Large cell medulloblastoma of brain	607985	SNOMED
+advanced_illness_01	1156472008	Papillary tumor of pineal region	607988	SNOMED
+advanced_illness_01	1156798001	Autosomal dominant Alzheimer disease due to mutation of presenilin 2	608060	SNOMED
+advanced_illness_01	1156822001	Autosomal recessive familial Parkinson disease	608078	SNOMED
+advanced_illness_01	1163119007	Creutzfeldt Jakob disease following graft of dura	37160714	SNOMED
+advanced_illness_01	116811000119106	Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of lower limb	37016150	SNOMED
+advanced_illness_01	11717361000119100	Metastatic malignant neoplasm to soft tissue of back	602316	SNOMED
+advanced_illness_01	1177062005	Sporadic fatal insomnia	37161157	SNOMED
+advanced_illness_01	1186612004	Metastatic hepatocellular carcinoma	37162050	SNOMED
+advanced_illness_01	230272001	Pick's disease with Pick cells and no Pick bodies	4044049	SNOMED
+advanced_illness_01	230282000	Traumatic encephalopathy	4047745	SNOMED
+advanced_illness_01	230286002	Subcortical vascular dementia	4047747	SNOMED
+advanced_illness_01	230288001	Semantic dementia	4046091	SNOMED
+advanced_illness_01	230299004	Juvenile onset Huntington's disease	4043381	SNOMED
+advanced_illness_01	230301006	Akinetic-rigid form of Huntington's disease	4046095	SNOMED
+advanced_illness_01	230499002	Sleep-related respiratory failure	4044242	SNOMED
+advanced_illness_01	233674008	Pulmonary emphysema in alpha-1 PI deficiency	4050732	SNOMED
+advanced_illness_01	233677001	Scar emphysema	4050734	SNOMED
+advanced_illness_01	233726000	Localized pulmonary fibrosis	4120272	SNOMED
+advanced_illness_01	233758005	Mica pneumoconiosis	4119445	SNOMED
+advanced_illness_01	233924009	Heart failure as a complication of care	4124705	SNOMED
+advanced_illness_01	235875008	Alcoholic hepatitis	4340383	SNOMED
+advanced_illness_01	235881000	Alcoholic hepatic failure	4340386	SNOMED
+advanced_illness_01	235896001	Infectious cirrhosis	4340393	SNOMED
+advanced_illness_01	235899008	Hepatic sclerosis	4340394	SNOMED
+advanced_illness_01	235966007	Cystadenocarcinoma of pancreas	4340498	SNOMED
+advanced_illness_01	236434000	End stage renal failure untreated by renal replacement therapy	4128200	SNOMED
+advanced_illness_01	236436003	End stage renal failure with renal transplant	4125970	SNOMED
+advanced_illness_01	236513009	Lymphoma of kidney	4030667	SNOMED
+advanced_illness_01	241861008	Metastatic malignant neoplasm to nasopharynx	4084147	SNOMED
+advanced_illness_01	242862004	Metastatic malignant neoplasm to nasopharyngeal wall	4055132	SNOMED
+advanced_illness_01	24841007	Cardiorespiratory failure during AND/OR resulting from a procedure	4093993	SNOMED
+advanced_illness_01	254609000	Carcinoma of ampulla of Vater	4115272	SNOMED
+advanced_illness_01	254612002	Carcinoma of endocrine pancreas	4110585	SNOMED
+advanced_illness_01	254940005	Oligodendroglioma of brain	4112961	SNOMED
+advanced_illness_01	254969001	Malignant tumor of olfactory tract	4114198	SNOMED
+advanced_illness_01	255088001	Malignant tumor of exocrine pancreas	4111024	SNOMED
+advanced_illness_01	255118005	Metastatic lymphangitic carcinoma	4114341	SNOMED
+advanced_illness_01	255121007	Carcinomatosis of peritoneal cavity	4114343	SNOMED
+advanced_illness_01	255124004	Metastasis to peripheral nerve	4111031	SNOMED
+advanced_illness_01	25772007	Multi-infarct dementia with delusions	443790	SNOMED
+advanced_illness_01	266356006	Atrophic (senile) emphysema	4148124	SNOMED
+advanced_illness_01	266468003	Cirrhosis - non-alcoholic	194692	SNOMED
+advanced_illness_01	266469006	Multilobular portal cirrhosis	4148254	SNOMED
+advanced_illness_01	94192008	Metastatic malignant neoplasm to blood vessel of finger	4246354	SNOMED
+advanced_illness_01	94194009	Metastatic malignant neoplasm to blood vessel of forearm	4312804	SNOMED
+advanced_illness_01	94196006	Metastatic malignant neoplasm to blood vessel of head	4246356	SNOMED
+advanced_illness_01	94198007	Metastatic malignant neoplasm to blood vessel of inguinal region	4246358	SNOMED
+advanced_illness_01	94200001	Metastatic malignant neoplasm to blood vessel of lower limb	4311756	SNOMED
+advanced_illness_01	94201002	Metastatic malignant neoplasm to blood vessel of neck	4312165	SNOMED
+advanced_illness_01	94203004	Metastatic malignant neoplasm to blood vessel of perineum	4312166	SNOMED
+advanced_illness_01	94205006	Metastatic malignant neoplasm to blood vessel of shoulder	4312821	SNOMED
+advanced_illness_01	94207003	Metastatic malignant neoplasm to blood vessel of thorax	4311758	SNOMED
+advanced_illness_01	94209000	Metastatic malignant neoplasm to blood vessel of trunk	4312167	SNOMED
+advanced_illness_01	94211009	Metastatic malignant neoplasm to blood vessel	4312276	SNOMED
+advanced_illness_01	94213007	Metastatic malignant neoplasm to body of penis	4246369	SNOMED
+advanced_illness_01	94215000	Metastatic malignant neoplasm to body of uterus	4312277	SNOMED
+advanced_illness_01	94218003	Metastatic malignant neoplasm to bone of face	4312278	SNOMED
+advanced_illness_01	94220000	Metastatic malignant neoplasm to bone of skull	4312823	SNOMED
+advanced_illness_01	94222008	Metastatic malignant neoplasm to bone	78097	SNOMED
+advanced_illness_01	94225005	Metastatic malignant neoplasm to brain	4246451	SNOMED
+advanced_illness_01	94227002	Metastatic malignant neoplasm to bronchopulmonary lymph nodes	4312281	SNOMED
+advanced_illness_01	94229004	Metastatic malignant neoplasm to bronchus of left upper lobe	4312282	SNOMED
+advanced_illness_01	94231008	Metastatic malignant neoplasm to bronchus of middle lobe of right lung	4246454	SNOMED
+advanced_illness_01	94233006	Metastatic malignant neoplasm to bronchus	4312284	SNOMED
+advanced_illness_01	94235004	Metastatic malignant neoplasm to cecum	4312286	SNOMED
+advanced_illness_01	94237007	Metastatic malignant neoplasm to cardia of stomach	4312934	SNOMED
+advanced_illness_01	94239005	Metastatic malignant neoplasm to carotid body	4246455	SNOMED
+advanced_illness_01	94241006	Metastatic malignant neoplasm to cartilage of nose	4312287	SNOMED
+advanced_illness_01	94243009	Metastatic malignant neoplasm to central nervous system	4312288	SNOMED
+advanced_illness_01	94246001	Metastatic malignant neoplasm to cerebral meninges	4312290	SNOMED
+advanced_illness_01	94248000	Metastatic malignant neoplasm to cerebrum	4311763	SNOMED
+advanced_illness_01	94250008	Metastatic malignant neoplasm to cervical vertebral column	4246457	SNOMED
+advanced_illness_01	94253005	Metastatic malignant neoplasm to chest wall	4311764	SNOMED
+advanced_illness_01	94255003	Metastatic malignant neoplasm to ciliary body	4312293	SNOMED

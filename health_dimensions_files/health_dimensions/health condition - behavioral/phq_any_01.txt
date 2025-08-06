@@ -1,0 +1,2 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
+phq_any_01	1081951000000100	PHQ (Podiatric Health Questionnaire) score	SNOMED	35609423	PHQ - Podiatric Health Questionnaire

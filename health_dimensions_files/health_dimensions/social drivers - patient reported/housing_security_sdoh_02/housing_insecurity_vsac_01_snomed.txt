@@ -1,0 +1,7 @@
+code_set	concept_code	concept_name	vocabulary_id	concept_id
+housing_insecurity_vsac_01	1156192009	Housing instability due to imminent risk of homelessness	SNOMED	607908
+housing_insecurity_vsac_01	1156194005	Housing instability following recent homelessness	SNOMED	607912
+housing_insecurity_vsac_01	32911000	Homeless	SNOMED	4139934
+housing_insecurity_vsac_01	611131000124100	Sheltered homelessness	SNOMED	37173458
+housing_insecurity_vsac_01	611141000124105	Unsheltered homelessness	SNOMED	37173459
+housing_insecurity_vsac_01	611551000124102	"Homelessness, living in a shared accommodation"	SNOMED	37173487
