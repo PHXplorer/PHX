@@ -1,0 +1,22 @@
+code_set	concept_code	concept_name	vocabulary_id	domain_id
+colonoscopy_01_base	1209098000	Fiberoptic colonoscopy with biopsy of lesion of colon (procedure)	SNOMED	Procedure
+colonoscopy_01_base	12350003	Colonoscopy with rigid sigmoidoscope through colotomy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	174158000	Open colonoscopy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	235150006	Total colonoscopy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	235151005	Limited colonoscopy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	302052009	Endoscopic biopsy of lesion of colon (procedure)	SNOMED	Procedure
+colonoscopy_01_base	34264006	Intraoperative colonoscopy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	443998000	Colonoscopy through colostomy with endoscopic biopsy of colon (procedure)	SNOMED	Procedure
+colonoscopy_01_base	444783004	Screening colonoscopy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	446521004	Colonoscopy and excision of mucosa of colon (procedure)	SNOMED	Procedure
+colonoscopy_01_base	446745002	Colonoscopy and biopsy of colon (procedure)	SNOMED	Procedure
+colonoscopy_01_base	447021001	Colonoscopy and tattooing (procedure)	SNOMED	Procedure
+colonoscopy_01_base	709421007	Colonoscopy and dilatation of stricture of colon (procedure)	SNOMED	Procedure
+colonoscopy_01_base	710293001	Colonoscopy using fluoroscopic guidance (procedure)	SNOMED	Procedure
+colonoscopy_01_base	711307001	Colonoscopy using X-ray guidance (procedure)	SNOMED	Procedure
+colonoscopy_01_base	713154003	Endoscopic submucosal dissection of rectum using colonoscope (procedure)	SNOMED	Procedure
+colonoscopy_01_base	73761001	Colonoscopy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	8180007	Fiberoptic colonoscopy through colostomy (procedure)	SNOMED	Procedure
+colonoscopy_01_base	851000119109	History of colonoscopy (situation)	SNOMED	Observation
+colonoscopy_01_base	G0105	Colorectal cancer screening; colonoscopy on individual at high risk	HCPCS	Measurement
+colonoscopy_01_base	G0121	Colorectal cancer screening; colonoscopy on individual not meeting criteria for high risk	HCPCS	Measurement

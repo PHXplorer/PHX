@@ -1,40 +1,55 @@
-﻿autism_01_base	39951000119105	Pervasive developmental disorder of residual state	43020503	SNOMED	Condition
-autism_01_base	1254652005	Intellectual disability, macrocephaly, hypotonia, behavioral abnormalities syndrome	37165355	SNOMED	Condition
-autism_01_base	870308001	Pervasive developmental disorder with cognitive developmental delay and complete impairment of functional language	3661694	SNOMED	Condition
-autism_01_base	870307006	Pervasive developmental disorder with abscence of functional language	3661693	SNOMED	Condition
-autism_01_base	870306002	Pervasive developmental disorder with complete impairment of functional language	3661692	SNOMED	Condition
-autism_01_base	870305003	Pervasive developmental disorder with cognitive developmental delay and marked impairment of functional language	3661691	SNOMED	Condition
-autism_01_base	870304004	Pervasive developmental disorder with complete impairment of functional language without loss of previously acquired skills	3661690	SNOMED	Condition
-autism_01_base	870303005	Pervasive developmental disorder with complete impairment of functional language with loss of previously acquired skills	3661689	SNOMED	Condition
-autism_01_base	870282001	Pervasive developmental disorder with severe impairment of functional language without loss of previously acquired skills	3661688	SNOMED	Condition
-autism_01_base	870280009	Pervasive developmental disorder with severe impairment of functional language with loss of previously acquired skills	3661687	SNOMED	Condition
-autism_01_base	870270005	Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language with loss of previously acquired skills	3661686	SNOMED	Condition
-autism_01_base	870269009	Pervasive developmental disorder with disorder of intellectual development and absence of functional language with loss of previously acquired skills	3661684	SNOMED	Condition
-autism_01_base	870268001	Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language without loss of previously acquired skills	3661683	SNOMED	Condition
-autism_01_base	870267006	Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language without loss of previously acquired skills	3661682	SNOMED	Condition
-autism_01_base	870266002	Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language with loss of previously acquired skills	3661681	SNOMED	Condition
-autism_01_base	870265003	Pervasive developmental disorder with disorder of intellectual development with loss of previously acquired skills	3655812	SNOMED	Condition
-autism_01_base	870264004	Pervasive developmental disorder with disorder of intellectual development and pervasive impairment of functional language without loss of previously acquired skills	3661680	SNOMED	Condition
-autism_01_base	870263005	Pervasive developmental disorder with impairment of functional language	3661679	SNOMED	Condition
-autism_01_base	870262000	Pervasive developmental disorder with disorder of intellectual development without loss of previously acquired skills	3655811	SNOMED	Condition
-autism_01_base	870261007	Pervasive developmental disorder with marked impairment of functional language without loss of previously acquired skills	3661678	SNOMED	Condition
-autism_01_base	870260008	Pervasive developmental disorder with marked impairment of functional language with loss of previously acquired skills	3661677	SNOMED	Condition
-autism_01_base	783089006	Macrocephaly, intellectual disability, autism syndrome	37204430	SNOMED	Condition
-autism_01_base	771512003	Autism spectrum disorder due to AUTS2 deficiency	36675177	SNOMED	Condition
-autism_01_base	766824003	ADNP-related multiple congenital anomalies, intellectual disability, autism spectrum disorder	35624210	SNOMED	Condition
-autism_01_base	733623005	Autism spectrum disorder, epilepsy, arthrogryposis syndrome	37116742	SNOMED	Condition
-autism_01_base	723332005	Isodicentric chromosome 15 syndrome	37109594	SNOMED	Condition
-autism_01_base	719600006	1p21.3 microdeletion syndrome	36717734	SNOMED	Condition
-autism_01_base	718393002	Atypical Rett syndrome	37397680	SNOMED	Condition
-autism_01_base	712884004	Pathological demand avoidance	37016769	SNOMED	Condition
-autism_01_base	702732007	High-functioning autism	45765723	SNOMED	Condition
-autism_01_base	702450004	FOXG1 syndrome	45765499	SNOMED	Condition
-autism_01_base	442314000	Active but odd autism	40482738	SNOMED	Condition
-autism_01_base	432091002	Savant syndrome	4332239	SNOMED	Condition
-autism_01_base	408857007	Infantile autism	4254211	SNOMED	Condition
-autism_01_base	373618009	Autistic spectrum disorder with isolated skills	4189466	SNOMED	Condition
-autism_01_base	231536004	Atypical autism	4338037	SNOMED	Condition
-autism_01_base	68618008	Rett syndrome	4288480	SNOMED	Condition
-autism_01_base	43614003	Autistic disorder of childhood onset	434902	SNOMED	Condition
-autism_01_base	23560001	Asperger's disorder	4053178	SNOMED	Condition
-autism_01_base	35919005	Autism spectrum disorder	439776	SNOMED	Condition
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+autism_01	39951000119105	Pervasive developmental disorder of residual state	43020503	SNOMED	Condition
+autism_01	1254652005	Intellectual disability, macrocephaly, hypotonia, behavioral abnormalities syndrome	37165355	SNOMED	Condition
+autism_01	870308001	Pervasive developmental disorder with cognitive developmental delay and complete impairment of functional language	3661694	SNOMED	Condition
+autism_01	870307006	Pervasive developmental disorder with abscence of functional language	3661693	SNOMED	Condition
+autism_01	870306002	Pervasive developmental disorder with complete impairment of functional language	3661692	SNOMED	Condition
+autism_01	870305003	Pervasive developmental disorder with cognitive developmental delay and marked impairment of functional language	3661691	SNOMED	Condition
+autism_01	870304004	Pervasive developmental disorder with complete impairment of functional language without loss of previously acquired skills	3661690	SNOMED	Condition
+autism_01	870303005	Pervasive developmental disorder with complete impairment of functional language with loss of previously acquired skills	3661689	SNOMED	Condition
+autism_01	870282001	Pervasive developmental disorder with severe impairment of functional language without loss of previously acquired skills	3661688	SNOMED	Condition
+autism_01	870280009	Pervasive developmental disorder with severe impairment of functional language with loss of previously acquired skills	3661687	SNOMED	Condition
+autism_01	870270005	Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language with loss of previously acquired skills	3661686	SNOMED	Condition
+autism_01	870269009	Pervasive developmental disorder with disorder of intellectual development and absence of functional language with loss of previously acquired skills	3661684	SNOMED	Condition
+autism_01	870268001	Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language without loss of previously acquired skills	3661683	SNOMED	Condition
+autism_01	870267006	Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language without loss of previously acquired skills	3661682	SNOMED	Condition
+autism_01	870266002	Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language with loss of previously acquired skills	3661681	SNOMED	Condition
+autism_01	870265003	Pervasive developmental disorder with disorder of intellectual development with loss of previously acquired skills	3655812	SNOMED	Condition
+autism_01	870264004	Pervasive developmental disorder with disorder of intellectual development and pervasive impairment of functional language without loss of previously acquired skills	3661680	SNOMED	Condition
+autism_01	870263005	Pervasive developmental disorder with impairment of functional language	3661679	SNOMED	Condition
+autism_01	870262000	Pervasive developmental disorder with disorder of intellectual development without loss of previously acquired skills	3655811	SNOMED	Condition
+autism_01	870261007	Pervasive developmental disorder with marked impairment of functional language without loss of previously acquired skills	3661678	SNOMED	Condition
+autism_01	870260008	Pervasive developmental disorder with marked impairment of functional language with loss of previously acquired skills	3661677	SNOMED	Condition
+autism_01	783089006	Macrocephaly, intellectual disability, autism syndrome	37204430	SNOMED	Condition
+autism_01	771512003	Autism spectrum disorder due to AUTS2 deficiency	36675177	SNOMED	Condition
+autism_01	766824003	ADNP-related multiple congenital anomalies, intellectual disability, autism spectrum disorder	35624210	SNOMED	Condition
+autism_01	733623005	Autism spectrum disorder, epilepsy, arthrogryposis syndrome	37116742	SNOMED	Condition
+autism_01	723332005	Isodicentric chromosome 15 syndrome	37109594	SNOMED	Condition
+autism_01	719600006	1p21.3 microdeletion syndrome	36717734	SNOMED	Condition
+autism_01	718393002	Atypical Rett syndrome	37397680	SNOMED	Condition
+autism_01	712884004	Pathological demand avoidance	37016769	SNOMED	Condition
+autism_01	702732007	High-functioning autism	45765723	SNOMED	Condition
+autism_01	702450004	FOXG1 syndrome	45765499	SNOMED	Condition
+autism_01	442314000	Active but odd autism	40482738	SNOMED	Condition
+autism_01	432091002	Savant syndrome	4332239	SNOMED	Condition
+autism_01	408857007	Infantile autism	4254211	SNOMED	Condition
+autism_01	373618009	Autistic spectrum disorder with isolated skills	4189466	SNOMED	Condition
+autism_01	231536004	Atypical autism	4338037	SNOMED	Condition
+autism_01	68618008	Rett syndrome	4288480	SNOMED	Condition
+autism_01	43614003	Autistic disorder of childhood onset	434902	SNOMED	Condition
+autism_01	23560001	Asperger's disorder	4053178	SNOMED	Condition
+autism_01	35919005	Autism spectrum disorder	439776	SNOMED	Condition
+autism_01	299.81	Other specified pervasive developmental disorders, residual state	44825297	ICD9CM	Condition
+autism_01	299.91	Unspecified pervasive developmental disorder, residual state	44833402	ICD9CM	Condition
+autism_01	F84.2	Rett's syndrome	35207255	ICD10CM	Condition
+autism_01	F84.5	Asperger's syndrome	35207257	ICD10CM	Condition
+autism_01	F84	Pervasive developmental disorders	1568262	ICD10CM	Condition
+autism_01	F84.0	Autistic disorder	35207254	ICD10CM	Condition
+autism_01	F84.8	Other pervasive developmental disorders	35207258	ICD10CM	Condition
+autism_01	F84.9	Pervasive developmental disorder, unspecified	35207259	ICD10CM	Condition
+autism_01	299.8	Other specified pervasive developmental disorders	44821823	ICD9CM	Condition
+autism_01	299	Pervasive developmental disorders	44822984	ICD9CM	Condition
+autism_01	299.0	Autistic disorder	44827659	ICD9CM	Condition
+autism_01	299.90	Unspecified pervasive developmental disorder, current or active state	44827660	ICD9CM	Condition
+autism_01	299.80	Other specified pervasive developmental disorders, current or active state	44833401	ICD9CM	Condition
+autism_01	299.9	Unspecified pervasive developmental disorder	44835790	ICD9CM	Condition

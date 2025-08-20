@@ -1,0 +1,13 @@
+code_set	concept_code	concept_name	vocabulary_id	domain_id
+mmr_vax_01_base	04	measles and rubella virus vaccine	CVX	Procedure
+mmr_vax_01_base	04	measles and rubella virus vaccine	CVX	Procedure
+mmr_vax_01_base	04	measles and rubella virus vaccine	CVX	Drug
+mmr_vax_01_base	05	measles virus vaccine	CVX	Procedure
+mmr_vax_01_base	05	measles virus vaccine	CVX	Procedure
+mmr_vax_01_base	05	measles virus vaccine	CVX	Drug
+mmr_vax_01_base	03	measles, mumps and rubella virus vaccine	CVX	Procedure
+mmr_vax_01_base	03	measles, mumps and rubella virus vaccine	CVX	Procedure
+mmr_vax_01_base	03	measles, mumps and rubella virus vaccine	CVX	Drug
+mmr_vax_01_base	94	measles, mumps, rubella, and varicella virus vaccine	CVX	Drug
+mmr_vax_01_base	94	measles, mumps, rubella, and varicella virus vaccine	CVX	Procedure
+mmr_vax_01_base	94	measles, mumps, rubella, and varicella virus vaccine	CVX	Drug

@@ -1,83 +1,68 @@
-code_set	concept_code	concept_name	vocabulary_id	concept_id	OMOP_concept_name
-mastectomy_01	0HBW0ZX	"Excision of Right Nipple, Open Approach, Diagnostic"	ICD10PCS	2751108	"Excision of Right Nipple, Open Approach, Diagnostic"
-mastectomy_01	0HBW0ZZ	"Excision of Right Nipple, Open Approach"	ICD10PCS	2751109	"Excision of Right Nipple, Open Approach"
-mastectomy_01	0HBW3ZX	"Excision of Right Nipple, Percutaneous Approach, Diagnostic"	ICD10PCS	2751110	"Excision of Right Nipple, Percutaneous Approach, Diagnostic"
-mastectomy_01	0HBW3ZZ	"Excision of Right Nipple, Percutaneous Approach"	ICD10PCS	2751111	"Excision of Right Nipple, Percutaneous Approach"
-mastectomy_01	0HBW7ZX	"Excision of Right Nipple, Via Natural or Artificial Opening, Diagnostic"	ICD10PCS	2751112	"Excision of Right Nipple, Via Natural or Artificial Opening, Diagnostic"
-mastectomy_01	0HBW7ZZ	"Excision of Right Nipple, Via Natural or Artificial Opening"	ICD10PCS	2751113	"Excision of Right Nipple, Via Natural or Artificial Opening"
-mastectomy_01	0HBW8ZX	"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic"	ICD10PCS	2751114	"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-mastectomy_01	0HBW8ZZ	"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic"	ICD10PCS	2751115	"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic"
-mastectomy_01	0HBWXZX	"Excision of Right Nipple, External Approach, Diagnostic"	ICD10PCS	2751116	"Excision of Right Nipple, External Approach, Diagnostic"
-mastectomy_01	0HBWXZZ	"Excision of Right Nipple, External Approach"	ICD10PCS	2751117	"Excision of Right Nipple, External Approach"
-mastectomy_01	0HBX0ZX	"Excision of Left Nipple, Open Approach, Diagnostic"	ICD10PCS	2751118	"Excision of Left Nipple, Open Approach, Diagnostic"
-mastectomy_01	0HBX0ZZ	"Excision of Left Nipple, Open Approach"	ICD10PCS	2751119	"Excision of Left Nipple, Open Approach"
-mastectomy_01	0HBX3ZX	"Excision of Left Nipple, Percutaneous Approach, Diagnostic"	ICD10PCS	2751120	"Excision of Left Nipple, Percutaneous Approach, Diagnostic"
-mastectomy_01	0HBX3ZZ	"Excision of Left Nipple, Percutaneous Approach"	ICD10PCS	2751121	"Excision of Left Nipple, Percutaneous Approach"
-mastectomy_01	0HBX7ZX	"Excision of Left Nipple, Via Natural or Artificial Opening, Diagnostic"	ICD10PCS	2751122	"Excision of Left Nipple, Via Natural or Artificial Opening, Diagnostic"
-mastectomy_01	0HBX7ZZ	"Excision of Left Nipple, Via Natural or Artificial Opening"	ICD10PCS	2751123	"Excision of Left Nipple, Via Natural or Artificial Opening"
-mastectomy_01	0HBX8ZX	"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic"	ICD10PCS	2751124	"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-mastectomy_01	0HBX8ZZ	"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic"	ICD10PCS	2751825	"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic"
-mastectomy_01	0HBXXZX	"Excision of Left Nipple, External Approach, Diagnostic"	ICD10PCS	2751826	"Excision of Left Nipple, External Approach, Diagnostic"
-mastectomy_01	0HBXXZZ	"Excision of Left Nipple, External Approach"	ICD10PCS	2751827	"Excision of Left Nipple, External Approach"
-mastectomy_01	0HTWXZZ	"Resection of Right Nipple, External Approach"	ICD10PCS	2753967	"Resection of Right Nipple, External Approach"
-mastectomy_01	0HTXXZZ	"Resection of Left Nipple, External Approach"	ICD10PCS	2753968	"Resection of Left Nipple, External Approach"
-mastectomy_01	12275121000119100	Postmastectomy lymphedema syndrome of bilateral upper limbs	SNOMED	760926	Postmastectomy lymphedema syndrome of bilateral upper limbs
-mastectomy_01	12275171000119100	Postmastectomy lymphedema syndrome of right upper limb	SNOMED	36712831	Postmastectomy lymphedema syndrome of right upper limb
-mastectomy_01	12275221000119100	Postmastectomy lymphedema syndrome of left upper limb	SNOMED	36712832	Postmastectomy lymphedema syndrome of left upper limb
-mastectomy_01	12708000	Excision of accessory nipple	SNOMED	4130203	Excision of accessory nipple
-mastectomy_01	150300000	Excision of part of breast	SNOMED	4275911	Partial mastectomy
-mastectomy_01	150323002	Excision of nipple	SNOMED	4217192	Excision of nipple
-mastectomy_01	155484007	Post-mastectomy secondary lymphedema	SNOMED	438178	Postmastectomy lymphedema syndrome
-mastectomy_01	172048002	Other excision of breast operations	SNOMED	4275911	Partial mastectomy
-mastectomy_01	172106007	Excision of lactiferous duct fistula of breast	SNOMED	4068298	Excision of lactiferous duct fistula of breast
-mastectomy_01	172107003	Subareolar excision mammillary duct (& Hadfield)	SNOMED	4139006	Subareolar excision of mammillary duct
-mastectomy_01	172108008	Excision of mammillary duct: [NEC] or [major system]	SNOMED	4139006	Subareolar excision of mammillary duct
-mastectomy_01	172111009	Excision of lesion of mammary duct	SNOMED	4066555	Excision of lesion of mammary duct
-mastectomy_01	20486005	Excision of lesion of subcutaneous tissue of breast	SNOMED	4068842	Excision of lesion of subcutaneous tissue of breast
-mastectomy_01	22418005	Simple mastectomy of bilateral breasts	SNOMED	4329559	Simple mastectomy of bilateral breasts
-mastectomy_01	237370008	Segmentectomy of breast	SNOMED	4129189	Segmentectomy of breast
-mastectomy_01	237393002	Excision of nipple and areola	SNOMED	4129196	Excision of nipple and areola
-mastectomy_01	237394008	Excision of areola	SNOMED	4129855	Excision of areola
-mastectomy_01	237400005	Microdochectomy	SNOMED	4129198	Microdochectomy
-mastectomy_01	265248000	Partial mastectomy NEC	SNOMED	4275911	Partial mastectomy
-mastectomy_01	265255003	Subareolar excision of mammillary duct	SNOMED	4139006	Subareolar excision of mammillary duct
-mastectomy_01	265256002	Excision of mammillary duct NEC	SNOMED	4146780	Excision of mammary duct
-mastectomy_01	283621000000103	Wire guided partial excision of breast	SNOMED	4178161	Partial excision of breast using guide wire
-mastectomy_01	288871000000106	Wire guided partial excision of breast	SNOMED	4178161	Partial excision of breast using guide wire
-mastectomy_01	307796007	Excision of mammary duct	SNOMED	4146780	Excision of mammary duct
-mastectomy_01	310638008	Wire guided excision of breast lump under radiological control	SNOMED	4149605	Wire guided excision of breast lump under radiological control
-mastectomy_01	33129002	Postmastectomy lymphedema syndrome	SNOMED	438178	Postmastectomy lymphedema syndrome
-mastectomy_01	35212009	Excision of nipple lesion	SNOMED	4146201	Excision of nipple lesion
-mastectomy_01	35482003	Partial mastectomy with axillary lymphadenectomy	SNOMED	4261671	Partial mastectomy with axillary lymphadenectomy
-mastectomy_01	367502008	Segmental excision of breast	SNOMED	4129189	Segmentectomy of breast
-mastectomy_01	392021009	Lumpectomy of breast	SNOMED	4213045	Lumpectomy of breast
-mastectomy_01	394021005	Wire guided wide local excision of breast lump under radiological control	SNOMED	4216180	Wire guided wide local excision of breast lump under radiological control
-mastectomy_01	394911000	Wire guided wide local excision of breast lump under radiological control	SNOMED	4216180	Wire guided wide local excision of breast lump under radiological control
-mastectomy_01	428554004	Partial excision of breast using guide wire	SNOMED	4178161	Partial excision of breast using guide wire
-mastectomy_01	457	Postmastectomy lymphedema syndrome	ICD9CM	438178	Postmastectomy lymphedema syndrome
-mastectomy_01	52314009	Extended simple mastectomy of bilateral breasts	SNOMED	4182056	Extended simple mastectomy of bilateral breasts
-mastectomy_01	546441000000104	Other excision of breast operations	SNOMED	4275911	Partial mastectomy
-mastectomy_01	546451000000101	Other excision of breast NOS	SNOMED	4275911	Partial mastectomy
-mastectomy_01	6189002	Excision of aberrant tissue of breast	SNOMED	4267138	Excision of aberrant tissue of breast
-mastectomy_01	622051000000102	Excision of mammillary duct NEC	SNOMED	4146780	Excision of mammary duct
-mastectomy_01	62347003	Nipple exploration with excision of lactiferous duct	SNOMED	4266051	Nipple exploration with excision of lactiferous duct
-mastectomy_01	64368001	Partial mastectomy	SNOMED	4275911	Partial mastectomy
-mastectomy_01	72258006	Segmental excision of breast	SNOMED	4213045	Lumpectomy of breast
-mastectomy_01	72432009	Excision of lesion of skin of breast	SNOMED	4217030	Excision of lesion of skin of breast
-mastectomy_01	72577009	Excision of nipple	SNOMED	4217192	Excision of nipple
-mastectomy_01	735085002	Lumpectomy of left breast	SNOMED	42536329	Lumpectomy of left breast
-mastectomy_01	735086001	Lumpectomy of right breast	SNOMED	42536330	Lumpectomy of right breast
-mastectomy_01	736751004	Total excision of lactiferous duct of left breast	SNOMED	42537383	Total excision of lactiferous duct of left breast
-mastectomy_01	736752006	Total excision of lactiferous duct of right breast	SNOMED	42537384	Total excision of lactiferous duct of right breast
-mastectomy_01	736753001	Excision of part of left breast	SNOMED	42537385	Excision of part of left breast
-mastectomy_01	736754007	Excision of part of right breast	SNOMED	42537386	Excision of part of right breast
-mastectomy_01	770108008	Excision of ectopic tissue of breast	SNOMED	35626770	Excision of ectopic tissue of breast
-mastectomy_01	84979008	Excision of lactiferous duct fistula of breast	SNOMED	4068298	Excision of lactiferous duct fistula of breast
-mastectomy_01	852951000000106	Total excision of lactiferous duct	SNOMED	44809333	Total excision of lactiferous duct
-mastectomy_01	I97.2	Postmastectomy lymphedema syndrome	ICD10CM	438178	Postmastectomy lymphedema syndrome
-mastectomy_01	172049005	Quadrantectomy of breast	SNOMED	4065449	Quadrantectomy of breast
-mastectomy_01	172050005	Partial mastectomy: [NEC] or [wedge NEC]	SNOMED	4275911	Partial mastectomy
-mastectomy_01	172051009	Wire guided excision of breast lump under radiological control	SNOMED	4149605	Wire guided excision of breast lump under radiological control
-mastectomy_01	172054001	Other specified other excision of breast	SNOMED	4275911	Partial mastectomy
-mastectomy_01	172055000	Other excision of breast NOS	SNOMED	4275911	Partial mastectomy
-mastectomy_01	172096002	Excision of accessory nipple	SNOMED	4130203	Excision of accessory nipple
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+mastectomy_01	33129002	Postmastectomy lymphedema syndrome	438178	SNOMED	Condition
+mastectomy_01	12275121000119109	Postmastectomy lymphedema syndrome of bilateral upper limbs	760926	SNOMED	Condition
+mastectomy_01	85.22	Resection of quadrant of breast	2006395	ICD9Proc	Procedure
+mastectomy_01	85.23	Subtotal mastectomy	2006396	ICD9Proc	Procedure
+mastectomy_01	85.24	Excision of ectopic breast tissue	2006397	ICD9Proc	Procedure
+mastectomy_01	85.25	Excision of nipple	2006398	ICD9Proc	Procedure
+mastectomy_01	85.41	Unilateral simple mastectomy	2006417	ICD9Proc	Procedure
+mastectomy_01	85.42	Bilateral simple mastectomy	2006418	ICD9Proc	Procedure
+mastectomy_01	85.43	Unilateral extended simple mastectomy	2006419	ICD9Proc	Procedure
+mastectomy_01	85.44	Bilateral extended simple mastectomy	2006420	ICD9Proc	Procedure
+mastectomy_01	85.45	Unilateral radical mastectomy	2006421	ICD9Proc	Procedure
+mastectomy_01	0HBW0ZX	Excision of Right Nipple, Open Approach, Diagnostic	2751108	ICD10PCS	Procedure
+mastectomy_01	0HBW0ZZ	Excision of Right Nipple, Open Approach	2751109	ICD10PCS	Procedure
+mastectomy_01	0HBW3ZX	Excision of Right Nipple, Percutaneous Approach, Diagnostic	2751110	ICD10PCS	Procedure
+mastectomy_01	0HBW3ZZ	Excision of Right Nipple, Percutaneous Approach	2751111	ICD10PCS	Procedure
+mastectomy_01	0HBW7ZX	Excision of Right Nipple, Via Natural or Artificial Opening, Diagnostic	2751112	ICD10PCS	Procedure
+mastectomy_01	0HBW7ZZ	Excision of Right Nipple, Via Natural or Artificial Opening	2751113	ICD10PCS	Procedure
+mastectomy_01	0HBW8ZX	Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic	2751114	ICD10PCS	Procedure
+mastectomy_01	0HBW8ZZ	Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic	2751115	ICD10PCS	Procedure
+mastectomy_01	0HBWXZX	Excision of Right Nipple, External Approach, Diagnostic	2751116	ICD10PCS	Procedure
+mastectomy_01	0HBWXZZ	Excision of Right Nipple, External Approach	2751117	ICD10PCS	Procedure
+mastectomy_01	0HBX0ZX	Excision of Left Nipple, Open Approach, Diagnostic	2751118	ICD10PCS	Procedure
+mastectomy_01	0HBX0ZZ	Excision of Left Nipple, Open Approach	2751119	ICD10PCS	Procedure
+mastectomy_01	0HBX3ZX	Excision of Left Nipple, Percutaneous Approach, Diagnostic	2751120	ICD10PCS	Procedure
+mastectomy_01	0HBX3ZZ	Excision of Left Nipple, Percutaneous Approach	2751121	ICD10PCS	Procedure
+mastectomy_01	0HBX7ZX	Excision of Left Nipple, Via Natural or Artificial Opening, Diagnostic	2751122	ICD10PCS	Procedure
+mastectomy_01	0HBX7ZZ	Excision of Left Nipple, Via Natural or Artificial Opening	2751123	ICD10PCS	Procedure
+mastectomy_01	0HBX8ZX	Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic	2751124	ICD10PCS	Procedure
+mastectomy_01	0HBX8ZZ	Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic	2751825	ICD10PCS	Procedure
+mastectomy_01	0HBXXZX	Excision of Left Nipple, External Approach, Diagnostic	2751826	ICD10PCS	Procedure
+mastectomy_01	0HBXXZZ	Excision of Left Nipple, External Approach	2751827	ICD10PCS	Procedure
+mastectomy_01	0HTWXZZ	Resection of Right Nipple, External Approach	2753967	ICD10PCS	Procedure
+mastectomy_01	0HTXXZZ	Resection of Left Nipple, External Approach	2753968	ICD10PCS	Procedure
+mastectomy_01	172049005	Quadrantectomy of breast	4065449	SNOMED	Procedure
+mastectomy_01	172111009	Excision of lesion of mammary duct	4066555	SNOMED	Procedure
+mastectomy_01	172106007	Excision of lactiferous duct fistula of breast	4068298	SNOMED	Procedure
+mastectomy_01	20486005	Excision of lesion of subcutaneous tissue of breast	4068842	SNOMED	Procedure
+mastectomy_01	237370008	Segmentectomy of breast	4129189	SNOMED	Procedure
+mastectomy_01	237393002	Excision of nipple and areola	4129196	SNOMED	Procedure
+mastectomy_01	237400005	Microdochectomy	4129198	SNOMED	Procedure
+mastectomy_01	237394008	Excision of areola	4129855	SNOMED	Procedure
+mastectomy_01	12708000	Excision of accessory nipple	4130203	SNOMED	Procedure
+mastectomy_01	265255003	Subareolar excision of mammillary duct	4139006	SNOMED	Procedure
+mastectomy_01	35212009	Excision of nipple lesion	4146201	SNOMED	Procedure
+mastectomy_01	307796007	Excision of mammary duct	4146780	SNOMED	Procedure
+mastectomy_01	428554004	Partial excision of breast using guide wire	4178161	SNOMED	Procedure
+mastectomy_01	52314009	Extended simple mastectomy of bilateral breasts	4182056	SNOMED	Procedure
+mastectomy_01	392021009	Lumpectomy of breast	4213045	SNOMED	Procedure
+mastectomy_01	72432009	Excision of lesion of skin of breast	4217030	SNOMED	Procedure
+mastectomy_01	72577009	Excision of nipple	4217192	SNOMED	Procedure
+mastectomy_01	35482003	Partial mastectomy with axillary lymphadenectomy	4261671	SNOMED	Procedure
+mastectomy_01	62347003	Nipple exploration with excision of lactiferous duct	4266051	SNOMED	Procedure
+mastectomy_01	6189002	Excision of aberrant tissue of breast	4267138	SNOMED	Procedure
+mastectomy_01	64368001	Partial mastectomy	4275911	SNOMED	Procedure
+mastectomy_01	22418005	Simple mastectomy of bilateral breasts	4329559	SNOMED	Procedure
+mastectomy_01	I97.2	Postmastectomy lymphedema syndrome	35207920	ICD10CM	Condition
+mastectomy_01	770108008	Excision of ectopic tissue of breast	35626770	SNOMED	Procedure
+mastectomy_01	12275171000119105	Postmastectomy lymphedema syndrome of right upper limb	36712831	SNOMED	Condition
+mastectomy_01	12275221000119100	Postmastectomy lymphedema syndrome of left upper limb	36712832	SNOMED	Condition
+mastectomy_01	735085002	Lumpectomy of left breast	42536329	SNOMED	Procedure
+mastectomy_01	735086001	Lumpectomy of right breast	42536330	SNOMED	Procedure
+mastectomy_01	736751004	Total excision of lactiferous duct of left breast	42537383	SNOMED	Procedure
+mastectomy_01	736752006	Total excision of lactiferous duct of right breast	42537384	SNOMED	Procedure
+mastectomy_01	736753001	Excision of part of left breast	42537385	SNOMED	Procedure
+mastectomy_01	736754007	Excision of part of right breast	42537386	SNOMED	Procedure
+mastectomy_01	852951000000106	Total excision of lactiferous duct	44809333	SNOMED	Procedure
+mastectomy_01	457.0	Postmastectomy lymphedema syndrome	44832408	ICD9CM	Condition

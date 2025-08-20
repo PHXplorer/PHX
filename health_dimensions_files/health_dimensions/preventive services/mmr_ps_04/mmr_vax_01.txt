@@ -1,0 +1,6 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+mmr_vax_01	04	measles and rubella virus vaccine	40213168	CVX	Drug
+mmr_vax_01	05	measles virus vaccine	40213170	CVX	Drug
+mmr_vax_01	03	measles, mumps and rubella virus vaccine	40213183	CVX	Drug
+mmr_vax_01	94	measles, mumps, rubella, and varicella virus vaccine	40213184	CVX	Drug
+mmr_vax_01	94	measles, mumps, rubella, and varicella virus vaccine	40213184	CVX	Drug

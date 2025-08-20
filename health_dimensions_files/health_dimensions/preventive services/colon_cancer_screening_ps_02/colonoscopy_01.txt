@@ -1,0 +1,22 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+colonoscopy_01	1209098000	Fiberoptic colonoscopy with biopsy of lesion of colon	37163368	SNOMED	Procedure
+colonoscopy_01	12350003	Colonoscopy with rigid sigmoidoscope through colotomy	4047950	SNOMED	Procedure
+colonoscopy_01	174158000	Open colonoscopy	4017732	SNOMED	Procedure
+colonoscopy_01	235150006	Total colonoscopy	4124527	SNOMED	Procedure
+colonoscopy_01	235151005	Limited colonoscopy	4124528	SNOMED	Procedure
+colonoscopy_01	302052009	Endoscopic biopsy of lesion of colon	4201706	SNOMED	Procedure
+colonoscopy_01	34264006	Intraoperative colonoscopy	4145298	SNOMED	Procedure
+colonoscopy_01	443998000	Colonoscopy through colostomy with endoscopic biopsy of colon	40484563	SNOMED	Procedure
+colonoscopy_01	444783004	Screening colonoscopy	40480729	SNOMED	Procedure
+colonoscopy_01	446521004	Colonoscopy and excision of mucosa of colon	40488297	SNOMED	Procedure
+colonoscopy_01	446745002	Colonoscopy and biopsy of colon	40489328	SNOMED	Procedure
+colonoscopy_01	447021001	Colonoscopy and tattooing	40490832	SNOMED	Procedure
+colonoscopy_01	709421007	Colonoscopy and dilation of stricture of colon	46271320	SNOMED	Procedure
+colonoscopy_01	710293001	Fluoroscopy guided colonoscopy	46272000	SNOMED	Procedure
+colonoscopy_01	711307001	Plain X-ray guided colonoscopy	46272868	SNOMED	Procedure
+colonoscopy_01	713154003	Endoscopic submucosal dissection of rectum using colonoscope	37016984	SNOMED	Procedure
+colonoscopy_01	73761001	Colonoscopy	4249893	SNOMED	Procedure
+colonoscopy_01	8180007	Fiberoptic colonoscopy through colostomy	4305184	SNOMED	Procedure
+colonoscopy_01	851000119109	History of colonoscopy	43531720	SNOMED	Observation
+colonoscopy_01	G0105	Colorectal cancer screening; colonoscopy on individual at high risk	2617208	HCPCS	Measurement
+colonoscopy_01	G0121	Colorectal cancer screening; colonoscopy on individual not meeting criteria for high risk	2617223	HCPCS	Measurement

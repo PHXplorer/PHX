@@ -1,0 +1,162 @@
+code_set	concept_code	concept_name	vocabulary_id	domain_id
+acute_inpatient_01_base	305400006	Admission to psychiatry department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305402003	Admission to forensic psychiatry department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305405001	Admission to rehabilitation psychiatry department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305407009	Admission to occupational health department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305409007	Admission to breast surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305411003	Admission to thoracic surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305413000	Admission to dental surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305415007	Admission to pediatric dentistry department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305417004	Admission to ear, nose and throat department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305419001	Admission to gastrointestinal surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305421006	Admission to upper gastrointestinal surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305423009	Admission to general surgical department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305425002	Admission to neurosurgical department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305427005	Admission to oral surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305429008	Admission to pancreatic surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305431004	Admission to plastic surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305433001	Admission to trauma surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305435008	Admission to vascular surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	306803007	Admission to stroke unit (procedure)	SNOMED	Observation
+acute_inpatient_01_base	308251003	Admission to clinical oncology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	308253000	Admission to diabetic department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	3241000175106	Hospital admission from non-health care facility (procedure)	SNOMED	Observation
+acute_inpatient_01_base	373113001	Routine procedure (procedure)	SNOMED	Procedure
+acute_inpatient_01_base	398162007	Admission to high dependency unit (procedure)	SNOMED	Observation
+acute_inpatient_01_base	405614004	Unexpected hospital admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	417005	Hospital re-admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	442281000124108	Emergency hospital admission from observation unit (procedure)	SNOMED	Observation
+acute_inpatient_01_base	448421000124105	Hospital admission, transfer from physician office (procedure)	SNOMED	Observation
+acute_inpatient_01_base	448441000124103	Hospital admission, transfer from intermediate care facility (procedure)	SNOMED	Observation
+acute_inpatient_01_base	45702004	Hospital admission, precertified by medical audit action (procedure)	SNOMED	Observation
+acute_inpatient_01_base	48183000	Hospital admission, special (procedure)	SNOMED	Observation
+acute_inpatient_01_base	51032003	Hospital admission, donor for transplant organ (procedure)	SNOMED	Observation
+acute_inpatient_01_base	5161006	Specialty clinic admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	60059000	Hospital admission, infant, for observation, delivered outside of hospital (procedure)	SNOMED	Observation
+acute_inpatient_01_base	699124006	Admission to substance misuse detoxification center (procedure)	SNOMED	Observation
+acute_inpatient_01_base	71290004	Hospital admission, limited to designated procedures (procedure)	SNOMED	Observation
+acute_inpatient_01_base	74857009	Hospital admission, short-term, 24 hours (procedure)	SNOMED	Observation
+acute_inpatient_01_base	78680009	Hospital admission, emergency, direct (procedure)	SNOMED	Observation
+acute_inpatient_01_base	82942009	Hospital admission, blood donor (procedure)	SNOMED	Observation
+acute_inpatient_01_base	10378005	Hospital admission, emergency, from emergency room, accidental injury (procedure)	SNOMED	Observation
+acute_inpatient_01_base	1505002	Hospital admission for isolation (procedure)	SNOMED	Observation
+acute_inpatient_01_base	18083007	Hospital admission, emergency, indirect (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183452005	Emergency hospital admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183487005	Non-urgent medical admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183489008	Non-urgent psychiatric admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183492007	Non-urgent pediatric admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183494008	Non-urgent obstetric admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183496005	Non-urgent ear, nose and throat admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183498006	Non-urgent ophthalmological admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183500007	Non-urgent dermatology admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183502004	Non-urgent urology admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183504003	Non-urgent hematology admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183506001	Non-urgent diabetic admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183508000	Non-urgent psychogeriatric admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183510003	Non-urgent neurosurgical admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183512006	Non-urgent oral surgical admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	2252009	Hospital admission, urgent, 48 hours (procedure)	SNOMED	Observation
+acute_inpatient_01_base	25986004	Hospital admission, under police custody (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305337004	Admission to community hospital (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305339001	Admission to private hospital (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305342007	Admission to ward (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305354007	Admission to medical department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305356009	Admission to audiology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305360007	Admission to pulmonary medicine department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305362004	Admission to clinical neurophysiology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305364003	Admission to clinical physiology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305366001	Admission to endocrinology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305368000	Admission to general medical department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305370009	Admission to clinical genetics department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305372001	Admission to clinical molecular genetics department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305375004	Admission to care of the elderly department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305377007	Admission to medical ophthalmology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305379005	Admission to neurology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305380008	Admission to nuclear medicine department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305383005	Admission to rheumatology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305385003	Admission to gynecology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305387006	Admission to pediatric department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305389009	Admission to pediatric neurology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305391001	Admission to pain management department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305393003	Admission to blood transfusion department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305395005	Admission to general pathology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305397002	Admission to medical microbiology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	112689000	Hospital admission, elective, with complete pre-admission work-up (procedure)	SNOMED	Observation
+acute_inpatient_01_base	15584006	Hospital admission, elective, with partial pre-admission work-up (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183450002	Admission to burn unit (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183481006	Non-urgent hospital admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183488000	Non-urgent surgical admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183491000	Non-urgent geriatric admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183493002	Non-urgent gynecological admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183495009	Non-urgent orthopedic admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183497001	Non-urgent trauma admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183499003	Non-urgent rheumatology admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183501006	Non-urgent neurology admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183503009	Non-urgent radiotherapy admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183505002	Non-urgent plastic surgery admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183507005	Non-urgent respiratory admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183509008	Non-urgent renal medicine admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	183511004	Non-urgent cardiothoracic admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	19951005	Hospital admission, emergency, from emergency room, medical nature (procedure)	SNOMED	Observation
+acute_inpatient_01_base	235313004	Non-emergency appendectomy (procedure)	SNOMED	Procedure
+acute_inpatient_01_base	304566005	Admission for treatment (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305338009	Admission to general practice hospital (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305341000	Admission to tertiary referral hospital (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305350003	Admission to anesthetic department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305355008	Admission to clinical allergy department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305357000	Admission to cardiology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305361006	Admission to clinical immunology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305363009	Admission to clinical pharmacology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305365002	Admission to dermatology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305367005	Admission to gastroenterology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305369008	Admission to genetics department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305371008	Admission to clinical cytogenetics department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305374000	Admission to genitourinary medicine department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305376003	Admission to infectious diseases department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305378002	Admission to nephrology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305382000	Admission to rehabilitation department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305384004	Admission to obstetrics and gynecology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305386002	Admission to obstetrics department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305388001	Admission to special care baby unit (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305390000	Admission to pediatric oncology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305392008	Admission to pathology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305394009	Admission to chemical pathology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305396006	Admission to hematology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305399004	Admission to neuropathology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305401005	Admission to child and adolescent psychiatry department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305403008	Admission to psychogeriatric department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305406000	Admission to radiology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305408004	Admission to surgical department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305410002	Admission to cardiothoracic surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305412005	Admission to cardiac surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305414006	Admission to orthodontics department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305416008	Admission to restorative dentistry department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305418009	Admission to endocrine surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305420007	Admission to general gastrointestinal surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305422004	Admission to colorectal surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305424003	Admission to hepatobiliary surgical department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305426001	Admission to ophthalmology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305428000	Admission to orthopedic department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305430003	Admission to pediatric surgical department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305432006	Admission to surgical transplant department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	305434007	Admission to urology department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	306732000	Admission to general dental surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	306967009	Admission to hand surgery department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	308252005	Admission to radiotherapy department (procedure)	SNOMED	Observation
+acute_inpatient_01_base	310361003	Non-urgent cardiological admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	32485007	Hospital admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	397769005	Unexpected admission to high dependency unit (procedure)	SNOMED	Observation
+acute_inpatient_01_base	432621000124105	Hospital admission from dialysis facility (procedure)	SNOMED	Observation
+acute_inpatient_01_base	447941000124106	Hospital admission of newborn (procedure)	SNOMED	Observation
+acute_inpatient_01_base	448431000124108	Hospital admission, transfer from assisted living facility (procedure)	SNOMED	Observation
+acute_inpatient_01_base	448851000124103	Hospital admission from observation unit (procedure)	SNOMED	Observation
+acute_inpatient_01_base	47348005	Hospital admission, mother, for observation, delivered outside of hospital (procedure)	SNOMED	Observation
+acute_inpatient_01_base	50699000	Hospital admission, short-term (procedure)	SNOMED	Observation
+acute_inpatient_01_base	51501005	Hospital admission, parent, for in-hospital child care (procedure)	SNOMED	Observation
+acute_inpatient_01_base	52748007	Involuntary hospital admission (procedure)	SNOMED	Observation
+acute_inpatient_01_base	63551005	Hospital admission, from remote area, by means of special transportation (procedure)	SNOMED	Observation
+acute_inpatient_01_base	70755000	Hospital admission, by legal authority (commitment) (procedure)	SNOMED	Observation
+acute_inpatient_01_base	73607007	Hospital admission, emergency, from emergency room (procedure)	SNOMED	Observation
+acute_inpatient_01_base	76464004	Hospital admission, for observation (procedure)	SNOMED	Observation
+acute_inpatient_01_base	81672003	Hospital admission, elective, without pre-admission work-up (procedure)	SNOMED	Observation
+acute_inpatient_01_base	8715000	Hospital admission, elective (procedure)	SNOMED	Observation
