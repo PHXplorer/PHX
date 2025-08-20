@@ -1,2 +1,2 @@
-code_set	concept_code	concept_name	vocabulary_id	concept_id
-phq_any_01_base	1081951000000100	PHQ (Podiatric Health Questionnaire) score	SNOMED	NULL
+code_set	concept_code	concept_name	vocabulary_id	domain_id
+phq_any_01_base	1081951000000109	PHQ (Podiatric Health Questionnaire) score	SNOMED	Measurement

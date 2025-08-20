@@ -1,18 +1,29 @@
-code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
-essential_hypertension_01_base	I10	Essential (primary) hypertension	35207668	ICD10CM	Condition
-essential_hypertension_01_base	9901000	Essential hypertension complicating AND/OR reason for care during puerperium	4321603	SNOMED	Condition
-essential_hypertension_01_base	1201005	Benign essential hypertension	312648	SNOMED	Condition
-essential_hypertension_01_base	18416000	Essential hypertension complicating AND/OR reason for care during childbirth	4083723	SNOMED	Condition
-essential_hypertension_01_base	19769006	High-renin essential hypertension	4058987	SNOMED	Condition
-essential_hypertension_01_base	23717007	Benign essential hypertension complicating AND/OR reason for care during pregnancy	4034031	SNOMED	Condition
-essential_hypertension_01_base	35303009	Benign essential hypertension complicating AND/OR reason for care during puerperium	4148205	SNOMED	Condition
-essential_hypertension_01_base	371125006	Labile essential hypertension	4159755	SNOMED	Condition
-essential_hypertension_01_base	40511000119107	Postpartum pre-existing essential hypertension	45757787	SNOMED	Condition
-essential_hypertension_01_base	429457004	Systolic essential hypertension	4180283	SNOMED	Condition
-essential_hypertension_01_base	46481004	Low-renin essential hypertension	4263067	SNOMED	Condition
-essential_hypertension_01_base	59621000	Essential hypertension	320128	SNOMED	Condition
-essential_hypertension_01_base	63287004	Benign essential hypertension in obstetric context	4269358	SNOMED	Condition
-essential_hypertension_01_base	71874008	Benign essential hypertension complicating AND/OR reason for care during childbirth	4215640	SNOMED	Condition
-essential_hypertension_01_base	72022006	Essential hypertension in obstetric context	4217486	SNOMED	Condition
-essential_hypertension_01_base	78808002	Essential hypertension complicating AND/OR reason for care during pregnancy	4302591	SNOMED	Condition
-essential_hypertension_01_base	78975002	Malignant essential hypertension	317898	SNOMED	Condition
+code_set	concept_code	concept_name	vocabulary_id	domain_id
+essential_hypertension_01_base	10725009	Benign hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	1078301000112109	Multiple drug intolerant hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	1201005	Benign essential hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	19769006	High-renin essential hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	35303009	Benign essential hypertension complicating AND/OR reason for care during puerperium (disorder)	SNOMED	Condition
+essential_hypertension_01_base	401.0	Malignant essential hypertension	ICD9CM	Condition
+essential_hypertension_01_base	401.1	Benign essential hypertension	ICD9CM	Condition
+essential_hypertension_01_base	401.9	Unspecified essential hypertension	ICD9CM	Condition
+essential_hypertension_01_base	40511000119107	Postpartum pre-existing essential hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	461301000124109	Resistant hypertensive disorder (disorder)	SNOMED	Condition
+essential_hypertension_01_base	46481004	Low-renin essential hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	48146000	Diastolic hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	56218007	Systolic hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	59621000	Essential hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	59720008	Sustained diastolic hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	63287004	Benign essential hypertension in obstetric context (disorder)	SNOMED	Condition
+essential_hypertension_01_base	65518004	Labile diastolic hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	71874008	Benign essential hypertension complicating AND/OR reason for care during childbirth (disorder)	SNOMED	Condition
+essential_hypertension_01_base	762463000	Diastolic hypertension co-occurrent with systolic hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	78808002	Essential hypertension complicating AND/OR reason for care during pregnancy (disorder)	SNOMED	Condition
+essential_hypertension_01_base	9901000	Essential hypertension complicating AND/OR reason for care during puerperium (disorder)	SNOMED	Condition
+essential_hypertension_01_base	I10	Essential (primary) hypertension	ICD10CM	Condition
+essential_hypertension_01_base	18416000	Essential hypertension complicating AND/OR reason for care during childbirth (disorder)	SNOMED	Condition
+essential_hypertension_01_base	23717007	Benign essential hypertension complicating AND/OR reason for care during pregnancy (disorder)	SNOMED	Condition
+essential_hypertension_01_base	371125006	Labile essential hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	429457004	Systolic essential hypertension (disorder)	SNOMED	Condition
+essential_hypertension_01_base	72022006	Essential hypertension in obstetric context (disorder)	SNOMED	Condition
+essential_hypertension_01_base	78975002	Malignant essential hypertension (disorder)	SNOMED	Condition

@@ -1,0 +1,4 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+housing_insecurity_01	32911000	Homeless	4139934	SNOMED	Observation
+housing_insecurity_01	266935003	Housing lack	4144274	SNOMED	Observation
+housing_insecurity_01	71802-3	Housing status	42869557	LOINC	Observation

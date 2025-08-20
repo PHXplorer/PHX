@@ -1,0 +1,12 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+housing_insecurity_vsac_01	1156192009	Housing instability due to imminent risk of homelessness	607908	SNOMED	Observation
+housing_insecurity_vsac_01	1156194005	Housing instability following recent homelessness	607912	SNOMED	Observation
+housing_insecurity_vsac_01	32911000	Homeless	4139934	SNOMED	Observation
+housing_insecurity_vsac_01	611131000124100	Sheltered homelessness	37173458	SNOMED	Observation
+housing_insecurity_vsac_01	611141000124105	Unsheltered homelessness	37173459	SNOMED	Observation
+housing_insecurity_vsac_01	611551000124102	Homelessness, living in a shared accommodation	37173487	SNOMED	Observation
+housing_insecurity_vsac_01	Z59.00	Homelessness unspecified	766510	ICD10CM	Observation
+housing_insecurity_vsac_01	Z59.01	Sheltered homelessness	766511	ICD10CM	Observation
+housing_insecurity_vsac_01	Z59.02	Unsheltered homelessness	766512	ICD10CM	Observation
+housing_insecurity_vsac_01	Z59.811	Housing instability, housed, with risk of homelessness	766516	ICD10CM	Observation
+housing_insecurity_vsac_01	Z59.812	Housing instability, housed, homelessness in past 12 months	766517	ICD10CM	Observation
