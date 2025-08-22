@@ -1,0 +1,20 @@
+code_set	concept_code	concept_name	concept_id	vocabulary_id	domain_id
+intellectual_disability_01	F70	Mild intellectual disabilities	35207238	ICD10CM	Condition
+intellectual_disability_01	F71	Moderate intellectual disabilities	35207239	ICD10CM	Condition
+intellectual_disability_01	F72	Severe intellectual disabilities	35207240	ICD10CM	Condition
+intellectual_disability_01	F73	Profound intellectual disabilities	35207241	ICD10CM	Condition
+intellectual_disability_01	F78	Other intellectual disabilities	35207242	ICD10CM	Condition
+intellectual_disability_01	F78.A	Other genetic related intellectual disabilities	766350	ICD10CM	Condition
+intellectual_disability_01	F78.A1	SYNGAP1-related intellectual disability	766351	ICD10CM	Condition
+intellectual_disability_01	F78.A9	Other genetic related intellectual disability	766352	ICD10CM	Condition
+intellectual_disability_01	F79	Unspecified intellectual disabilities	35207243	ICD10CM	Condition
+intellectual_disability_01	110359009	Intellectual disability	40277917	SNOMED	Condition
+intellectual_disability_01	31216003	Profound intellectual disability	438733	SNOMED	Condition
+intellectual_disability_01	317	Mild intellectual disabilities	44828852	ICD9CM	Condition
+intellectual_disability_01	318	Other specified intellectual disabilities	44822999	ICD9CM	Condition
+intellectual_disability_01	318.1	Severe intellectual disabilities	44824143	ICD9CM	Condition
+intellectual_disability_01	318.2	Profound intellectual disabilities	44828853	ICD9CM	Condition
+intellectual_disability_01	319	Unspecified intellectual disabilities	44827678	ICD9CM	Condition
+intellectual_disability_01	40700009	Severe intellectual disability	432898	SNOMED	Condition
+intellectual_disability_01	61152003	Moderate intellectual disability	436682	SNOMED	Condition
+intellectual_disability_01	86765009	Mild intellectual disability	432612	SNOMED	Condition
