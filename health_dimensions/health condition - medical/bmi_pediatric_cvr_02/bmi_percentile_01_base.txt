@@ -1,0 +1,5 @@
+code_set	concept_code	concept_name	vocabulary_id	domain_id
+bmi_percentile_01_base	446974000	BMI (body mass index) centile	SNOMED	Measurement
+bmi_percentile_01_base	59574-4	Body mass index (BMI) [Percentile]	LOINC	Measurement
+bmi_percentile_01_base	59575-1	Body mass index (BMI) [Percentile] Per age	LOINC	Measurement
+bmi_percentile_01_base	59576-9	Body mass index (BMI) [Percentile] Per age and sex	LOINC	Measurement
