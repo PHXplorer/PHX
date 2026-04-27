@@ -1,0 +1,19 @@
+﻿hiv_esp_dx_01	042	Human immunodeficiency virus [HIV] disease	44829737	ICD9CM	Condition
+hiv_esp_dx_01	B20	Human immunodeficiency virus [HIV] disease	35205776	ICD10CM	Condition
+hiv_esp_dx_01	B20	Human immunodeficiency virus [HIV] disease	35205776	ICD10CM	Condition
+hiv_esp_dx_01	B20	Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases	45571458	ICD10	Condition
+hiv_esp_dx_01	B20	Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases	45571458	ICD10	Condition
+hiv_esp_dx_01	B21	Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms	45755324	ICD10	Condition
+hiv_esp_dx_01	B22	Human immunodeficiency virus [HIV] disease resulting in other specified diseases	45755325	ICD10	Condition
+hiv_esp_dx_01	B23	Human immunodeficiency virus [HIV] disease resulting in other conditions	45755326	ICD10	Condition
+hiv_esp_dx_01	B24	Unspecified human immunodeficiency virus [HIV] disease	45547443	ICD10	Condition
+hiv_esp_dx_01	B97.35	Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere	45561777	ICD10CM	Condition
+hiv_esp_dx_01	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	42619327	ICD10	Condition
+hiv_esp_dx_01	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	42619327	ICD10	Condition
+hiv_esp_dx_01	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	45558346	ICD10CM	Condition
+hiv_esp_dx_01	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	45558346	ICD10CM	Condition
+hiv_esp_dx_01	V08	Asymptomatic human immunodeficiency virus [HIV] infection status	44824945	ICD9CM	Condition
+hiv_esp_dx_01	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	35225089	ICD10CM	Condition
+hiv_esp_dx_01	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	35225089	ICD10CM	Condition
+hiv_esp_dx_01	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	45566407	ICD10	Condition
+hiv_esp_dx_01	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	45566407	ICD10	Condition

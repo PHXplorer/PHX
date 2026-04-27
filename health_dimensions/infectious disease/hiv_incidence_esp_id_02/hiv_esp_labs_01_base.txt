@@ -1,0 +1,17 @@
+﻿hiv_esp_lab_01_base	25836-8	HIV 1 RNA [#/volume] (viral load) in Specimen by NAA with probe detection	LOINC	Measurement
+hiv_esp_lab_01_base	25842-6	HIV 2 proviral DNA [Presence] in Specimen by NAA with probe detection	LOINC	Measurement
+hiv_esp_lab_01_base	29327-4	HIV 1 Ab [Presence] in Body fluid	LOINC	Measurement
+hiv_esp_lab_01_base	30361-0	HIV 2 Ab [Presence] in Serum or Plasma by Immunoassay	LOINC	Measurement
+hiv_esp_lab_01_base	32515-9	CD3+CD4+ (T4 helper) cells [#/volume] in Specimen	LOINC	Measurement
+hiv_esp_lab_01_base	32516-7	CD3+CD4+ (T4 helper) cells/100 cells in Specimen	LOINC	Measurement
+hiv_esp_lab_01_base	34592-6	HIV 1 Ab [Presence] in Body fluid by Immunoblot	LOINC	Measurement
+hiv_esp_lab_01_base	43010-8	HIV 1+2 Ab [Presence] in Specimen	LOINC	Measurement
+hiv_esp_lab_01_base	43185-8	HIV 1 and 2 Ab band pattern [Interpretation] in Serum by Immunoblot	LOINC	Measurement
+hiv_esp_lab_01_base	5018-7	HIV 1 RNA [Presence] in Specimen by NAA with probe detection	LOINC	Measurement
+hiv_esp_lab_01_base	5225-8	HIV 2 Ab [Presence] in Serum by Immunoblot	LOINC	Measurement
+hiv_esp_lab_01_base	56888-1	HIV 1+2 Ab+HIV1 p24 Ag [Presence] in Serum or Plasma by Immunoassay	LOINC	Measurement
+hiv_esp_lab_01_base	68961-2	HIV 1 Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay	LOINC	Measurement
+hiv_esp_lab_01_base	69354-9	HIV 2 RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection	LOINC	Measurement
+hiv_esp_lab_01_base	69668-2	HIV 1 and 2 Ab [Identifier] in Serum or Plasma by Rapid immunoassay	LOINC	Measurement
+hiv_esp_lab_01_base	80203-3	HIV 1 and 2 Ab [Identifier] in Serum, Plasma or Blood by Rapid immunoassay	LOINC	Measurement
+hiv_esp_lab_01_base	81641-3	HIV 2 Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay	LOINC	Measurement

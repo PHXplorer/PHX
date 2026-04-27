@@ -1,0 +1,25 @@
+﻿hiv_esp_dx_01_base	042	Human immunodeficiency virus [HIV] disease	ICD9CM	Condition
+hiv_esp_dx_01_base	B20	Human immunodeficiency virus [HIV] disease	ICD10CM	Procedure
+hiv_esp_dx_01_base	B20	Human immunodeficiency virus [HIV] disease	ICD10CM	Condition
+hiv_esp_dx_01_base	B20	Human immunodeficiency virus [HIV] disease	ICD10CM	Condition
+hiv_esp_dx_01_base	B20	Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases	ICD10	Procedure
+hiv_esp_dx_01_base	B20	Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases	ICD10	Condition
+hiv_esp_dx_01_base	B20	Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases	ICD10	Condition
+hiv_esp_dx_01_base	B21	Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms	ICD10	Procedure
+hiv_esp_dx_01_base	B21	Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms	ICD10	Condition
+hiv_esp_dx_01_base	B22	Human immunodeficiency virus [HIV] disease resulting in other specified diseases	ICD10	Procedure
+hiv_esp_dx_01_base	B22	Human immunodeficiency virus [HIV] disease resulting in other specified diseases	ICD10	Condition
+hiv_esp_dx_01_base	B23	Human immunodeficiency virus [HIV] disease resulting in other conditions	ICD10	Procedure
+hiv_esp_dx_01_base	B23	Human immunodeficiency virus [HIV] disease resulting in other conditions	ICD10	Condition
+hiv_esp_dx_01_base	B24	Unspecified human immunodeficiency virus [HIV] disease	ICD10	Procedure
+hiv_esp_dx_01_base	B24	Unspecified human immunodeficiency virus [HIV] disease	ICD10	Condition
+hiv_esp_dx_01_base	B97.35	Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere	ICD10CM	Condition
+hiv_esp_dx_01_base	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	ICD10	Condition
+hiv_esp_dx_01_base	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	ICD10	Condition
+hiv_esp_dx_01_base	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	ICD10CM	Condition
+hiv_esp_dx_01_base	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	ICD10CM	Condition
+hiv_esp_dx_01_base	V08	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD9CM	Condition
+hiv_esp_dx_01_base	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10CM	Condition
+hiv_esp_dx_01_base	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10CM	Condition
+hiv_esp_dx_01_base	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10	Condition
+hiv_esp_dx_01_base	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10	Condition

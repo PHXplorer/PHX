@@ -1,0 +1,240 @@
+﻿hiv_vsac_dx_01	10746341000119109	Acquired immune deficiency syndrome complicating childbirth	45757102	SNOMED	Condition
+hiv_vsac_dx_01	10755671000119100	Human immunodeficiency virus in mother complicating childbirth	45757132	SNOMED	Condition
+hiv_vsac_dx_01	111880001	Acute HIV infection	4008081	SNOMED	Condition
+hiv_vsac_dx_01	186706006	Human immunodeficiency virus infection constitutional disease	4087603	SNOMED	Condition
+hiv_vsac_dx_01	186707002	Human immunodeficiency virus infection with neurological disease	4087604	SNOMED	Condition
+hiv_vsac_dx_01	186708007	Human immunodeficiency virus infection with secondary clinical infectious disease	4092686	SNOMED	Condition
+hiv_vsac_dx_01	230180003	Human immunodeficiency virus leukoencephalopathy	4047624	SNOMED	Condition
+hiv_vsac_dx_01	230202002	Vacuolar myelopathy	4045982	SNOMED	Condition
+hiv_vsac_dx_01	230598008	Neuropathy caused by human immunodeficiency virus	4048033	SNOMED	Condition
+hiv_vsac_dx_01	235726002	Human immunodeficiency virus enteropathy	4340791	SNOMED	Condition
+hiv_vsac_dx_01	236406007	Acquired immune deficiency syndrome-related nephropathy	4128060	SNOMED	Condition
+hiv_vsac_dx_01	240103002	Human immunodeficiency virus myopathy	4347288	SNOMED	Condition
+hiv_vsac_dx_01	276665006	Congenital acquired immune deficiency syndrome	4171124	SNOMED	Condition
+hiv_vsac_dx_01	276666007	Congenital human immunodeficiency virus positive status syndrome	4171125	SNOMED	Condition
+hiv_vsac_dx_01	281388009	HIV-related sclerosing cholangitis	4083350	SNOMED	Condition
+hiv_vsac_dx_01	315019000	Aseptic meningitis due to human immunodeficiency virus infection	4201627	SNOMED	Condition
+hiv_vsac_dx_01	397763006	Human immunodeficiency virus encephalopathy	4262297	SNOMED	Condition
+hiv_vsac_dx_01	398329009	Human immunodeficiency virus encephalitis	4161950	SNOMED	Condition
+hiv_vsac_dx_01	402901009	Oral hairy leukoplakia associated with HIV disease	4298853	SNOMED	Condition
+hiv_vsac_dx_01	405631006	Pediatric human immunodeficiency virus infection	4236860	SNOMED	Condition
+hiv_vsac_dx_01	406109008	Human immunodeficiency virus enzyme-linked immunosorbent assay test positive	4235563	SNOMED	Measurement
+hiv_vsac_dx_01	40780007	Human immunodeficiency virus I infection	4253472	SNOMED	Condition
+hiv_vsac_dx_01	414376003	Hairy leukoplakia of tongue associated with HIV disease	4188151	SNOMED	Condition
+hiv_vsac_dx_01	414604009	Leukoplakia of tongue associated with HIV disease	4186235	SNOMED	Condition
+hiv_vsac_dx_01	416729007	Neutropenia with AIDS (acquired immunodeficiency syndrome)	4211956	SNOMED	Condition
+hiv_vsac_dx_01	420244003	Encephalitis with AIDS (acquired immunodeficiency syndrome)	4222250	SNOMED	Condition
+hiv_vsac_dx_01	420281004	Skin rash with AIDS (acquired immunodeficiency syndrome)	4220603	SNOMED	Condition
+hiv_vsac_dx_01	420302007	Reticulosarcoma with AIDS (acquired immunodeficiency syndrome)	4226388	SNOMED	Condition
+hiv_vsac_dx_01	420452002	Myelopathy with AIDS (acquired immunodeficiency syndrome)	4224078	SNOMED	Condition
+hiv_vsac_dx_01	420524008	Kaposi's sarcoma with AIDS (acquired immunodeficiency syndrome)	4224096	SNOMED	Condition
+hiv_vsac_dx_01	420543008	Anemia associated with AIDS	4223031	SNOMED	Condition
+hiv_vsac_dx_01	420544002	Bacterial pneumonia with AIDS (acquired immunodeficiency syndrome)	4223032	SNOMED	Condition
+hiv_vsac_dx_01	420549007	Salivary gland disease with AIDS (acquired immunodeficiency syndrome)	4226629	SNOMED	Condition
+hiv_vsac_dx_01	420554003	Progressive multifocal leukoencephalopathy with AIDS (acquired immunodeficiency syndrome)	4226631	SNOMED	Condition
+hiv_vsac_dx_01	420614009	Organic dementia with AIDS (acquired immunodeficiency syndrome)	4224860	SNOMED	Condition
+hiv_vsac_dx_01	420658009	Radiculitis with AIDS (acquired immunodeficiency syndrome)	4227072	SNOMED	Condition
+hiv_vsac_dx_01	420691000	Nutritional deficiency with AIDS (acquired immunodeficiency syndrome)	4227077	SNOMED	Condition
+hiv_vsac_dx_01	420718004	Central nervous system demyelinating disease with AIDS (acquired immunodeficiency syndrome)	4223276	SNOMED	Condition
+hiv_vsac_dx_01	420721002	Acquired immunodeficiency syndrome-associated disorder	4221489	SNOMED	Condition
+hiv_vsac_dx_01	420764009	Salmonella infection with AIDS (acquired immunodeficiency syndrome)	4225017	SNOMED	Condition
+hiv_vsac_dx_01	420774007	Organic brain syndrome with AIDS (acquired immunodeficiency syndrome)	4227205	SNOMED	Condition
+hiv_vsac_dx_01	420787001	Pneumococcal pneumonia with AIDS (acquired immunodeficiency syndrome)	4221503	SNOMED	Condition
+hiv_vsac_dx_01	420801006	Malaise with AIDS (acquired immunodeficiency syndrome)	4225027	SNOMED	Condition
+hiv_vsac_dx_01	420818005	Mycobacteriosis with AIDS (acquired immunodeficiency syndrome)	4221607	SNOMED	Condition
+hiv_vsac_dx_01	421077004	Disseminated candidiasis with AIDS (acquired immunodeficiency syndrome)	4227380	SNOMED	Condition
+hiv_vsac_dx_01	421102007	Aplastic anemia with AIDS (acquired immunodeficiency syndrome)	4225810	SNOMED	Condition
+hiv_vsac_dx_01	421230000	Hepatomegaly with AIDS (acquired immunodeficiency syndrome)	4222224	SNOMED	Condition
+hiv_vsac_dx_01	421272004	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)	4224425	SNOMED	Condition
+hiv_vsac_dx_01	421283008	Primary lymphoma of brain with AIDS (acquired immunodeficiency syndrome)	4227969	SNOMED	Condition
+hiv_vsac_dx_01	421312009	Agranulocytosis with AIDS (acquired immunodeficiency syndrome)	4224553	SNOMED	Condition
+hiv_vsac_dx_01	421315006	Myelitis with AIDS (acquired immunodeficiency syndrome)	4227974	SNOMED	Condition
+hiv_vsac_dx_01	421394009	Skin disorder with AIDS (acquired immunodeficiency syndrome)	4224566	SNOMED	Condition
+hiv_vsac_dx_01	421403008	Cryptococcosis with AIDS (acquired immunodeficiency syndrome)	4222712	SNOMED	Condition
+hiv_vsac_dx_01	421415007	Subacute adenoviral encephalitis with AIDS (acquired immunodeficiency syndrome)	4222717	SNOMED	Condition
+hiv_vsac_dx_01	421431004	Nocardiosis with AIDS (acquired immunodeficiency syndrome)	4224578	SNOMED	Condition
+hiv_vsac_dx_01	421454008	Infectious gastroenteritis with AIDS (acquired immunodeficiency syndrome)	4225989	SNOMED	Condition
+hiv_vsac_dx_01	421460008	Retinopathy with AIDS (acquired immunodeficiency syndrome)	4228115	SNOMED	Condition
+hiv_vsac_dx_01	421508002	Viral pneumonia with AIDS (acquired immunodeficiency syndrome)	4225318	SNOMED	Condition
+hiv_vsac_dx_01	421529006	Dementia with AIDS (acquired immunodeficiency syndrome)	4228133	SNOMED	Condition
+hiv_vsac_dx_01	421571007	Tuberculosis with AIDS (acquired immunodeficiency syndrome)	4226658	SNOMED	Condition
+hiv_vsac_dx_01	421597001	Polyneuropathy with AIDS (acquired immunodeficiency syndrome)	4226662	SNOMED	Condition
+hiv_vsac_dx_01	421660003	Failure to thrive in infant with AIDS (acquired immunodeficiency syndrome)	4228272	SNOMED	Condition
+hiv_vsac_dx_01	421671002	Pneumonia with AIDS (acquired immunodeficiency syndrome)	4228277	SNOMED	Condition
+hiv_vsac_dx_01	421695000	Abnormal weight loss associated with AIDS	4226787	SNOMED	Observation
+hiv_vsac_dx_01	421706001	Blindness with AIDS (acquired immunodeficiency syndrome)	4226790	SNOMED	Condition
+hiv_vsac_dx_01	421708000	Infective arthritis with AIDS (acquired immunodeficiency syndrome)	4228290	SNOMED	Condition
+hiv_vsac_dx_01	421710003	Candidiasis of mouth with AIDS (acquired immunodeficiency syndrome)	4226792	SNOMED	Condition
+hiv_vsac_dx_01	421766003	Thrombocytopenia with AIDS (acquired immunodeficiency syndrome)	4226905	SNOMED	Condition
+hiv_vsac_dx_01	421827003	Encephalopathy with AIDS (acquired immunodeficiency syndrome)	4228440	SNOMED	Condition
+hiv_vsac_dx_01	421851008	Acquired hemolytic anemia associated with AIDS	4228444	SNOMED	Condition
+hiv_vsac_dx_01	421874007	Respiratory disorder with AIDS (acquired immunodeficiency syndrome)	4225643	SNOMED	Condition
+hiv_vsac_dx_01	421883002	Strongyloidiasis with AIDS (acquired immunodeficiency syndrome)	4223597	SNOMED	Condition
+hiv_vsac_dx_01	421929001	Myocarditis with AIDS (acquired immunodeficiency syndrome)	4227053	SNOMED	Condition
+hiv_vsac_dx_01	713299003	Disorder of eye proper co-occurrent with human immunodeficiency virus infection	37018711	SNOMED	Condition
+hiv_vsac_dx_01	713300006	Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection	37017094	SNOMED	Condition
+hiv_vsac_dx_01	713316008	Eruption of skin co-occurrent with human immunodeficiency virus infection	37017106	SNOMED	Condition
+hiv_vsac_dx_01	713318009	Myocarditis co-occurrent with human immunodeficiency virus infection	37017108	SNOMED	Condition
+hiv_vsac_dx_01	713320007	Radiculitis co-occurrent with human immunodeficiency virus infection	37018714	SNOMED	Condition
+hiv_vsac_dx_01	713325002	Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection	37017112	SNOMED	Condition
+hiv_vsac_dx_01	713339002	Infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection	37017124	SNOMED	Condition
+hiv_vsac_dx_01	713340000	Disorder of skin co-occurrent with human immunodeficiency virus infection	37017125	SNOMED	Condition
+hiv_vsac_dx_01	713341001	Myelitis co-occurrent with human immunodeficiency virus infection	37017126	SNOMED	Condition
+hiv_vsac_dx_01	713342008	Infection caused by Salmonella co-occurrent with human immunodeficiency virus infection	37019042	SNOMED	Condition
+hiv_vsac_dx_01	713349004	Anemia co-occurrent with human immunodeficiency virus infection	37017132	SNOMED	Condition
+hiv_vsac_dx_01	713444005	Hemophagocytic syndrome with human immunodeficiency virus infection	37017209	SNOMED	Condition
+hiv_vsac_dx_01	713445006	Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection	37019052	SNOMED	Condition
+hiv_vsac_dx_01	420877009	Dermatomycosis with AIDS (acquired immunodeficiency syndrome)	4227229	SNOMED	Condition
+hiv_vsac_dx_01	420900006	Fatigue with AIDS (acquired immunodeficiency syndrome)	4221911	SNOMED	Condition
+hiv_vsac_dx_01	420938005	Subacute endocarditis with AIDS (acquired immunodeficiency syndrome)	4227350	SNOMED	Condition
+hiv_vsac_dx_01	420945005	Histoplasmosis with AIDS (acquired immunodeficiency syndrome)	4225170	SNOMED	Condition
+hiv_vsac_dx_01	421020000	Microsporidiosis associated with acquired immunodeficiency syndrome	4225193	SNOMED	Condition
+hiv_vsac_dx_01	421023003	Presenile dementia with AIDS (acquired immunodeficiency syndrome)	4224240	SNOMED	Condition
+hiv_vsac_dx_01	421047005	Candidiasis of lung with AIDS (acquired immunodeficiency syndrome)	4222062	SNOMED	Condition
+hiv_vsac_dx_01	713484001	Disorder of respiratory system co-occurrent with human immunodeficiency virus infection	37017244	SNOMED	Condition
+hiv_vsac_dx_01	713487008	Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection	37017246	SNOMED	Condition
+hiv_vsac_dx_01	713488003	Presenile dementia co-occurrent with human immunodeficiency virus infection	37017247	SNOMED	Condition
+hiv_vsac_dx_01	713489006	Polyneuropathy co-occurrent with human immunodeficiency virus infection	37018721	SNOMED	Condition
+hiv_vsac_dx_01	713490002	Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection	37017248	SNOMED	Condition
+hiv_vsac_dx_01	713491003	Organic brain syndrome co-occurrent with human immunodeficiency virus infection	37017249	SNOMED	Condition
+hiv_vsac_dx_01	713497004	Candidiasis of mouth co-occurrent with human immunodeficiency virus infection	37017254	SNOMED	Condition
+hiv_vsac_dx_01	713503007	Disorder of spinal cord co-occurrent with human immunodeficiency virus infection	37017259	SNOMED	Condition
+hiv_vsac_dx_01	713504001	Disorder of kidney co-occurrent with human immunodeficiency virus infection	37017260	SNOMED	Condition
+hiv_vsac_dx_01	713505000	Gastrointestinal malabsorption syndrome co-occurrent with human immunodeficiency virus infection	37017261	SNOMED	Condition
+hiv_vsac_dx_01	713506004	Neuritis co-occurrent with human immunodeficiency virus infection	37017262	SNOMED	Condition
+hiv_vsac_dx_01	713507008	Lymphadenopathy co-occurrent with human immunodeficiency virus infection	37017263	SNOMED	Condition
+hiv_vsac_dx_01	713508003	Aplastic anemia co-occurrent with human immunodeficiency virus infection	37019055	SNOMED	Condition
+hiv_vsac_dx_01	713510001	Enlargement of liver co-occurrent with human immunodeficiency virus infection	37017265	SNOMED	Condition
+hiv_vsac_dx_01	713511002	Acute endocarditis co-occurrent with human immunodeficiency virus infection	37017266	SNOMED	Condition
+hiv_vsac_dx_01	713523008	Cardiomyopathy co-occurrent with human immunodeficiency virus infection	37017276	SNOMED	Condition
+hiv_vsac_dx_01	713526000	Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection	37017278	SNOMED	Condition
+hiv_vsac_dx_01	713527009	Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection	37017279	SNOMED	Condition
+hiv_vsac_dx_01	713530002	Agranulocytosis co-occurrent with human immunodeficiency virus infection	37017282	SNOMED	Condition
+hiv_vsac_dx_01	713531003	Visual impairment co-occurrent with human immunodeficiency virus infection	37017283	SNOMED	Condition
+hiv_vsac_dx_01	713532005	Infective arthritis co-occurrent with human immunodeficiency virus infection	37017284	SNOMED	Condition
+hiv_vsac_dx_01	713533000	Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection	37017285	SNOMED	Condition
+hiv_vsac_dx_01	713543002	Demyelinating disease of central nervous system co-occurrent with human immunodeficiency virus infection	37017294	SNOMED	Condition
+hiv_vsac_dx_01	713544008	Bacterial pneumonia co-occurrent with human immunodeficiency virus infection	37019058	SNOMED	Condition
+hiv_vsac_dx_01	713545009	Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection	37017295	SNOMED	Condition
+hiv_vsac_dx_01	713546005	Isosporiasis co-occurrent with human immunodeficiency virus infection	37017296	SNOMED	Condition
+hiv_vsac_dx_01	713570009	Infectious gastroenteritis co-occurrent with human immunodeficiency virus infection	37017318	SNOMED	Condition
+hiv_vsac_dx_01	713571008	Disorder of central nervous system co-occurrent with human immunodeficiency virus infection	37017319	SNOMED	Condition
+hiv_vsac_dx_01	713572001	Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection	37017320	SNOMED	Condition
+hiv_vsac_dx_01	713695001	Nephrotic syndrome co-occurrent with human immunodeficiency virus infection	37017424	SNOMED	Condition
+hiv_vsac_dx_01	713696000	Renal failure syndrome co-occurrent with human immunodeficiency virus infection	37017425	SNOMED	Condition
+hiv_vsac_dx_01	713718006	Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection	37017442	SNOMED	Condition
+hiv_vsac_dx_01	421983003	Noninfectious gastroenteritis with AIDS (acquired immunodeficiency syndrome)	4223738	SNOMED	Condition
+hiv_vsac_dx_01	421998001	Central nervous disorder with AIDS (acquired immunodeficiency syndrome)	4226110	SNOMED	Condition
+hiv_vsac_dx_01	422003001	Cachexia associated with AIDS	4226111	SNOMED	Condition
+hiv_vsac_dx_01	422012004	Neuritis with AIDS (acquired immunodeficiency syndrome)	4227519	SNOMED	Condition
+hiv_vsac_dx_01	422089004	Encephalomyelitis with AIDS (acquired immunodeficiency syndrome)	4228612	SNOMED	Condition
+hiv_vsac_dx_01	422127002	Herpes zoster with AIDS (acquired immunodeficiency syndrome)	4227539	SNOMED	Condition
+hiv_vsac_dx_01	422136003	Neuralgia with AIDS (acquired immunodeficiency syndrome)	4228745	SNOMED	Condition
+hiv_vsac_dx_01	422177004	Dyspnea with AIDS (acquired immunodeficiency syndrome)	4228754	SNOMED	Condition
+hiv_vsac_dx_01	422189002	Low vision with AIDS (acquired immunodeficiency syndrome)	4228757	SNOMED	Condition
+hiv_vsac_dx_01	422194002	Hyperhidrosis with AIDS (acquired immunodeficiency syndrome)	4228760	SNOMED	Condition
+hiv_vsac_dx_01	422282000	Malignant neoplasm with AIDS (acquired immunodeficiency syndrome)	4226357	SNOMED	Condition
+hiv_vsac_dx_01	422337001	Coccidioidomycosis with AIDS (acquired immunodeficiency syndrome)	4224740	SNOMED	Condition
+hiv_vsac_dx_01	432218001	History of asymptomatic human immunodeficiency virus infection	4332363	SNOMED	Observation
+hiv_vsac_dx_01	442537007	Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection	40484012	SNOMED	Condition
+hiv_vsac_dx_01	442662004	Increased human immunodeficiency virus (HIV) viral load	40484507	SNOMED	Condition
+hiv_vsac_dx_01	445945000	Infectious disease with acquired immune deficiency syndrome	40493262	SNOMED	Condition
+hiv_vsac_dx_01	48794007	HIV infection with infectious mononucleosis-like syndrome	4172009	SNOMED	Condition
+hiv_vsac_dx_01	52079000	Congenital human immunodeficiency virus infection	4180254	SNOMED	Condition
+hiv_vsac_dx_01	62479008	AIDS	4267414	SNOMED	Condition
+hiv_vsac_dx_01	697904001	Pulmonary arterial hypertension associated with HIV infection	44783623	SNOMED	Condition
+hiv_vsac_dx_01	697965002	Cholangitis with AIDS (acquired immunodeficiency syndrome)	44783780	SNOMED	Condition
+hiv_vsac_dx_01	699433000	Human immunodeficiency virus carrier	44783356	SNOMED	Observation
+hiv_vsac_dx_01	700053002	Sepsis with acquired immunodeficiency syndrome	44784137	SNOMED	Condition
+hiv_vsac_dx_01	713260006	Subacute adenoviral encephalitis co-occurrent with human immunodeficiency virus infection	37017071	SNOMED	Condition
+hiv_vsac_dx_01	713275003	Splenomegaly co-occurrent with human immunodeficiency virus infection	37017082	SNOMED	Condition
+hiv_vsac_dx_01	713278001	Neuralgia co-occurrent with human immunodeficiency virus infection	37019034	SNOMED	Condition
+hiv_vsac_dx_01	713297001	Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection	37017092	SNOMED	Condition
+hiv_vsac_dx_01	713298006	Heart disease co-occurrent with human immunodeficiency virus infection	37017093	SNOMED	Condition
+hiv_vsac_dx_01	713446007	Chronic infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection	37017210	SNOMED	Condition
+hiv_vsac_dx_01	713483007	Reticulosarcoma co-occurrent with human immunodeficiency virus infection	37017243	SNOMED	Condition
+hiv_vsac_dx_01	1142045004	Primary human immunodeficiency virus infection	606040	SNOMED	Condition
+hiv_vsac_dx_01	1142055000	Human immunodeficiency virus modified skin disease	606047	SNOMED	Condition
+hiv_vsac_dx_01	1187000005	Infectious mononucleosis caused by human immunodeficiency virus	37162220	SNOMED	Condition
+hiv_vsac_dx_01	1187001009	Infectious mononucleosis caused by human immunodeficiency virus type I	37162221	SNOMED	Condition
+hiv_vsac_dx_01	1260096003	AIDS (acquired immunodeficiency syndrome) wasting syndrome	37166798	SNOMED	Condition
+hiv_vsac_dx_01	15928141000119107	Human immunodeficiency virus infection with cognitive impairment	36687122	SNOMED	Condition
+hiv_vsac_dx_01	165816005	HIV detected	4013106	SNOMED	Condition
+hiv_vsac_dx_01	420308006	Retinal vascular changes with AIDS (acquired immunodeficiency syndrome)	4223918	SNOMED	Condition
+hiv_vsac_dx_01	420321004	Intestinal malabsorption with AIDS (acquired immunodeficiency syndrome)	4222383	SNOMED	Condition
+hiv_vsac_dx_01	420384005	Hematopoietic system disease with AIDS (acquired immunodeficiency syndrome)	4222402	SNOMED	Condition
+hiv_vsac_dx_01	420395004	Acute endocarditis with AIDS (acquired immunodeficiency syndrome)	4222405	SNOMED	Condition
+hiv_vsac_dx_01	420403001	Pneumocystosis with AIDS (acquired immunodeficiency syndrome)	4226502	SNOMED	Condition
+hiv_vsac_dx_01	713722001	Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection	37017446	SNOMED	Condition
+hiv_vsac_dx_01	713729005	Coccidiosis co-occurrent with human immunodeficiency virus infection	37017453	SNOMED	Condition
+hiv_vsac_dx_01	713730000	Infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection	37017454	SNOMED	Condition
+hiv_vsac_dx_01	713731001	Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection	37017455	SNOMED	Condition
+hiv_vsac_dx_01	713732008	Aspergillosis co-occurrent with human immunodeficiency virus infection	37017456	SNOMED	Condition
+hiv_vsac_dx_01	713733003	Infection caused by herpes zoster virus co-occurrent with human immunodeficiency virus infection	37017457	SNOMED	Condition
+hiv_vsac_dx_01	713734009	Dermatophytosis co-occurrent with human immunodeficiency virus infection	37018935	SNOMED	Condition
+hiv_vsac_dx_01	713742005	Human immunodeficiency virus antibody detected	37017465	SNOMED	Measurement
+hiv_vsac_dx_01	713844000	Dementia co-occurrent with human immunodeficiency virus infection	37017549	SNOMED	Condition
+hiv_vsac_dx_01	713845004	Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection	37017550	SNOMED	Condition
+hiv_vsac_dx_01	713880000	Opportunistic mycosis co-occurrent with human immunodeficiency virus infection	37017579	SNOMED	Condition
+hiv_vsac_dx_01	713881001	Microsporidiosis co-occurrent with human immunodeficiency virus infection	37017580	SNOMED	Condition
+hiv_vsac_dx_01	713887002	Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection	37017586	SNOMED	Condition
+hiv_vsac_dx_01	713897006	Burkitt lymphoma co-occurrent with human immunodeficiency virus infection	37017595	SNOMED	Condition
+hiv_vsac_dx_01	713964006	Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection	37017652	SNOMED	Condition
+hiv_vsac_dx_01	713967004	Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection	37017655	SNOMED	Condition
+hiv_vsac_dx_01	714083007	Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection	37018755	SNOMED	Condition
+hiv_vsac_dx_01	714464009	Immune reconstitution inflammatory syndrome caused by human immunodeficiency virus infection	37018063	SNOMED	Condition
+hiv_vsac_dx_01	719522009	Candidiasis of upper respiratory tract co-occurrent with human immunodeficiency virus infection	36714339	SNOMED	Condition
+hiv_vsac_dx_01	721166000	Human immunodeficiency virus complicating pregnancy childbirth and the puerperium	36715476	SNOMED	Condition
+hiv_vsac_dx_01	722557007	Parkinsonism due to human immunodeficiency virus infection	36716524	SNOMED	Condition
+hiv_vsac_dx_01	733834006	Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection	37116830	SNOMED	Condition
+hiv_vsac_dx_01	733835007	Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection	37116831	SNOMED	Condition
+hiv_vsac_dx_01	735521001	Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with tuberculosis	42536590	SNOMED	Condition
+hiv_vsac_dx_01	735522008	Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with malaria	42536591	SNOMED	Condition
+hiv_vsac_dx_01	735523003	Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with tuberculosis	42536592	SNOMED	Condition
+hiv_vsac_dx_01	735524009	Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with malaria	42536593	SNOMED	Condition
+hiv_vsac_dx_01	735525005	Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis	42539031	SNOMED	Condition
+hiv_vsac_dx_01	735526006	Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with malaria	42536594	SNOMED	Condition
+hiv_vsac_dx_01	735527002	Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis	42536595	SNOMED	Condition
+hiv_vsac_dx_01	735528007	Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with malaria	42536596	SNOMED	Condition
+hiv_vsac_dx_01	771119002	Infection caused by Coccidia co-occurrent with acquired immunodeficiency syndrome	36674252	SNOMED	Condition
+hiv_vsac_dx_01	771126002	Infection caused by Toxoplasma gondii co-occurrent with acquired immunodeficiency syndrome	36674253	SNOMED	Condition
+hiv_vsac_dx_01	771127006	Infection caused by Isospora co-occurrent with acquired immunodeficiency syndrome	36674254	SNOMED	Condition
+hiv_vsac_dx_01	79019005	Human immunodeficiency virus II infection	432554	SNOMED	Condition
+hiv_vsac_dx_01	80191000119101	Symptomatic human immunodeficiency virus (HIV) I infection	45769864	SNOMED	Condition
+hiv_vsac_dx_01	81000119104	Symptomatic human immunodeficiency virus infection	43531586	SNOMED	Condition
+hiv_vsac_dx_01	838338001	Bacterial infection due to human immunodeficiency virus infection	3654645	SNOMED	Condition
+hiv_vsac_dx_01	838377003	Chronic hepatitis C co-occurrent with human immunodeficiency virus infection	3654682	SNOMED	Condition
+hiv_vsac_dx_01	840442003	Encephalitis caused by human immunodeficiency virus type 2	3654900	SNOMED	Condition
+hiv_vsac_dx_01	840498003	Encephalitis caused by human immunodeficiency virus type 1	3654950	SNOMED	Condition
+hiv_vsac_dx_01	860871003	Eosinophilic folliculitis due to human immunodeficiency virus infection	3655330	SNOMED	Condition
+hiv_vsac_dx_01	860872005	Esophagitis due to human immunodeficiency virus disease	3655331	SNOMED	Condition
+hiv_vsac_dx_01	86406008	Human immunodeficiency virus infection	439727	SNOMED	Condition
+hiv_vsac_dx_01	866044006	Mycosis due to human immunodeficiency virus infection	3655580	SNOMED	Condition
+hiv_vsac_dx_01	870271009	Pruritus due to human immunodeficiency virus infection	3663234	SNOMED	Condition
+hiv_vsac_dx_01	870328002	Papular pruritic eruption of skin due to human immunodeficiency virus infection	3661697	SNOMED	Condition
+hiv_vsac_dx_01	870344006	Seborrheic dermatitis due to human immunodeficiency virus infection	3655867	SNOMED	Condition
+hiv_vsac_dx_01	87117006	HIV infection with acute lymphadenitis	4314426	SNOMED	Condition
+hiv_vsac_dx_01	90681000119107	Asymptomatic human immunodeficiency virus A1 infection	42538959	SNOMED	Condition
+hiv_vsac_dx_01	90691000119105	Asymptomatic human immunodeficiency virus A2 infection	42538960	SNOMED	Condition
+hiv_vsac_dx_01	91947003	Asymptomatic human immunodeficiency virus infection	4241530	SNOMED	Condition
+hiv_vsac_dx_01	91948008	Asymptomatic human immunodeficiency virus infection in pregnancy	4239722	SNOMED	Condition
+hiv_vsac_dx_01	B20	Human immunodeficiency virus [HIV] disease	35205776	ICD10CM	Condition
+hiv_vsac_dx_01	B20	Human immunodeficiency virus [HIV] disease	35205776	ICD10CM	Condition
+hiv_vsac_dx_01	B97.35	Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere	45561777	ICD10CM	Condition
+hiv_vsac_dx_01	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	35225089	ICD10CM	Condition
+hiv_vsac_dx_01	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	35225089	ICD10CM	Condition
+hiv_vsac_dx_01	O98.72	Human immunodeficiency virus [HIV] disease complicating childbirth	45597051	ICD10CM	Condition
+hiv_vsac_dx_01	795.71	Nonspecific serologic evidence of human immunodeficiency virus [HIV]	44829310	ICD9CM	Condition
+hiv_vsac_dx_01	O98.71	Human immunodeficiency virus [HIV] disease complicating pregnancy	1571918	ICD10CM	Condition
+hiv_vsac_dx_01	O98.713	Human immunodeficiency virus [HIV] disease complicating pregnancy, third trimester	45534320	ICD10CM	Condition
+hiv_vsac_dx_01	O98.73	Human immunodeficiency virus [HIV] disease complicating the puerperium	45539221	ICD10CM	Condition
+hiv_vsac_dx_01	O98.7	Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	45558346	ICD10CM	Condition
+hiv_vsac_dx_01	O98.719	Human immunodeficiency virus [HIV] disease complicating pregnancy, unspecified trimester	45563193	ICD10CM	Condition
+hiv_vsac_dx_01	O98.712	Human immunodeficiency virus [HIV] disease complicating pregnancy, second trimester	45572902	ICD10CM	Condition
+hiv_vsac_dx_01	O98.711	Human immunodeficiency virus [HIV] disease complicating pregnancy, first trimester	45606666	ICD10CM	Condition
+hiv_vsac_dx_01	079.53	Human immunodeficiency virus, type 2 [HIV-2]	44828699	ICD9CM	Condition
+hiv_vsac_dx_01	B97.35	Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere	45561777	ICD10CM	Condition
+hiv_vsac_dx_01	B20	Human immunodeficiency virus [HIV] disease	35205776	ICD10CM	Condition
+hiv_vsac_dx_01	042	Human immunodeficiency virus [HIV] disease	44829737	ICD9CM	Condition
+hiv_vsac_dx_01	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	35225089	ICD10CM	Condition
+hiv_vsac_dx_01	V08	Asymptomatic human immunodeficiency virus [HIV] infection status	44824945	ICD9CM	Condition

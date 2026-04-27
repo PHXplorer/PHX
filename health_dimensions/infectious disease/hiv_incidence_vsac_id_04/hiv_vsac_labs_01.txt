@@ -1,0 +1,20 @@
+﻿hiv_vsac_lab_01	21333-0	HIV 1 RNA [#/volume] in Serum	3014347	LOINC	Measurement
+hiv_vsac_lab_01	41515-8	HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe with amplification detection limit = 75 copies/mL	3031527	LOINC	Measurement
+hiv_vsac_lab_01	70241-5	HIV 1 RNA [#/volume] (viral load) in Plasma by Probe and target amplification method detection limit = 20 copies/mL	42868715	LOINC	Measurement
+hiv_vsac_lab_01	10351-5	HIV 1 RNA [Units/volume] (viral load) in Serum or Plasma by Probe with amplification	3013180	LOINC	Measurement
+hiv_vsac_lab_01	29539-4	HIV 1 RNA [Log #/volume] (viral load) in Plasma by Probe with signal amplification	3010074	LOINC	Measurement
+hiv_vsac_lab_01	29541-0	HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by NAA with probe detection	3026532	LOINC	Measurement
+hiv_vsac_lab_01	41514-1	HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe with amplification detection limit = 2.6 log copies/mL	3031382	LOINC	Measurement
+hiv_vsac_lab_01	51780-5	HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 0.5 log copies/mL	3039421	LOINC	Measurement
+hiv_vsac_lab_01	48510-2	HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 1.7 log copies/mL	3048528	LOINC	Measurement
+hiv_vsac_lab_01	62469-2	HIV 1 RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection	40765206	LOINC	Measurement
+hiv_vsac_lab_01	69354-9	HIV 2 RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection	40771875	LOINC	Measurement
+hiv_vsac_lab_01	48511-0	HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 50 copies/mL	3048506	LOINC	Measurement
+hiv_vsac_lab_01	59419-2	HIV 1 RNA [#/volume] (viral load) in Plasma by Probe with signal amplification	40762510	LOINC	Measurement
+hiv_vsac_lab_01	104762-0	HIV 1 RNA [Log #/volume] in Serum or Plasma by Molecular genetics method	1092109	LOINC	Measurement
+hiv_vsac_lab_01	104781-0	HIV 1 RNA [#/volume] in Serum or Plasma by Molecular genetics method	1091089	LOINC	Measurement
+hiv_vsac_lab_01	20447-9	HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection	3010747	LOINC	Measurement
+hiv_vsac_lab_01	23876-6	HIV 1 RNA [Units/volume] (viral load) in Plasma by Probe with signal amplification	3017385	LOINC	Measurement
+hiv_vsac_lab_01	21008-8	HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe	3028148	LOINC	Measurement
+hiv_vsac_lab_01	41516-6	HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe with amplification detection limit = 1.9 log copies/mL	3031839	LOINC	Measurement
+hiv_vsac_lab_01	48552-4	HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 2.6 log copies/mL	3052999	LOINC	Measurement
