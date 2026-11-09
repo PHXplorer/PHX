@@ -1,0 +1,15 @@
+Code Set	Concept Code	Concept Name	Vocabulary Id	Domain ID
+office_visit_01_base	185349003	Encounter for check up (procedure)	SNOMED	Observation
+office_visit_01_base	185464004	Out of hours visit - not night visit (procedure)	SNOMED	Observation
+office_visit_01_base	439740005	Postoperative follow-up visit (procedure)	SNOMED	Observation
+office_visit_01_base	99203	Office or other outpatient visit for the evaluation and management of a new patient, which requires a medically appropriate history and/or examination	CPT4	Observation
+office_visit_01_base	99205	Office or other outpatient visit for the evaluation and management of a new patient, which requires a medically appropriate history and/or examination	CPT4	Observation
+office_visit_01_base	99213	Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or ex	CPT4	Observation
+office_visit_01_base	99215	Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or ex	CPT4	Observation
+office_visit_01_base	185463005	Visit out of hours (procedure)	SNOMED	Observation
+office_visit_01_base	185465003	Weekend visit (procedure)	SNOMED	Observation
+office_visit_01_base	3391000175108	Office visit for pediatric care and assessment (procedure)	SNOMED	Observation
+office_visit_01_base	99202	Office or other outpatient visit for the evaluation and management of a new patient, which requires a medically appropriate history and/or examination	CPT4	Observation
+office_visit_01_base	99204	Office or other outpatient visit for the evaluation and management of a new patient, which requires a medically appropriate history and/or examination	CPT4	Observation
+office_visit_01_base	99212	Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or ex	CPT4	Observation
+office_visit_01_base	99214	Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or ex	CPT4	Observation

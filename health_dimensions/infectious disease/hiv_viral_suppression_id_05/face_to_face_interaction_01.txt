@@ -1,0 +1,78 @@
+Code Set	Concept Code	Concept Name	Concept Id	Vocabulary Id	Domain ID
+face_to_face_interaction_01	185349003	Encounter for check up	4085799	SNOMED	Observation
+face_to_face_interaction_01	207195004	History and physical examination with evaluation and management of nursing facility patient	4007092	SNOMED	Observation
+face_to_face_interaction_01	87790002	Follow-up inpatient consultation visit	4338366	SNOMED	Observation
+face_to_face_interaction_01	12843005	Subsequent hospital visit by physician	4027135	SNOMED	Observation
+face_to_face_interaction_01	185465003	Weekend visit	4089186	SNOMED	Observation
+face_to_face_interaction_01	18170008	Subsequent nursing facility visit	4056368	SNOMED	Observation
+face_to_face_interaction_01	308335008	Patient encounter procedure	4203722	SNOMED	Observation
+face_to_face_interaction_01	390906007	Follow-up encounter	4307024	SNOMED	Observation
+face_to_face_interaction_01	270430005	Provider-initiated encounter	4151574	SNOMED	Observation
+face_to_face_interaction_01	19681004	Nursing evaluation of patient and report	4025664	SNOMED	Observation
+face_to_face_interaction_01	406547006	Urgent follow-up	4249125	SNOMED	Observation
+face_to_face_interaction_01	185463005	Visit out of hours	4085818	SNOMED	Observation
+face_to_face_interaction_01	270427003	Patient-initiated encounter	4148755	SNOMED	Observation
+face_to_face_interaction_01	439708006	Home visit	4259432	SNOMED	Observation
+face_to_face_interaction_01	90526000	Initial evaluation and management of healthy individual	4233655	SNOMED	Observation
+face_to_face_interaction_01	Z01.0	Encounter for examination of eyes and vision	1575986	ICD10CM	Observation
+face_to_face_interaction_01	Z03.8	Encounter for observation for other suspected diseases and conditions ruled out	1576000	ICD10CM	Observation
+face_to_face_interaction_01	Z12.1	Encounter for screening for malignant neoplasm of intestinal tract	1576007	ICD10CM	Observation
+face_to_face_interaction_01	Z13.8	Encounter for screening for other specified diseases and disorders	1576015	ICD10CM	Observation
+face_to_face_interaction_01	Z30.0	Encounter for general counseling and advice on contraception	1576047	ICD10CM	Observation
+face_to_face_interaction_01	Z41	Encounter for procedures for purposes other than remedying health state	1576079	ICD10CM	Observation
+face_to_face_interaction_01	Z43	Encounter for attention to artificial openings	1576081	ICD10CM	Observation
+face_to_face_interaction_01	Z45.3	Encounter for adjustment and management of implanted devices of the special senses	1576096	ICD10CM	Observation
+face_to_face_interaction_01	Z45.4	Encounter for adjustment and management of implanted nervous system device	1576098	ICD10CM	Observation
+face_to_face_interaction_01	Z45.8	Encounter for adjustment and management of other implanted devices	1576099	ICD10CM	Observation
+face_to_face_interaction_01	Z48.0	Encounter for attention to dressings, sutures and drains	1576107	ICD10CM	Observation
+face_to_face_interaction_01	Z51.8	Encounter for other specified aftercare	1576118	ICD10CM	Observation
+face_to_face_interaction_01	Z71.5	Drug abuse counseling and surveillance	1576164	ICD10CM	Observation
+face_to_face_interaction_01	Z71.8	Other specified counseling	1576165	ICD10CM	Observation
+face_to_face_interaction_01	Z76	Persons encountering health services in other circumstances	1576175	ICD10CM	Observation
+face_to_face_interaction_01	Z76.8	Persons encountering health services in other specified circumstances	1576176	ICD10CM	Observation
+face_to_face_interaction_01	Z04.89	Encounter for examination and observation for other specified reasons	1595782	ICD10CM	Observation
+face_to_face_interaction_01	Z00.8	Encounter for other general examination	35225041	ICD10CM	Observation
+face_to_face_interaction_01	Z03.6	Encounter for observation for suspected toxic effect from ingested substance ruled out	35225050	ICD10CM	Observation
+face_to_face_interaction_01	Z04.8	Encounter for examination and observation for other specified reasons	35225057	ICD10CM	Observation
+face_to_face_interaction_01	Z04.9	Encounter for examination and observation for unspecified reason	35225058	ICD10CM	Observation
+face_to_face_interaction_01	Z11.6	Encounter for screening for other protozoal diseases and helminthiases	35225066	ICD10CM	Observation
+face_to_face_interaction_01	Z30.8	Encounter for other contraceptive management	35225102	ICD10CM	Observation
+face_to_face_interaction_01	Z41.8	Encounter for other procedures for purposes other than remedying health state	35225129	ICD10CM	Observation
+face_to_face_interaction_01	Z41.9	Encounter for procedure for purposes other than remedying health state, unspecified	35225130	ICD10CM	Observation
+face_to_face_interaction_01	Z43.8	Encounter for attention to other artificial openings	35225139	ICD10CM	Observation
+face_to_face_interaction_01	Z45.2	Encounter for adjustment and management of vascular access device	35225144	ICD10CM	Observation
+face_to_face_interaction_01	Z46.4	Encounter for fitting and adjustment of orthodontic device	35225151	ICD10CM	Observation
+face_to_face_interaction_01	Z51.5	Encounter for palliative care	35225155	ICD10CM	Observation
+face_to_face_interaction_01	Z71.0	Person encountering health services to consult on behalf of another person	35225263	ICD10CM	Observation
+face_to_face_interaction_01	V28.0	Antenatal screening for chromosomal anomalies by amniocentesis	44820409	ICD9CM	Observation
+face_to_face_interaction_01	V28.4	Antenatal screening for fetal growth retardation using ultrasonics	44820410	ICD9CM	Observation
+face_to_face_interaction_01	V28.81	Encounter for fetal anatomic survey	44820411	ICD9CM	Observation
+face_to_face_interaction_01	V28.82	Encounter for screening for risk of pre-term labor	44820412	ICD9CM	Observation
+face_to_face_interaction_01	V79.2	Special screening for intellectual disabilities	44821619	ICD9CM	Observation
+face_to_face_interaction_01	V28.3	Encounter for routine screening for malformation using ultrasonics	44823813	ICD9CM	Observation
+face_to_face_interaction_01	V20.32	Health supervision for newborn 8 to 28 days old	44826168	ICD9CM	Observation
+face_to_face_interaction_01	V28.6	Antenatal screening for Streptococcus B	44826180	ICD9CM	Observation
+face_to_face_interaction_01	V28.89	Other specified antenatal screening	44828526	ICD9CM	Observation
+face_to_face_interaction_01	V46.12	Encounter for respirator dependence during power failure	44831951	ICD9CM	Observation
+face_to_face_interaction_01	V46.13	Encounter for weaning from respirator [ventilator]	44834285	ICD9CM	Observation
+face_to_face_interaction_01	V58	Encounter for other and unspecified procedures and aftercare	44834307	ICD9CM	Observation
+face_to_face_interaction_01	V28.8	Other specified antenatal screening	44835457	ICD9CM	Observation
+face_to_face_interaction_01	V28.1	Antenatal screening for raised alpha-fetoprotein levels in amniotic fluid	44836641	ICD9CM	Observation
+face_to_face_interaction_01	V28.9	Unspecified antenatal screening	44837802	ICD9CM	Observation
+face_to_face_interaction_01	Z45.41	Encounter for adjustment and management of cerebrospinal fluid drainage device	45537640	ICD10CM	Observation
+face_to_face_interaction_01	Z51.89	Encounter for other specified aftercare	45537653	ICD10CM	Observation
+face_to_face_interaction_01	Z12.81	Encounter for screening for malignant neoplasm of oral cavity	45542406	ICD10CM	Observation
+face_to_face_interaction_01	Z12.10	Encounter for screening for malignant neoplasm of intestinal tract, unspecified	45556815	ICD10CM	Observation
+face_to_face_interaction_01	Z45.42	Encounter for adjustment and management of neurostimulator	45556836	ICD10CM	Observation
+face_to_face_interaction_01	Z45.89	Encounter for adjustment and management of other implanted devices	45561630	ICD10CM	Observation
+face_to_face_interaction_01	Z40.09	Encounter for prophylactic removal of other organ	45566427	ICD10CM	Observation
+face_to_face_interaction_01	Z03.89	Encounter for observation for other suspected diseases and conditions ruled out	45576127	ICD10CM	Observation
+face_to_face_interaction_01	Z71.89	Other specified counseling	45581062	ICD10CM	Observation
+face_to_face_interaction_01	Z76.89	Persons encountering health services in other specified circumstances	45581072	ICD10CM	Observation
+face_to_face_interaction_01	Z45.320	Encounter for adjustment and management of bone conduction device	45590728	ICD10CM	Observation
+face_to_face_interaction_01	Z45.49	Encounter for adjustment and management of other implanted nervous system device	45595517	ICD10CM	Observation
+face_to_face_interaction_01	Z69.81	Encounter for mental health services for victim of other abuse	45600351	ICD10CM	Observation
+face_to_face_interaction_01	V67.59	Other follow-up examination	44827397	ICD9CM	Observation
+face_to_face_interaction_01	V67.6	Follow-up examination, following combined treatment	44827398	ICD9CM	Observation
+face_to_face_interaction_01	V67.5	Follow-up examination following other treatment	44828594	ICD9CM	Observation
+face_to_face_interaction_01	V67.9	Unspecified follow-up examination	44832001	ICD9CM	Observation

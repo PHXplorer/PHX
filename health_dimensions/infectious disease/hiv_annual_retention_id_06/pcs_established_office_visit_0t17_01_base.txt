@@ -1,0 +1,25 @@
+Code Set	Concept Code	Concept Name	Vocabulary Id	Domain ID
+pcs_established_office_visit_0to17_01_base	99391	Periodic comprehensive preventive medicine reevaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnostic procedures, established
+patient; infant (age younger than 1 year)	CPT4	Procedure
+pcs_established_office_visit_0to17_01_base	99392	Periodic comprehensive preventive medicine reevaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnostic procedures, established
+patient; early childhood (age 1 through 4 years)	CPT4	Procedure
+pcs_established_office_visit_0to17_01_base	99393	Periodic comprehensive preventive medicine reevaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnostic procedures, established
+patient; late childhood (age 5 through 11 years)	CPT4	Procedure
+pcs_established_office_visit_0to17_01_base	99394	Periodic comprehensive preventive medicine reevaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnostic procedures, established
+patient; adolescent (age 12 through 17 years)	CPT4	Procedure

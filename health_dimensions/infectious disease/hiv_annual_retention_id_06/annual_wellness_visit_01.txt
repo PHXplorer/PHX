@@ -1,0 +1,13 @@
+Code Set	Concept Code	Concept Name	Concept Id	Vocabulary Id	Domain ID
+annual_wellness_visit_01	444971000124105	Annual wellness visit	763701	SNOMED	Observation
+annual_wellness_visit_01	86013001	Periodic reevaluation and management of healthy individual	4312230	SNOMED	Observation
+annual_wellness_visit_01	90526000	Initial evaluation and management of healthy individual	4233655	SNOMED	Observation
+annual_wellness_visit_01	G0438	Annual wellness visit; includes a personalized prevention
+plan of service (pps), initial visit	40664424	HCPCS	Observation
+annual_wellness_visit_01	456201000124103	Medicare annual wellness visit	764527	SNOMED	Observation
+annual_wellness_visit_01	866149003	Annual visit	3661629	SNOMED	Observation
+annual_wellness_visit_01	G0402	Initial preventive physical examination; face-to-face
+visit, services limited to new beneficiary during the first
+12 months of medicare enrollment	2617469	HCPCS	Observation
+annual_wellness_visit_01	G0439	Annual wellness visit, includes a personalized prevention
+plan of service (pps), subsequent visit	40664425	HCPCS	Observation
