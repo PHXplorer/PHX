@@ -1,0 +1,23 @@
+Code Set	Concept Code	Concept Name	Concept Id	Vocabulary Id	Domain ID
+outpatientconsultation_01	99245	Office or other outpatient consultation for a new or
+established patient, which requires a medically appropriate
+history and/or examination and high level of medical
+decision making. When using total time on the date of the
+encounter for code selection, 5	2514419	CPT4	Observation
+outpatientconsultation_01	99243	Office or other outpatient consultation for a new or
+established patient, which requires a medically appropriate
+history and/or examination and low level of medical
+decision making. When using total time on the date of the
+encounter for code selection, 30	2514417	CPT4	Observation
+outpatientconsultation_01	77406008	Confirmatory medical consultation	4300169	SNOMED	Observation
+outpatientconsultation_01	99242	Office or other outpatient consultation for a new or
+established patient, which requires a medically appropriate
+history and/or examination and straightforward medical
+decision making. When using total time on the date of the
+encounter for code selection,	2514416	CPT4	Observation
+outpatientconsultation_01	99244	Office or other outpatient consultation for a new or
+established patient, which requires a medically appropriate
+history and/or examination and moderate level of medical
+decision making. When using total time on the date of the
+encounter for code selectio	2514418	CPT4	Observation
+outpatientconsultation_01	281036007	Follow-up consultation	4094043	SNOMED	Observation

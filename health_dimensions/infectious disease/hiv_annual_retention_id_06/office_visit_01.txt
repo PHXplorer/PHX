@@ -1,0 +1,93 @@
+Code Set	Concept Code	Concept Name	Concept Id	Vocabulary Id	Domain ID
+office_visit_01	185349003	Encounter for check up	4085799	SNOMED	Observation
+office_visit_01	185464004	Out of hours visit - not night visit	4083574	SNOMED	Observation
+office_visit_01	439740005	Postoperative follow-up visit	4235813	SNOMED	Observation
+office_visit_01	99203	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and low level of
+medical decision making. When using total time on the date
+of the encounter for code se	2414392	CPT4	Observation
+office_visit_01	99205	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and high level of
+medical decision making. When using total time on the date
+of the encounter for code s	2414394	CPT4	Observation
+office_visit_01	99213	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and low
+level of medical decision making. When using total time on
+the date of the encounter fo	2414397	CPT4	Observation
+office_visit_01	99215	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and high
+level of medical decision making. When using total time on
+the date of the encounter f	2514399	CPT4	Observation
+office_visit_01	185463005	Visit out of hours	4085818	SNOMED	Observation
+office_visit_01	185465003	Weekend visit	4089186	SNOMED	Observation
+office_visit_01	3391000175108	Office visit for pediatric care and assessment	46270504	SNOMED	Observation
+office_visit_01	99202	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and straightforward
+medical decision making. When using total time on the date
+of the encounter for code	2414391	CPT4	Observation
+office_visit_01	99204	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and moderate level
+of medical decision making. When using total time on the
+date of the encounter for co	2414393	CPT4	Observation
+office_visit_01	99212	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and
+straightforward medical decision making. When using total
+time on the date of the encounter	2414396	CPT4	Observation
+office_visit_01	99214	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and
+moderate level of medical decision making. When using total
+time on the date of the encount	2414398	CPT4	Observation
+office_visit_01	185349003	Encounter for check up	4085799	SNOMED	Observation
+office_visit_01	185464004	Out of hours visit - not night visit	4083574	SNOMED	Observation
+office_visit_01	439740005	Postoperative follow-up visit	4235813	SNOMED	Observation
+office_visit_01	99203	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and low level of
+medical decision making. When using total time on the date
+of the encounter for code se	2414392	CPT4	Observation
+office_visit_01	99205	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and high level of
+medical decision making. When using total time on the date
+of the encounter for code s	2414394	CPT4	Observation
+office_visit_01	99213	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and low
+level of medical decision making. When using total time on
+the date of the encounter fo	2414397	CPT4	Observation
+office_visit_01	99215	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and high
+level of medical decision making. When using total time on
+the date of the encounter f	2514399	CPT4	Observation
+office_visit_01	185463005	Visit out of hours	4085818	SNOMED	Observation
+office_visit_01	185465003	Weekend visit	4089186	SNOMED	Observation
+office_visit_01	3391000175108	Office visit for pediatric care and assessment	46270504	SNOMED	Observation
+office_visit_01	99202	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and straightforward
+medical decision making. When using total time on the date
+of the encounter for code	2414391	CPT4	Observation
+office_visit_01	99204	Office or other outpatient visit for the evaluation and
+management of a new patient, which requires a medically
+appropriate history and/or examination and moderate level
+of medical decision making. When using total time on the
+date of the encounter for co	2414393	CPT4	Observation
+office_visit_01	99212	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and
+straightforward medical decision making. When using total
+time on the date of the encounter	2414396	CPT4	Observation
+office_visit_01	99214	Office or other outpatient visit for the evaluation and
+management of an established patient, which requires a
+medically appropriate history and/or examination and
+moderate level of medical decision making. When using total
+time on the date of the encount	2414398	CPT4	Observation

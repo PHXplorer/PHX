@@ -1,0 +1,16 @@
+Code Set	Concept Code	Concept Name	Concept Id	Vocabulary Id	Domain ID
+pcs_established_office_visit_18andabove_01	99395	Periodic comprehensive preventive medicine reevaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diag	2514527	CPT4	Procedure
+pcs_established_office_visit_18andabove_01	99396	Periodic comprehensive preventive medicine reevaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diag	2514528	CPT4	Procedure
+pcs_established_office_visit_18andabove_01	99397	Periodic comprehensive preventive medicine reevaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diag	2514529	CPT4	Procedure

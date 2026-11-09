@@ -1,0 +1,21 @@
+Code Set	Concept Code	Concept Name	Concept Id	Vocabulary Id	Domain ID
+pcs_initial_office_visit_0to17_01	99381	Initial comprehensive preventive medicine evaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnos	2514516	CPT4	Procedure
+pcs_initial_office_visit_0to17_01	99382	Initial comprehensive preventive medicine evaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnos	2514517	CPT4	Procedure
+pcs_initial_office_visit_0to17_01	99383	Initial comprehensive preventive medicine evaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnos	2514518	CPT4	Procedure
+pcs_initial_office_visit_0to17_01	99384	Initial comprehensive preventive medicine evaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnos	2514519	CPT4	Procedure

@@ -1,0 +1,16 @@
+Code Set	Concept Code	Concept Name	Vocabulary Id	Domain ID
+face_to_face_interaction_01_base	185349003	Encounter for check up (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	207195004	History and physical examination with evaluation and management of nursing facility patient (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	87790002	Follow-up inpatient consultation visit (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	12843005	Subsequent hospital visit by physician (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	185465003	Weekend visit (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	18170008	Subsequent nursing facility visit (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	308335008	Patient encounter procedure (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	390906007	Follow-up encounter (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	270430005	Provider-initiated encounter (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	19681004	Nursing evaluation of patient and report (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	406547006	Urgent follow-up (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	185463005	Visit out of hours (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	270427003	Patient-initiated encounter (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	439708006	Home visit (procedure)	SNOMED	Observation
+face_to_face_interaction_01_base	90526000	Initial evaluation and management of healthy individual (procedure)	SNOMED	Observation

@@ -1,0 +1,19 @@
+Code Set	Concept Code	Concept Name	Vocabulary Id	Domain ID
+pcs_initial_office_visit_18andabove_01_base	99385	Initial comprehensive preventive medicine evaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnostic procedures, new patient;
+18-39 years	CPT4	Procedure
+pcs_initial_office_visit_18andabove_01_base	99386	Initial comprehensive preventive medicine evaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnostic procedures, new patient;
+40-64 years	CPT4	Procedure
+pcs_initial_office_visit_18andabove_01_base	99387	Initial comprehensive preventive medicine evaluation and
+management of an individual including an age and gender
+appropriate history, examination, counseling/anticipatory
+guidance/risk factor reduction interventions, and the
+ordering of laboratory/diagnostic procedures, new patient;
+65 years and older	CPT4	Procedure
